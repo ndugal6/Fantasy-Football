@@ -2,6 +2,7 @@
 The following features are part of the standard fantasy football scoring algorithm
 For each, we need to identify which other features positively correlate, negatively correlate, or don't correlate
 Correlation is typically a good starting point for exploring sources of causation, though always remember that **correlation** and **causation** aren't correlated
+*Idea: collaborative filtering predict stats->predict score -> stats -> score ->...till convergence
 
 ## Features and their Fantasy Football value - [espn standard](http://games.espn.com/ffl/resources/help/content?name=scoring-formats) 
 PASSING   | POINT RATIO

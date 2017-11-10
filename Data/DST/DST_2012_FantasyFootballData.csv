@@ -1,0 +1,513 @@
+,Blocks,Fumble Returns,Interception,Opponent,Pass Yards Allowed,Point After,Points,Position,Rush Yards Allowed,Sack,Safety,Team,Total Yards,Touchdowns,Week,Year
+0,0,1,4,Phi,306,17,22.00,DST,150,2.0,0,Cleveland BrownsCleveland,456,1,1,2012
+1,0,1,1,Cin,193,13,21.00,DST,129,4.0,0,Baltimore RavensBaltimore,322,1,1,2012
+2,0,1,3,Buf,195,28,20.00,DST,195,0.0,0,New York JetsNY Jets,390,2,1,2012
+3,0,1,1,@Ten,264,13,19.00,DST,20,2.0,0,New England PatriotsNew England,284,1,1,2012
+4,0,0,1,Pit,209,19,17.00,DST,75,5.0,0,Denver BroncosDenver,284,1,1,2012
+5,0,1,3,Mia,199,10,17.00,DST,76,2.0,0,Houston TexansHouston,275,0,1,2012
+6,1,0,2,Car,291,10,16.00,DST,10,3.0,0,Tampa Bay BuccaneersTampa Bay,301,0,1,2012
+7,0,2,3,Ind,293,21,14.00,DST,63,3.0,0,Chicago BearsChicago,356,0,1,2012
+8,0,0,4,@Cle,111,16,14.00,DST,99,2.0,0,Philadelphia EaglesPhiladelphia,210,0,1,2012
+9,0,0,3,@Det,346,27,14.00,DST,83,1.0,0,St. Louis RamsSt. Louis,429,1,1,2012
+10,1,1,1,Sea,139,16,13.00,DST,115,3.0,0,Arizona CardinalsArizona,254,0,1,2012
+11,1,1,0,@Oak,276,14,11.00,DST,45,3.0,0,San Diego ChargersSan Diego,321,0,1,2012
+12,0,1,2,@KC,241,24,10.00,DST,152,3.0,0,Atlanta FalconsAtlanta,393,0,1,2012
+13,0,0,0,SF,191,30,10.00,DST,186,4.0,0,Green Bay PackersGreen Bay,377,1,1,2012
+14,0,0,1,@Chi,314,41,10.00,DST,114,2.0,0,Indianapolis ColtsIndianapolis,428,1,1,2012
+15,1,0,0,Was,306,40,10.00,DST,153,2.0,0,New Orleans SaintsNew Orleans,459,1,1,2012
+16,0,1,0,@NYG,187,17,9.00,DST,82,3.0,0,Dallas CowboysDallas,269,0,1,2012
+17,0,1,1,@Ari,210,20,9.00,DST,43,1.0,0,Seattle SeahawksSeattle,253,0,1,2012
+18,0,0,0,@Hou,254,30,8.00,DST,83,2.0,0,Miami DolphinsMiami,337,1,1,2012
+19,1,1,0,Jax,242,23,7.00,DST,113,2.0,0,Minnesota VikingsMinnesota,355,0,1,2012
+20,0,0,0,@TB,128,16,6.00,DST,130,2.0,0,Carolina PanthersCarolina,258,0,1,2012
+21,0,0,1,@GB,279,22,6.00,DST,45,3.0,0,San Francisco 49ersSan Francisco,324,0,1,2012
+22,0,0,2,@NO,326,32,6.00,DST,32,2.0,0,Washington RedskinsWashington,358,0,1,2012
+23,0,0,0,Stl,173,23,5.00,DST,77,4.0,0,Detroit LionsDetroit,250,0,1,2012
+24,0,1,0,@Min,266,26,5.00,DST,123,2.0,0,Jacksonville JaguarsJacksonville,389,0,1,2012
+25,0,0,1,Dal,290,24,5.00,DST,143,2.0,0,New York GiantsNY Giants,433,0,1,2012
+26,0,1,0,@Den,240,31,4.00,DST,94,2.0,0,Pittsburgh SteelersPittsburgh,334,0,1,2012
+27,0,0,0,@Bal,308,44,3.00,DST,122,3.0,0,Cincinnati BengalsCincinnati,430,0,1,2012
+28,0,0,1,@NYJ,266,48,2.00,DST,118,0.0,0,Buffalo BillsBuffalo,384,0,1,2012
+29,0,0,0,SD,226,22,2.00,DST,32,1.0,0,Oakland RaidersOakland,258,0,1,2012
+30,0,0,0,Atl,292,40,1.00,DST,84,1.0,0,Kansas City ChiefsKansas City,376,0,1,2012
+31,0,0,0,NE,228,34,1.00,DST,162,1.0,0,Tennessee TitansTennessee,390,0,1,2012
+32,0,0,4,Chi,74,10,22.00,DST,94,7.0,0,Green Bay PackersGreen Bay,168,0,2,2012
+33,0,2,1,KC,272,17,21.00,DST,150,5.0,0,Buffalo BillsBuffalo,422,1,2,2012
+34,1,1,1,Dal,247,7,20.00,DST,49,1.0,0,Seattle SeahawksSeattle,296,1,2,2012
+35,0,2,1,@Stl,301,31,14.00,DST,151,2.0,0,Washington RedskinsWashington,452,1,2,2012
+36,1,0,1,@NE,297,18,12.00,DST,90,4.0,0,Arizona CardinalsArizona,387,0,2,2012
+37,0,1,3,Den,218,21,12.00,DST,118,3.0,0,Atlanta FalconsAtlanta,336,0,2,2012
+38,0,0,2,NO,323,27,12.00,DST,163,1.0,0,Carolina PanthersCarolina,486,1,2,2012
+39,0,1,0,@Jax,52,7,12.00,DST,65,3.0,0,Houston TexansHouston,117,0,2,2012
+40,0,0,3,@NYG,510,41,12.00,DST,94,0.0,0,Tampa Bay BuccaneersTampa Bay,604,1,2,2012
+41,0,2,2,@Phi,357,24,11.00,DST,129,2.0,0,Baltimore RavensBaltimore,486,0,2,2012
+42,0,1,0,Cle,309,27,11.00,DST,130,2.0,0,Cincinnati BengalsCincinnati,439,1,2,2012
+43,0,1,0,NYJ,129,10,11.00,DST,90,2.0,0,Pittsburgh SteelersPittsburgh,219,0,2,2012
+44,0,1,1,@GB,215,23,10.00,DST,106,5.0,0,Chicago BearsChicago,321,0,2,2012
+45,0,1,0,Min,232,20,10.00,DST,95,4.0,0,Indianapolis ColtsIndianapolis,327,0,2,2012
+46,0,2,0,Ari,140,20,10.00,DST,102,2.0,0,New England PatriotsNew England,242,0,2,2012
+47,0,0,1,Oak,373,13,9.00,DST,23,0.0,0,Miami DolphinsMiami,396,0,2,2012
+48,0,0,1,Ten,174,10,9.00,DST,38,0.0,0,San Diego ChargersSan Diego,212,0,2,2012
+49,0,0,1,@Cin,295,34,8.00,DST,80,6.0,0,Cleveland BrownsCleveland,375,0,2,2012
+50,0,0,1,Det,214,19,8.00,DST,82,2.0,0,San Francisco 49ersSan Francisco,296,0,2,2012
+51,0,1,1,Bal,214,23,7.00,DST,111,2.0,0,Philadelphia EaglesPhiladelphia,325,0,2,2012
+52,0,1,0,@SF,201,27,6.00,DST,148,3.0,0,Detroit LionsDetroit,349,0,2,2012
+53,0,0,2,TB,228,34,6.00,DST,79,2.0,0,New York GiantsNY Giants,307,0,2,2012
+54,0,0,1,@SD,268,38,6.00,DST,148,4.0,0,Tennessee TitansTennessee,416,0,2,2012
+55,1,0,1,Was,197,28,5.00,DST,176,1.0,0,St. Louis RamsSt. Louis,373,0,2,2012
+56,0,0,0,@Pit,265,27,4.00,DST,66,3.0,0,New York JetsNY Jets,331,0,2,2012
+57,0,0,0,@Sea,133,27,3.00,DST,182,2.0,0,Dallas CowboysDallas,315,0,2,2012
+58,0,0,0,@Ind,194,23,3.00,DST,84,2.0,0,Minnesota VikingsMinnesota,278,0,2,2012
+59,0,1,0,@Car,244,35,3.00,DST,219,1.0,0,New Orleans SaintsNew Orleans,463,0,2,2012
+60,0,0,0,@Atl,208,27,2.00,DST,67,1.0,0,Denver BroncosDenver,275,0,2,2012
+61,0,0,0,Hou,195,27,1.00,DST,216,0.0,0,Jacksonville JaguarsJacksonville,411,0,2,2012
+62,0,0,0,@Mia,189,35,1.00,DST,263,1.0,0,Oakland RaidersOakland,452,0,2,2012
+63,0,0,0,@Buf,178,35,0.00,DST,201,0.0,0,Kansas City ChiefsKansas City,379,0,2,2012
+64,0,3,0,Phi,194,6,27.00,DST,113,5.0,0,Arizona CardinalsArizona,307,1,3,2012
+65,0,0,2,Stl,101,6,26.00,DST,59,6.0,0,Chicago BearsChicago,160,1,3,2012
+66,0,1,0,Det,442,41,21.00,DST,141,1.0,0,Tennessee TitansTennessee,583,3,3,2012
+67,0,2,2,@SD,164,3,19.00,DST,116,1.0,0,Atlanta FalconsAtlanta,280,0,3,2012
+68,0,2,3,@Car,267,7,19.00,DST,60,2.0,0,New York GiantsNY Giants,327,0,3,2012
+69,1,2,1,SF,191,13,18.00,DST,89,3.0,0,Minnesota VikingsMinnesota,280,0,3,2012
+70,0,0,0,GB,184,12,15.00,DST,84,8.0,0,Seattle SeahawksSeattle,268,0,3,2012
+71,0,1,1,@Mia,196,20,14.00,DST,185,0.0,0,New York JetsNY Jets,381,1,3,2012
+72,0,2,1,@Dal,259,16,14.00,DST,38,4.0,0,Tampa Bay BuccaneersTampa Bay,297,0,3,2012
+73,0,1,1,TB,91,10,13.00,DST,75,2.0,0,Dallas CowboysDallas,166,0,3,2012
+74,0,0,2,@Cle,207,14,12.00,DST,33,4.0,0,Buffalo BillsBuffalo,240,0,3,2012
+75,0,1,1,Cin,385,38,12.00,DST,93,2.0,0,Washington RedskinsWashington,478,1,3,2012
+76,0,2,1,KC,237,27,10.00,DST,273,3.0,0,New Orleans SaintsNew Orleans,510,0,3,2012
+77,0,0,1,@NO,205,24,9.00,DST,83,4.0,1,Kansas City ChiefsKansas City,288,0,3,2012
+78,0,1,0,@Was,179,31,7.00,DST,202,5.0,0,Cincinnati BengalsCincinnati,381,0,3,2012
+79,0,1,1,Hou,284,31,7.00,DST,152,1.0,1,Denver BroncosDenver,436,0,3,2012
+80,0,0,2,NYJ,295,23,7.00,DST,93,2.0,0,Miami DolphinsMiami,388,0,3,2012
+81,0,1,0,@Den,316,25,6.00,DST,59,3.0,0,Houston TexansHouston,375,0,3,2012
+82,0,0,1,@Ind,313,17,6.00,DST,124,0.0,0,Jacksonville JaguarsJacksonville,437,0,3,2012
+83,0,0,0,@Sea,111,14,5.00,DST,127,1.0,0,Green Bay PackersGreen Bay,238,0,3,2012
+84,0,2,0,Pit,379,31,5.00,DST,54,1.0,0,Oakland RaidersOakland,433,0,3,2012
+85,0,0,1,Atl,265,27,5.00,DST,119,2.0,0,San Diego ChargersSan Diego,384,0,3,2012
+86,0,2,0,@Min,198,24,5.00,DST,146,0.0,0,San Francisco 49ersSan Francisco,344,0,3,2012
+87,0,0,1,@Chi,171,23,5.00,DST,103,2.0,0,St. Louis RamsSt. Louis,274,0,3,2012
+88,0,1,0,Buf,206,24,4.00,DST,138,1.0,0,Cleveland BrownsCleveland,344,0,3,2012
+89,0,2,0,@Ten,378,44,4.00,DST,59,0.0,0,Detroit LionsDetroit,437,0,3,2012
+90,0,0,0,@Ari,193,27,4.00,DST,99,3.0,0,Philadelphia EaglesPhiladelphia,292,0,3,2012
+91,0,0,1,@Oak,202,34,3.00,DST,119,1.0,0,Pittsburgh SteelersPittsburgh,321,0,3,2012
+92,0,0,0,NE,319,30,2.00,DST,77,2.0,0,Baltimore RavensBaltimore,396,0,3,2012
+93,0,0,0,NYG,280,36,2.00,DST,125,2.0,0,Carolina PanthersCarolina,405,0,3,2012
+94,0,0,0,Jax,148,22,2.00,DST,185,1.0,0,Indianapolis ColtsIndianapolis,333,0,3,2012
+95,0,0,1,@Bal,382,31,2.00,DST,121,0.0,0,New England PatriotsNew England,503,0,3,2012
+96,1,3,1,@NYJ,100,0,29.00,DST,45,3.0,0,San Francisco 49ersSan Francisco,145,1,4,2012
+97,0,0,5,@Dal,389,18,27.00,DST,41,1.0,0,Chicago BearsChicago,430,2,4,2012
+98,0,1,2,Ten,167,14,26.00,DST,158,4.0,0,Houston TexansHouston,325,2,4,2012
+99,0,1,0,@Det,286,13,26.00,DST,55,5.0,0,Minnesota VikingsMinnesota,341,2,4,2012
+100,0,3,3,@KC,234,20,24.00,DST,115,2.0,0,San Diego ChargersSan Diego,349,1,4,2012
+101,0,1,1,@Jax,143,10,17.00,DST,69,6.0,0,Cincinnati BengalsCincinnati,212,0,4,2012
+102,0,1,1,Cle,314,16,15.00,DST,43,1.0,0,Baltimore RavensBaltimore,357,1,4,2012
+103,0,2,4,@Buf,340,28,15.00,DST,98,3.0,0,New England PatriotsNew England,438,0,4,2012
+104,0,0,3,Sea,140,13,15.00,DST,179,2.0,0,St. Louis RamsSt. Louis,319,0,4,2012
+105,0,2,2,Mia,394,21,13.00,DST,86,4.0,0,Arizona CardinalsArizona,480,0,4,2012
+106,0,0,0,Oak,181,6,13.00,DST,56,3.0,0,Denver BroncosDenver,237,0,4,2012
+107,0,0,2,@Ari,269,24,13.00,DST,28,8.0,0,Miami DolphinsMiami,297,0,4,2012
+108,0,0,1,@TB,293,22,10.00,DST,80,1.0,0,Washington RedskinsWashington,373,1,4,2012
+109,0,0,1,@Atl,305,30,9.00,DST,121,7.0,0,Carolina PanthersCarolina,426,0,4,2012
+110,0,0,1,@Stl,211,19,8.00,DST,75,2.0,0,Seattle SeahawksSeattle,286,0,4,2012
+111,0,0,1,@Bal,337,23,7.00,DST,101,4.0,0,Cleveland BrownsCleveland,438,0,4,2012
+112,0,0,0,Min,100,20,6.00,DST,127,2.0,0,Detroit LionsDetroit,227,0,4,2012
+113,0,0,0,@Phi,231,19,6.00,DST,191,2.0,0,New York GiantsNY Giants,422,0,4,2012
+114,0,0,1,NYG,309,17,6.00,DST,57,0.0,0,Philadelphia EaglesPhiladelphia,366,0,4,2012
+115,0,1,0,Car,205,28,5.00,DST,199,3.0,0,Atlanta FalconsAtlanta,404,0,4,2012
+116,0,2,0,NE,333,52,5.00,DST,247,1.0,0,Buffalo BillsBuffalo,580,0,4,2012
+117,0,1,1,Cin,244,27,5.00,DST,138,0.0,0,Jacksonville JaguarsJacksonville,382,0,4,2012
+118,0,0,1,SD,189,37,5.00,DST,104,3.0,0,Kansas City ChiefsKansas City,293,0,4,2012
+119,0,1,0,Chi,267,34,4.00,DST,93,2.0,0,Dallas CowboysDallas,360,0,4,2012
+120,0,1,1,@GB,319,28,4.00,DST,102,0.0,0,New Orleans SaintsNew Orleans,421,0,4,2012
+121,0,0,0,NO,429,27,3.00,DST,45,2.0,0,Green Bay PackersGreen Bay,474,0,4,2012
+122,0,0,0,SF,134,34,2.00,DST,247,2.0,0,New York JetsNY Jets,381,0,4,2012
+123,0,1,0,@Den,338,37,2.00,DST,165,0.0,0,Oakland RaidersOakland,503,0,4,2012
+124,0,0,0,Was,321,24,2.00,DST,153,1.0,0,Tampa Bay BuccaneersTampa Bay,474,0,4,2012
+125,0,0,0,@Hou,202,38,0.00,DST,95,0.0,0,Tennessee TitansTennessee,297,0,4,2012
+126,0,1,2,@Jax,129,3,31.00,DST,60,3.0,0,Chicago BearsChicago,189,2,5,2012
+127,0,1,0,Ari,237,3,21.00,DST,45,9.0,0,St. Louis RamsSt. Louis,282,0,5,2012
+128,0,1,2,Sea,212,16,20.00,DST,98,2.0,1,Carolina PanthersCarolina,310,1,5,2012
+129,0,2,2,@KC,124,6,18.00,DST,214,0.0,0,Baltimore RavensBaltimore,338,0,5,2012
+130,0,1,2,@Cin,218,13,16.00,DST,80,3.0,0,Miami DolphinsMiami,298,0,5,2012
+131,0,1,1,Bal,165,9,15.00,DST,133,4.0,0,Kansas City ChiefsKansas City,298,0,5,2012
+132,0,1,1,Buf,115,3,15.00,DST,89,1.0,0,San Francisco 49ersSan Francisco,204,0,5,2012
+133,0,2,0,@Car,108,12,15.00,DST,82,4.0,0,Seattle SeahawksSeattle,190,0,5,2012
+134,0,1,1,Ten,215,7,13.00,DST,52,2.0,0,Minnesota VikingsMinnesota,267,0,5,2012
+135,0,1,1,Atl,338,24,12.00,DST,83,1.0,0,Washington RedskinsWashington,421,1,5,2012
+136,0,0,2,@Was,187,17,11.00,DST,129,3.0,0,Atlanta FalconsAtlanta,316,0,5,2012
+137,0,0,2,@NYJ,217,17,11.00,DST,69,3.0,0,Houston TexansHouston,286,0,5,2012
+138,0,2,0,Phi,168,14,11.00,DST,78,3.0,0,Pittsburgh SteelersPittsburgh,246,0,5,2012
+139,0,2,0,Mia,211,17,10.00,DST,68,2.0,0,Cincinnati BengalsCincinnati,279,0,5,2012
+140,0,1,1,SD,310,24,10.00,DST,117,5.0,0,New Orleans SaintsNew Orleans,427,0,5,2012
+141,0,3,0,Den,324,21,9.00,DST,70,2.0,0,New England PatriotsNew England,394,0,5,2012
+142,0,0,1,Hou,209,23,9.00,DST,169,0.0,0,New York JetsNY Jets,378,1,5,2012
+143,0,0,1,GB,207,27,8.00,DST,149,5.0,0,Indianapolis ColtsIndianapolis,356,0,5,2012
+144,0,0,1,@Stl,131,17,7.00,DST,111,1.0,0,Arizona CardinalsArizona,242,0,5,2012
+145,0,1,2,Cle,291,27,7.00,DST,84,0.0,0,New York GiantsNY Giants,375,0,5,2012
+146,0,1,0,@NE,193,31,6.00,DST,251,4.0,0,Denver BroncosDenver,444,0,5,2012
+147,0,0,1,@Ind,345,30,6.00,DST,119,4.0,0,Green Bay PackersGreen Bay,464,0,5,2012
+148,0,0,1,@NO,351,31,5.00,DST,53,3.0,0,San Diego ChargersSan Diego,404,0,5,2012
+149,0,0,2,@Min,258,30,5.00,DST,175,1.0,0,Tennessee TitansTennessee,433,0,5,2012
+150,0,1,1,@NYG,259,41,4.00,DST,243,0.0,0,Cleveland BrownsCleveland,502,0,5,2012
+151,0,0,0,@Pit,220,16,4.00,DST,123,0.0,0,Philadelphia EaglesPhiladelphia,343,0,5,2012
+152,0,0,1,Chi,287,41,3.00,DST,214,1.0,0,Jacksonville JaguarsJacksonville,501,0,5,2012
+153,0,1,0,@SF,310,45,2.00,DST,311,0.0,0,Buffalo BillsBuffalo,621,0,5,2012
+154,0,2,4,@SD,217,24,29.00,DST,90,4.0,0,Denver BroncosDenver,307,2,6,2012
+155,0,0,3,@SF,234,3,22.00,DST,80,6.0,0,New York GiantsNY Giants,314,0,6,2012
+156,0,2,1,Oak,325,20,19.00,DST,149,3.0,0,Atlanta FalconsAtlanta,474,1,6,2012
+157,0,2,2,Ind,257,9,19.00,DST,41,4.0,0,New York JetsNY Jets,298,0,6,2012
+158,0,1,3,Cin,362,24,17.00,DST,76,2.0,0,Cleveland BrownsCleveland,438,1,6,2012
+159,0,0,2,KC,180,10,17.00,DST,80,0.0,0,Tampa Bay BuccaneersTampa Bay,260,1,6,2012
+160,0,1,2,Min,327,26,17.00,DST,94,4.0,0,Washington RedskinsWashington,421,1,6,2012
+161,0,0,2,@Ari,150,16,15.00,DST,182,5.0,1,Buffalo BillsBuffalo,332,0,6,2012
+162,1,1,1,@TB,318,38,13.00,DST,145,1.0,0,Kansas City ChiefsKansas City,463,1,6,2012
+163,0,2,1,Den,309,35,12.00,DST,56,0.0,0,San Diego ChargersSan Diego,365,1,6,2012
+164,0,1,1,Buf,141,19,10.00,DST,165,2.0,0,Arizona CardinalsArizona,306,0,6,2012
+165,0,1,2,@Phi,286,23,10.00,DST,71,3.0,0,Detroit LionsDetroit,357,0,6,2012
+166,0,0,3,@Hou,231,24,10.00,DST,90,3.0,0,Green Bay PackersGreen Bay,321,0,6,2012
+167,1,0,0,GB,328,42,10.00,DST,99,2.0,0,Houston TexansHouston,427,1,6,2012
+168,0,0,1,Dal,254,29,9.00,DST,227,1.0,0,Baltimore RavensBaltimore,481,1,6,2012
+169,0,1,0,Stl,300,14,9.00,DST,162,3.0,0,Miami DolphinsMiami,462,0,6,2012
+170,0,0,3,@Atl,241,23,8.00,DST,45,1.0,0,Oakland RaidersOakland,286,0,6,2012
+171,0,2,0,@Sea,283,24,7.00,DST,85,2.0,0,New England PatriotsNew England,368,0,6,2012
+172,0,0,0,@Mia,156,17,7.00,DST,36,3.0,0,St. Louis RamsSt. Louis,192,0,6,2012
+173,0,0,1,@Ten,265,26,6.00,DST,94,3.0,0,Pittsburgh SteelersPittsburgh,359,0,6,2012
+174,0,0,2,NE,388,23,6.00,DST,87,1.0,0,Seattle SeahawksSeattle,475,0,6,2012
+175,1,0,1,Pit,356,23,6.00,DST,56,1.0,0,Tennessee TitansTennessee,412,0,6,2012
+176,0,0,1,@Cle,218,34,4.00,DST,110,2.0,0,Cincinnati BengalsCincinnati,328,0,6,2012
+177,0,0,1,@Was,178,38,3.00,DST,183,1.0,0,Minnesota VikingsMinnesota,361,0,6,2012
+178,0,0,1,Det,311,26,3.00,DST,138,0.0,0,Philadelphia EaglesPhiladelphia,449,0,6,2012
+179,1,0,0,NYG,193,26,3.00,DST,149,0.0,0,San Francisco 49ersSan Francisco,342,0,6,2012
+180,0,0,0,@Bal,230,31,1.00,DST,86,1.0,0,Dallas CowboysDallas,316,0,6,2012
+181,0,0,0,@NYJ,99,35,1.00,DST,252,1.0,0,Indianapolis ColtsIndianapolis,351,0,6,2012
+182,0,0,2,Bal,121,13,23.00,DST,55,4.0,1,Houston TexansHouston,176,1,7,2012
+183,0,1,1,Ari,230,14,21.00,DST,126,7.0,0,Minnesota VikingsMinnesota,356,1,7,2012
+184,0,3,1,Det,243,7,18.00,DST,97,3.0,0,Chicago BearsChicago,340,0,7,2012
+185,0,1,1,NYJ,297,26,17.00,DST,106,4.0,1,New England PatriotsNew England,403,1,7,2012
+186,1,0,0,@Chi,125,13,14.00,DST,171,5.0,0,Detroit LionsDetroit,296,0,7,2012
+187,0,0,1,Sea,115,6,14.00,DST,136,2.0,0,San Francisco 49ersSan Francisco,251,0,7,2012
+188,0,3,1,Was,232,23,12.00,DST,248,3.0,0,New York GiantsNY Giants,480,0,7,2012
+189,0,0,1,@SF,138,13,11.00,DST,175,2.0,0,Seattle SeahawksSeattle,313,0,7,2012
+190,0,1,1,@Car,216,14,10.00,DST,112,2.0,0,Dallas CowboysDallas,328,0,7,2012
+191,0,1,0,@Ind,173,17,9.00,DST,148,3.0,0,Cleveland BrownsCleveland,321,0,7,2012
+192,0,0,1,@Stl,246,20,9.00,DST,108,3.0,0,Green Bay PackersGreen Bay,354,0,7,2012
+193,0,2,1,@Oak,282,26,9.00,DST,69,2.0,0,Jacksonville JaguarsJacksonville,351,0,7,2012
+194,0,0,2,@Min,43,21,8.00,DST,166,3.0,0,Arizona CardinalsArizona,209,0,7,2012
+195,0,0,0,Ten,193,35,8.00,DST,197,2.0,0,Buffalo BillsBuffalo,390,1,7,2012
+196,0,1,1,Pit,264,24,8.00,DST,167,3.0,0,Cincinnati BengalsCincinnati,431,0,7,2012
+197,0,0,0,Cle,264,13,7.00,DST,55,0.0,0,Indianapolis ColtsIndianapolis,319,0,7,2012
+198,0,1,0,Dal,227,19,6.00,DST,85,0.0,0,Carolina PanthersCarolina,312,0,7,2012
+199,0,1,0,Jax,155,23,6.00,DST,54,3.0,0,Oakland RaidersOakland,209,0,7,2012
+200,0,0,1,@Cin,105,17,6.00,DST,80,0.0,0,Pittsburgh SteelersPittsburgh,185,0,7,2012
+201,0,0,2,@NYG,329,27,6.00,DST,64,1.0,0,Washington RedskinsWashington,393,0,7,2012
+202,0,1,1,@Buf,216,34,5.00,DST,166,1.0,0,Tennessee TitansTennessee,382,0,7,2012
+203,0,1,0,@NE,250,29,3.00,DST,131,1.0,0,New York JetsNY Jets,381,0,7,2012
+204,0,0,0,GB,332,30,3.00,DST,70,3.0,0,St. Louis RamsSt. Louis,402,0,7,2012
+205,0,0,0,@Hou,239,43,2.00,DST,181,2.0,0,Baltimore RavensBaltimore,420,0,7,2012
+206,0,0,0,@TB,411,28,2.00,DST,102,2.0,0,New Orleans SaintsNew Orleans,513,0,7,2012
+207,0,0,1,NO,377,35,2.00,DST,81,0.0,0,Tampa Bay BuccaneersTampa Bay,458,0,7,2012
+208,2,1,1,@NYJ,258,9,25.00,DST,105,4.0,0,Miami DolphinsMiami,363,1,8,2012
+209,0,2,4,@Dal,415,24,23.00,DST,19,4.0,0,New York GiantsNY Giants,434,1,8,2012
+210,0,2,1,@Chi,131,23,19.00,DST,79,6.0,0,Carolina PanthersCarolina,210,1,8,2012
+211,1,1,0,Jax,279,15,16.00,DST,62,2.0,0,Green Bay PackersGreen Bay,341,1,8,2012
+212,0,0,1,@Ari,258,3,16.00,DST,7,4.0,0,San Francisco 49ersSan Francisco,265,0,8,2012
+213,0,2,2,@KC,197,16,15.00,DST,102,3.0,0,Oakland RaidersOakland,299,0,8,2012
+214,0,0,2,Car,297,22,13.00,DST,119,2.0,0,Chicago BearsChicago,416,1,8,2012
+215,0,1,0,SD,148,6,13.00,DST,117,1.0,0,Cleveland BrownsCleveland,265,0,8,2012
+216,0,0,2,@Stl,219,7,13.00,DST,107,2.0,0,New England PatriotsNew England,326,0,8,2012
+217,0,2,1,@Min,229,17,13.00,DST,140,3.0,0,Tampa Bay BuccaneersTampa Bay,369,0,8,2012
+218,1,0,0,Was,169,12,10.00,DST,86,1.0,0,Pittsburgh SteelersPittsburgh,255,0,8,2012
+219,1,0,1,Ind,286,19,10.00,DST,171,2.0,0,Tennessee TitansTennessee,457,0,8,2012
+220,0,0,0,@Ten,227,13,9.00,DST,112,2.0,0,Indianapolis ColtsIndianapolis,339,0,8,2012
+221,0,0,0,@Cle,117,7,9.00,DST,133,2.0,0,San Diego ChargersSan Diego,250,0,8,2012
+222,0,0,0,@Phi,178,17,7.00,DST,92,3.0,0,Atlanta FalconsAtlanta,270,0,8,2012
+223,0,0,1,NO,201,14,7.00,DST,51,1.0,0,Denver BroncosDenver,252,0,8,2012
+224,0,0,0,SF,204,24,5.00,DST,113,4.0,0,Arizona CardinalsArizona,317,0,8,2012
+225,0,1,1,NYG,190,29,5.00,DST,103,1.0,0,Dallas CowboysDallas,293,0,8,2012
+226,0,1,1,Sea,236,24,5.00,DST,133,0.0,0,Detroit LionsDetroit,369,0,8,2012
+227,0,1,0,@GB,172,24,5.00,DST,66,2.0,0,Jacksonville JaguarsJacksonville,238,0,8,2012
+228,0,1,0,Mia,139,30,4.00,DST,97,2.0,0,New York JetsNY Jets,236,0,8,2012
+229,1,0,0,Atl,246,30,4.00,DST,146,2.0,0,Philadelphia EaglesPhiladelphia,392,0,8,2012
+230,0,0,1,@Det,331,28,4.00,DST,84,2.0,0,Seattle SeahawksSeattle,415,0,8,2012
+231,0,0,1,Oak,209,26,3.00,DST,135,0.0,0,Kansas City ChiefsKansas City,344,0,8,2012
+232,0,1,0,@Den,305,34,2.00,DST,225,0.0,0,New Orleans SaintsNew Orleans,530,0,8,2012
+233,0,0,0,@Pit,215,27,2.00,DST,140,1.0,0,Washington RedskinsWashington,355,0,8,2012
+234,0,0,0,TB,257,36,1.00,DST,159,1.0,0,Minnesota VikingsMinnesota,416,0,8,2012
+235,0,0,0,NE,321,45,0.00,DST,152,0.0,0,St. Louis RamsSt. Louis,473,0,8,2012
+236,1,4,1,@Ten,180,20,30.00,DST,159,2.0,0,Chicago BearsChicago,339,2,9,2012
+237,0,3,1,KC,176,13,28.00,DST,113,1.0,0,San Diego ChargersSan Diego,289,2,9,2012
+238,0,1,1,Phi,226,13,24.00,DST,221,7.0,0,New Orleans SaintsNew Orleans,447,1,9,2012
+239,0,1,1,Pit,191,24,15.00,DST,158,4.0,0,New York GiantsNY Giants,349,1,9,2012
+240,0,0,1,@Cin,275,23,14.00,DST,91,5.0,0,Denver BroncosDenver,366,1,9,2012
+241,0,1,0,Buf,230,9,13.00,DST,74,4.0,0,Houston TexansHouston,304,0,9,2012
+242,0,1,1,Min,44,20,12.00,DST,243,4.0,0,Seattle SeahawksSeattle,287,0,9,2012
+243,0,0,0,@Was,186,13,11.00,DST,151,4.0,0,Carolina PanthersCarolina,337,0,9,2012
+244,0,1,1,Ari,286,17,10.00,DST,54,2.0,0,Green Bay PackersGreen Bay,340,0,9,2012
+245,0,0,2,@Cle,174,15,9.00,DST,116,1.0,0,Baltimore RavensBaltimore,290,0,9,2012
+246,0,0,2,@Jax,215,14,9.00,DST,64,1.0,0,Detroit LionsDetroit,279,0,9,2012
+247,0,0,0,Dal,312,13,8.00,DST,65,1.0,0,Atlanta FalconsAtlanta,377,0,9,2012
+248,0,0,1,@NYG,114,20,8.00,DST,68,2.0,0,Pittsburgh SteelersPittsburgh,182,0,9,2012
+249,0,0,3,@Oak,402,32,8.00,DST,22,2.0,0,Tampa Bay BuccaneersTampa Bay,424,0,9,2012
+250,0,0,0,@Atl,330,19,7.00,DST,123,3.0,0,Dallas CowboysDallas,453,0,9,2012
+251,0,1,0,Chi,205,51,7.00,DST,160,3.0,1,Tennessee TitansTennessee,365,0,9,2012
+252,0,0,0,Mia,281,20,6.00,DST,84,2.0,0,Indianapolis ColtsIndianapolis,365,0,9,2012
+253,0,2,0,@NO,231,28,6.00,DST,140,2.0,0,Philadelphia EaglesPhiladelphia,371,0,9,2012
+254,1,0,0,@Hou,256,21,5.00,DST,118,2.0,0,Buffalo BillsBuffalo,374,0,9,2012
+255,0,1,1,@SD,216,31,5.00,DST,123,1.0,0,Kansas City ChiefsKansas City,339,0,9,2012
+256,1,1,0,TB,237,42,5.00,DST,278,1.0,0,Oakland RaidersOakland,515,0,9,2012
+257,0,0,2,Den,291,31,4.00,DST,68,0.0,0,Cincinnati BengalsCincinnati,359,0,9,2012
+258,1,0,0,@Ind,419,23,4.00,DST,97,1.0,0,Miami DolphinsMiami,516,0,9,2012
+259,0,0,1,@GB,208,31,3.00,DST,176,1.0,0,Arizona CardinalsArizona,384,0,9,2012
+260,1,0,0,@Sea,190,30,3.00,DST,195,1.0,0,Minnesota VikingsMinnesota,385,0,9,2012
+261,0,0,0,Bal,145,25,2.00,DST,137,1.0,0,Cleveland BrownsCleveland,282,0,9,2012
+262,0,0,0,Det,285,31,1.00,DST,149,1.0,0,Jacksonville JaguarsJacksonville,434,0,9,2012
+263,0,0,0,Car,201,21,1.00,DST,129,0.0,0,Washington RedskinsWashington,330,0,9,2012
+264,0,0,2,@Car,198,14,29.00,DST,52,7.0,1,Denver BroncosDenver,250,2,10,2012
+265,0,1,3,@Mia,201,3,26.00,DST,54,2.0,0,Tennessee TitansTennessee,255,1,10,2012
+266,0,1,1,@Phi,278,23,25.00,DST,91,2.0,0,Dallas CowboysDallas,369,3,10,2012
+267,0,1,2,@Jax,300,10,23.00,DST,37,4.0,0,Indianapolis ColtsIndianapolis,337,1,10,2012
+268,1,0,2,SD,323,24,21.00,DST,103,2.0,0,Tampa Bay BuccaneersTampa Bay,426,2,10,2012
+269,0,2,1,Oak,350,20,19.00,DST,72,3.0,0,Baltimore RavensBaltimore,422,1,10,2012
+270,0,2,2,NYG,189,13,19.00,DST,129,4.0,0,Cincinnati BengalsCincinnati,318,0,10,2012
+271,0,2,2,@Chi,134,6,18.00,DST,115,0.0,0,Houston TexansHouston,249,0,10,2012
+272,0,2,1,NYJ,101,7,16.00,DST,84,3.0,0,Seattle SeahawksSeattle,185,0,10,2012
+273,0,2,0,@Sea,189,28,14.00,DST,174,4.0,0,New York JetsNY Jets,363,1,10,2012
+274,0,0,2,Hou,88,13,12.00,DST,127,1.0,0,Chicago BearsChicago,215,0,10,2012
+275,0,0,1,KC,148,13,11.00,DST,142,2.0,0,Pittsburgh SteelersPittsburgh,290,0,10,2012
+276,0,2,1,Buf,319,31,9.00,DST,162,3.0,0,New England PatriotsNew England,481,0,10,2012
+277,0,1,1,Ind,221,27,7.00,DST,138,2.0,0,Jacksonville JaguarsJacksonville,359,0,10,2012
+278,0,1,0,@Pit,154,16,7.00,DST,95,1.0,0,Kansas City ChiefsKansas City,249,0,10,2012
+279,0,1,1,Det,308,24,7.00,DST,60,2.0,0,Minnesota VikingsMinnesota,368,0,10,2012
+280,0,0,0,@SF,158,24,6.00,DST,183,5.0,0,St. Louis RamsSt. Louis,341,0,10,2012
+281,0,2,0,Den,295,36,5.00,DST,65,1.0,0,Carolina PanthersCarolina,360,0,10,2012
+282,0,1,0,Stl,299,24,5.00,DST,159,2.0,0,San Francisco 49ersSan Francisco,458,0,10,2012
+283,0,0,1,Atl,408,27,4.00,DST,46,1.0,0,New Orleans SaintsNew Orleans,454,0,10,2012
+284,0,0,1,@NO,292,31,3.00,DST,148,1.0,0,Atlanta FalconsAtlanta,440,0,10,2012
+285,0,0,0,Dal,193,38,3.00,DST,101,3.0,0,Philadelphia EaglesPhiladelphia,294,0,10,2012
+286,0,0,0,@Min,207,34,2.00,DST,196,2.0,0,Detroit LionsDetroit,403,0,10,2012
+287,0,1,0,@Cin,199,31,2.00,DST,76,0.0,0,New York GiantsNY Giants,275,0,10,2012
+288,0,0,1,@Bal,341,55,2.00,DST,78,0.0,0,Oakland RaidersOakland,419,0,10,2012
+289,0,0,0,@NE,230,37,1.00,DST,117,1.0,0,Buffalo BillsBuffalo,347,0,10,2012
+290,0,0,0,Ten,116,37,1.00,DST,177,1.0,0,Miami DolphinsMiami,293,0,10,2012
+291,0,0,0,@TB,205,34,1.00,DST,74,1.0,0,San Diego ChargersSan Diego,279,0,10,2012
+292,0,1,3,Ind,329,24,28.00,DST,119,1.0,0,New England PatriotsNew England,448,3,11,2012
+293,0,2,2,@Det,252,20,23.00,DST,110,5.0,0,Green Bay PackersGreen Bay,362,1,11,2012
+294,0,2,1,@Pit,175,10,22.00,DST,134,3.0,0,Baltimore RavensBaltimore,309,1,11,2012
+295,0,1,2,Phi,177,6,20.00,DST,80,4.0,0,Washington RedskinsWashington,257,0,11,2012
+296,0,1,2,Mia,124,14,19.00,DST,60,3.0,0,Buffalo BillsBuffalo,184,1,11,2012
+297,0,0,2,Chi,58,7,19.00,DST,85,6.0,1,San Francisco 49ersSan Francisco,143,0,11,2012
+298,0,0,2,@Oak,284,17,17.00,DST,120,3.0,0,New Orleans SaintsNew Orleans,404,1,11,2012
+299,0,1,0,@KC,171,6,16.00,DST,113,4.0,0,Cincinnati BengalsCincinnati,284,0,11,2012
+300,0,1,0,Ari,41,19,15.00,DST,137,3.0,0,Atlanta FalconsAtlanta,178,1,11,2012
+301,0,1,1,@Den,253,30,15.00,DST,133,3.0,1,San Diego ChargersSan Diego,386,1,11,2012
+302,0,1,5,@Atl,296,23,14.00,DST,58,1.0,0,Arizona CardinalsArizona,354,0,11,2012
+303,0,1,2,TB,236,27,14.00,DST,167,1.0,0,Carolina PanthersCarolina,403,1,11,2012
+304,0,2,1,@Stl,167,13,14.00,DST,114,1.0,0,New York JetsNY Jets,281,0,11,2012
+305,1,1,2,SD,224,23,13.00,DST,53,4.0,0,Denver BroncosDenver,277,0,11,2012
+306,0,0,0,@Buf,161,19,13.00,DST,120,3.0,0,Miami DolphinsMiami,281,1,11,2012
+307,0,1,0,@Dal,257,23,10.00,DST,63,7.0,0,Cleveland BrownsCleveland,320,0,11,2012
+308,0,0,0,Bal,153,13,9.00,DST,47,2.0,0,Pittsburgh SteelersPittsburgh,200,0,11,2012
+309,0,1,0,Cle,192,20,8.00,DST,119,2.0,0,Dallas CowboysDallas,311,0,11,2012
+310,0,1,2,@Hou,504,43,8.00,DST,149,2.0,0,Jacksonville JaguarsJacksonville,653,0,11,2012
+311,0,0,1,GB,219,24,6.00,DST,95,3.0,0,Detroit LionsDetroit,314,0,11,2012
+312,1,0,0,NYJ,165,27,6.00,DST,124,3.0,0,St. Louis RamsSt. Louis,289,0,11,2012
+313,0,1,0,@Car,234,21,5.00,DST,97,2.0,0,Tampa Bay BuccaneersTampa Bay,331,0,11,2012
+314,0,1,0,Jax,372,37,4.00,DST,86,2.0,0,Houston TexansHouston,458,0,11,2012
+315,0,0,0,@SF,232,32,2.00,DST,121,2.0,0,Chicago BearsChicago,353,0,11,2012
+316,0,0,0,Cin,220,28,2.00,DST,189,2.0,0,Kansas City ChiefsKansas City,409,0,11,2012
+317,0,0,0,@Was,192,31,2.00,DST,169,2.0,0,Philadelphia EaglesPhiladelphia,361,0,11,2012
+318,0,0,0,@NE,331,59,0.00,DST,115,0.0,0,Indianapolis ColtsIndianapolis,446,0,11,2012
+319,0,0,0,NO,229,38,0.00,DST,151,0.0,0,Oakland RaidersOakland,380,0,11,2012
+320,0,4,1,@NYJ,286,19,28.00,DST,119,2.0,0,New England PatriotsNew England,405,2,12,2012
+321,0,0,4,@Ari,301,17,26.00,DST,74,2.0,0,St. Louis RamsSt. Louis,375,2,12,2012
+322,0,0,2,@NO,231,21,22.00,DST,59,5.0,0,San Francisco 49ersSan Francisco,290,2,12,2012
+323,0,5,3,Pit,193,14,21.00,DST,49,1.0,0,Cleveland BrownsCleveland,242,0,12,2012
+324,1,2,1,Min,144,10,17.00,DST,114,2.0,0,Chicago BearsChicago,258,0,12,2012
+325,0,0,1,Buf,169,13,17.00,DST,135,2.0,0,Indianapolis ColtsIndianapolis,304,1,12,2012
+326,0,1,1,GB,201,10,16.00,DST,116,5.0,0,New York GiantsNY Giants,317,0,12,2012
+327,0,0,1,@Cle,130,20,16.00,DST,108,4.0,0,Pittsburgh SteelersPittsburgh,238,1,12,2012
+328,0,1,1,Oak,119,10,15.00,DST,99,4.0,0,Cincinnati BengalsCincinnati,218,0,12,2012
+329,0,0,0,@SD,189,13,13.00,DST,91,6.0,0,Baltimore RavensBaltimore,280,0,12,2012
+330,0,1,1,@Ind,225,20,12.00,DST,87,4.0,0,Buffalo BillsBuffalo,312,0,12,2012
+331,0,0,1,@KC,116,9,11.00,DST,148,2.0,0,Denver BroncosDenver,264,0,12,2012
+332,0,0,1,@Mia,246,24,10.00,DST,189,1.0,0,Seattle SeahawksSeattle,435,1,12,2012
+333,0,0,1,@Jax,221,24,10.00,DST,100,7.0,0,Tennessee TitansTennessee,321,0,12,2012
+334,0,0,2,Ten,250,19,9.00,DST,110,1.0,0,Jacksonville JaguarsJacksonville,360,0,12,2012
+335,0,0,0,Bal,316,16,9.00,DST,127,5.0,0,San Diego ChargersSan Diego,443,0,12,2012
+336,0,3,0,@Phi,107,22,8.00,DST,204,1.0,0,Carolina PanthersCarolina,311,0,12,2012
+337,0,0,1,Den,273,17,8.00,DST,95,2.0,0,Kansas City ChiefsKansas City,368,0,12,2012
+338,0,1,2,@Dal,423,31,8.00,DST,35,2.0,0,Washington RedskinsWashington,458,0,12,2012
+339,1,1,1,@Chi,183,28,7.00,DST,113,1.0,0,Minnesota VikingsMinnesota,296,0,12,2012
+340,1,1,1,SF,231,31,6.00,DST,144,0.0,0,New Orleans SaintsNew Orleans,375,0,12,2012
+341,0,1,1,Atl,345,24,6.00,DST,79,1.0,0,Tampa Bay BuccaneersTampa Bay,424,0,12,2012
+342,0,0,1,Was,288,38,5.00,DST,149,3.0,0,Dallas CowboysDallas,437,0,12,2012
+343,0,1,0,@Det,419,31,5.00,DST,106,3.0,0,Houston TexansHouston,525,0,12,2012
+344,0,0,1,Stl,194,31,4.00,DST,173,2.0,0,Arizona CardinalsArizona,367,0,12,2012
+345,0,0,1,Hou,296,34,4.00,DST,205,2.0,0,Detroit LionsDetroit,501,0,12,2012
+346,0,1,0,NE,323,49,4.00,DST,152,0.0,1,New York JetsNY Jets,475,0,12,2012
+347,0,0,0,@TB,276,23,3.00,DST,50,2.0,0,Atlanta FalconsAtlanta,326,0,12,2012
+348,0,0,0,Sea,216,21,3.00,DST,96,2.0,0,Miami DolphinsMiami,312,0,12,2012
+349,0,0,0,@Cin,194,34,2.00,DST,221,2.0,0,Oakland RaidersOakland,415,0,12,2012
+350,0,0,0,Car,289,30,2.00,DST,109,2.0,0,Philadelphia EaglesPhiladelphia,398,0,12,2012
+351,0,0,0,@NYG,243,38,1.00,DST,147,1.0,0,Green Bay PackersGreen Bay,390,0,12,2012
+352,0,3,3,@Ten,265,10,25.00,DST,89,6.0,0,Houston TexansHouston,354,0,13,2012
+353,0,1,0,SF,191,13,20.00,DST,148,3.0,1,St. Louis RamsSt. Louis,339,1,13,2012
+354,0,1,3,@NYJ,112,7,18.00,DST,177,3.0,0,Arizona CardinalsArizona,289,0,13,2012
+355,0,0,5,NO,335,13,18.00,DST,101,1.0,0,Atlanta FalconsAtlanta,436,0,13,2012
+356,0,1,2,Cin,211,20,17.00,DST,128,1.0,0,San Diego ChargersSan Diego,339,1,13,2012
+357,0,1,1,@SD,251,13,15.00,DST,46,4.0,0,Cincinnati BengalsCincinnati,297,0,13,2012
+358,0,0,1,Ari,56,6,14.00,DST,81,2.0,0,New York JetsNY Jets,137,0,13,2012
+359,0,1,1,Jax,186,18,11.00,DST,50,3.0,0,Buffalo BillsBuffalo,236,0,13,2012
+360,1,0,2,Cle,353,20,11.00,DST,122,1.0,0,Oakland RaidersOakland,475,0,13,2012
+361,0,1,1,@Bal,177,20,11.00,DST,111,3.0,0,Pittsburgh SteelersPittsburgh,288,0,13,2012
+362,0,0,0,NYG,273,16,11.00,DST,117,1.0,0,Washington RedskinsWashington,390,1,13,2012
+363,0,0,1,TB,235,23,10.00,DST,71,1.0,0,Denver BroncosDenver,306,1,13,2012
+364,0,1,2,Pit,270,23,9.00,DST,96,2.0,0,Baltimore RavensBaltimore,366,0,13,2012
+365,0,1,0,Phi,240,33,9.00,DST,183,1.0,0,Dallas CowboysDallas,423,1,13,2012
+366,0,1,0,@Mia,176,16,9.00,DST,101,3.0,0,New England PatriotsNew England,277,0,13,2012
+367,0,0,3,Ind,372,35,8.00,DST,87,2.0,0,Detroit LionsDetroit,459,0,13,2012
+368,0,0,2,Min,119,14,8.00,DST,240,0.0,0,Green Bay PackersGreen Bay,359,0,13,2012
+369,0,0,0,@Dal,294,38,8.00,DST,123,2.0,0,Philadelphia EaglesPhiladelphia,417,1,13,2012
+370,0,0,1,@Oak,344,17,7.00,DST,85,1.0,0,Cleveland BrownsCleveland,429,0,13,2012
+371,0,0,1,NE,213,23,7.00,DST,108,4.0,0,Miami DolphinsMiami,321,0,13,2012
+372,0,1,0,@Was,163,17,6.00,DST,207,0.0,0,New York GiantsNY Giants,370,0,13,2012
+373,0,0,0,@Stl,208,16,6.00,DST,85,2.0,0,San Francisco 49ersSan Francisco,293,0,13,2012
+374,0,1,0,Sea,283,23,5.00,DST,176,2.0,0,Chicago BearsChicago,459,0,13,2012
+375,0,0,1,@GB,283,23,5.00,DST,152,2.0,0,Minnesota VikingsMinnesota,435,0,13,2012
+376,0,1,1,@Buf,112,34,4.00,DST,232,0.0,0,Jacksonville JaguarsJacksonville,344,0,13,2012
+377,0,1,0,@Atl,159,23,4.00,DST,124,1.0,0,New Orleans SaintsNew Orleans,283,0,13,2012
+378,0,0,0,@Chi,233,17,4.00,DST,132,0.0,0,Seattle SeahawksSeattle,365,0,13,2012
+379,0,0,0,Car,220,21,3.00,DST,165,2.0,0,Kansas City ChiefsKansas City,385,0,13,2012
+380,0,0,0,@KC,197,27,2.00,DST,158,1.0,0,Carolina PanthersCarolina,355,0,13,2012
+381,0,0,1,@Det,313,33,2.00,DST,138,0.0,0,Indianapolis ColtsIndianapolis,451,0,13,2012
+382,0,0,1,@Den,242,31,2.00,DST,91,0.0,0,Tampa Bay BuccaneersTampa Bay,333,0,13,2012
+383,0,0,0,Hou,207,24,1.00,DST,124,0.0,0,Tennessee TitansTennessee,331,0,13,2012
+384,0,4,4,Ari,111,0,41.00,DST,43,3.0,0,Seattle SeahawksSeattle,154,2,14,2012
+385,0,0,1,KC,130,7,20.00,DST,180,5.0,0,Cleveland BrownsCleveland,310,1,14,2012
+386,0,0,2,Chi,320,14,16.00,DST,118,2.0,0,Minnesota VikingsMinnesota,438,1,14,2012
+387,0,2,2,NO,345,27,16.00,DST,142,1.0,0,New York GiantsNY Giants,487,1,14,2012
+388,0,1,1,@Buf,220,12,16.00,DST,61,5.0,0,St. Louis RamsSt. Louis,281,0,14,2012
+389,0,1,1,Det,251,20,15.00,DST,135,1.0,0,Green Bay PackersGreen Bay,386,1,14,2012
+390,0,0,2,@Ind,171,27,15.00,DST,98,4.0,0,Tennessee TitansTennessee,269,1,14,2012
+391,0,0,1,Hou,223,14,14.00,DST,100,2.0,0,New England PatriotsNew England,323,1,14,2012
+392,0,0,2,@Jax,168,10,14.00,DST,123,3.0,0,New York JetsNY Jets,291,0,14,2012
+393,0,1,1,@Pit,271,24,13.00,DST,69,2.0,0,San Diego ChargersSan Diego,340,1,14,2012
+394,0,1,1,@Oak,263,13,12.00,DST,61,1.0,0,Denver BroncosDenver,324,0,14,2012
+395,0,0,2,Ten,259,23,12.00,DST,97,1.0,0,Indianapolis ColtsIndianapolis,356,1,14,2012
+396,0,0,1,@Cin,190,19,11.00,DST,146,5.0,0,Dallas CowboysDallas,336,0,14,2012
+397,0,1,0,Mia,133,13,11.00,DST,94,2.0,0,San Francisco 49ersSan Francisco,227,0,14,2012
+398,0,0,2,@NYG,259,52,10.00,DST,135,0.0,0,New Orleans SaintsNew Orleans,394,1,14,2012
+399,0,0,1,Dal,239,20,9.00,DST,49,3.0,0,Cincinnati BengalsCincinnati,288,0,14,2012
+400,0,2,0,NYJ,104,17,9.00,DST,166,1.0,0,Jacksonville JaguarsJacksonville,270,0,14,2012
+401,0,1,0,Phi,338,23,9.00,DST,29,6.0,0,Tampa Bay BuccaneersTampa Bay,367,0,14,2012
+402,0,0,1,Atl,327,20,8.00,DST,35,2.0,0,Carolina PanthersCarolina,362,0,14,2012
+403,0,0,1,Stl,207,15,7.00,DST,78,1.0,0,Buffalo BillsBuffalo,285,0,14,2012
+404,0,1,0,@GB,148,27,6.00,DST,140,3.0,0,Detroit LionsDetroit,288,0,14,2012
+405,0,0,1,Den,288,26,6.00,DST,140,3.0,0,Oakland RaidersOakland,428,0,14,2012
+406,0,1,1,Bal,173,28,6.00,DST,186,2.0,0,Washington RedskinsWashington,359,0,14,2012
+407,0,1,0,@Was,244,31,5.00,DST,179,3.0,0,Baltimore RavensBaltimore,423,0,14,2012
+408,0,0,0,@SF,166,27,5.00,DST,155,4.0,0,Miami DolphinsMiami,321,0,14,2012
+409,0,0,1,@Min,77,21,4.00,DST,171,1.0,0,Chicago BearsChicago,248,0,14,2012
+410,0,0,1,@Sea,209,58,3.00,DST,284,1.0,0,Arizona CardinalsArizona,493,0,14,2012
+411,0,0,1,@NE,289,42,3.00,DST,130,1.0,0,Houston TexansHouston,419,0,14,2012
+412,0,0,0,@Cle,198,30,3.00,DST,154,3.0,0,Kansas City ChiefsKansas City,352,0,14,2012
+413,0,0,0,@TB,178,21,3.00,DST,136,2.0,0,Philadelphia EaglesPhiladelphia,314,0,14,2012
+414,0,0,0,@Car,280,30,1.00,DST,195,1.0,0,Atlanta FalconsAtlanta,475,0,14,2012
+415,0,0,0,SD,200,34,1.00,DST,94,1.0,0,Pittsburgh SteelersPittsburgh,294,0,14,2012
+416,0,1,3,Det,228,10,29.00,DST,84,2.0,0,Arizona CardinalsArizona,312,2,15,2012
+417,1,4,1,@Phi,177,13,26.00,DST,42,1.0,0,Cincinnati BengalsCincinnati,219,1,15,2012
+418,0,1,4,TB,319,0,22.00,DST,67,2.0,0,New Orleans SaintsNew Orleans,386,0,15,2012
+419,0,1,4,NYJ,107,10,21.00,DST,146,4.0,0,Tennessee TitansTennessee,253,0,15,2012
+420,1,1,0,Ind,148,17,19.00,DST,124,5.0,0,Houston TexansHouston,272,1,15,2012
+421,0,1,2,@Buf,215,17,19.00,DST,118,3.0,0,Seattle SeahawksSeattle,333,1,15,2012
+422,0,1,2,NYG,159,0,17.00,DST,97,1.0,0,Atlanta FalconsAtlanta,256,0,15,2012
+423,0,2,0,@SD,94,7,17.00,DST,70,6.0,0,Carolina PanthersCarolina,164,0,15,2012
+424,0,1,1,@Bal,222,17,17.00,DST,56,3.0,0,Denver BroncosDenver,278,1,15,2012
+425,0,2,2,@NE,425,34,17.00,DST,95,3.0,0,San Francisco 49ersSan Francisco,520,1,15,2012
+426,0,0,1,KC,109,0,16.00,DST,10,4.0,0,Oakland RaidersOakland,119,0,15,2012
+427,0,1,1,@Stl,345,22,15.00,DST,87,4.0,0,Minnesota VikingsMinnesota,432,1,15,2012
+428,0,0,1,@Chi,107,13,13.00,DST,83,4.0,0,Green Bay PackersGreen Bay,190,0,15,2012
+429,0,0,0,Jax,213,3,12.00,DST,86,2.0,0,Miami DolphinsMiami,299,0,15,2012
+430,1,0,0,@Ten,127,14,10.00,DST,167,4.0,0,New York JetsNY Jets,294,0,15,2012
+431,0,2,0,Cin,92,34,10.00,DST,157,6.0,0,Philadelphia EaglesPhiladelphia,249,0,15,2012
+432,0,1,1,Pit,319,24,9.00,DST,69,4.0,0,Dallas CowboysDallas,388,0,15,2012
+433,0,2,0,GB,278,21,8.00,DST,113,3.0,0,Chicago BearsChicago,391,0,15,2012
+434,0,0,2,@Cle,233,21,7.00,DST,58,2.0,0,Washington RedskinsWashington,291,0,15,2012
+435,0,1,0,@Oak,182,15,6.00,DST,203,0.0,0,Kansas City ChiefsKansas City,385,0,15,2012
+436,0,1,1,SF,208,41,5.00,DST,180,1.0,0,New England PatriotsNew England,388,0,15,2012
+437,1,0,0,Sea,196,50,4.00,DST,270,2.0,0,Buffalo BillsBuffalo,466,0,15,2012
+438,0,0,1,Was,308,38,4.00,DST,122,2.0,0,Cleveland BrownsCleveland,430,0,15,2012
+439,0,1,0,@Mia,209,24,4.00,DST,180,1.0,0,Jacksonville JaguarsJacksonville,389,0,15,2012
+440,0,1,0,@Dal,328,27,4.00,DST,87,1.0,0,Pittsburgh SteelersPittsburgh,415,0,15,2012
+441,0,1,0,Car,217,31,4.00,DST,155,2.0,0,San Diego ChargersSan Diego,372,0,15,2012
+442,0,0,1,@Ari,97,38,3.00,DST,99,1.0,0,Detroit LionsDetroit,196,0,15,2012
+443,0,0,0,@Hou,239,29,3.00,DST,178,3.0,0,Indianapolis ColtsIndianapolis,417,0,15,2012
+444,0,0,0,Den,187,34,2.00,DST,163,2.0,0,Baltimore RavensBaltimore,350,0,15,2012
+445,0,0,0,Min,109,36,2.00,DST,213,2.0,0,St. Louis RamsSt. Louis,322,0,15,2012
+446,0,0,0,@Atl,265,34,1.00,DST,129,1.0,0,New York GiantsNY Giants,394,0,15,2012
+447,0,0,0,@NO,298,41,1.00,DST,149,1.0,0,Tampa Bay BuccaneersTampa Bay,447,0,15,2012
+448,0,1,2,@Ari,219,13,29.00,DST,29,4.0,0,Chicago BearsChicago,248,2,16,2012
+449,0,1,4,@TB,349,13,28.00,DST,80,5.0,0,St. Louis RamsSt. Louis,429,1,16,2012
+450,0,1,1,@NYJ,156,17,25.00,DST,69,11.0,0,San Diego ChargersSan Diego,225,1,16,2012
+451,0,1,2,@Pit,185,10,23.00,DST,95,4.0,0,Cincinnati BengalsCincinnati,280,1,16,2012
+452,0,1,2,@KC,155,13,20.00,DST,352,1.0,0,Indianapolis ColtsIndianapolis,507,1,16,2012
+453,1,1,1,SF,231,13,20.00,DST,82,1.0,0,Seattle SeahawksSeattle,313,1,16,2012
+454,0,1,2,Cin,253,13,19.00,DST,14,6.0,0,Pittsburgh SteelersPittsburgh,267,0,16,2012
+455,0,0,2,Ten,101,7,18.00,DST,79,7.0,0,Green Bay PackersGreen Bay,180,0,16,2012
+456,0,2,0,@Hou,153,6,18.00,DST,34,4.0,0,Minnesota VikingsMinnesota,187,0,16,2012
+457,0,3,1,Buf,227,10,17.00,DST,154,2.0,0,Miami DolphinsMiami,381,0,16,2012
+458,0,1,0,Cle,142,12,15.00,DST,91,6.0,0,Denver BroncosDenver,233,0,16,2012
+459,0,0,1,Oak,142,6,13.00,DST,47,1.0,0,Carolina PanthersCarolina,189,0,16,2012
+460,0,1,1,@Phi,321,20,13.00,DST,90,5.0,0,Washington RedskinsWashington,411,0,16,2012
+461,1,1,0,Chi,145,28,11.00,DST,152,1.0,0,Arizona CardinalsArizona,297,1,16,2012
+462,0,0,3,@Jax,343,16,11.00,DST,93,1.0,0,New England PatriotsNew England,436,0,16,2012
+463,0,2,1,@Det,443,18,10.00,DST,79,0.0,0,Atlanta FalconsAtlanta,522,0,16,2012
+464,0,1,1,@Car,159,17,10.00,DST,112,2.0,0,Oakland RaidersOakland,271,0,16,2012
+465,0,0,2,NE,246,23,8.00,DST,103,3.0,0,Jacksonville JaguarsJacksonville,349,0,16,2012
+466,0,0,0,NYG,119,14,7.00,DST,67,3.0,0,Baltimore RavensBaltimore,186,0,16,2012
+467,0,0,0,Ind,198,20,7.00,DST,90,3.0,0,Kansas City ChiefsKansas City,288,0,16,2012
+468,1,0,0,@Mia,119,24,5.00,DST,182,2.0,0,Buffalo BillsBuffalo,301,0,16,2012
+469,0,0,0,SD,136,27,5.00,DST,87,4.0,0,New York JetsNY Jets,223,0,16,2012
+470,0,1,0,Min,171,23,4.00,DST,174,1.0,0,Houston TexansHouston,345,0,16,2012
+471,0,1,0,@Dal,406,31,4.00,DST,40,2.0,0,New Orleans SaintsNew Orleans,446,0,16,2012
+472,0,0,1,Was,185,27,4.00,DST,128,1.0,0,Philadelphia EaglesPhiladelphia,313,0,16,2012
+473,0,1,1,Stl,196,28,4.00,DST,89,0.0,0,Tampa Bay BuccaneersTampa Bay,285,0,16,2012
+474,0,0,0,Atl,271,31,3.00,DST,73,1.0,1,Detroit LionsDetroit,344,0,16,2012
+475,0,0,1,@Sea,170,42,3.00,DST,176,1.0,0,San Francisco 49ersSan Francisco,346,0,16,2012
+476,0,0,1,@Den,339,34,2.00,DST,118,0.0,0,Cleveland BrownsCleveland,457,0,16,2012
+477,0,0,0,@GB,343,55,1.00,DST,117,1.0,0,Tennessee TitansTennessee,460,0,16,2012
+478,0,0,0,NO,446,34,0.00,DST,116,0.0,0,Dallas CowboysDallas,562,0,16,2012
+479,0,0,0,@Bal,309,33,0.00,DST,224,0.0,0,New York GiantsNY Giants,533,0,16,2012
+480,0,0,3,Jax,253,20,41.00,DST,122,7.0,0,Tennessee TitansTennessee,375,4,17,2012
+481,0,1,1,Mia,209,0,21.00,DST,47,7.0,0,New England PatriotsNew England,256,0,17,2012
+482,1,1,1,NYJ,199,9,20.00,DST,133,1.0,0,Buffalo BillsBuffalo,332,1,17,2012
+483,0,3,1,Cle,182,10,19.00,DST,138,4.0,0,Pittsburgh SteelersPittsburgh,320,0,17,2012
+484,0,0,2,Hou,250,16,18.00,DST,102,4.0,0,Indianapolis ColtsIndianapolis,352,1,17,2012
+485,0,0,1,Bal,146,17,16.00,DST,206,4.0,0,Cincinnati BengalsCincinnati,352,1,17,2012
+486,0,0,0,KC,26,3,14.00,DST,93,4.0,0,Denver BroncosDenver,119,0,17,2012
+487,0,1,1,Ari,207,13,13.00,DST,55,2.0,0,San Francisco 49ersSan Francisco,262,0,17,2012
+488,0,0,3,Dal,196,18,12.00,DST,100,2.0,0,Washington RedskinsWashington,296,0,17,2012
+489,0,3,1,@Det,255,24,10.00,DST,72,1.0,0,Chicago BearsChicago,327,0,17,2012
+490,1,0,0,@Ten,142,38,10.00,DST,79,2.0,0,Jacksonville JaguarsJacksonville,221,1,17,2012
+491,0,0,1,Phi,207,7,10.00,DST,110,1.0,0,New York GiantsNY Giants,317,0,17,2012
+492,0,0,0,@Sea,209,20,10.00,DST,153,6.0,0,St. Louis RamsSt. Louis,362,0,17,2012
+493,0,0,1,Car,257,44,9.00,DST,273,1.0,0,New Orleans SaintsNew Orleans,530,1,17,2012
+494,0,0,1,Oak,150,21,9.00,DST,115,0.0,0,San Diego ChargersSan Diego,265,1,17,2012
+495,0,0,1,Stl,252,13,9.00,DST,79,0.0,0,Seattle SeahawksSeattle,331,0,17,2012
+496,1,0,0,@Atl,213,17,8.00,DST,65,2.0,0,Tampa Bay BuccaneersTampa Bay,278,0,17,2012
+497,0,1,0,GB,333,34,7.00,DST,72,5.0,0,Minnesota VikingsMinnesota,405,0,17,2012
+498,1,0,0,@SD,140,24,5.00,DST,70,2.0,0,Oakland RaidersOakland,210,0,17,2012
+499,0,0,1,@NO,378,38,4.00,DST,63,2.0,0,Carolina PanthersCarolina,441,0,17,2012
+500,0,0,1,TB,222,22,3.00,DST,144,0.0,0,Atlanta FalconsAtlanta,366,0,17,2012
+501,0,0,0,@Cin,142,23,3.00,DST,47,2.0,0,Baltimore RavensBaltimore,189,0,17,2012
+502,0,0,0,@Pit,121,24,3.00,DST,91,2.0,0,Cleveland BrownsCleveland,212,0,17,2012
+503,0,0,0,Chi,245,26,3.00,DST,144,2.0,0,Detroit LionsDetroit,389,0,17,2012
+504,0,0,0,@SF,278,27,2.00,DST,129,1.0,0,Arizona CardinalsArizona,407,0,17,2012
+505,0,1,0,@Den,316,38,2.00,DST,172,0.0,0,Kansas City ChiefsKansas City,488,0,17,2012
+506,0,1,0,@Buf,225,28,2.00,DST,109,0.0,0,New York JetsNY Jets,334,0,17,2012
+507,0,0,0,@Was,87,28,1.00,DST,274,1.0,0,Dallas CowboysDallas,361,0,17,2012
+508,0,0,0,@Min,227,37,1.00,DST,217,1.0,0,Green Bay PackersGreen Bay,444,0,17,2012
+509,0,0,0,@Ind,184,28,1.00,DST,81,1.0,0,Houston TexansHouston,265,0,17,2012
+510,0,0,0,@NE,276,28,1.00,DST,167,1.0,0,Miami DolphinsMiami,443,0,17,2012
+511,0,0,0,@NYG,212,42,1.00,DST,185,1.0,0,Philadelphia EaglesPhiladelphia,397,0,17,2012

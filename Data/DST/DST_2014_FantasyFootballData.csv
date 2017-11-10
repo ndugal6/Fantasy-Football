@@ -1,0 +1,513 @@
+,Blocks,Fumble Returns,Interception,Opponent,Pass Yards Allowed,Point After,Points,Position,Rush Yards Allowed,Sack,Safety,Team,Total Yards,Touchdowns,Week,Year
+0,2,2,0,Was,241,6,27.00,DST,131,3.0,0,Houston TexansHouston,372,1,1,2014
+1,0,0,2,@Stl,246,6,25.00,DST,72,5.0,0,Minnesota VikingsMinnesota,318,1,1,2014
+2,0,1,3,@Dal,255,17,21.00,DST,127,3.0,0,San Francisco 49ersSan Francisco,382,1,1,2014
+3,1,1,0,Jax,242,17,17.00,DST,64,3.0,0,Philadelphia EaglesPhiladelphia,306,1,1,2014
+4,0,0,3,@KC,178,10,17.00,DST,67,4.0,0,Tennessee TitansTennessee,245,0,1,2014
+5,1,2,0,NE,226,20,14.00,DST,89,4.0,0,Miami DolphinsMiami,315,0,1,2014
+6,0,1,2,@TB,162,14,13.00,DST,102,3.0,0,Carolina PanthersCarolina,264,0,1,2014
+7,0,1,2,@Chi,341,20,12.00,DST,86,2.0,0,Buffalo BillsBuffalo,427,0,1,2014
+8,1,2,0,@Ari,294,18,12.00,DST,109,2.0,0,San Diego ChargersSan Diego,403,0,1,2014
+9,0,1,1,@Bal,329,16,11.00,DST,94,3.0,0,Cincinnati BengalsCincinnati,423,0,1,2014
+10,0,2,1,@Phi,275,34,11.00,DST,145,5.0,0,Jacksonville JaguarsJacksonville,420,0,1,2014
+11,0,0,1,GB,175,16,11.00,DST,80,3.0,1,Seattle SeahawksSeattle,255,0,1,2014
+12,0,0,2,NYG,144,14,10.00,DST,53,2.0,0,Detroit LionsDetroit,197,0,1,2014
+13,0,1,1,@NYJ,190,19,10.00,DST,212,2.0,0,Oakland RaidersOakland,402,0,1,2014
+14,0,0,2,Ind,354,24,8.00,DST,54,3.0,0,Denver BroncosDenver,408,0,1,2014
+15,0,2,1,@Mia,169,33,7.00,DST,191,1.0,0,New England PatriotsNew England,360,0,1,2014
+16,0,0,1,SD,238,17,6.00,DST,52,0.0,0,Arizona CardinalsArizona,290,0,1,2014
+17,0,0,0,Oak,133,14,6.00,DST,25,2.0,0,New York JetsNY Jets,158,0,1,2014
+18,0,1,0,@Hou,206,17,6.00,DST,115,0.0,0,Washington RedskinsWashington,321,0,1,2014
+19,0,0,1,@Pit,376,30,5.00,DST,127,3.0,0,Cleveland BrownsCleveland,503,0,1,2014
+20,0,0,0,Ten,243,26,5.00,DST,162,4.0,0,Kansas City ChiefsKansas City,405,0,1,2014
+21,0,0,0,Car,221,20,5.00,DST,113,1.0,0,Tampa Bay BuccaneersTampa Bay,334,0,1,2014
+22,0,1,1,NO,333,34,4.00,DST,139,0.0,0,Atlanta FalconsAtlanta,472,0,1,2014
+23,0,0,1,Buf,167,23,4.00,DST,193,1.0,0,Chicago BearsChicago,360,0,1,2014
+24,0,0,0,Cle,198,27,4.00,DST,191,3.0,0,Pittsburgh SteelersPittsburgh,389,0,1,2014
+25,1,0,0,Cin,301,23,3.00,DST,79,0.0,0,Baltimore RavensBaltimore,380,0,1,2014
+26,0,1,0,@Sea,191,36,3.00,DST,207,1.0,0,Green Bay PackersGreen Bay,398,0,1,2014
+27,0,1,0,@Atl,445,37,3.00,DST,123,1.0,0,New Orleans SaintsNew Orleans,568,0,1,2014
+28,0,0,0,SF,192,28,1.00,DST,127,1.0,0,Dallas CowboysDallas,319,0,1,2014
+29,0,0,0,@Den,259,31,1.00,DST,102,1.0,0,Indianapolis ColtsIndianapolis,361,0,1,2014
+30,0,0,0,@Det,341,35,1.00,DST,76,1.0,0,New York GiantsNY Giants,417,0,1,2014
+31,0,0,0,Min,170,34,0.00,DST,185,0.0,0,St. Louis RamsSt. Louis,355,0,1,2014
+32,1,0,4,@Min,163,7,29.00,DST,54,6.0,0,New England PatriotsNew England,217,1,2,2014
+33,1,1,1,Mia,210,10,23.00,DST,80,4.0,0,Buffalo BillsBuffalo,290,1,2,2014
+34,0,2,2,@NYG,260,14,20.00,DST,81,2.0,0,Arizona CardinalsArizona,341,1,2,2014
+35,0,0,1,Jax,123,10,19.00,DST,25,10.0,0,Washington RedskinsWashington,148,0,2,2014
+36,0,2,1,Pit,202,6,18.00,DST,99,2.0,0,Baltimore RavensBaltimore,301,0,2,2014
+37,0,2,1,Det,253,7,17.00,DST,70,4.0,0,Carolina PanthersCarolina,323,0,2,2014
+38,0,1,3,@SF,232,20,16.00,DST,127,4.0,0,Chicago BearsChicago,359,0,2,2014
+39,0,0,3,Atl,212,10,15.00,DST,97,2.0,0,Cincinnati BengalsCincinnati,309,0,2,2014
+40,0,1,1,NO,223,24,13.00,DST,174,2.0,0,Cleveland BrownsCleveland,397,1,2,2014
+41,0,0,2,@Ten,232,10,13.00,DST,82,2.0,0,Dallas CowboysDallas,314,0,2,2014
+42,0,2,2,@Oak,263,14,12.00,DST,101,0.0,0,Houston TexansHouston,364,0,2,2014
+43,2,0,1,@TB,175,17,11.00,DST,157,1.0,0,St. Louis RamsSt. Louis,332,0,2,2014
+44,0,1,0,Stl,220,19,8.00,DST,119,2.0,0,Tampa Bay BuccaneersTampa Bay,339,0,2,2014
+45,0,1,0,Dal,148,26,7.00,DST,220,4.0,0,Tennessee TitansTennessee,368,0,2,2014
+46,0,0,0,KC,247,17,6.00,DST,133,2.0,0,Denver BroncosDenver,380,0,2,2014
+47,0,1,0,@GB,310,31,6.00,DST,80,4.0,0,New York JetsNY Jets,390,0,2,2014
+48,0,0,0,@Car,251,24,5.00,DST,62,4.0,0,Detroit LionsDetroit,313,0,2,2014
+49,0,0,1,NYJ,166,24,5.00,DST,147,2.0,0,Green Bay PackersGreen Bay,313,0,2,2014
+50,0,0,0,Ari,142,25,5.00,DST,124,4.0,0,New York GiantsNY Giants,266,0,2,2014
+51,0,1,1,@Ind,172,27,5.00,DST,169,0.0,0,Philadelphia EaglesPhiladelphia,341,0,2,2014
+52,0,1,0,Sea,180,21,5.00,DST,108,2.0,0,San Diego ChargersSan Diego,288,0,2,2014
+53,0,0,0,@Was,258,41,3.00,DST,191,3.0,0,Jacksonville JaguarsJacksonville,449,0,2,2014
+54,1,0,0,Chi,170,28,3.00,DST,46,1.0,0,San Francisco 49ersSan Francisco,216,0,2,2014
+55,0,0,1,Phi,331,30,2.00,DST,127,0.0,0,Indianapolis ColtsIndianapolis,458,0,2,2014
+56,0,0,0,@Den,237,24,2.00,DST,88,1.0,0,Kansas City ChiefsKansas City,325,0,2,2014
+57,0,0,0,@Cle,202,26,2.00,DST,122,1.0,0,New Orleans SaintsNew Orleans,324,0,2,2014
+58,1,0,0,Hou,139,30,2.00,DST,188,0.0,0,Oakland RaidersOakland,327,0,2,2014
+59,0,0,0,@Cin,302,24,1.00,DST,170,0.0,0,Atlanta FalconsAtlanta,472,0,2,2014
+60,0,0,0,NE,142,30,1.00,DST,150,1.0,0,Minnesota VikingsMinnesota,292,0,2,2014
+61,0,0,0,@Bal,166,26,1.00,DST,157,0.0,0,Pittsburgh SteelersPittsburgh,323,0,2,2014
+62,0,0,0,@SD,276,30,1.00,DST,101,1.0,0,Seattle SeahawksSeattle,377,0,2,2014
+63,0,0,0,@Buf,202,29,0.00,DST,113,0.0,0,Miami DolphinsMiami,315,0,2,2014
+64,0,4,1,TB,153,14,29.00,DST,64,3.0,0,Atlanta FalconsAtlanta,217,2,3,2014
+65,0,1,2,@Jax,239,17,20.00,DST,105,4.0,0,Indianapolis ColtsIndianapolis,344,1,3,2014
+66,0,1,2,@NYJ,300,19,19.00,DST,114,3.0,0,Chicago BearsChicago,414,1,3,2014
+67,0,1,0,GB,147,7,19.00,DST,76,2.0,1,Detroit LionsDetroit,223,1,3,2014
+68,0,2,0,@Car,307,19,17.00,DST,42,3.0,0,Pittsburgh SteelersPittsburgh,349,1,3,2014
+69,0,0,2,Ten,177,7,15.00,DST,149,2.0,1,Cincinnati BengalsCincinnati,326,0,3,2014
+70,0,3,1,@Atl,344,56,15.00,DST,144,1.0,0,Tampa Bay BuccaneersTampa Bay,488,1,3,2014
+71,1,0,3,Hou,292,17,14.00,DST,119,2.0,0,New York GiantsNY Giants,411,0,3,2014
+72,0,1,2,@Stl,327,31,12.00,DST,121,0.0,0,Dallas CowboysDallas,448,1,3,2014
+73,0,1,2,@Det,238,19,12.00,DST,115,2.0,0,Green Bay PackersGreen Bay,353,0,3,2014
+74,0,0,0,@Buf,205,10,12.00,DST,87,3.0,1,San Diego ChargersSan Diego,292,0,3,2014
+75,0,2,0,KC,168,34,11.00,DST,174,5.0,1,Miami DolphinsMiami,342,0,3,2014
+76,1,0,1,@Sea,255,26,10.00,DST,129,3.0,1,Denver BroncosDenver,384,0,3,2014
+77,0,1,1,Dal,217,34,10.00,DST,123,0.0,0,St. Louis RamsSt. Louis,340,1,3,2014
+78,0,0,1,Oak,174,9,9.00,DST,67,0.0,0,New England PatriotsNew England,241,0,3,2014
+79,0,0,0,Min,188,9,9.00,DST,59,2.0,0,New Orleans SaintsNew Orleans,247,0,3,2014
+80,0,1,1,Den,296,20,9.00,DST,36,1.0,0,Seattle SeahawksSeattle,332,0,3,2014
+81,0,0,0,@Mia,191,15,8.00,DST,141,4.0,0,Kansas City ChiefsKansas City,332,0,3,2014
+82,0,0,1,Was,427,34,8.00,DST,84,0.0,0,Philadelphia EaglesPhiladelphia,511,1,3,2014
+83,1,0,0,SF,236,14,7.00,DST,82,1.0,0,Arizona CardinalsArizona,318,0,3,2014
+84,1,0,0,@NO,288,20,7.00,DST,108,1.0,0,Minnesota VikingsMinnesota,396,0,3,2014
+85,0,1,0,Chi,197,27,7.00,DST,60,4.0,0,New York JetsNY Jets,257,0,3,2014
+86,0,0,0,@NE,221,16,6.00,DST,76,2.0,0,Oakland RaidersOakland,297,0,3,2014
+87,1,0,0,@Cle,290,21,3.00,DST,85,0.0,0,Baltimore RavensBaltimore,375,0,3,2014
+88,0,0,0,SD,250,22,3.00,DST,83,2.0,0,Buffalo BillsBuffalo,333,0,3,2014
+89,0,0,1,Bal,217,23,3.00,DST,160,0.0,0,Cleveland BrownsCleveland,377,0,3,2014
+90,0,1,0,@NYG,226,30,3.00,DST,193,1.0,0,Houston TexansHouston,419,0,3,2014
+91,0,1,0,@Ari,254,23,3.00,DST,84,0.0,0,San Francisco 49ersSan Francisco,338,0,3,2014
+92,0,0,0,Ind,385,44,2.00,DST,144,2.0,0,Jacksonville JaguarsJacksonville,529,0,3,2014
+93,0,0,1,@Cin,184,33,2.00,DST,116,0.0,0,Tennessee TitansTennessee,300,0,3,2014
+94,0,1,0,@Phi,325,37,2.00,DST,54,0.0,0,Washington RedskinsWashington,379,0,3,2014
+95,0,0,0,Pit,190,37,1.00,DST,264,1.0,0,Carolina PanthersCarolina,454,0,3,2014
+96,1,0,1,@SF,189,26,27.00,DST,218,4.0,0,Philadelphia EaglesPhiladelphia,407,3,4,2014
+97,0,1,3,@Oak,264,14,20.00,DST,53,2.0,0,Miami DolphinsMiami,317,1,4,2014
+98,0,1,2,NE,215,14,19.00,DST,75,3.0,0,Kansas City ChiefsKansas City,290,1,4,2014
+99,0,2,4,@Was,243,14,18.00,DST,86,2.0,0,New York GiantsNY Giants,329,0,4,2014
+100,0,0,2,Buf,220,17,16.00,DST,96,2.0,0,Houston TexansHouston,316,1,4,2014
+101,0,1,2,Ten,176,17,13.00,DST,85,3.0,0,Indianapolis ColtsIndianapolis,261,0,4,2014
+102,0,1,2,Jax,235,14,13.00,DST,85,3.0,0,San Diego ChargersSan Diego,320,0,4,2014
+103,0,2,1,NO,334,17,12.00,DST,104,2.0,0,Dallas CowboysDallas,438,0,4,2014
+104,0,1,0,Car,248,10,11.00,DST,67,2.0,0,Baltimore RavensBaltimore,315,0,4,2014
+105,0,1,2,@Hou,264,23,10.00,DST,37,3.0,0,Buffalo BillsBuffalo,301,0,4,2014
+106,0,1,1,@NYJ,204,17,10.00,DST,132,2.0,0,Detroit LionsDetroit,336,0,4,2014
+107,0,2,2,Phi,191,21,10.00,DST,22,1.0,0,San Francisco 49ersSan Francisco,213,0,4,2014
+108,0,0,2,@Chi,261,17,9.00,DST,235,1.0,0,Green Bay PackersGreen Bay,496,0,4,2014
+109,0,1,0,@Pit,305,24,8.00,DST,85,5.0,0,Tampa Bay BuccaneersTampa Bay,390,0,4,2014
+110,0,2,1,Mia,278,38,6.00,DST,157,0.0,0,Oakland RaidersOakland,435,0,4,2014
+111,0,0,2,Atl,288,28,5.00,DST,123,1.0,0,Minnesota VikingsMinnesota,411,0,4,2014
+112,0,0,0,Det,272,24,5.00,DST,88,4.0,0,New York JetsNY Jets,360,0,4,2014
+113,0,0,1,TB,287,27,4.00,DST,63,1.0,0,Pittsburgh SteelersPittsburgh,350,0,4,2014
+114,1,0,0,GB,302,38,3.00,DST,56,1.0,0,Chicago BearsChicago,358,0,4,2014
+115,0,0,1,NYG,295,45,3.00,DST,154,1.0,0,Washington RedskinsWashington,449,0,4,2014
+116,0,0,0,@SD,365,33,2.00,DST,42,2.0,0,Jacksonville JaguarsJacksonville,407,0,4,2014
+117,0,0,0,@KC,236,41,2.00,DST,207,2.0,0,New England PatriotsNew England,443,0,4,2014
+118,0,0,1,@Ind,393,41,2.00,DST,105,0.0,0,Tennessee TitansTennessee,498,0,4,2014
+119,0,0,0,@Dal,255,38,1.00,DST,190,1.0,0,New Orleans SaintsNew Orleans,445,0,4,2014
+120,0,0,0,@Min,317,41,0.00,DST,241,0.0,0,Atlanta FalconsAtlanta,558,0,4,2014
+121,0,0,0,@Bal,327,38,0.00,DST,127,0.0,0,Carolina PanthersCarolina,454,0,4,2014
+122,0,1,2,Min,188,10,25.00,DST,111,6.0,0,Green Bay PackersGreen Bay,299,1,5,2014
+123,1,3,0,Stl,341,28,24.00,DST,125,4.0,0,Philadelphia EaglesPhiladelphia,466,2,5,2014
+124,0,2,2,Chi,262,24,19.00,DST,85,4.0,0,Carolina PanthersCarolina,347,1,5,2014
+125,0,0,2,@Jax,187,9,18.00,DST,56,1.0,0,Pittsburgh SteelersPittsburgh,243,1,5,2014
+126,0,2,1,Bal,197,13,17.00,DST,90,4.0,0,Indianapolis ColtsIndianapolis,287,0,5,2014
+127,0,3,0,Cin,241,17,17.00,DST,79,1.0,0,New England PatriotsNew England,320,1,5,2014
+128,0,1,1,NYJ,60,0,16.00,DST,91,2.0,0,San Diego ChargersSan Diego,151,0,5,2014
+129,0,1,1,@Det,204,14,14.00,DST,69,6.0,0,Buffalo BillsBuffalo,273,0,5,2014
+130,0,0,1,Buf,294,17,14.00,DST,49,2.0,0,Detroit LionsDetroit,343,1,5,2014
+131,0,2,2,@Ind,305,20,13.00,DST,127,1.0,0,Baltimore RavensBaltimore,432,0,5,2014
+132,0,0,3,@NO,371,37,12.00,DST,140,0.0,0,Tampa Bay BuccaneersTampa Bay,511,1,5,2014
+133,0,2,1,@Dal,316,20,11.00,DST,140,1.0,0,Houston TexansHouston,456,0,5,2014
+134,0,1,0,Pit,261,17,10.00,DST,111,4.0,0,Jacksonville JaguarsJacksonville,372,0,5,2014
+135,0,2,1,@Car,231,31,8.00,DST,91,2.0,0,Chicago BearsChicago,322,0,5,2014
+136,1,0,0,@Ten,261,28,7.00,DST,149,3.0,1,Cleveland BrownsCleveland,410,0,5,2014
+137,0,0,0,Ari,178,20,7.00,DST,37,3.0,0,Denver BroncosDenver,215,0,5,2014
+138,0,0,1,Atl,307,20,7.00,DST,90,1.0,0,New York GiantsNY Giants,397,0,5,2014
+139,0,0,1,Hou,154,17,6.00,DST,176,0.0,0,Dallas CowboysDallas,330,0,5,2014
+140,0,0,1,KC,158,17,6.00,DST,107,0.0,0,San Francisco 49ersSan Francisco,265,0,5,2014
+141,0,2,1,@Phi,207,34,6.00,DST,145,0.0,0,St. Louis RamsSt. Louis,352,0,5,2014
+142,0,0,2,@Den,476,41,5.00,DST,92,1.0,0,Arizona CardinalsArizona,568,0,5,2014
+143,0,2,0,@NYG,193,30,5.00,DST,124,1.0,0,Atlanta FalconsAtlanta,317,0,5,2014
+144,0,0,1,TB,248,31,5.00,DST,66,1.0,1,New Orleans SaintsNew Orleans,314,0,5,2014
+145,0,0,1,@SD,277,31,5.00,DST,162,3.0,0,New York JetsNY Jets,439,0,5,2014
+146,0,0,0,@Was,275,17,5.00,DST,32,1.0,0,Seattle SeahawksSeattle,307,0,5,2014
+147,0,0,0,@SF,186,22,4.00,DST,171,3.0,0,Kansas City ChiefsKansas City,357,0,5,2014
+148,0,0,1,@GB,164,42,4.00,DST,156,2.0,0,Minnesota VikingsMinnesota,320,0,5,2014
+149,0,0,0,Sea,178,27,4.00,DST,225,3.0,0,Washington RedskinsWashington,403,0,5,2014
+150,0,0,1,Cle,284,29,3.00,DST,176,1.0,0,Tennessee TitansTennessee,460,0,5,2014
+151,0,0,0,@NE,285,43,1.00,DST,220,1.0,0,Cincinnati BengalsCincinnati,505,0,5,2014
+152,0,0,3,@Min,143,3,24.00,DST,69,8.0,0,Detroit LionsDetroit,212,0,6,2014
+153,0,1,3,Was,335,20,20.00,DST,72,2.0,0,Arizona CardinalsArizona,407,1,6,2014
+154,0,1,0,NYG,168,0,20.00,DST,86,8.0,0,Philadelphia EaglesPhiladelphia,254,0,6,2014
+155,0,1,1,@NYJ,173,17,18.00,DST,31,4.0,0,Denver BroncosDenver,204,1,6,2014
+156,0,0,1,@Stl,216,17,17.00,DST,93,5.0,0,San Francisco 49ersSan Francisco,309,1,6,2014
+157,1,1,1,Jax,297,14,16.00,DST,82,6.0,0,Tennessee TitansTennessee,379,0,6,2014
+158,0,0,1,@Atl,245,13,13.00,DST,42,4.0,0,Chicago BearsChicago,287,0,6,2014
+159,0,1,1,Ind,363,33,13.00,DST,93,3.0,0,Houston TexansHouston,456,1,6,2014
+160,1,2,0,Dal,239,30,13.00,DST,162,1.0,0,Seattle SeahawksSeattle,401,1,6,2014
+161,0,2,1,@Buf,268,22,12.00,DST,68,5.0,0,New England PatriotsNew England,336,0,6,2014
+162,0,0,1,@TB,277,17,11.00,DST,87,5.0,0,Baltimore RavensBaltimore,364,0,6,2014
+163,0,0,1,Pit,221,10,11.00,DST,138,2.0,0,Cleveland BrownsCleveland,359,0,6,2014
+164,0,2,0,@Hou,196,28,9.00,DST,136,5.0,0,Indianapolis ColtsIndianapolis,332,0,6,2014
+165,0,1,2,@Mia,237,24,8.00,DST,112,1.0,0,Green Bay PackersGreen Bay,349,0,6,2014
+166,0,0,0,Det,155,17,8.00,DST,100,4.0,0,Minnesota VikingsMinnesota,255,0,6,2014
+167,0,0,0,@Ten,220,16,7.00,DST,70,3.0,0,Jacksonville JaguarsJacksonville,290,0,6,2014
+168,1,0,0,GB,248,27,6.00,DST,121,3.0,0,Miami DolphinsMiami,369,0,6,2014
+169,0,0,2,@Phi,245,27,6.00,DST,203,1.0,0,New York GiantsNY Giants,448,0,6,2014
+170,1,0,0,Chi,375,27,5.00,DST,103,2.0,0,Atlanta FalconsAtlanta,478,0,6,2014
+171,0,0,2,@Cin,320,37,5.00,DST,193,1.0,0,Carolina PanthersCarolina,513,0,6,2014
+172,0,0,1,@Sea,126,23,5.00,DST,80,2.0,0,Dallas CowboysDallas,206,0,6,2014
+173,1,1,0,Bal,306,48,4.00,DST,169,0.0,0,Tampa Bay BuccaneersTampa Bay,475,0,6,2014
+174,0,1,0,@Cle,210,31,3.00,DST,158,1.0,0,Pittsburgh SteelersPittsburgh,368,0,6,2014
+175,0,0,0,NE,346,37,2.00,DST,50,2.0,0,Buffalo BillsBuffalo,396,0,6,2014
+176,0,0,1,Car,284,37,2.00,DST,147,0.0,0,Cincinnati BengalsCincinnati,431,0,6,2014
+177,0,0,0,Den,221,31,2.00,DST,138,2.0,0,New York JetsNY Jets,359,0,6,2014
+178,0,0,1,@Oak,282,28,2.00,DST,114,0.0,0,San Diego ChargersSan Diego,396,0,6,2014
+179,0,1,0,SF,343,31,2.00,DST,89,0.0,0,St. Louis RamsSt. Louis,432,0,6,2014
+180,0,0,0,SD,307,31,1.00,DST,116,1.0,0,Oakland RaidersOakland,423,0,6,2014
+181,0,0,0,@Ari,243,30,1.00,DST,74,1.0,0,Washington RedskinsWashington,317,0,6,2014
+182,0,2,1,Cle,197,6,19.00,DST,69,3.0,0,Jacksonville JaguarsJacksonville,266,0,7,2014
+183,0,3,1,@Buf,255,17,18.00,DST,118,6.0,0,Minnesota VikingsMinnesota,373,0,7,2014
+184,0,1,0,Atl,186,7,16.00,DST,68,5.0,1,Baltimore RavensBaltimore,254,0,7,2014
+185,0,0,0,Cin,103,0,14.00,DST,32,4.0,0,Indianapolis ColtsIndianapolis,135,0,7,2014
+186,0,0,2,Min,118,16,13.00,DST,158,5.0,0,Buffalo BillsBuffalo,276,0,7,2014
+187,0,2,1,@Chi,172,14,13.00,DST,52,3.0,0,Miami DolphinsMiami,224,0,7,2014
+188,0,0,1,SF,248,17,12.00,DST,62,6.0,0,Denver BroncosDenver,310,0,7,2014
+189,0,1,1,@Was,251,19,11.00,DST,100,3.0,0,Tennessee TitansTennessee,351,0,7,2014
+190,0,0,0,Sea,292,26,10.00,DST,171,3.0,0,St. Louis RamsSt. Louis,463,1,7,2014
+191,0,0,3,@Jax,151,24,9.00,DST,185,2.0,0,Cleveland BrownsCleveland,336,0,7,2014
+192,0,0,1,Car,223,17,9.00,DST,108,3.0,0,Green Bay PackersGreen Bay,331,0,7,2014
+193,0,1,1,Ten,160,17,9.00,DST,76,1.0,0,Washington RedskinsWashington,236,0,7,2014
+194,0,0,0,@Oak,164,13,8.00,DST,56,1.0,0,Arizona CardinalsArizona,220,0,7,2014
+195,0,0,1,@SD,182,20,8.00,DST,69,2.0,0,Kansas City ChiefsKansas City,251,0,7,2014
+196,0,0,2,@Det,285,24,8.00,DST,59,3.0,0,New Orleans SaintsNew Orleans,344,0,7,2014
+197,0,2,1,Hou,261,23,8.00,DST,132,1.0,0,Pittsburgh SteelersPittsburgh,393,0,7,2014
+198,0,1,2,@Bal,248,29,7.00,DST,123,1.0,0,Atlanta FalconsAtlanta,371,0,7,2014
+199,1,0,0,Mia,256,27,7.00,DST,137,4.0,0,Chicago BearsChicago,393,0,7,2014
+200,0,2,0,@Ind,335,27,7.00,DST,171,2.0,0,Cincinnati BengalsCincinnati,506,0,7,2014
+201,0,1,1,NO,335,23,6.00,DST,73,1.0,0,Detroit LionsDetroit,408,0,7,2014
+202,1,0,0,NYJ,205,25,6.00,DST,218,3.0,0,New England PatriotsNew England,423,0,7,2014
+203,0,2,0,NYG,248,21,5.00,DST,104,0.0,0,Dallas CowboysDallas,352,0,7,2014
+204,0,1,0,@Pit,252,30,5.00,DST,76,3.0,0,Houston TexansHouston,328,0,7,2014
+205,0,0,1,@Dal,267,31,4.00,DST,156,2.0,0,New York GiantsNY Giants,423,0,7,2014
+206,0,0,1,Ari,242,24,4.00,DST,123,1.0,0,Oakland RaidersOakland,365,0,7,2014
+207,0,0,0,KC,211,23,4.00,DST,154,3.0,0,San Diego ChargersSan Diego,365,0,7,2014
+208,0,0,0,@GB,241,38,2.00,DST,122,2.0,0,Carolina PanthersCarolina,363,0,7,2014
+209,0,0,0,@NE,260,27,2.00,DST,63,1.0,0,New York JetsNY Jets,323,0,7,2014
+210,0,0,0,@Den,304,42,2.00,DST,115,2.0,0,San Francisco 49ersSan Francisco,419,0,7,2014
+211,0,0,0,@Stl,173,28,0.00,DST,102,0.0,0,Seattle SeahawksSeattle,275,0,7,2014
+212,1,1,2,@Jax,201,13,31.00,DST,176,4.0,0,Miami DolphinsMiami,377,2,8,2014
+213,0,0,1,Stl,116,7,22.00,DST,84,7.0,0,Kansas City ChiefsKansas City,200,1,8,2014
+214,0,1,1,@TB,159,13,22.00,DST,66,5.0,0,Minnesota VikingsMinnesota,225,1,8,2014
+215,0,2,4,@NYJ,137,23,17.00,DST,175,4.0,0,Buffalo BillsBuffalo,312,0,8,2014
+216,0,2,1,Oak,311,13,17.00,DST,76,4.0,0,Cleveland BrownsCleveland,387,0,8,2014
+217,0,1,1,Chi,231,23,14.00,DST,153,3.0,0,New England PatriotsNew England,384,1,8,2014
+218,0,0,2,Ind,385,34,14.00,DST,63,2.0,1,Pittsburgh SteelersPittsburgh,448,1,8,2014
+219,0,1,1,@Car,152,9,14.00,DST,114,3.0,0,Seattle SeahawksSeattle,266,0,8,2014
+220,0,2,0,@Dal,224,17,13.00,DST,171,5.0,0,Washington RedskinsWashington,395,0,8,2014
+221,0,1,1,Sea,191,13,12.00,DST,119,1.0,0,Carolina PanthersCarolina,310,0,8,2014
+222,0,1,2,GB,402,23,11.00,DST,89,4.0,0,New Orleans SaintsNew Orleans,491,0,8,2014
+223,0,1,2,Phi,411,20,10.00,DST,110,0.0,0,Arizona CardinalsArizona,521,0,8,2014
+224,0,1,1,@Ten,290,16,10.00,DST,36,2.0,0,Houston TexansHouston,326,0,8,2014
+225,0,0,1,Was,286,20,9.00,DST,123,3.0,0,Dallas CowboysDallas,409,0,8,2014
+226,0,1,1,@Cin,239,27,7.00,DST,111,2.0,0,Baltimore RavensBaltimore,350,0,8,2014
+227,0,0,2,SD,245,21,7.00,DST,61,2.0,0,Denver BroncosDenver,306,0,8,2014
+228,0,0,2,Bal,187,24,6.00,DST,107,1.0,0,Cincinnati BengalsCincinnati,294,0,8,2014
+229,1,2,0,@Pit,522,51,6.00,DST,117,0.0,0,Indianapolis ColtsIndianapolis,639,0,8,2014
+230,0,0,1,Mia,178,27,6.00,DST,148,3.0,0,Jacksonville JaguarsJacksonville,326,0,8,2014
+231,0,0,1,@Atl,213,21,5.00,DST,78,2.0,0,Detroit LionsDetroit,291,0,8,2014
+232,0,0,0,Min,235,19,5.00,DST,97,1.0,0,Tampa Bay BuccaneersTampa Bay,332,0,8,2014
+233,0,0,0,Hou,193,30,5.00,DST,212,5.0,0,Tennessee TitansTennessee,405,0,8,2014
+234,0,1,0,@NO,302,44,4.00,DST,193,2.0,0,Green Bay PackersGreen Bay,495,0,8,2014
+235,0,0,0,Buf,213,43,4.00,DST,67,4.0,0,New York JetsNY Jets,280,0,8,2014
+236,0,1,0,@KC,215,34,4.00,DST,140,2.0,0,St. Louis RamsSt. Louis,355,0,8,2014
+237,0,0,1,Det,325,22,3.00,DST,60,0.0,0,Atlanta FalconsAtlanta,385,0,8,2014
+238,0,1,0,@Ari,329,24,3.00,DST,71,0.0,0,Philadelphia EaglesPhiladelphia,400,0,8,2014
+239,0,0,0,@Cle,267,23,2.00,DST,39,1.0,0,Oakland RaidersOakland,306,0,8,2014
+240,0,0,0,@NE,365,51,1.00,DST,122,1.0,0,Chicago BearsChicago,487,0,8,2014
+241,0,0,0,@Den,286,35,0.00,DST,139,0.0,0,San Diego ChargersSan Diego,425,0,8,2014
+242,0,1,3,SD,128,0,22.00,DST,50,4.0,0,Miami DolphinsMiami,178,0,9,2014
+243,0,2,0,@SF,183,10,19.00,DST,80,8.0,0,St. Louis RamsSt. Louis,263,0,9,2014
+244,0,1,3,Phi,293,31,18.00,DST,190,4.0,0,Houston TexansHouston,483,1,9,2014
+245,0,1,1,@Car,122,10,15.00,DST,109,4.0,0,New Orleans SaintsNew Orleans,231,0,9,2014
+246,0,1,2,Oak,189,24,14.00,DST,37,1.0,0,Seattle SeahawksSeattle,226,1,9,2014
+247,1,0,2,TB,252,17,12.00,DST,113,2.0,0,Cleveland BrownsCleveland,365,0,9,2014
+248,0,0,2,Den,429,21,12.00,DST,43,1.0,0,New England PatriotsNew England,472,1,9,2014
+249,0,0,2,Stl,102,13,12.00,DST,91,1.0,0,San Francisco 49ersSan Francisco,193,0,9,2014
+250,1,0,2,@Dal,174,17,11.00,DST,92,1.0,0,Arizona CardinalsArizona,266,0,9,2014
+251,0,1,0,@Pit,321,43,11.00,DST,55,3.0,0,Baltimore RavensBaltimore,376,1,9,2014
+252,0,0,1,Ari,237,28,10.00,DST,102,2.0,0,Dallas CowboysDallas,339,1,9,2014
+253,0,0,0,NYJ,225,10,10.00,DST,139,3.0,0,Kansas City ChiefsKansas City,364,0,9,2014
+254,1,0,1,Jax,233,23,9.00,DST,132,2.0,1,Cincinnati BengalsCincinnati,365,0,9,2014
+255,1,0,0,@Sea,177,30,9.00,DST,149,1.0,0,Oakland RaidersOakland,326,1,9,2014
+256,0,1,1,Bal,269,23,9.00,DST,63,4.0,0,Pittsburgh SteelersPittsburgh,332,0,9,2014
+257,0,0,2,@Cle,274,22,9.00,DST,56,4.0,0,Tampa Bay BuccaneersTampa Bay,330,0,9,2014
+258,0,1,1,NO,270,28,8.00,DST,105,4.0,0,Carolina PanthersCarolina,375,0,9,2014
+259,0,0,1,Was,225,26,8.00,DST,122,5.0,0,Minnesota VikingsMinnesota,347,0,9,2014
+260,0,0,1,@Hou,182,21,7.00,DST,118,4.0,0,Philadelphia EaglesPhiladelphia,300,0,9,2014
+261,0,1,0,@NYG,349,24,6.00,DST,89,3.0,0,Indianapolis ColtsIndianapolis,438,0,9,2014
+262,0,0,2,@Cin,232,33,6.00,DST,191,2.0,0,Jacksonville JaguarsJacksonville,423,0,9,2014
+263,0,0,1,@NE,332,43,3.00,DST,66,1.0,0,Denver BroncosDenver,398,0,9,2014
+264,0,0,0,@KC,196,24,2.00,DST,113,1.0,0,New York JetsNY Jets,309,0,9,2014
+265,0,0,0,@Min,252,29,2.00,DST,100,2.0,0,Washington RedskinsWashington,352,0,9,2014
+266,0,0,0,Ind,345,40,1.00,DST,98,1.0,0,New York GiantsNY Giants,443,0,9,2014
+267,0,0,0,@Mia,309,37,0.00,DST,132,0.0,0,San Diego ChargersSan Diego,441,0,9,2014
+268,0,2,3,Car,215,21,32.00,DST,102,9.0,0,Philadelphia EaglesPhiladelphia,317,2,10,2014
+269,0,1,2,Stl,174,14,28.00,DST,70,6.0,0,Arizona CardinalsArizona,244,2,10,2014
+270,0,1,3,@Cin,79,3,20.00,DST,86,2.0,0,Cleveland BrownsCleveland,165,0,10,2014
+271,0,1,2,Chi,256,14,20.00,DST,55,4.0,0,Green Bay PackersGreen Bay,311,1,10,2014
+272,0,2,2,Pit,326,13,17.00,DST,36,2.0,0,New York JetsNY Jets,362,0,10,2014
+273,0,1,1,Ten,143,7,16.00,DST,67,5.0,0,Baltimore RavensBaltimore,210,0,10,2014
+274,0,1,2,@TB,281,17,14.00,DST,92,4.0,0,Atlanta FalconsAtlanta,373,0,10,2014
+275,0,2,1,@Jax,262,17,14.00,DST,71,4.0,0,Dallas CowboysDallas,333,0,10,2014
+276,0,1,0,KC,151,17,12.00,DST,127,6.0,0,Buffalo BillsBuffalo,278,0,10,2014
+277,0,2,0,@Buf,253,13,12.00,DST,111,1.0,0,Kansas City ChiefsKansas City,364,0,10,2014
+278,0,1,1,Mia,178,16,11.00,DST,50,3.0,0,Detroit LionsDetroit,228,0,10,2014
+279,1,0,1,@Det,288,20,11.00,DST,63,3.0,0,Miami DolphinsMiami,351,0,10,2014
+280,0,1,2,@Oak,192,17,10.00,DST,30,0.0,0,Denver BroncosDenver,222,0,10,2014
+281,0,1,1,NYG,270,17,10.00,DST,54,2.0,0,Seattle SeahawksSeattle,324,0,10,2014
+282,0,1,2,@NO,287,24,9.00,DST,136,2.0,0,San Francisco 49ersSan Francisco,423,0,10,2014
+283,0,1,0,@GB,319,55,8.00,DST,132,0.0,0,Chicago BearsChicago,451,1,10,2014
+284,0,1,2,@Sea,160,38,8.00,DST,350,2.0,0,New York GiantsNY Giants,510,0,10,2014
+285,0,0,0,@NYJ,125,20,8.00,DST,150,4.0,0,Pittsburgh SteelersPittsburgh,275,0,10,2014
+286,0,1,0,SF,186,27,7.00,DST,144,4.0,0,New Orleans SaintsNew Orleans,330,0,10,2014
+287,0,1,0,Dal,248,31,5.00,DST,151,1.0,1,Jacksonville JaguarsJacksonville,399,0,10,2014
+288,0,0,1,@Ari,307,31,5.00,DST,28,3.0,0,St. Louis RamsSt. Louis,335,0,10,2014
+289,0,0,2,Den,353,41,4.00,DST,118,0.0,0,Oakland RaidersOakland,471,0,10,2014
+290,0,1,0,Cle,198,24,3.00,DST,170,0.0,0,Cincinnati BengalsCincinnati,368,0,10,2014
+291,0,0,0,Atl,212,27,2.00,DST,110,1.0,0,Tampa Bay BuccaneersTampa Bay,322,0,10,2014
+292,0,0,0,@Bal,161,21,2.00,DST,151,1.0,0,Tennessee TitansTennessee,312,0,10,2014
+293,0,0,0,@Phi,328,45,1.00,DST,37,1.0,0,Carolina PanthersCarolina,365,0,10,2014
+294,0,2,2,Phi,320,20,33.00,DST,109,3.0,0,Green Bay PackersGreen Bay,429,3,11,2014
+295,0,1,2,@Was,167,7,25.00,DST,155,6.0,0,Tampa Bay BuccaneersTampa Bay,322,1,11,2014
+296,0,0,5,@NYG,265,10,19.00,DST,65,2.0,0,San Francisco 49ersSan Francisco,330,0,11,2014
+297,0,0,1,Det,164,6,16.00,DST,98,4.0,0,Arizona CardinalsArizona,262,0,11,2014
+298,0,1,1,@Cle,310,7,14.00,DST,65,3.0,0,Houston TexansHouston,375,0,11,2014
+299,0,1,0,Oak,162,6,14.00,DST,71,2.0,0,San Diego ChargersSan Diego,233,0,11,2014
+300,0,0,2,Den,369,7,13.00,DST,28,2.0,0,St. Louis RamsSt. Louis,397,0,11,2014
+301,1,0,2,@Car,285,17,12.00,DST,106,2.0,0,Atlanta FalconsAtlanta,391,0,11,2014
+302,0,0,1,Min,147,13,11.00,DST,96,2.0,0,Chicago BearsChicago,243,0,11,2014
+303,0,0,0,Buf,183,9,11.00,DST,54,2.0,1,Miami DolphinsMiami,237,0,11,2014
+304,0,2,0,@Mia,205,22,10.00,DST,125,5.0,0,Buffalo BillsBuffalo,330,0,11,2014
+305,0,1,0,@NO,255,10,9.00,DST,75,0.0,0,Cincinnati BengalsCincinnati,330,0,11,2014
+306,0,0,0,@SD,180,13,9.00,DST,120,2.0,0,Oakland RaidersOakland,300,0,11,2014
+307,0,0,1,@Ten,263,24,9.00,DST,49,0.0,0,Pittsburgh SteelersPittsburgh,312,1,11,2014
+308,0,1,0,Atl,260,19,8.00,DST,86,2.0,0,Carolina PanthersCarolina,346,0,11,2014
+309,0,0,2,@Ari,306,14,8.00,DST,46,0.0,0,Detroit LionsDetroit,352,0,11,2014
+310,0,0,1,Pit,180,27,8.00,DST,206,5.0,0,Tennessee TitansTennessee,386,0,11,2014
+311,0,0,1,@Ind,303,20,7.00,DST,19,1.0,0,New England PatriotsNew England,322,0,11,2014
+312,0,1,0,SF,185,16,7.00,DST,148,1.0,0,New York GiantsNY Giants,333,0,11,2014
+313,0,0,0,Sea,168,20,6.00,DST,204,2.0,0,Kansas City ChiefsKansas City,372,0,11,2014
+314,0,0,2,@Chi,330,21,5.00,DST,138,0.0,0,Minnesota VikingsMinnesota,468,0,11,2014
+315,2,0,0,@GB,365,53,5.00,DST,110,1.0,0,Philadelphia EaglesPhiladelphia,475,0,11,2014
+316,0,2,0,@KC,108,24,5.00,DST,190,0.0,0,Seattle SeahawksSeattle,298,0,11,2014
+317,0,1,0,TB,281,27,5.00,DST,48,2.0,0,Washington RedskinsWashington,329,0,11,2014
+318,0,0,0,@Stl,206,22,4.00,DST,131,3.0,0,Denver BroncosDenver,337,0,11,2014
+319,0,0,2,NE,257,42,4.00,DST,246,0.0,0,Indianapolis ColtsIndianapolis,503,0,11,2014
+320,0,0,1,Hou,211,23,3.00,DST,213,0.0,0,Cleveland BrownsCleveland,424,0,11,2014
+321,0,0,0,Cin,219,27,2.00,DST,186,1.0,0,New Orleans SaintsNew Orleans,405,0,11,2014
+322,1,0,1,NYJ,126,3,27.00,DST,92,7.0,0,Buffalo BillsBuffalo,218,1,12,2014
+323,0,2,2,TB,301,13,20.00,DST,66,5.0,0,Chicago BearsChicago,367,0,12,2014
+324,0,1,1,Jax,114,3,18.00,DST,80,4.0,0,Indianapolis ColtsIndianapolis,194,0,12,2014
+325,0,2,1,Ten,299,24,18.00,DST,52,5.0,0,Philadelphia EaglesPhiladelphia,351,1,12,2014
+326,1,0,1,Ari,140,3,17.00,DST,64,3.0,0,Seattle SeahawksSeattle,204,0,12,2014
+327,1,1,2,Stl,210,24,16.00,DST,107,1.0,0,San Diego ChargersSan Diego,317,1,12,2014
+328,0,2,1,@SD,282,27,16.00,DST,128,3.0,0,St. Louis RamsSt. Louis,410,1,12,2014
+329,0,1,0,Was,77,13,14.00,DST,136,5.0,0,San Francisco 49ersSan Francisco,213,0,12,2014
+330,1,0,0,@Sea,169,19,13.00,DST,124,7.0,0,Arizona CardinalsArizona,293,0,12,2014
+331,0,0,1,@NO,399,27,13.00,DST,126,4.0,0,Baltimore RavensBaltimore,525,1,12,2014
+332,0,0,1,@Hou,184,13,12.00,DST,64,1.0,1,Cincinnati BengalsCincinnati,248,0,12,2014
+333,0,3,0,@Ind,214,23,12.00,DST,175,5.0,0,Jacksonville JaguarsJacksonville,389,0,12,2014
+334,0,2,1,@SF,246,17,12.00,DST,66,2.0,0,Washington RedskinsWashington,312,0,12,2014
+335,0,0,1,Det,244,9,11.00,DST,91,2.0,0,New England PatriotsNew England,335,0,12,2014
+336,0,0,1,Cin,233,22,9.00,DST,139,0.0,0,Houston TexansHouston,372,1,12,2014
+337,0,0,3,Cle,313,26,8.00,DST,162,1.0,0,Atlanta FalconsAtlanta,475,0,12,2014
+338,0,1,1,@Atl,252,24,8.00,DST,63,3.0,0,Cleveland BrownsCleveland,315,0,12,2014
+339,0,0,0,KC,217,20,6.00,DST,96,2.0,0,Oakland RaidersOakland,313,0,12,2014
+340,0,1,0,@Chi,112,21,6.00,DST,92,3.0,0,Tampa Bay BuccaneersTampa Bay,204,0,12,2014
+341,0,0,2,@Phi,298,43,6.00,DST,164,2.0,0,Tennessee TitansTennessee,462,0,12,2014
+342,0,0,1,@Min,196,21,5.00,DST,112,2.0,0,Green Bay PackersGreen Bay,308,0,12,2014
+343,0,0,1,@NYG,328,28,4.00,DST,89,2.0,0,Dallas CowboysDallas,417,0,12,2014
+344,0,1,0,@Oak,172,24,4.00,DST,179,1.0,0,Kansas City ChiefsKansas City,351,0,12,2014
+345,0,1,0,Dal,266,31,4.00,DST,119,2.0,0,New York GiantsNY Giants,385,0,12,2014
+346,0,0,1,Mia,216,36,3.00,DST,97,1.0,0,Denver BroncosDenver,313,0,12,2014
+347,0,1,0,@Den,249,39,3.00,DST,201,1.0,0,Miami DolphinsMiami,450,0,12,2014
+348,0,1,0,Bal,234,34,3.00,DST,215,1.0,0,New Orleans SaintsNew Orleans,449,0,12,2014
+349,0,0,1,@NE,349,34,2.00,DST,90,0.0,0,Detroit LionsDetroit,439,0,12,2014
+350,0,0,0,GB,207,24,2.00,DST,155,1.0,0,Minnesota VikingsMinnesota,362,0,12,2014
+351,0,0,0,@Buf,220,38,1.00,DST,116,1.0,0,New York JetsNY Jets,336,0,12,2014
+352,0,2,3,Oak,183,0,32.00,DST,61,6.0,0,St. Louis RamsSt. Louis,244,1,13,2014
+353,2,0,1,Car,170,13,29.00,DST,178,4.0,0,Minnesota VikingsMinnesota,348,2,13,2014
+354,0,3,0,NYG,213,24,23.00,DST,116,4.0,0,Jacksonville JaguarsJacksonville,329,2,13,2014
+355,0,1,2,Cle,241,10,21.00,DST,74,2.0,0,Buffalo BillsBuffalo,315,1,13,2014
+356,0,1,2,@SF,100,3,20.00,DST,64,4.0,0,Seattle SeahawksSeattle,164,0,13,2014
+357,0,1,2,@Dal,174,10,17.00,DST,93,4.0,0,Philadelphia EaglesPhiladelphia,267,0,13,2014
+358,0,2,1,@KC,110,16,16.00,DST,41,6.0,0,Denver BroncosDenver,151,0,13,2014
+359,0,1,0,Was,341,27,15.00,DST,84,6.0,0,Indianapolis ColtsIndianapolis,425,1,13,2014
+360,0,1,3,Ten,237,21,12.00,DST,83,3.0,0,Houston TexansHouston,320,0,13,2014
+361,0,0,3,Cin,176,14,12.00,DST,112,2.0,0,Tampa Bay BuccaneersTampa Bay,288,0,13,2014
+362,0,0,2,Chi,256,17,11.00,DST,13,3.0,0,Detroit LionsDetroit,269,0,13,2014
+363,0,0,1,@NYJ,49,13,11.00,DST,277,2.0,0,Miami DolphinsMiami,326,0,13,2014
+364,0,1,2,Ari,294,18,10.00,DST,35,0.0,0,Atlanta FalconsAtlanta,329,0,13,2014
+365,0,0,1,@TB,188,13,10.00,DST,75,1.0,0,Cincinnati BengalsCincinnati,263,0,13,2014
+366,1,1,0,@Hou,358,45,10.00,DST,99,0.0,0,Tennessee TitansTennessee,457,1,13,2014
+367,0,0,1,@Atl,358,29,9.00,DST,142,1.0,0,Arizona CardinalsArizona,500,1,13,2014
+368,1,0,2,@Buf,181,26,8.00,DST,106,1.0,0,Cleveland BrownsCleveland,287,0,13,2014
+369,0,0,0,@Jax,140,25,8.00,DST,118,7.0,0,New York GiantsNY Giants,258,0,13,2014
+370,0,0,1,Mia,217,16,8.00,DST,74,2.0,0,New York JetsNY Jets,291,0,13,2014
+371,0,0,0,Sea,222,19,8.00,DST,157,4.0,0,San Francisco 49ersSan Francisco,379,0,13,2014
+372,0,2,1,@Ind,361,49,7.00,DST,126,1.0,0,Washington RedskinsWashington,487,0,13,2014
+373,0,1,1,SD,376,34,6.00,DST,64,2.0,0,Baltimore RavensBaltimore,440,0,13,2014
+374,0,0,2,@Pit,435,32,5.00,DST,103,1.0,0,New Orleans SaintsNew Orleans,538,0,13,2014
+375,0,1,0,@Det,383,34,4.00,DST,91,2.0,0,Chicago BearsChicago,474,0,13,2014
+376,0,0,0,@GB,348,26,4.00,DST,130,3.0,0,New England PatriotsNew England,478,0,13,2014
+377,0,0,0,@Min,118,31,3.00,DST,92,3.0,0,Carolina PanthersCarolina,210,0,13,2014
+378,0,1,0,Phi,208,33,3.00,DST,256,1.0,0,Dallas CowboysDallas,464,0,13,2014
+379,0,1,0,Den,174,29,3.00,DST,214,1.0,0,Kansas City ChiefsKansas City,388,0,13,2014
+380,0,0,0,NE,236,21,2.00,DST,84,1.0,0,Green Bay PackersGreen Bay,320,0,13,2014
+381,0,0,0,@Stl,176,52,1.00,DST,172,1.0,0,Oakland RaidersOakland,348,0,13,2014
+382,0,0,0,NO,250,35,1.00,DST,143,1.0,0,Pittsburgh SteelersPittsburgh,393,0,13,2014
+383,0,0,0,@Bal,225,33,0.00,DST,125,0.0,0,San Diego ChargersSan Diego,350,0,13,2014
+384,0,1,2,@Ten,146,7,27.00,DST,61,8.0,0,New York GiantsNY Giants,207,1,14,2014
+385,0,0,2,@Was,179,0,27.00,DST,27,7.0,0,St. Louis RamsSt. Louis,206,1,14,2014
+386,0,2,2,Ind,269,25,24.00,DST,93,3.0,0,Cleveland BrownsCleveland,362,2,14,2014
+387,0,1,1,NYJ,242,24,20.00,DST,168,3.0,0,Minnesota VikingsMinnesota,410,2,14,2014
+388,0,1,2,TB,207,17,16.00,DST,26,6.0,0,Detroit LionsDetroit,233,0,14,2014
+389,0,0,2,SF,151,13,16.00,DST,97,5.0,0,Oakland RaidersOakland,248,0,14,2014
+390,0,1,2,Buf,341,17,14.00,DST,74,4.0,0,Denver BroncosDenver,415,0,14,2014
+391,0,1,1,KC,264,14,13.00,DST,126,5.0,0,Arizona CardinalsArizona,390,0,14,2014
+392,0,0,0,@Mia,186,13,13.00,DST,63,6.0,0,Baltimore RavensBaltimore,249,0,14,2014
+393,0,1,1,@NO,218,10,13.00,DST,92,2.0,0,Carolina PanthersCarolina,310,0,14,2014
+394,0,0,1,@Jax,188,13,13.00,DST,74,4.0,0,Houston TexansHouston,262,0,14,2014
+395,1,0,1,@SD,163,14,12.00,DST,53,4.0,0,New England PatriotsNew England,216,0,14,2014
+396,0,1,1,NE,310,23,12.00,DST,87,1.0,0,San Diego ChargersSan Diego,397,1,14,2014
+397,0,1,1,@Phi,82,14,11.00,DST,57,3.0,0,Seattle SeahawksSeattle,139,0,14,2014
+398,0,1,1,@Min,297,30,9.00,DST,114,3.0,1,New York JetsNY Jets,411,0,14,2014
+399,0,2,0,@Cin,322,21,8.00,DST,86,3.0,0,Pittsburgh SteelersPittsburgh,408,0,14,2014
+400,0,0,1,NYG,260,36,8.00,DST,142,0.0,0,Tennessee TitansTennessee,402,1,14,2014
+401,0,1,2,@Den,173,24,7.00,DST,133,0.0,0,Buffalo BillsBuffalo,306,0,14,2014
+402,0,2,0,Sea,252,24,7.00,DST,188,2.0,0,Philadelphia EaglesPhiladelphia,440,0,14,2014
+403,1,1,1,@Chi,341,28,6.00,DST,35,0.0,0,Dallas CowboysDallas,376,0,14,2014
+404,0,0,2,@Cle,133,24,6.00,DST,115,1.0,0,Indianapolis ColtsIndianapolis,248,0,14,2014
+405,0,0,0,@Ari,225,17,6.00,DST,141,2.0,0,Kansas City ChiefsKansas City,366,0,14,2014
+406,0,1,0,@Det,294,34,6.00,DST,113,4.0,0,Tampa Bay BuccaneersTampa Bay,407,0,14,2014
+407,1,0,1,Atl,374,37,5.00,DST,91,1.0,0,Green Bay PackersGreen Bay,465,0,14,2014
+408,0,0,0,Stl,198,24,5.00,DST,131,4.0,0,Washington RedskinsWashington,329,0,14,2014
+409,1,0,0,@GB,323,43,3.00,DST,179,1.0,0,Atlanta FalconsAtlanta,502,0,14,2014
+410,0,0,1,Bal,264,28,3.00,DST,183,1.0,0,Miami DolphinsMiami,447,0,14,2014
+411,0,0,0,Hou,135,27,2.00,DST,169,1.0,0,Jacksonville JaguarsJacksonville,304,0,14,2014
+412,0,0,0,@Oak,245,24,2.00,DST,85,1.0,0,San Francisco 49ersSan Francisco,330,0,14,2014
+413,0,0,0,Dal,203,41,1.00,DST,194,1.0,0,Chicago BearsChicago,397,0,14,2014
+414,0,0,0,Pit,350,42,0.00,DST,193,0.0,0,Cincinnati BengalsCincinnati,543,0,14,2014
+415,0,0,0,Car,226,41,0.00,DST,271,0.0,0,New Orleans SaintsNew Orleans,497,0,14,2014
+416,1,0,1,Jax,166,12,25.00,DST,82,8.0,0,Baltimore RavensBaltimore,248,1,15,2014
+417,1,0,2,Mia,308,13,23.00,DST,76,4.0,0,New England PatriotsNew England,384,1,15,2014
+418,1,0,2,GB,175,13,22.00,DST,158,1.0,1,Buffalo BillsBuffalo,333,1,15,2014
+419,0,1,0,Oak,202,13,19.00,DST,78,4.0,0,Kansas City ChiefsKansas City,280,1,15,2014
+420,0,0,2,@Cle,54,0,17.00,DST,53,3.0,0,Cincinnati BengalsCincinnati,107,0,15,2014
+421,0,0,3,@Chi,153,15,17.00,DST,125,7.0,0,New Orleans SaintsNew Orleans,278,0,15,2014
+422,0,1,1,@Stl,211,6,16.00,DST,69,2.0,0,Arizona CardinalsArizona,280,0,15,2014
+423,0,1,1,@Ind,168,17,16.00,DST,110,2.0,0,Houston TexansHouston,278,1,15,2014
+424,1,0,2,Min,284,14,14.00,DST,76,4.0,0,Detroit LionsDetroit,360,0,15,2014
+425,0,0,0,Was,228,13,14.00,DST,144,7.0,0,New York GiantsNY Giants,372,0,15,2014
+426,0,2,1,TB,136,17,13.00,DST,151,3.0,0,Carolina PanthersCarolina,287,0,15,2014
+427,1,0,2,@SD,232,10,13.00,DST,56,0.0,0,Denver BroncosDenver,288,0,15,2014
+428,0,0,0,SF,105,7,13.00,DST,140,6.0,0,Seattle SeahawksSeattle,245,0,15,2014
+429,0,1,1,Hou,152,10,12.00,DST,137,1.0,0,Indianapolis ColtsIndianapolis,289,0,15,2014
+430,0,0,1,@Atl,310,20,12.00,DST,97,0.0,0,Pittsburgh SteelersPittsburgh,407,1,15,2014
+431,0,1,2,@Phi,219,27,11.00,DST,75,4.0,0,Dallas CowboysDallas,294,0,15,2014
+432,0,0,1,@Sea,138,17,11.00,DST,152,5.0,0,San Francisco 49ersSan Francisco,290,0,15,2014
+433,0,1,0,@Ten,253,11,10.00,DST,89,1.0,0,New York JetsNY Jets,342,0,15,2014
+434,0,1,0,@Car,269,19,9.00,DST,123,3.0,0,Tampa Bay BuccaneersTampa Bay,392,0,15,2014
+435,0,0,0,NYJ,163,16,9.00,DST,114,3.0,1,Tennessee TitansTennessee,277,0,15,2014
+436,0,0,0,Ari,131,12,8.00,DST,143,1.0,0,St. Louis RamsSt. Louis,274,0,15,2014
+437,0,0,1,@Buf,140,21,6.00,DST,113,3.0,0,Green Bay PackersGreen Bay,253,0,15,2014
+438,0,1,0,@Bal,221,20,6.00,DST,93,0.0,0,Jacksonville JaguarsJacksonville,314,0,15,2014
+439,0,1,0,Dal,249,38,5.00,DST,115,3.0,0,Philadelphia EaglesPhiladelphia,364,0,15,2014
+440,0,1,0,NO,360,31,4.00,DST,83,2.0,0,Chicago BearsChicago,443,0,15,2014
+441,0,0,1,Cin,103,30,4.00,DST,244,2.0,0,Cleveland BrownsCleveland,347,0,15,2014
+442,0,0,0,@Det,153,16,4.00,DST,80,0.0,0,Minnesota VikingsMinnesota,233,0,15,2014
+443,0,1,0,@NYG,238,24,4.00,DST,49,1.0,0,Washington RedskinsWashington,287,0,15,2014
+444,0,1,0,@KC,295,31,3.00,DST,93,1.0,0,Oakland RaidersOakland,388,0,15,2014
+445,0,0,0,Pit,353,27,2.00,DST,45,1.0,0,Atlanta FalconsAtlanta,398,0,15,2014
+446,0,0,1,@NE,287,41,2.00,DST,108,0.0,0,Miami DolphinsMiami,395,0,15,2014
+447,0,0,0,Den,226,22,2.00,DST,111,1.0,0,San Diego ChargersSan Diego,337,0,15,2014
+448,0,2,2,@NO,271,14,23.00,DST,57,5.0,0,Atlanta FalconsAtlanta,328,1,16,2014
+449,0,0,1,@TB,93,3,19.00,DST,16,7.0,0,Green Bay PackersGreen Bay,109,0,16,2014
+450,1,1,2,Det,229,20,16.00,DST,138,4.0,0,Chicago BearsChicago,367,0,16,2014
+451,0,0,4,Den,300,28,16.00,DST,85,2.0,0,Cincinnati BengalsCincinnati,385,1,16,2014
+452,0,0,1,@Ari,187,6,16.00,DST,29,4.0,0,Seattle SeahawksSeattle,216,0,16,2014
+453,0,1,2,Ind,228,7,15.00,DST,1,2.0,0,Dallas CowboysDallas,229,0,16,2014
+454,0,0,3,Bal,178,13,15.00,DST,33,2.0,0,Houston TexansHouston,211,0,16,2014
+455,0,1,0,KC,288,12,15.00,DST,39,6.0,0,Pittsburgh SteelersPittsburgh,327,0,16,2014
+456,0,3,0,@SF,92,35,14.00,DST,355,2.0,0,San Diego ChargersSan Diego,447,1,16,2014
+457,0,0,3,SD,348,38,14.00,DST,98,2.0,0,San Francisco 49ersSan Francisco,446,1,16,2014
+458,0,0,1,Cle,144,13,12.00,DST,84,3.0,0,Carolina PanthersCarolina,228,0,16,2014
+459,0,0,0,Ten,262,13,11.00,DST,95,4.0,0,Jacksonville JaguarsJacksonville,357,0,16,2014
+460,0,1,1,@Cin,146,37,10.00,DST,207,0.0,0,Denver BroncosDenver,353,1,16,2014
+461,1,0,1,Min,238,35,10.00,DST,119,4.0,1,Miami DolphinsMiami,357,0,16,2014
+462,1,0,1,@NYJ,191,16,10.00,DST,116,2.0,0,New England PatriotsNew England,307,0,16,2014
+463,0,0,1,NE,146,17,10.00,DST,85,4.0,0,New York JetsNY Jets,231,0,16,2014
+464,0,1,1,@Car,195,17,9.00,DST,209,1.0,0,Cleveland BrownsCleveland,404,0,16,2014
+465,0,2,1,@Stl,281,27,9.00,DST,106,2.0,0,New York GiantsNY Giants,387,0,16,2014
+466,0,0,1,@Chi,170,14,8.00,DST,64,2.0,0,Detroit LionsDetroit,234,0,16,2014
+467,0,1,1,Phi,361,24,8.00,DST,134,3.0,0,Washington RedskinsWashington,495,0,16,2014
+468,0,0,2,Buf,308,24,7.00,DST,13,2.0,0,Oakland RaidersOakland,321,0,16,2014
+469,0,1,1,@Was,205,27,7.00,DST,100,2.0,0,Philadelphia EaglesPhiladelphia,305,0,16,2014
+470,0,1,0,GB,310,20,7.00,DST,121,1.0,0,Tampa Bay BuccaneersTampa Bay,431,0,16,2014
+471,0,0,0,@Pit,214,20,5.00,DST,68,1.0,0,Kansas City ChiefsKansas City,282,0,16,2014
+472,0,1,1,@Mia,383,37,5.00,DST,110,1.0,0,Minnesota VikingsMinnesota,493,0,16,2014
+473,0,0,0,@Jax,111,21,5.00,DST,177,4.0,0,Tennessee TitansTennessee,288,0,16,2014
+474,0,0,1,@Hou,190,25,3.00,DST,123,0.0,0,Baltimore RavensBaltimore,313,0,16,2014
+475,0,1,0,@Dal,250,42,3.00,DST,127,1.0,0,Indianapolis ColtsIndianapolis,377,0,16,2014
+476,1,0,0,NYG,386,37,3.00,DST,128,1.0,0,St. Louis RamsSt. Louis,514,0,16,2014
+477,0,0,0,@Oak,207,26,2.00,DST,140,1.0,0,Buffalo BillsBuffalo,347,0,16,2014
+478,0,0,0,Sea,329,35,1.00,DST,267,1.0,0,Arizona CardinalsArizona,596,0,16,2014
+479,0,0,0,Atl,322,30,0.00,DST,81,0.0,0,New Orleans SaintsNew Orleans,403,0,16,2014
+480,0,1,2,@Atl,225,3,34.00,DST,63,6.0,0,Carolina PanthersCarolina,288,2,17,2014
+481,0,1,2,SD,249,7,26.00,DST,112,7.0,0,Kansas City ChiefsKansas City,361,1,17,2014
+482,0,0,2,Stl,203,6,24.00,DST,42,4.0,0,Seattle SeahawksSeattle,245,1,17,2014
+483,0,2,2,@Was,309,17,21.00,DST,104,3.0,0,Dallas CowboysDallas,413,1,17,2014
+484,0,1,2,Cin,221,17,19.00,DST,116,3.0,0,Pittsburgh SteelersPittsburgh,337,1,17,2014
+485,0,1,1,Oak,132,14,17.00,DST,67,3.0,0,Denver BroncosDenver,199,1,17,2014
+486,0,1,0,Det,202,20,16.00,DST,111,2.0,1,Green Bay PackersGreen Bay,313,1,17,2014
+487,0,1,1,Cle,150,10,15.00,DST,109,4.0,0,Baltimore RavensBaltimore,259,0,17,2014
+488,0,1,1,@Hou,235,23,14.00,DST,123,3.0,0,Jacksonville JaguarsJacksonville,358,1,17,2014
+489,0,1,0,@Ten,50,10,13.00,DST,142,4.0,0,Indianapolis ColtsIndianapolis,192,0,17,2014
+490,0,0,1,@Min,190,13,12.00,DST,121,3.0,0,Chicago BearsChicago,311,0,17,2014
+491,0,0,3,Ari,299,17,12.00,DST,98,2.0,0,San Francisco 49ersSan Francisco,397,0,17,2014
+492,0,0,0,@NE,144,9,11.00,DST,116,4.0,0,Buffalo BillsBuffalo,260,0,17,2014
+493,0,0,0,Jax,112,17,11.00,DST,121,5.0,1,Houston TexansHouston,233,0,17,2014
+494,0,0,1,@TB,97,20,11.00,DST,183,3.0,1,New Orleans SaintsNew Orleans,280,0,17,2014
+495,1,0,1,@NYG,429,26,11.00,DST,76,0.0,0,Philadelphia EaglesPhiladelphia,505,1,17,2014
+496,0,1,1,@Sea,222,20,11.00,DST,132,3.0,0,St. Louis RamsSt. Louis,354,0,17,2014
+497,0,1,0,@Mia,208,24,10.00,DST,179,7.0,0,New York JetsNY Jets,387,0,17,2014
+498,0,0,0,Chi,165,9,9.00,DST,99,2.0,0,Minnesota VikingsMinnesota,264,0,17,2014
+499,0,1,0,@Den,309,47,9.00,DST,142,1.0,0,Oakland RaidersOakland,451,1,17,2014
+500,0,0,3,NO,268,23,9.00,DST,70,2.0,0,Tampa Bay BuccaneersTampa Bay,338,0,17,2014
+501,0,1,0,Buf,164,17,8.00,DST,104,2.0,0,New England PatriotsNew England,268,0,17,2014
+502,0,0,0,@KC,140,19,8.00,DST,111,4.0,0,San Diego ChargersSan Diego,251,0,17,2014
+503,0,1,2,@Pit,317,27,7.00,DST,29,0.0,0,Cincinnati BengalsCincinnati,346,0,17,2014
+504,1,2,0,@GB,225,30,7.00,DST,152,1.0,0,Detroit LionsDetroit,377,0,17,2014
+505,0,0,1,Phi,262,34,6.00,DST,164,4.0,0,New York GiantsNY Giants,426,0,17,2014
+506,0,0,0,@SF,189,20,5.00,DST,206,1.0,0,Arizona CardinalsArizona,395,0,17,2014
+507,0,0,0,@Bal,290,20,5.00,DST,129,1.0,0,Cleveland BrownsCleveland,419,0,17,2014
+508,0,1,0,NYJ,390,37,3.00,DST,104,1.0,0,Miami DolphinsMiami,494,0,17,2014
+509,0,0,0,Ind,314,27,2.00,DST,64,1.0,0,Tennessee TitansTennessee,378,0,17,2014
+510,0,0,1,Dal,299,44,2.00,DST,174,0.0,0,Washington RedskinsWashington,473,0,17,2014
+511,0,0,0,Car,112,34,1.00,DST,194,1.0,0,Atlanta FalconsAtlanta,306,0,17,2014

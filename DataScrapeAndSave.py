@@ -1,8 +1,26 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import os
 
+def main():
+    positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
+    for pos in positions:
+        for year in range(2010, 2017):
+            inmates_list = []
+            for i in range(1, 18):
+                getDatar(i, str(year), pos, inmates_list)
+            # After building up a dictionary with data for a position
+            # through a year for all weeks, we create a dataframe using pandas
+            df = pd.DataFrame(inmates_list)
+            # we can export this data to any format your heart desires. I've like csv for this
+            df.to_csv(
+                "~/desktop/new-fantasyfootballdata/" + str(pos) + '_' + str(year) + '_' + "FantasyFootballData.csv")
 
+    print("head\n", df.head());
+    print("\nShape\n", df.shape)
+    print("\n values\n", df.get_values())
+    print("#" * 20, "\n items\n", df.items)
 # Down below we'll add our inmates to this list
 
 
@@ -12,7 +30,7 @@ import pandas as pd
 # Let's put the URL of the page we want to scrape in a variable
 # so that our code down below can be a little cleaner
 
-def getDatar(week, year, position):
+def getDatar(week, year, position, inmates_list):
     # Our url takes in positions, years, and weeks as arguments, builds up a dictionary with data for each position
     # through each year for all weeks
     url_to_scrape = 'http://www.footballdb.com/fantasy-football/index.html?pos='\
@@ -123,21 +141,18 @@ def getDatar(week, year, position):
         # it easily. Let's make it an integer.
         # passPoints = float(inmate['Pass Points'])
 
-
-positions = ['QB','RB','WR','TE','K','DST']
-for pos in positions:
-    for year in range(2010,2017):
-        inmates_list = []
-        for i in range(1,18):
-            getDatar(i,str(year),pos)
-        # After building up a dictionary with data for a position
-        # through a year for all weeks, we create a dataframe using pandas
-        df = pd.DataFrame(inmates_list)
-        #we can export this data to any format your heart desires. I've like csv for this
-        df.to_csv("~/desktop/new-fantasyfootballdata/"+str(pos)+'_'+str(year)+'_'+"FantasyFootballData.csv")
-
-print("head\n",df.head());
-print("\nShape\n",df.shape)
-print("\n values\n",df.get_values())
-print("#"*20,"\n items\n",df.items)
+def combineData():
+    positions = ['qb', 'rb', 'wr', 'te', 'k', 'dst']
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
+    for pos in positions:
+        import pandas as pd
+        os.chdir(pos)
+        frames = []
+        for file in os.listdir(os.getcwd()):
+            frames.append(pd.read_csv(file))
+        a = pd.concat(frames)
+        a.drop('Unnamed: 0', axis=1, inplace=True)
+        print(pos, '\n', a.head())
+        a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/' + pos + 'AllYears.csv', index=None)
+        os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
 

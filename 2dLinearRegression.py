@@ -22,7 +22,6 @@ def main():
     os.chdir('data')
     # rb_all = os.listdir(os.getcwd())
     rb_data = pd.read_csv('qbAllYears.csv')
-    print(rb_data.columns)
 
     X = rb_data['Pass Completions']
     Y = rb_data['Pass Attempts']
@@ -31,10 +30,10 @@ def main():
     xy = pd.DataFrame({'Attempts': list(X),
                        'Yards': list(Y)})
 
-    X_train = X[:-40]
-    X_test = X[-40:]
-    Y_train = Y[:-40]
-    Y_test = Y[-40:]
+    X_train = X[:-20]
+    X_test = X[-20:]
+    Y_train = Y[:-20]
+    Y_test = Y[-20:]
     reg = linear_model.LinearRegression()
     reg.fit(X_train, Y_train)
     RushYards_prediction = reg.predict(X_test)
