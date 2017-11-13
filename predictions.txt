@@ -1,0 +1,81 @@
+
+
+
+Predicting: 	Fumble TD
+Mean^2 Error Avg	3.06864609865e-05
+Variances Avg	-3.06889673162e-05
+
+
+Predicting: 	Fumbles Lost
+Mean^2 Error Avg	0.0630023139756
+Variances Avg	0.0524667935572
+
+
+Predicting: 	Pass 2PT
+Mean^2 Error Avg	0.00498564383278
+Variances Avg	0.0360860064219
+
+
+Predicting: 	Pass Attempts
+Mean^2 Error Avg	2.44082999157
+Variances Avg	0.980185175674
+
+
+Predicting: 	Pass Completions
+Mean^2 Error Avg	0.77334911435
+Variances Avg	0.983729098033
+
+
+Predicting: 	Pass Interceptions
+Mean^2 Error Avg	0.0913913492454
+Variances Avg	0.489935534609
+
+
+Predicting: 	Pass TD
+Mean^2 Error Avg	0.101260365729
+Variances Avg	0.717436223953
+
+
+Predicting: 	Pass Yards
+Mean^2 Error Avg	224.777690407
+Variances Avg	0.965392607556
+
+
+Predicting: 	Receiving 2PT
+Mean^2 Error Avg	0.00519370509898
+Variances Avg	0.00228877909012
+
+
+Predicting: 	Receiving TD
+Mean^2 Error Avg	0.143426386027
+Variances Avg	0.216470272351
+
+
+Predicting: 	Receiving Yards
+Mean^2 Error Avg	274.382977002
+Variances Avg	0.743401565783
+
+
+Predicting: 	Receptions
+Mean^2 Error Avg	1.42157578174
+Variances Avg	0.730268272063
+
+
+Predicting: 	Rush 2PT
+Mean^2 Error Avg	0.00219654669887
+Variances Avg	0.00350103473666
+
+
+Predicting: 	Rush Attempts
+Mean^2 Error Avg	5.59094166999
+Variances Avg	0.821359961287
+
+
+Predicting: 	Rush TD
+Mean^2 Error Avg	0.0769208192603
+Variances Avg	0.301890435786
+
+
+Predicting: 	Rush Yards
+Mean^2 Error Avg	124.519934109
+Variances Avg	0.825556845748

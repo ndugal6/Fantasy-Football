@@ -4,6 +4,8 @@ import pandas as pd
 import os
 
 def main():
+    supaData()
+    exit(0)
     combineData()
     exit(0)
     positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
@@ -147,6 +149,7 @@ def combineData():
     positions = ['qb', 'rb', 'wr', 'te', 'k', 'dst']
     os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
     for pos in positions:
+
         import pandas as pd
         os.chdir(pos)
         frames = []
@@ -157,5 +160,16 @@ def combineData():
         print(pos, '\n', a.head())
         a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/' + pos + 'AllYears.csv', index=None)
         os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
+
+def supaData():
+    files = ['qbAllYears.csv', 'rbAllYears.csv', 'wrAllYears.csv', 'teAllYears.csv']
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
+    frames = []
+    for file in files:
+        frames.append(pd.read_csv(file))
+    a = pd.concat(frames)
+    # a.drop('Unnamed: 0', axis=1, inplace=True)
+    a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/AllPositionsAllYears.csv', index=None)
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
 
 if __name__ == "__main__": main()
