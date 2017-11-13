@@ -4,6 +4,8 @@ import pandas as pd
 import os
 
 def main():
+    combineData()
+    exit(0)
     positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
     for pos in positions:
         for year in range(2010, 2017):
@@ -156,3 +158,4 @@ def combineData():
         a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/' + pos + 'AllYears.csv', index=None)
         os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
 
+if __name__ == "__main__": main()

@@ -3,7 +3,40 @@
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Experimenting.py" afterPath="$PROJECT_DIR$/Data Experimenting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2010_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2010_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2011_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2011_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2012_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2012_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2013_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2013_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2014_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2014_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2015_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2015_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/QB/QB_2016_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/QB/QB_2016_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2010_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2010_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2011_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2011_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2012_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2012_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2013_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2013_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2014_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2014_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2015_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2015_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/RB/RB_2016_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/RB/RB_2016_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2010_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2010_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2011_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2011_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2012_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2012_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2013_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2013_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2014_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2014_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2015_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2015_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/TE/TE_2016_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/TE/TE_2016_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2010_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2010_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2011_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2011_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2012_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2012_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2013_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2013_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2014_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2014_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2015_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2015_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/WR/WR_2016_FantasyFootballData.csv" afterPath="$PROJECT_DIR$/Data/WR/WR_2016_FantasyFootballData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/dstAllYears.csv" afterPath="$PROJECT_DIR$/Data/dstAllYears.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/kAllYears.csv" afterPath="$PROJECT_DIR$/Data/kAllYears.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/qbAllYears.csv" afterPath="$PROJECT_DIR$/Data/qbAllYears.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/rbAllYears.csv" afterPath="$PROJECT_DIR$/Data/rbAllYears.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/teAllYears.csv" afterPath="$PROJECT_DIR$/Data/teAllYears.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/wrAllYears.csv" afterPath="$PROJECT_DIR$/Data/wrAllYears.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataScrapeAndSave.py" afterPath="$PROJECT_DIR$/DataScrapeAndSave.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,24 +49,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="58" column="63" lean-forward="true" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+            <state relative-caret-position="285">
+              <caret line="160" column="33" lean-forward="false" selection-start-line="160" selection-start-column="33" selection-end-line="160" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <element signature="e#93#909#0" expanded="false" />
+                <element signature="e#93#939#0" expanded="false" />
+                <element signature="e#1303#7411#0" expanded="false" />
+                <element signature="e#7436#8025#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scratch_11.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#669#876#0" expanded="false" />
@@ -48,7 +95,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+              <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -93,6 +140,7 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
         <option value="$PROJECT_DIR$/Data Experimenting.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
         <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
       </list>
     </option>
@@ -157,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Data Experimenting">
+  <component name="RunManager" selected="Python.DataScrapeAndSave">
     <configuration default="false" name="Data Experimenting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,6 +237,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Fantasy-Football" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scratch_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fantasy-Football" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataScrapeAndSave" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fantasy-Football" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScrapeAndSave.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,14 +343,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.Data Experimenting" />
       <item index="1" class="java.lang.String" itemvalue="Python.scratch_10" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scratch_11" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Data Experimenting" />
-        <item index="1" class="java.lang.String" itemvalue="Python.scratch_10" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scratch_11" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Data Experimenting" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scratch_10" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +381,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14419696" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24501759" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -315,7 +403,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -325,7 +415,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -367,7 +459,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -409,7 +503,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -443,7 +539,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -477,7 +575,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -505,10 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -523,12 +623,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py">
+    <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="160" column="33" lean-forward="false" selection-start-line="160" selection-start-column="33" selection-end-line="160" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#93#939#0" expanded="false" />
+            <element signature="e#1303#7411#0" expanded="false" />
+            <element signature="e#7436#8025#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -536,23 +659,12 @@
     <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#669#876#0" expanded="false" />
             <element signature="e#909#3027#0" expanded="false" />
             <element signature="e#3072#4949#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="58" column="63" lean-forward="true" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#93#909#0" expanded="false" />
           </folding>
         </state>
       </provider>
