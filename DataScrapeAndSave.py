@@ -93,7 +93,7 @@ def getDatar(week, year, position, inmates_list):
                                        'Pass Completions': completions_passing, 'Pass Yards': yards_passing,
                                        'Pass TD': td_passing, 'Pass Interceptions': interceptions_passing,
                                        'Pass 2PT': twoPoint_passing, 'Rush Attempts': attempts_rushing,
-                                       'Rush Yards': yards_receiving, 'Rush TD': td_rushing,
+                                       'Rush Yards': yards_rushing, 'Rush TD': td_rushing,
                                        'Rush 2PT': twoPoint_rushing, 'Receptions': receptions_receiving,
                                        'Receiving Yards': yards_receiving, 'Receiving TD': td_receiving,
                                        'Receiving 2PT': twoPoint_receiving, 'Fumbles Lost': lost_fumbles,
