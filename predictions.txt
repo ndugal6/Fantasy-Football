@@ -2,80 +2,80 @@
 
 
 Predicting: 	Fumble TD
-Mean^2 Error Avg	3.06864609865e-05
-Variances Avg	-3.06889673162e-05
+Mean^2 Error Avg	1.50006279028
+Variances Avg	-4.60334509744e-05
 
 
 Predicting: 	Fumbles Lost
-Mean^2 Error Avg	0.0630023139756
-Variances Avg	0.0524667935572
+Mean^2 Error Avg	1.37792797906
+Variances Avg	-0.376785688312
 
 
 Predicting: 	Pass 2PT
-Mean^2 Error Avg	0.00498564383278
-Variances Avg	0.0360860064219
+Mean^2 Error Avg	1.14680200659
+Variances Avg	-0.180646631639
 
 
 Predicting: 	Pass Attempts
-Mean^2 Error Avg	2.44082999157
-Variances Avg	0.980185175674
+Mean^2 Error Avg	0.138095638364
+Variances Avg	0.862138020085
 
 
 Predicting: 	Pass Completions
-Mean^2 Error Avg	0.77334911435
-Variances Avg	0.983729098033
+Mean^2 Error Avg	1.54654613639
+Variances Avg	-0.486103647617
 
 
 Predicting: 	Pass Interceptions
-Mean^2 Error Avg	0.0913913492454
-Variances Avg	0.489935534609
+Mean^2 Error Avg	1.16302903865
+Variances Avg	-0.255724235101
 
 
 Predicting: 	Pass TD
-Mean^2 Error Avg	0.101260365729
-Variances Avg	0.717436223953
+Mean^2 Error Avg	1.21290346145
+Variances Avg	-0.22454571436
 
 
 Predicting: 	Pass Yards
-Mean^2 Error Avg	224.777690407
-Variances Avg	0.965392607556
+Mean^2 Error Avg	1.2405314974
+Variances Avg	-0.293381582293
 
 
 Predicting: 	Receiving 2PT
-Mean^2 Error Avg	0.00519370509898
-Variances Avg	0.00228877909012
+Mean^2 Error Avg	1.03305540471
+Variances Avg	0.00165876935721
 
 
 Predicting: 	Receiving TD
-Mean^2 Error Avg	0.143426386027
-Variances Avg	0.216470272351
+Mean^2 Error Avg	0.820941754154
+Variances Avg	0.173193844031
 
 
 Predicting: 	Receiving Yards
-Mean^2 Error Avg	274.382977002
-Variances Avg	0.743401565783
+Mean^2 Error Avg	0.395457654679
+Variances Avg	0.607451835029
 
 
 Predicting: 	Receptions
-Mean^2 Error Avg	1.42157578174
-Variances Avg	0.730268272063
+Mean^2 Error Avg	0.265265082433
+Variances Avg	0.736689703846
 
 
 Predicting: 	Rush 2PT
-Mean^2 Error Avg	0.00219654669887
-Variances Avg	0.00350103473666
+Mean^2 Error Avg	1.005548496
+Variances Avg	-0.00515707401541
 
 
 Predicting: 	Rush Attempts
-Mean^2 Error Avg	5.59094166999
-Variances Avg	0.821359961287
+Mean^2 Error Avg	0.219005992755
+Variances Avg	0.785364285067
 
 
 Predicting: 	Rush TD
-Mean^2 Error Avg	0.0769208192603
-Variances Avg	0.301890435786
+Mean^2 Error Avg	0.825123592194
+Variances Avg	0.176508607673
 
 
 Predicting: 	Rush Yards
-Mean^2 Error Avg	124.519934109
-Variances Avg	0.825556845748
+Mean^2 Error Avg	0.317761889578
+Variances Avg	0.68935339751

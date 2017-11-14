@@ -17,17 +17,18 @@ from mpl_toolkits.mplot3d import Axes3D
 # Documentation for pyplot
 # https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.html
 def main():
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("Something")
+    multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
+    exit(0) #Because I'm weird and don't use breakpoints
 
-    # linearRegression()
+    # # linearRegression()
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
-    ourPredictions = open('predictions.txt','w')
+    ourPredictions = open('predictionsWithPoints.txt','w')
     checkThis = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
      'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
      'Pass Yards', 'Receiving 2PT', 'Receiving TD',
      'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
      'Rush Yards']
+
     for checks in checkThis:
         resultTuples = []
         for i in range(10):
@@ -40,9 +41,9 @@ def main():
         # ourPredictions.write('\nVariances: \t' + list(variances).__str__())
         ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
         # howGoodDF[checks].append(resultTuples)
-
-    ourPredictions.close()
-
+    #
+    # ourPredictions.close()
+    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
 def heatMap():
 
         heatmap, xedges, yedges = np.histogram2d(X, Y)#, bins=(64, 64))
@@ -133,8 +134,8 @@ def multivariateLinearRegression(file, yfeature):
         except:
             players_data = pd.read_csv('AllPositionsAllYears.csv')
 
-        featuresList = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
-       'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+        featuresList = ['Fumble TD', 'Fumbles Lost','Pass 2PT',
+       'Pass Attempts', 'Points','Pass Completions', 'Pass Interceptions', 'Pass TD',
        'Pass Yards', 'Receiving 2PT', 'Receiving TD',
        'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
        'Rush Yards']
@@ -156,14 +157,24 @@ def multivariateLinearRegression(file, yfeature):
         # X = X[:, np.newaxis]
         # Y = Y[:, np.newaxis]
 
-        X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=.2)
+        # X_train, X_test, Y_train, Y_test = train_test_split(preprocessing.scale(X), preprocessing.scale(Y), test_size=.2)
+        X_train, X_test, Y_train, Y_test = train_test_split(X, Y,
+                                                            test_size=.2)
+        coeff_titles = list(xFeatures)
+        coeff_titles.insert(0,'Intercept')
 
 
         reg = linear_model.LinearRegression()
+        # reg = linear_model.PassiveAggressiveRegressor
         model = reg.fit(X_train, Y_train)
+
+        # model = reg.fit(X_train, Y_train,Y_test)
         PassAttempts_prediction = model.predict(X_test)
         # print("Predicting: ",yfeature)
-        # print("The Coeffecients:\n ", reg.coef_)
+        print("The Coeffecients:\n ")
+        hmmm = dict(zip(coeff_titles,list(reg.coef_)))
+        # hmmmDF = pd.DataFrame(hmmm)
+        print(hmmm);exit(0)
         mean2Err = mean_squared_error(Y_test, PassAttempts_prediction)
         # print("Score: ",model.score(X_test,Y_test))
         varianceScore = r2_score(Y_test, PassAttempts_prediction)
