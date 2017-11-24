@@ -17,33 +17,58 @@ from mpl_toolkits.mplot3d import Axes3D
 # Documentation for pyplot
 # https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.html
 def main():
-    multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
-    exit(0) #Because I'm weird and don't use breakpoints
+    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
 
     # # linearRegression()
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
-    ourPredictions = open('predictionsWithPoints.txt','w')
-    checkThis = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
+    ourPredictions = open('predictionsWithOUTPoints.txt','w')
+    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
      'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
      'Pass Yards', 'Receiving 2PT', 'Receiving TD',
      'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-     'Rush Yards']
+     'Rush Yards','Away Games']
 
-    for checks in checkThis:
+
+    for stat in stats:
         resultTuples = []
         for i in range(10):
-        # ourPredictions.write(multivariateLinearRegression("AllPositionsAllYears.csv",checks))
-            resultTuples.append(multivariateLinearRegression("AllPositionsAllYears.csv",checks))
-        mean2Errs, variances = zip(*resultTuples)
-        ourPredictions.write("\n\n\nPredicting: \t"+ checks)
-        # ourPredictions.write('\nMean^2 Errors: \t'+list(mean2Errs).__str__())
+            resultTuples.append(multivariateLinearRegression("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",stat))
+        mean2Errs, variances, hmmm = zip(*resultTuples)
+        ourPredictions.write("\n\n\nPredicting: \t"+ stat)
         ourPredictions.write('\nMean^2 Error Avg\t'+str(sum(mean2Errs)/float(len(mean2Errs))))
-        # ourPredictions.write('\nVariances: \t' + list(variances).__str__())
         ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
-        # howGoodDF[checks].append(resultTuples)
-    #
-    # ourPredictions.close()
+        #
+        # please = hmmm[0]
+        # print(please)
+        # for huh in hmmm[1:]:
+        #     for who in huh:
+        #         please[who] += huh[who]
+
+        # print(please)
+        # for hm in please:
+        #     ourPredictions.write(str(hm)+':\t'+str(sum(please[hm])/float(len(please[hm]))))
+    ourPredictions.close()
     # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
+def getQbWithName(qbName):
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data')
+    players_data = pd.read_csv("QBAllYears.csv")
+    players_data.reindex(index=['Year', 'Week', 'Name'])
+    print(players_data.columns)
+    print(players_data.index)
+    players_data[players_data.Name == qbName].to_csv(qbName+".csv")
+def combineOffenseWithDefense():
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data')
+    players_data = pd.read_csv("QBAllYears.csv")
+    defense_data = pd.read_csv("dstallyears.csv")
+    players_data.reindex(index=['Year', 'Week', 'Name'])
+    print(players_data.columns)
+    print(players_data.index)
+    players_data[players_data.Name == 'Drew Brees'].to_csv("Drew Brees Data.csv")
+
+    pd_data = pd.merge(players_data, defense_data, left_on=['Year', 'Week', 'Opponent'],
+                       right_on=['Year', 'Week', 'Team'])
+    print(pd_data.head())
+    pd_data.to_csv("QB_with_Defense.csv")
 def heatMap():
 
         heatmap, xedges, yedges = np.histogram2d(X, Y)#, bins=(64, 64))
@@ -132,20 +157,21 @@ def multivariateLinearRegression(file, yfeature):
         try:
             players_data = pd.read_csv(file)
         except:
+            print("what")
             players_data = pd.read_csv('AllPositionsAllYears.csv')
 
         featuresList = ['Fumble TD', 'Fumbles Lost','Pass 2PT',
-       'Pass Attempts', 'Points','Pass Completions', 'Pass Interceptions', 'Pass TD',
+       'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
        'Pass Yards', 'Receiving 2PT', 'Receiving TD',
        'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-       'Rush Yards']
+       'Rush Yards','Away Games']
 
         #Creates a set, phenominal for membership checking, unions, intersections, etc
         setList = set(featuresList)
 
         #Test if the yFeature argument is a valid column
         if (yfeature in setList) == False:
-            raise Exception('Dude, put in a valid parameter\nPlease try again with a valid feature')
+            raise Exception(str(yfeature)+'Dude, put in a valid parameter\nPlease try again with a valid feature')
         #Removes the yfeature from the group of Xs
         xFeatures = setList.difference([yfeature])
 
@@ -172,9 +198,14 @@ def multivariateLinearRegression(file, yfeature):
         PassAttempts_prediction = model.predict(X_test)
         # print("Predicting: ",yfeature)
         print("The Coeffecients:\n ")
-        hmmm = dict(zip(coeff_titles,list(reg.coef_)))
+        #Let's format the list of float point coeffs so they're easier to read
+        pattern = "%.2f"
+        floatsstrings = [pattern % i for i in list(reg.coef_)]
+        floats = [float(i) for i in floatsstrings]
+        hmmm = dict(zip(coeff_titles,floats))
+
         # hmmmDF = pd.DataFrame(hmmm)
-        print(hmmm);exit(0)
+        # print(hmmm);exit(0)
         mean2Err = mean_squared_error(Y_test, PassAttempts_prediction)
         # print("Score: ",model.score(X_test,Y_test))
         varianceScore = r2_score(Y_test, PassAttempts_prediction)
@@ -188,6 +219,7 @@ def multivariateLinearRegression(file, yfeature):
         # mStr = str("\nMean^2 Error\t" + str(mean2Err))
         # vStr = str('\nVariance Score: \t%2.2f' % varianceScore)
         # return pStr + sStr + mStr + vStr
-        return (mean2Err,varianceScore)
+        # return (mean2Err,varianceScore)
+        return (mean2Err,varianceScore,hmmm)
 
 if __name__ == "__main__": main()

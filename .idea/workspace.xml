@@ -2,10 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/AllPositionsAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/DST/DST_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/K/K_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/QB/QB_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/RB/RB_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/TE/TE_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/WR/WR_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/dstAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/kAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/qbAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/rbAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/teAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/wrAllYears.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Experimenting.py" afterPath="$PROJECT_DIR$/Data Experimenting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataScrapeAndSave.py" afterPath="$PROJECT_DIR$/DataScrapeAndSave.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions.txt" afterPath="$PROJECT_DIR$/predictions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictionsWithPoints.txt" afterPath="$PROJECT_DIR$/predictionsWithPoints.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +68,8 @@
       <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="148" column="21" lean-forward="false" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+            <state relative-caret-position="1020">
+              <caret line="158" column="33" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <element signature="e#2278#7442#0" expanded="false" />
@@ -30,28 +78,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py">
+      <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+            <state relative-caret-position="465">
+              <caret line="70" column="41" lean-forward="false" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#2119#2450#0" expanded="false" />
+                <element signature="e#2488#3099#0" expanded="false" />
+                <element signature="e#3124#3331#0" expanded="false" />
+                <element signature="e#3364#6999#0" expanded="false" />
+                <element signature="e#7058#10235#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
+      <file leaf-file-name="scratch_14.py" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="174" column="37" lean-forward="false" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+            <state relative-caret-position="210">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#2079#2286#0" expanded="false" />
-                <element signature="e#2319#5954#0" expanded="false" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predictionsWithPoints.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predictionsWithPoints.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9750">
+              <caret line="658" column="0" lean-forward="false" selection-start-line="658" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,28 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1200">
               <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_10.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loadRating.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -105,6 +154,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>zip</find>
+      <find>walk</find>
+      <find>exi</find>
+      <find>arg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +169,10 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
         <option value="$PROJECT_DIR$/predictions.txt" />
         <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
+        <option value="$USER_HOME$/Downloads/aima-python-master/logic.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
         <option value="$PROJECT_DIR$/Data Experimenting.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
       </list>
     </option>
   </component>
@@ -140,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,7 +210,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -181,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Data Experimenting">
+  <component name="RunManager" selected="Python.scratch_14">
     <configuration default="false" name="Data Experimenting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,6 +309,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="scratch_14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fantasy-Football" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,18 +392,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Data Experimenting" />
       <item index="1" class="java.lang.String" itemvalue="Python.scratch_10" />
       <item index="2" class="java.lang.String" itemvalue="Python.scratch_11" />
       <item index="3" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
+      <item index="4" class="java.lang.String" itemvalue="Python.scratch_14" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Data Experimenting" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
-        <item index="2" class="java.lang.String" itemvalue="Python.scratch_11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.scratch_10" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.scratch_14" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Data Experimenting" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scratch_11" />
+        <item index="4" class="java.lang.String" itemvalue="Python.scratch_10" />
       </list>
     </recent_temporary>
   </component>
@@ -354,12 +429,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15826495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18405627" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -385,6 +460,177 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="160" column="15" lean-forward="false" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2278#7442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9750">
+          <caret line="658" column="0" lean-forward="false" selection-start-line="658" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="160" column="15" lean-forward="false" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2278#7442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9750">
+          <caret line="658" column="0" lean-forward="false" selection-start-line="658" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2278#7442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9750">
+          <caret line="658" column="0" lean-forward="false" selection-start-line="658" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -400,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
           <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,8 +655,11 @@
           <caret line="165" column="42" lean-forward="false" selection-start-line="165" selection-start-column="42" selection-end-line="165" selection-end-column="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -430,20 +676,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py" />
     <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -465,14 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="108" column="25" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py" />
     <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -489,8 +718,11 @@
           <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -506,14 +738,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="108" column="25" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py" />
     <entry file="file://$PROJECT_DIR$/2dLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -530,8 +755,11 @@
           <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -563,8 +791,11 @@
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -596,8 +827,11 @@
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -619,8 +853,11 @@
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -639,9 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,6 +889,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9750">
+          <caret line="658" column="0" lean-forward="false" selection-start-line="658" selection-start-column="0" selection-end-line="658" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/predictions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -663,28 +920,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/School/csc4700 Predictive Data Analytics(Machine Learning)/hw3/loadRating.py">
+    <entry file="file://$PROJECT_DIR$/predictionsWithPoints.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="128" column="31" lean-forward="false" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="148" column="21" lean-forward="false" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+        <state relative-caret-position="1020">
+          <caret line="158" column="33" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#2278#7442#0" expanded="false" />
@@ -694,12 +941,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="174" column="37" lean-forward="false" selection-start-line="174" selection-start-column="37" selection-end-line="174" selection-end-column="37" />
+        <state relative-caret-position="465">
+          <caret line="70" column="41" lean-forward="false" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2079#2286#0" expanded="false" />
-            <element signature="e#2319#5954#0" expanded="false" />
+            <element signature="e#2119#2450#0" expanded="false" />
+            <element signature="e#2488#3099#0" expanded="false" />
+            <element signature="e#3124#3331#0" expanded="false" />
+            <element signature="e#3364#6999#0" expanded="false" />
+            <element signature="e#7058#10235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
