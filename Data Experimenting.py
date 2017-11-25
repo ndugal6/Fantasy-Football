@@ -56,6 +56,11 @@ def getQbWithName(qbName):
     print(players_data.columns)
     print(players_data.index)
     players_data[players_data.Name == qbName].to_csv(qbName+".csv")
+def sortIndividualQBData():
+    dBrees_data = pd.read_csv('QB_with_Defense.csv',index_col=['Year','Week'])
+    dBrees_data.sort_index(inplace=True)
+    dBrees_data.drop('Unnamed: 0',axis=1,inplace=True)
+    dBrees_data[dBrees_data.Name == 'Drew Brees'].to_csv("Drew Brees With Defense.csv")
 def combineOffenseWithDefense():
     os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data')
     players_data = pd.read_csv("QBAllYears.csv")
