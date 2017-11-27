@@ -1,0 +1,31 @@
+
+
+
+Predicting: 	Pass 2PT
+Mean^2 Error Avg	0.0405760542722
+Variances Avg	-0.00909090909091
+
+
+Predicting: 	Pass Attempts
+Mean^2 Error Avg	16.074787915
+Variances Avg	0.583542252799
+
+
+Predicting: 	Pass Completions
+Mean^2 Error Avg	8.39478720259
+Variances Avg	0.60616809898
+
+
+Predicting: 	Pass Interceptions
+Mean^2 Error Avg	1.23832545619
+Variances Avg	-0.162287730412
+
+
+Predicting: 	Pass TD
+Mean^2 Error Avg	1.12454677848
+Variances Avg	0.310865895821
+
+
+Predicting: 	Pass Yards
+Mean^2 Error Avg	2147.45086326
+Variances Avg	0.435865598279

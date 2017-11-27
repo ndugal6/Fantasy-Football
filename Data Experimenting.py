@@ -13,6 +13,9 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from mpl_toolkits.mplot3d import Axes3D
 
+
+#?
+
 #This is a file for experimenting with Fantasy Foootball data!
 # Documentation for pyplot
 # https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.html
@@ -21,23 +24,30 @@ def main():
 
     # # linearRegression()
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
-    ourPredictions = open('predictionsWithOUTPoints.txt','w')
+    ourPredictions = open('Drew Brees Pred_NoPoints_YesDefense.txt','w')
+
+    #These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
     stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
      'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
      'Pass Yards', 'Receiving 2PT', 'Receiving TD',
      'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-     'Rush Yards','Away Games']
+     'Rush Yards']
+    # These are the stats I'm actually concerned about accurately predicting right now
+    statsUsing = ['Pass 2PT',
+     'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+     'Pass Yards', ]
 
 
-    for stat in stats:
+    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
+    for stat in statsUsing:
         resultTuples = []
         for i in range(10):
-            resultTuples.append(multivariateLinearRegression("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",stat))
+            resultTuples.append(multivariateLinearRegression("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv",stat))
         mean2Errs, variances, hmmm = zip(*resultTuples)
         ourPredictions.write("\n\n\nPredicting: \t"+ stat)
         ourPredictions.write('\nMean^2 Error Avg\t'+str(sum(mean2Errs)/float(len(mean2Errs))))
         ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
-        #
+        # What the hell was the point of the below code
         # please = hmmm[0]
         # print(please)
         # for huh in hmmm[1:]:
@@ -165,11 +175,7 @@ def multivariateLinearRegression(file, yfeature):
             print("what")
             players_data = pd.read_csv('AllPositionsAllYears.csv')
 
-        featuresList = ['Fumble TD', 'Fumbles Lost','Pass 2PT',
-       'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-       'Pass Yards', 'Receiving 2PT', 'Receiving TD',
-       'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-       'Rush Yards','Away Games']
+        featuresList = list(players_data.columns)
 
         #Creates a set, phenominal for membership checking, unions, intersections, etc
         setList = set(featuresList)
@@ -177,8 +183,18 @@ def multivariateLinearRegression(file, yfeature):
         #Test if the yFeature argument is a valid column
         if (yfeature in setList) == False:
             raise Exception(str(yfeature)+'Dude, put in a valid parameter\nPlease try again with a valid feature')
+
         #Removes the yfeature from the group of Xs
         xFeatures = setList.difference([yfeature])
+        # Remove the Fantasy Football Point Values from Data
+        xFeatures = xFeatures.difference(['Points_x','Points_y','Points'])
+        # Removes non numerical values from data
+        xFeatures = xFeatures.difference(['Name','Opponent','Position','Opponent_x','Position_x',
+                            'Team', 'Opponent_y', 'Position_y'])
+        # Removes Features I feel are unimportant for Predicting QB stats
+        xFeatures = xFeatures.difference(['Fumble TD', 'Fumbles Lost','Away Games', 'Away Games_x',
+                            'Blocks', 'Fumble Returns',
+                             'Safety', 'Away Games_y'])
 
         Y = players_data[yfeature]
         # Y = preprocessing.scale(Y)
@@ -206,7 +222,7 @@ def multivariateLinearRegression(file, yfeature):
         #Let's format the list of float point coeffs so they're easier to read
         pattern = "%.2f"
         floatsstrings = [pattern % i for i in list(reg.coef_)]
-        floats = [float(i) for i in floatsstrings]
+        floats = list(float(i) for i in floatsstrings)
         hmmm = dict(zip(coeff_titles,floats))
 
         # hmmmDF = pd.DataFrame(hmmm)
@@ -226,5 +242,9 @@ def multivariateLinearRegression(file, yfeature):
         # return pStr + sStr + mStr + vStr
         # return (mean2Err,varianceScore)
         return (mean2Err,varianceScore,hmmm)
+def groupPlayersByNameYear(players_data):
+    #where players_data is a pandas dataframe
+    players_data.groupby(['Name', 'Year']).agg({'Pass Yards': [np.size, np.mean,l ]})
+
 
 if __name__ == "__main__": main()
