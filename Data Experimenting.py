@@ -243,8 +243,23 @@ def multivariateLinearRegression(file, yfeature):
         # return (mean2Err,varianceScore)
         return (mean2Err,varianceScore,hmmm)
 def groupPlayersByNameYear(players_data):
+    os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
+    player_data = pd.read_csv('QB_with_Defense.csv')
     #where players_data is a pandas dataframe
-    players_data.groupby(['Name', 'Year']).agg({'Pass Yards': [np.size, np.mean,l ]})
+    their_stats = players_data.groupby(['Name', 'Year']).agg({'Pass Yards': [np.size, np.mean, np.sum ]})
+    #Now to get a specific player using this format
+    dBrees_data = their_stats.loc[['Drew Brees', ], :]
+
+#So here we can get a specific player then group their data into whatever we want, iterate through those groupings and get whatever stats we want on each column
+#Yeah that's kinda a rant
+def getSpecifiedStatisticsForSpecificPlayerGrouped():
+    player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year', 'Week'].sort())
+    brees_data = player_data[player_data.Name == 'Drew Brees']
+    brees_data.drop("Unnamed: 0", axis=1, inplace=True)
+    grouped = brees_data.groupby(['Year'])
+    for item, value in grouped:
+        if item == 2012:
+            print(np.mean(value['Pass Yards']))
 
 
 if __name__ == "__main__": main()
