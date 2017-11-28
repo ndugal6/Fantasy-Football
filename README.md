@@ -42,3 +42,4 @@ FG Missed (-∞,∞) : -1
 Punting | POINT RATIO
 ------- | -----------
 Not used | in Standard game
+

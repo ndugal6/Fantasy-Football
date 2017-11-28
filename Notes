@@ -1,3 +1,26 @@
+In order to compute correlation for stability of each feature use modulea
+from scipy.stats.stats import pearsonr
+ex:
+    a = [1,2,3]
+    b==[4,5,6]
+        print personr(a,b)
+        OR
+        user
+            numpy.corrcoef
+            ex:
+            print(numpy,corrcoef(a,b))
+
+
+
+
+
+
+
+
+
+
+
+
 Yards after contact for player
 Broken tackles for defense
 

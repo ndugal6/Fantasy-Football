@@ -14,51 +14,16 @@ from sklearn.model_selection import train_test_split
 from mpl_toolkits.mplot3d import Axes3D
 
 
+
+
 #?
+## for scaling data before input use
+    #data = model.Scale(data, data, scale=float(1./256))
+    # see mnist file line 78
 
 #This is a file for experimenting with Fantasy Foootball data!
 # Documentation for pyplot
 # https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.html
-def main():
-    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
-
-    # # linearRegression()
-    os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
-    ourPredictions = open('Drew Brees Pred_NoPoints_YesDefense.txt','w')
-
-    #These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
-    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
-     'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-     'Pass Yards', 'Receiving 2PT', 'Receiving TD',
-     'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-     'Rush Yards']
-    # These are the stats I'm actually concerned about accurately predicting right now
-    statsUsing = ['Pass 2PT',
-     'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-     'Pass Yards', ]
-
-
-    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
-    for stat in statsUsing:
-        resultTuples = []
-        for i in range(10):
-            resultTuples.append(multivariateLinearRegression("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv",stat))
-        mean2Errs, variances, hmmm = zip(*resultTuples)
-        ourPredictions.write("\n\n\nPredicting: \t"+ stat)
-        ourPredictions.write('\nMean^2 Error Avg\t'+str(sum(mean2Errs)/float(len(mean2Errs))))
-        ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
-        # What the hell was the point of the below code
-        # please = hmmm[0]
-        # print(please)
-        # for huh in hmmm[1:]:
-        #     for who in huh:
-        #         please[who] += huh[who]
-
-        # print(please)
-        # for hm in please:
-        #     ourPredictions.write(str(hm)+':\t'+str(sum(please[hm])/float(len(please[hm]))))
-    ourPredictions.close()
-    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
 def getQbWithName(qbName):
     os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data')
     players_data = pd.read_csv("QBAllYears.csv")
@@ -167,6 +132,7 @@ def linearRegression():
 
         plt.show()
 def multivariateLinearRegression(file, yfeature):
+    #works best if you pass the full file path instead of just the file name
         #Same exact thing as above except there are waaayyy more features. Above involved only one
         os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
         try:
@@ -261,5 +227,125 @@ def getSpecifiedStatisticsForSpecificPlayerGrouped():
         if item == 2012:
             print(np.mean(value['Pass Yards']))
 
+# Grouped is defined the same as in getSpecifiedStatisticsForSpecificPlayerGrouped()
+#This method will iterate through all the features a current player has, remove the non numerical ones, then calculate a descriptive statitistic for each
+#Additional Loop will provided time valued data as needed for multinomimial linear regression
+def iterateAndReceiveStats():
+    for item, value in grouped:
+        xFeatures = set(list(value.columns))
+        xFeatures = xFeatures.difference(['Name', 'Opponent', 'Position', 'Opponent_x', 'Position_x',
+                                          'Team', 'Opponent_y', 'Position_y'])
+        for feature in xFeatures:
+            valFeature = value[feature]
+            # if valFeature.at[1].isnumeric()==True or valFeature.at[1].isdecimal()==True:
+            print(np.mean(valFeature))
+
+#This does what said needed to be done in iterateAndReceiveStats() method
+#It loops and calculates a rolling mean, returning each new mean value a every week
+#SHOULD CHECK THAT IT STARTS AT WEEK 1, INSTEAD OF COUNTING DOWN
+#Also, these methods need to be returning a list or some usable datastructure instead of printing the results
+    #recommend creating empty list and appending where my print statements are
+
+def cumulativeWeeklyMeans(grouped):
+    # item is the feature we grouped on and value is it's assocciated dataframe
+    for item, value in grouped:
+        if item == 2012:
+            xFeatures = set(list(value.columns))
+            xFeatures = xFeatures.difference(['Name', 'Opponent', 'Position', 'Opponent_x', 'Position_x',
+                                              'Team', 'Opponent_y', 'Position_y'])
+            for feature in xFeatures:
+                valFeature = value[feature]
+                # if valFeature.at[1].isnumeric()==True or valFeature.at[1].isdecimal()==True:
+                # print(np.mean(valFeature))
+                # Here we begin finding the effect of time for features
+                if feature == 'Pass Yards':
+                    print('Weekly Values before means:, ', valFeature)
+                    for val in range(0, len(valFeature)):
+                        print(np.mean(valFeature[0:val]))
+
+# Takes columns of a DF and removes the currently known nonNumerical values
+def purgeAlphas(unCleaned):
+    cleaned = (set(list(unCleaned))).difference(['Name', 'Opponent', 'Position', 'Opponent_x', 'Position_x',
+                          'Team', 'Opponent_y', 'Position_y'])
+    return cleaned
+
+# Removes the nonNumerical columns of a DF
+def removeAlphaData(unCleanedDF):
+    return unCleanedDF[list(purgeAlphas(unCleanedDF))]
+
+
+#<<<<<<<<<------------If you fell asleep, continue work here------------>>>>>
+#Here I'm following the steps written in the piece of paper that's attatched to your clipboard.
+#<<<<<<<<<------------If you fell asleep, continue work here------------>>>>>
+
+def createInputData():
+    os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
+    player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year', 'Week'].sort())
+    brees_data = player_data[player_data.Name == 'Drew Brees']
+    brees_data.drop("Unnamed: 0", axis=1, inplace=True)
+    grouped = brees_data.groupby(['Year'])
+    newValuesAsDict = []
+    for year, yearData in grouped:
+        listOfAveragedList = []
+
+        averagedList = []
+        for dataColumn in purgeAlphas(yearData.columns):
+            dataVector = yearData[dataColumn]
+
+            for val in range(0, len(dataVector)):
+                averagedList.append(np.mean(dataVector[0:val]))
+        newValuesAsDict.append(dict({dataColumn:averagedList}))
+    updatedDF = pd.DataFrame(newValuesAsDict)
+    print(updatedDF.head(10))
+    updatedDF.to_csv("Averaged_Brees_Values.csv")
+
+
+
+
+
+
+
+def main():
+    createInputData()
+    exit(0)
+    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
+
+    # # linearRegression()
+    os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
+    ourPredictions = open('Drew Brees Pred_NoPoints_YesDefense.txt','w')
+
+    #These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
+    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
+     'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+     'Pass Yards', 'Receiving 2PT', 'Receiving TD',
+     'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
+     'Rush Yards']
+    # These are the stats I'm actually concerned about accurately predicting right now
+    statsUsing = ['Pass 2PT',
+     'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+     'Pass Yards', ]
+
+
+    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
+    for stat in statsUsing:
+        resultTuples = []
+        for i in range(10):
+            resultTuples.append(multivariateLinearRegression("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv",stat))
+        mean2Errs, variances, hmmm = zip(*resultTuples)
+        ourPredictions.write("\n\n\nPredicting: \t"+ stat)
+        ourPredictions.write('\nMean^2 Error Avg\t'+str(sum(mean2Errs)/float(len(mean2Errs))))
+        ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
+        # What the hell was the point of the below code
+        # please = hmmm[0]
+        # print(please)
+        # for huh in hmmm[1:]:
+        #     for who in huh:
+        #         please[who] += huh[who]
+
+        # print(please)
+        # for hm in please:
+        #     ourPredictions.write(str(hm)+':\t'+str(sum(please[hm])/float(len(please[hm]))))
+    ourPredictions.close()
+    # multivariateLinearRegression("AllPositionsAllYears.csv", "Pass Attempts")
 
 if __name__ == "__main__": main()
