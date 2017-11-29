@@ -12,7 +12,7 @@ from sklearn import preprocessing
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from mpl_toolkits.mplot3d import Axes3D
-
+#Nicholas Dugal
 
 # ?
 ## for scaling data before input use
@@ -193,7 +193,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     pattern = "%.2f"
     floatsstrings = [pattern % i for i in list(reg.coef_)]
     print(floatsstrings)
-#2 lines below were part of trial to print the title of each coef, uncommenting will enable that super power
+#2 lines below were part of trial to print the title of each coef, uncommenting will enable that super power...maybe 
     # floats = list(float(i) for i in floatsstrings)
     # hmmm = dict(zip(coeff_titles, floats))
     # print(hmmm)
@@ -201,10 +201,9 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
 
     mean2Err = mean_squared_error(Y_test, yfeature_prediction)
     varianceScore = r2_score(Y_test, yfeature_prediction)
-
     return (mean2Err, varianceScore)
 
-
+#Ignore This
 def groupPlayersByNameYear(players_data):
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
     player_data = pd.read_csv('QB_with_Defense.csv')
@@ -213,9 +212,9 @@ def groupPlayersByNameYear(players_data):
     # Now to get a specific player using this format
     dBrees_data = their_stats.loc[['Drew Brees', ], :]
 
-
-# So here we can get a specific player then group their data into whatever we want, iterate through those groupings and get whatever stats we want on each column
-# Yeah that's kinda a rant
+#Ignore this
+    # So here we can get a specific player then group their data into whatever we want, iterate through those groupings and get whatever stats we want on each column
+    # Yeah that's kinda a rant
 def getSpecifiedStatisticsForSpecificPlayerGrouped():
     player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year', 'Week'].sort())
     brees_data = player_data[player_data.Name == 'Drew Brees']
@@ -225,10 +224,10 @@ def getSpecifiedStatisticsForSpecificPlayerGrouped():
         if item == 2012:
             print(np.mean(value['Pass Yards']))
 
-
-# Grouped is defined the same as in getSpecifiedStatisticsForSpecificPlayerGrouped()
-# This method will iterate through all the features a current player has, remove the non numerical ones, then calculate a descriptive statitistic for each
-# Additional Loop will provided time valued data as needed for multinomimial linear regression
+#IGNore This
+    # Grouped is defined the same as in getSpecifiedStatisticsForSpecificPlayerGrouped()
+    # This method will iterate through all the features a current player has, remove the non numerical ones, then calculate a descriptive statitistic for each
+    # Additional Loop will provided time valued data as needed for multinomimial linear regression
 def iterateAndReceiveStats():
     for item, value in grouped:
         xFeatures = set(list(value.columns))
@@ -245,7 +244,7 @@ def iterateAndReceiveStats():
             # Also, these methods need to be returning a list or some usable datastructure instead of printing the results
             # recommend creating empty list and appending where my print statements are
 
-
+#Ignore this
 def cumulativeWeeklyMeans(grouped):
     # item is the feature we grouped on and value is it's assocciated dataframe
     for item, value in grouped:
@@ -275,7 +274,7 @@ def purgeAlphas(unCleaned):
 def removeAlphaData(unCleanedDF):
     return unCleanedDF[list(purgeAlphas(unCleanedDF))]
 
-
+#Ignore this
 def createInputData():
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
     player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year', 'Week'].sort())
