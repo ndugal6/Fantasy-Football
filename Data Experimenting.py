@@ -181,11 +181,10 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
 
 # Our linear regression model
     reg = linear_model.LinearRegression()
-# I love the sound of a PassiveAgressiveRegressor, try to make it work for shits and gigs
+# I love the sound of a PassiveAgressiveRegressor, try to make it work for shits and gigs pleeeeeease :)
     # reg = linear_model.PassiveAggressiveRegressor()
 
     model = reg.fit(X_train, Y_train) #Fitting the model with our training data
-
     yfeature_prediction = model.predict(X_test)
     print("Predicting: ",yfeature)
     print("The Coeffecients:\n ")
@@ -193,7 +192,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     pattern = "%.2f"
     floatsstrings = [pattern % i for i in list(reg.coef_)]
     print(floatsstrings)
-#2 lines below were part of trial to print the title of each coef, uncommenting will enable that super power...maybe 
+#2 lines below were part of trial to print the title of each coef, uncommenting will enable that super power...maybe
     # floats = list(float(i) for i in floatsstrings)
     # hmmm = dict(zip(coeff_titles, floats))
     # print(hmmm)
@@ -277,22 +276,23 @@ def removeAlphaData(unCleanedDF):
 #Ignore this
 def createInputData():
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
-    player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year', 'Week'].sort())
+    player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year','Week'])
     brees_data = player_data[player_data.Name == 'Drew Brees']
-    brees_data.drop("Unnamed: 0", axis=1, inplace=True)
+    # brees_data.drop("Unnamed: 0", axis=1, inplace=True)
     grouped = brees_data.groupby(['Year'])
-    newValuesAsDict = []
+    listOfAveragedList = []
     for year, yearData in grouped:
-        listOfAveragedList = []
 
-        averagedList = []
+        newValuesAsDict = []
+
         for dataColumn in purgeAlphas(yearData.columns):
             dataVector = yearData[dataColumn]
-
+            averagedList = []
             for val in range(0, len(dataVector)):
                 averagedList.append(np.mean(dataVector[0:val]))
-        newValuesAsDict.append(dict({dataColumn: averagedList}))
-    updatedDF = pd.DataFrame(newValuesAsDict)
+            newValuesAsDict.append(dict({dataColumn: averagedList}))
+        listOfAveragedList.append((newValuesAsDict))
+    updatedDF = pd.DataFrame(listOfAveragedList)
     print(updatedDF.head(10))
     updatedDF.to_csv("Averaged_Brees_Values.csv")
 
@@ -322,8 +322,7 @@ def main():
         resultTuples = []
         for i in range(10):
             resultTuples.append(multivariateLinearRegression(
-                "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv",
-                stat))
+                "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv", stat))
         mean2Errs, variances, hmmm = zip(*resultTuples)
         ourPredictions.write("\n\n\nPredicting: \t" + stat)
         ourPredictions.write('\nMean^2 Error Avg\t' + str(sum(mean2Errs) / float(len(mean2Errs))))
