@@ -138,64 +138,44 @@ def linearRegression(X=None, Y=None):
     plt.show()
 
 
-# Linear Regression method that takes the Xfeatures you want to input, Y feature that you want to predict, a filePath to a csv or a DataFrame
-# xFeatures should be of type list, yFeature need be a string
-#DO NOT PASS POINTS with the data, it'll give you a false sense of security. Talking about FF Points which is labeled simply as 'Points' in my csv
-# Also, the data you pass should be for a prediction on a single player or defensive team. It'll take whatever but logically we need predictions for individuals
-# But ughhh IDK either try to predict for all positions or try for single player then scale up, whatever floats your boat. IDK which is the better strat
-def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=None):
-    # works best if you pass the full file path instead of just the file name
 
-    # Change this to your data dir for more convenient file passing
+def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=None):
+
     os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
-# Gotta make sure you passed a valid fileName, or filepath if you didn't change the line above
     if players_data == None:
         try:
             players_data = pd.read_csv(file)
         except:
             print("Invalid file name or file path passed as argument")
 
-# Creates a set, phenomenal for membership checking, unions, intersections, etc,
-    setList = set(list(players_data.columns))   #We first make it a list since a set needs to be passed an iterable data structure
+    setList = set(list(players_data.columns))
 
-    # Test if the feature arguments is a valid column
-    if not yfeature in set(setList):
+    if not yfeature in setList:
         raise Exception(yfeature + "Feature doesn't exist. Did you mispell it or pass the from csv")
+    if yfeature in set(xFeatures):
+        raise Exception(yfeature + 'is in xFeatures')
     for x in xFeatures:
-        if not x in set(setList):
+        if not x in setList:
             raise Exception(x + "Feature doesn't exist. Did you mispell it or pass the from csv")
 
 
- # We need to add nonzero column to our X data due to matrix and vector maths, and the need for axis intercepts that aren't equal to 0
     X = players_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
     Y = players_data[yfeature]
 
-# At some point we are going to have to standardize all the values, but for now it's easier to understand without standardizing
-    # X_train, X_test, Y_train, Y_test = train_test_split(preprocessing.scale(X), preprocessing.scale(Y), test_size=.2)
-# Here we are splitting the data into a random 80% for training, with the remaining 20% used for testing, change if you want
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=.2)
 
-# I was doing something but forgot, just let these two lines live on and don't pay them any attention
     coeff_titles = list(xFeatures)
     coeff_titles.insert(0, 'Intercept')
 
-# Our linear regression model
     reg = linear_model.LinearRegression()
-# I love the sound of a PassiveAgressiveRegressor, try to make it work for shits and gigs pleeeeeease :)
-    # reg = linear_model.PassiveAggressiveRegressor()
 
-    model = reg.fit(X_train, Y_train) #Fitting the model with our training data
+    model = reg.fit(X_train, Y_train)
     yfeature_prediction = model.predict(X_test)
     print("Predicting: ",yfeature)
     print("The Coeffecients:\n ")
-    # Let's format the list of float point coeffs so they're easier to read
     pattern = "%.2f"
     floatsstrings = [pattern % i for i in list(reg.coef_)]
     print(floatsstrings)
-#2 lines below were part of trial to print the title of each coef, uncommenting will enable that super power...maybe
-    # floats = list(float(i) for i in floatsstrings)
-    # hmmm = dict(zip(coeff_titles, floats))
-    # print(hmmm)
 
 
     mean2Err = mean_squared_error(Y_test, yfeature_prediction)
@@ -292,6 +272,7 @@ def createInputData():
                 averagedList.append(np.mean(dataVector[0:val]))
             newValuesAsDict.append(dict({dataColumn: averagedList}))
         listOfAveragedList.append((newValuesAsDict))
+
     updatedDF = pd.DataFrame(listOfAveragedList)
     print(updatedDF.head(10))
     updatedDF.to_csv("Averaged_Brees_Values.csv")
@@ -299,6 +280,7 @@ def createInputData():
 
 def main():
     createInputData()
+
     exit(0)
     multivariateLinearRegression(
         "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
