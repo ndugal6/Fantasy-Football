@@ -2,116 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/AllPositionsAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dstAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/kAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qbAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rbAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/teAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2010_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2011_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2012_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2013_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2014_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2015_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2016_FantasyFootballData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wrAllYears_OLD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2010DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2011DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2012DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2013DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2014DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2015DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2016DefData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Averaged_Brees_Values.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/DSTAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/KAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/QBAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/QB_with_Defense.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/RBAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/RB_with_Defense.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/TEAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/TE_with_Defense.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/WRAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/WR_with_Defense.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2010KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2011KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2012KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2013KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2014KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2015KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2016KickerData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/KAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2010QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2011QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2012QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2013QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2014QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2015QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2016QBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2010RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2011RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2012RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2013RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2014RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2015RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2016RBData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2010TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2011TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2012TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2013TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2014TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2015TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2016TEData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2010WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2011WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2012WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2013WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2014WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2015WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2016WRData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/predictionResults.csv" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataExploit.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Scaled/training_df.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Experimenting.py" afterPath="$PROJECT_DIR$/Data Experimenting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataScrapeAndSave.py" afterPath="$PROJECT_DIR$/DataScrapeAndSave.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scaled/testingDF.csv" afterPath="$PROJECT_DIR$/Scaled/testingDF.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,17 +20,33 @@
       <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="375" column="0" lean-forward="true" selection-start-line="375" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
+            <state relative-caret-position="196">
+              <caret line="280" column="4" lean-forward="false" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="4" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#1624#2179#0" expanded="false" />
                 <element signature="e#2251#2445#0" expanded="false" />
                 <element signature="e#2671#5933#0" expanded="false" />
-                <element signature="e#7513#7922#0" expanded="false" />
-                <element signature="e#11969#12067#0" expanded="false" />
-                <element signature="e#12980#13750#0" expanded="false" />
+                <element signature="e#6028#7419#0" expanded="false" />
+                <element signature="e#16544#16953#0" expanded="false" />
+                <element signature="e#17969#18902#0" expanded="false" />
+                <element signature="e#18955#19912#0" expanded="false" />
+                <element signature="e#20020#20229#0" expanded="false" />
+                <element signature="e#20405#20781#0" expanded="false" />
+                <element signature="e#20813#21984#0" expanded="false" />
+                <element signature="e#21000#21098#0" expanded="false" />
+                <element signature="e#22809#23576#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataExploit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataExploit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,8 +54,8 @@
       <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-826">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="291">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <element signature="e#2274#7438#0" expanded="false" />
@@ -154,6 +65,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -165,6 +83,7 @@
       <find>varian</find>
       <find>sort</find>
       <find>reinde</find>
+      <find>tuple</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -182,6 +101,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Notes" />
         <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
+        <option value="$PROJECT_DIR$/DataExploit.py" />
         <option value="$PROJECT_DIR$/Data Experimenting.py" />
       </list>
     </option>
@@ -191,7 +111,7 @@
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -204,39 +124,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Fantasy-Football" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fantasy-Football" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fantasy-Football" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fantasy-Football" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fantasy-Football" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fantasy-Football" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Updated NFL Data Sets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fantasy-Football" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fantasy-Football" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Updated NFL Data Sets" type="462c0819:PsiDirectoryNode" />
-              <item name="Indexed Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -454,8 +342,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="73" y="118" width="1340" height="700" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20117646" sideWeight="0.50555557" order="10" side_tool="true" content_ui="tabs" x="0" y="429" width="1440" height="812" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20117646" sideWeight="0.49444443" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4152941" sideWeight="0.16875" order="10" side_tool="true" content_ui="tabs" x="0" y="429" width="1440" height="812" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20235294" sideWeight="0.83125" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -475,12 +363,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py" />
     <entry file="file://$PROJECT_DIR$/predictions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -515,9 +402,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -572,9 +465,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -600,9 +499,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -651,9 +556,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,9 +597,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -720,9 +637,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -754,9 +677,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -781,9 +710,15 @@
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,10 +778,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataExploit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-826">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="291">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#2274#7438#0" expanded="false" />
@@ -856,16 +799,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="375" column="0" lean-forward="true" selection-start-line="375" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="280" column="4" lean-forward="false" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="4" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#1624#2179#0" expanded="false" />
             <element signature="e#2251#2445#0" expanded="false" />
             <element signature="e#2671#5933#0" expanded="false" />
-            <element signature="e#7513#7922#0" expanded="false" />
-            <element signature="e#11969#12067#0" expanded="false" />
-            <element signature="e#12980#13750#0" expanded="false" />
+            <element signature="e#6028#7419#0" expanded="false" />
+            <element signature="e#16544#16953#0" expanded="false" />
+            <element signature="e#17969#18902#0" expanded="false" />
+            <element signature="e#18955#19912#0" expanded="false" />
+            <element signature="e#20020#20229#0" expanded="false" />
+            <element signature="e#20405#20781#0" expanded="false" />
+            <element signature="e#20813#21984#0" expanded="false" />
+            <element signature="e#21000#21098#0" expanded="false" />
+            <element signature="e#22809#23576#0" expanded="false" />
           </folding>
         </state>
       </provider>

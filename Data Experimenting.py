@@ -163,7 +163,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     X = players_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
     Y = players_data[yfeature]
 
-    X_train, X_test, Y_train, Y_test = train_test_split(preprocessing.scale(X), preprocessing.scale(Y), test_size=.2)
+    # X_train, X_test, Y_train, Y_test = train_test_split(X, preprocessing.scale(Y))
 
     coeff_titles = list(xFeatures)
     coeff_titles.insert(0, 'Intercept')
@@ -183,6 +183,222 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     varianceScore = r2_score(Y_test, yfeature_prediction)
     return (mean2Err, varianceScore)
 
+
+
+def realRegression(xFeatures, yfeature,training_data,testing_data):
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/scaled')
+    # training_data = pd.read_csv('trainingDF.csv')
+    # testing_data = pd.read_csv("testingDF.csv")
+
+    setList = set(list(training_data.columns))
+
+    if not yfeature in setList:
+        raise Exception(yfeature + "Feature doesn't exist. Did you mispell it or pass the from csv")
+    if yfeature in set(xFeatures):
+        xFeatures = set(xFeatures).difference([yfeature])
+    for x in xFeatures:
+        if not x in setList:
+            raise Exception(x + "Feature doesn't exist. Did you mispell it or pass the from csv")
+
+    X_train = training_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
+    Y_train = training_data[yfeature]
+    X_test = testing_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
+    Y_test = testing_data[yfeature]
+
+    coeff_titles = list(xFeatures)
+    coeff_titles.insert(0, 'Intercept')
+
+    reg = linear_model.LinearRegression()
+
+    model = reg.fit(X_train, Y_train)
+    yfeature_prediction = model.predict(X_test)
+    # print("Predicting: ", yfeature)
+    # print("The Coeffecients:\n ")
+    # pattern = "%.50f"
+    # floatsstrings = [pattern % i for i in list(reg.coef_)]
+    # print(floatsstrings)
+
+    mean2Err = mean_squared_error(Y_test, yfeature_prediction)
+    varianceScore = r2_score(Y_test, yfeature_prediction)
+    return (mean2Err, varianceScore, yfeature_prediction)
+
+
+
+def realMain():
+    ourPredictions = open('The Final Predictions.txt', 'w')
+
+    # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
+    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
+             'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+             'Pass Yards', 'Receiving 2PT', 'Receiving TD',
+             'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
+             'Rush Yards']
+    # These are the stats I'm actually concerned about accurately predicting right now
+    statsUsing = stats.copy()
+
+    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/scaled')
+    training = (pd.read_csv('trainingDF.csv')).groupby('Name')
+    testing = pd.read_csv("testingDF.csv")
+    predictionList = []
+
+    testSet = set(list(testing.Name))
+    actualDataFrame = pd.DataFrame(data=None, index=testSet, columns=stats)
+    for name, training_data in training:
+        checker = set(list(testing.Name))
+        if name in checker:
+            testing_data = testing[testing.Name == name]
+
+            trainSet = set((pd.read_csv('trainingDF.csv')).Name.tolist())
+            # theNames = trainSet.union(testSet)
+            actualDataFrame.loc[name,'Position'] = str(training_data['Position'])
+            for stat in statsUsing:
+                resultTuples = []
+                for i in range(10):
+                    resultTuples.append(realRegression(stats,stat,training_data,testing_data))
+                mean2Errs, variances, prediction = zip(*resultTuples)
+
+                # ourPredictions.write("\n\n\nPredicting: \t" + stat)
+                # ourPredictions.write(("\nPlayer Name:\t"+ name))
+                # ourPredictions.write('\nThe prediction\t' + str())
+                # ourPredictions.write('\nMean^2 Error Avg\t' + str())
+                # ourPredictions.write('\nVariances Avg\t' + str())
+                # predDF['Name']= name
+                predValue = (float(sum(prediction) / float(len(prediction))))
+                actualDataFrame.loc[name,stat] = predValue
+                vStr = str(stat+' EV')
+                m2eStr = str(stat + ' M2E')
+                actualDataFrame.loc[name,m2eStr]= (float(sum(mean2Errs) / float(len(mean2Errs))))
+                actualDataFrame.loc[name,vStr]= (float(sum(variances) / float(len(variances))))
+        else:
+            continue
+
+    actualDataFrame.to_csv('actualDataFrame.csv')
+    ourPredictions.close()
+    ffPredictions = open('FF Predictions.txt', 'w')
+    # exit(0)
+    # stats.append('Points')
+    
+    for name, training_data in training:
+    # if True == True:
+            # predDF = pd.DataFrame(columns=)
+            if True==True:
+                resultTuples = []
+                for i in range(10):
+                    resultTuples.append(realRegression(stats, 'Points', training_data, actualDataFrame))
+                mean2Errs, variances, prediction = zip(*resultTuples)
+
+                ffPredictions.write("\n\n\nPredicting: \t" + stat)
+                ffPredictions.write(("\nPlayer Name:\t" + name))
+                ffPredictions.write('\nThe prediction\t' + str())
+                ffPredictions.write('\nMean^2 Error Avg\t' + str())
+                ffPredictions.write('\nVariances Avg\t' + str())
+                # predDF['Name'] = name
+                # predDF[stat] = (float(sum(prediction) / float(len(prediction))))
+                # predDF['MeanSquaredError'] = (float(sum(mean2Errs) / float(len(mean2Errs))))
+                # predDF['Explained Variance'] = (float(sum(variances) / float(len(variances))))
+
+
+def main():
+    os.chdir('scaled')
+    all = pd.read_csv('AllPositionsScaledAllYears.csv')
+    # print(list(all.columns))
+    # all.reindex(index=['Year'])
+    inputDF1 = all[all.Year != 2016]
+    inputDF2 = all[(all.Year == 2016) & (all.Week <= 8)]
+    testing = all[(all.Year == 2016) & (all.Week == 8)]
+    # print(inputDF2.head());exit(0)
+    breesOG = inputDF2.copy(deep=True)
+    inputDF2 = removeAlphaData(inputDF2)
+
+    columns = list(removeAlphaData(inputDF2).columns)
+    dfsToConcat = []
+    for pos, pData in (breesOG.groupby('Position')):
+        for person, personsD in (pData.groupby('Name')):
+            means = []
+            for col in columns:
+                mean = np.mean(personsD[col])
+                means.append(mean)
+            diction = zip(columns, means)
+            newDF = pd.DataFrame()
+            newDF['Year'] = personsD['Year']
+            newDF['Week'] = personsD['Week']
+            newDF['Name'] = person
+            newDF['Opponent'] = personsD['Opponent']
+            newDF['Position'] =  pos
+            for col, me in diction:
+                if (col == 'Week'):
+                    continue
+                if (col == 'Year'):
+                    continue
+                newDF[col] = me
+            dfsToConcat.append(newDF)
+    newerDF = pd.concat(dfsToConcat)
+    newerDF[newerDF.Week == 8].to_csv('testingDF.csv');exit(0)
+    print(columns)
+
+    # print((len(means)))
+    diction = zip(columns,means)
+    newDF = pd.DataFrame()
+    newDF['Year'] = inputDF2['Year']
+    newDF['Week'] = inputDF2['Week']
+    newDF['Name'] = breesOG['Name']
+    newDF['Opponent'] = breesOG['Opponent']
+    newDF['Position'] = breesOG['Position']
+    for col,me in diction:
+        newDF[col] = me
+    newDF.to_csv('testingDF.csv')
+    exit(0)
+
+
+    trainingDF = pd.concat([inputDF1,inputDF2])
+    trainingDF.to_csv('training_df.csv',index=None)
+    # testingDF =
+
+    print(inputDF1.shape)
+
+    print(inputDF2.shape)
+    print(inputDF2.head())
+
+    exit(0)
+
+
+
+    # squared.to_csv('squaredBrees.csv')
+
+    exit()
+    # combineOffensePositionWithDefense('RB')
+    createInputData()
+    exit()
+    multivariateLinearRegression(
+        "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
+        "Pass Attempts")
+
+    os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
+    ourPredictions = open('Drew Brees Pred.txt', 'w')
+
+    # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
+    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
+             'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+             'Pass Yards', 'Receiving 2PT', 'Receiving TD',
+             'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
+             'Rush Yards']
+    # These are the stats I'm actually concerned about accurately predicting right now
+    statsUsing = ['Pass 2PT', 'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
+                  'Pass Yards']
+
+    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
+    for stat in statsUsing:
+        resultTuples = []
+        for i in range(10):
+            resultTuples.append(multivariateLinearRegression(
+                "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv", stat))
+        mean2Errs, variances, hmmm = zip(*resultTuples)
+        ourPredictions.write("\n\n\nPredicting: \t" + stat)
+        ourPredictions.write('\nMean^2 Error Avg\t' + str(sum(mean2Errs) / float(len(mean2Errs))))
+        ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
+
+    ourPredictions.close()
 #Ignore This
 def groupPlayersByNameYear(players_data):
     os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
@@ -345,83 +561,9 @@ def squaredToScaled():
         newDF['Position'] = breesOG['Position']
         newDF.to_csv(pos + 'Scaled_Squared.csv')
     exit(0);
-def main():
-    os.chdir('scaled')
-    all = pd.read_csv('AllPositionsScaledAllYears.csv')
-    # print(list(all.columns))
-    # all.reindex(index=['Year'])
-    inputDF1 = all[all.Year != 2016]
-    inputDF2 = all[(all.Year == 2016) & (all.Week <= 8)]
-    testing = all[(all.Year == 2016) & (all.Week == 8)]
-
-    breesOG = inputDF2.copy(deep=True)
-    dBrees = removeAlphaData(inputDF2)
-    newDF = pd.DataFrame()
-    for col in list(dBrees.columns):
-        newDF[col] = np.mean(dBrees[col])
-    newDF['Year'] = dBrees['Year']
-    newDF['Week'] = dBrees['Week']
-    newDF['Name'] = breesOG['Name']
-    newDF['Opponent'] = breesOG['Opponent']
-    newDF['Position'] = breesOG['Position']
-    newDF.to_csv('testingDF.csv')
-    exit(0)
 
 
 
 
 
-
-
-
-    trainingDF = pd.concat([inputDF1,inputDF2])
-    trainingDF.to_csv('training_df.csv',index=None)
-    # testingDF =
-
-    print(inputDF1.shape)
-
-    print(inputDF2.shape)
-    print(inputDF2.head())
-
-    exit(0)
-
-
-
-    # squared.to_csv('squaredBrees.csv')
-
-    exit()
-    # combineOffensePositionWithDefense('RB')
-    createInputData()
-    exit()
-    multivariateLinearRegression(
-        "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
-        "Pass Attempts")
-
-    os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
-    ourPredictions = open('Drew Brees Pred.txt', 'w')
-
-    # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
-    stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
-             'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-             'Pass Yards', 'Receiving 2PT', 'Receiving TD',
-             'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
-             'Rush Yards']
-    # These are the stats I'm actually concerned about accurately predicting right now
-    statsUsing = ['Pass 2PT', 'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-                  'Pass Yards']
-
-    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
-    for stat in statsUsing:
-        resultTuples = []
-        for i in range(10):
-            resultTuples.append(multivariateLinearRegression(
-                "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv", stat))
-        mean2Errs, variances, hmmm = zip(*resultTuples)
-        ourPredictions.write("\n\n\nPredicting: \t" + stat)
-        ourPredictions.write('\nMean^2 Error Avg\t' + str(sum(mean2Errs) / float(len(mean2Errs))))
-        ourPredictions.write('\nVariances Avg\t' + str(sum(variances) / float(len(variances))))
-
-    ourPredictions.close()
-
-
-if __name__ == "__main__": main()
+if __name__ == "__main__": realMain()
