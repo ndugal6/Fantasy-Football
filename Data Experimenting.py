@@ -185,10 +185,12 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
 
 
 
-def realRegression(xFeatures, yfeature,training_data,testing_data):
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/scaled')
+def realRegression(xFeatures, yfeature,training_data,testing_data,name=None):
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/allyears/')
     # training_data = pd.read_csv('trainingDF.csv')
     # testing_data = pd.read_csv("testingDF.csv")
+    testY = pd.read_csv("testingDF.csv")
+    testY = testY[testY.Name == name]
 
     setList = set(list(training_data.columns))
 
@@ -200,10 +202,10 @@ def realRegression(xFeatures, yfeature,training_data,testing_data):
         if not x in setList:
             raise Exception(x + "Feature doesn't exist. Did you mispell it or pass the from csv")
 
-    X_train = training_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
+    X_train = preprocessing.scale(training_data[list(xFeatures)].values.reshape(-1, len(xFeatures)))
     Y_train = training_data[yfeature]
-    X_test = testing_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
-    Y_test = testing_data[yfeature]
+    X_test = preprocessing.scale(testing_data[list(xFeatures)].values.reshape(-1, len(xFeatures)))
+    Y_test = testY[yfeature]
 
     coeff_titles = list(xFeatures)
     coeff_titles.insert(0, 'Intercept')
@@ -220,28 +222,30 @@ def realRegression(xFeatures, yfeature,training_data,testing_data):
 
     mean2Err = mean_squared_error(Y_test, yfeature_prediction)
     varianceScore = r2_score(Y_test, yfeature_prediction)
-    return (mean2Err, varianceScore, yfeature_prediction)
+    if name is None:
+        return (mean2Err, varianceScore, yfeature_prediction)
+    return (mean2Err, varianceScore, yfeature_prediction,Y_test)
 
 
 
 def realMain():
     ourPredictions = open('The Final Predictions.txt', 'w')
-
-    # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
+    #
+    # # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
     stats = ['Fumble TD', 'Fumbles Lost', 'Pass 2PT',
              'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
              'Pass Yards', 'Receiving 2PT', 'Receiving TD',
              'Receiving Yards', 'Receptions', 'Rush 2PT', 'Rush Attempts', 'Rush TD',
              'Rush Yards']
-    # These are the stats I'm actually concerned about accurately predicting right now
+    # # These are the stats I'm actually concerned about accurately predicting right now
     statsUsing = stats.copy()
-
-    # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/scaled')
+    #
+    # # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/allyears')
     training = (pd.read_csv('trainingDF.csv')).groupby('Name')
     testing = pd.read_csv("testingDF.csv")
     predictionList = []
-
+    #
     testSet = set(list(testing.Name))
     actualDataFrame = pd.DataFrame(data=None, index=testSet, columns=stats)
     for name, training_data in training:
@@ -252,24 +256,30 @@ def realMain():
             trainSet = set((pd.read_csv('trainingDF.csv')).Name.tolist())
             # theNames = trainSet.union(testSet)
             actualDataFrame.loc[name,'Position'] = str(training_data['Position'])
-            for stat in statsUsing:
+            for stat in stats:
                 resultTuples = []
-                for i in range(10):
-                    resultTuples.append(realRegression(stats,stat,training_data,testing_data))
-                mean2Errs, variances, prediction = zip(*resultTuples)
+                # for i in range(10):
+                    # resultTuples.append(realRegression(stats,stat,training_data,testing_data))
+                mean2Errs, variances, prediction, Ytest = realRegression(stats,stat,training_data,testing_data,name)
+                    # zip(*resultTuples)
 
-                # ourPredictions.write("\n\n\nPredicting: \t" + stat)
-                # ourPredictions.write(("\nPlayer Name:\t"+ name))
-                # ourPredictions.write('\nThe prediction\t' + str())
-                # ourPredictions.write('\nMean^2 Error Avg\t' + str())
-                # ourPredictions.write('\nVariances Avg\t' + str())
+                ourPredictions.write("\n\n\nPredicting: \t" + stat)
+                ourPredictions.write(("\nPlayer Name:\t"+ name))
+                ourPredictions.write('\nThe prediction\t' + str())
+                ourPredictions.write('\nMean^2 Error Avg\t' + str())
+                ourPredictions.write('\nVariances Avg\t' + str())
                 # predDF['Name']= name
-                predValue = (float(sum(prediction) / float(len(prediction))))
-                actualDataFrame.loc[name,stat] = predValue
+                # predValue = map(float,prediction)
+                # print('#'*50)
+                # print(prediction)
+                # print(Ytest)
+                # print(prediction.shape)
+                # exit(0)
+                actualDataFrame.loc[name,stat] = np.mean(prediction)
                 vStr = str(stat+' EV')
                 m2eStr = str(stat + ' M2E')
-                actualDataFrame.loc[name,m2eStr]= (float(sum(mean2Errs) / float(len(mean2Errs))))
-                actualDataFrame.loc[name,vStr]= (float(sum(variances) / float(len(variances))))
+                actualDataFrame.loc[name,m2eStr]= float(mean2Errs)
+                actualDataFrame.loc[name,vStr]= float(variances)
         else:
             continue
 
@@ -278,30 +288,33 @@ def realMain():
     ffPredictions = open('FF Predictions.txt', 'w')
     # exit(0)
     # stats.append('Points')
-    
+    actualDataFrame = pd.read_csv('actualDataFrame.csv')
+    ffActualDataFrame = pd.DataFrame(data=None, index=testSet, columns=['Name','Points Predicted','Points Actual','mean2Errs','variances'])
     for name, training_data in training:
-    # if True == True:
-            # predDF = pd.DataFrame(columns=)
-            if True==True:
-                resultTuples = []
-                for i in range(10):
-                    resultTuples.append(realRegression(stats, 'Points', training_data, actualDataFrame))
-                mean2Errs, variances, prediction = zip(*resultTuples)
-
-                ffPredictions.write("\n\n\nPredicting: \t" + stat)
-                ffPredictions.write(("\nPlayer Name:\t" + name))
-                ffPredictions.write('\nThe prediction\t' + str())
-                ffPredictions.write('\nMean^2 Error Avg\t' + str())
-                ffPredictions.write('\nVariances Avg\t' + str())
-                # predDF['Name'] = name
-                # predDF[stat] = (float(sum(prediction) / float(len(prediction))))
-                # predDF['MeanSquaredError'] = (float(sum(mean2Errs) / float(len(mean2Errs))))
-                # predDF['Explained Variance'] = (float(sum(variances) / float(len(variances))))
+        checker = set(list(testing.Name))
+        if name in checker:
+            # resultTuples = []
+            # for i in range(10):
+            #     resultTuples.append(realRegression(stats, 'Points', training, actualDataFrame))
+            mean2Errs, variances, prediction, realPoints = realRegression(stats, 'Points', training_data, actualDataFrame[actualDataFrame.Name == name],name=name)
+            ffActualDataFrame.loc[name, 'Points Predicted'] = prediction
+            ffActualDataFrame.loc[name,'Points Actual'] = realPoints
+            ffActualDataFrame.loc[name,'mean2Errs']= np.true_divide(float(sum(mean2Errs),float(len(mean2Errs))))
+            ffActualDataFrame.loc[name,'variances']= np.true_divide(float(sum(variances) , float(len(variances))))
+            # ffPredictions.write("\n\n\nPredicting: \t" + 'Points')
+            # # ffPredictions.write(("\nPlayer Name:\t" + name))
+            # ffPredictions.write('\nThe prediction\t' + str(prediction))
+            # ffPredictions.write('\nMean^2 Error Avg\t' + str(mean2Errs))
+            # ffPredictions.write('\nVariances Avg\t' + str(variances))
+            # predDF['Name'] = name
+            # predDF[stat] = (float(sum(prediction) / float(len(prediction))))
+            # predDF['MeanSquaredError'] = (float(sum(mean2Errs) / float(len(mean2Errs))))
+            # predDF['Explained Variance'] = (float(sum(variances) / float(len(variances))))
 
 
 def main():
-    os.chdir('scaled')
-    all = pd.read_csv('AllPositionsScaledAllYears.csv')
+    os.chdir('squared/allyears')
+    all = pd.read_csv('SquaredAllPositionsAllYears.csv')
     # print(list(all.columns))
     # all.reindex(index=['Year'])
     inputDF1 = all[all.Year != 2016]
@@ -334,7 +347,7 @@ def main():
                 newDF[col] = me
             dfsToConcat.append(newDF)
     newerDF = pd.concat(dfsToConcat)
-    newerDF[newerDF.Week == 8].to_csv('testingDF.csv');exit(0)
+    newerDF[newerDF.Week == 8].to_csv('testingDF.csv')
     print(columns)
 
     # print((len(means)))
@@ -348,7 +361,7 @@ def main():
     for col,me in diction:
         newDF[col] = me
     newDF.to_csv('testingDF.csv')
-    exit(0)
+
 
 
     trainingDF = pd.concat([inputDF1,inputDF2])
@@ -371,10 +384,10 @@ def main():
     createInputData()
     exit()
     multivariateLinearRegression(
-        "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
+        "/Users/nickdugal/Downloads/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
         "Pass Attempts")
 
-    os.chdir("/Users/nickdugal/Documents/Fantasy-Football")
+    os.chdir("/Users/nickdugal/Downloads/Fantasy-Football")
     ourPredictions = open('Drew Brees Pred.txt', 'w')
 
     # These are the stats to predict. All of them have a nonzero coefficient in Fantasy Football Points algorithm for an Offensive player
@@ -392,7 +405,7 @@ def main():
         resultTuples = []
         for i in range(10):
             resultTuples.append(multivariateLinearRegression(
-                "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv", stat))
+                "/Users/nickdugal/Downloads/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv", stat))
         mean2Errs, variances, hmmm = zip(*resultTuples)
         ourPredictions.write("\n\n\nPredicting: \t" + stat)
         ourPredictions.write('\nMean^2 Error Avg\t' + str(sum(mean2Errs) / float(len(mean2Errs))))
@@ -523,7 +536,7 @@ def updateData(qb, data):
     # print(updatedDF.head(10))
     # updatedDF.to_csv("Averaged_Brees_Values.csv")
 
-def shitToSquared():
+def stuffToSquared():
     # positions = ['QB','RB','K','WR','TE']
     positions = ['RB']
     for pos in positions:
