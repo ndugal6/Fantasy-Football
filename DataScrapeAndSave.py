@@ -4,8 +4,8 @@ import pandas as pd
 import os
 
 def main():
-    # supaData()
-    # exit(0)
+    supaData()
+    exit(0)
     combineData()
     exit(0)
     positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
@@ -146,15 +146,17 @@ def getDatar(week, year, position, inmates_list):
         # passPoints = float(inmate['Pass Points'])
 
 def combineData():
-    positions = ['K']
+    positions = ['RB']
     for i in range(2010, 2017):
-        os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets')
+        os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/')
         for pos in positions:
             os.chdir(pos)
             frames = []
             for file in os.listdir(os.getcwd()):
-                tempDF = pd.read_csv(file)
-                tempDF.set_index(['Year', 'Week','Name'], inplace=True)
+                if (file == '.DS_Store'):
+                    continue
+                tempDF = pd.read_csv(file, index_col=None)
+                tempDF.set_index(['Week','Name','Year'], inplace=True)
                 frames.append(tempDF)
             a = pd.concat(frames)
             try:
@@ -164,19 +166,26 @@ def combineData():
                 a.drop('Unnamed: 0', axis=1, inplace=True)
             except: pass
             print(pos, '\n', a.head())
-            a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/' + pos + 'AllYears.csv')
-            os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets')
+            a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/squared/AllYears/' + pos + 'AllYears.csv')
+            os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared')
 
 def supaData():
-    files = ['qbAllYears.csv', 'rbAllYears.csv', 'wrAllYears.csv', 'teAllYears.csv']
+    files = ['qbScaled_Squared.csv', 'rbScaled_Squared.csv', 'wrScaled_Squared.csv', 'teScaled_Squared.csv']
 
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/Data')
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/scaled/')
     frames = []
     for file in files:
         frames.append(pd.read_csv(file))
     a = pd.concat(frames)
-    a.drop('Unnamed: 0', axis=1, inplace=True)
-    a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/data/AllPositionsAllYears.csv', index=None)
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data')
+    try:
+        a.drop('Unnamed: 0.1', axis=1, inplace=True)
+    except:
+        pass
+    try:
+        a.drop('Unnamed: 0', axis=1, inplace=True)
+    except:
+        pass
+    a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/squared/scaled/AllPositionsScaledAllYears.csv', index=None)
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared')
 
 if __name__ == "__main__": main()

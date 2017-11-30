@@ -1,0 +1,25 @@
+Fantasy Football Score(player) = 6*(x8 + x5 + x16 + x17) + 5*x11 + 4*(x1 + x12) + 3*x13 + 2*(x3 + x7 + x10) + -2*(x4 + x18) + x2÷25 + (x9 + x6)÷10 + x15 - x14
+
+
+
+
+x1 =	 TD Pass = 4pts
+x2 =	 Every 25 passing yards = 1pts
+x3 =	 2pt Passing Conversion = 2pts
+x4 =	 Interceptions Thrown = -2pts
+x5 =	 TD Reception = 6pts
+x6 =	Receiving yards = 1pt
+x7 =	Receiving Conversion = 2pts
+x8 =	TD Rush = 6pts
+x9 =	Rushing yards = 1pt
+x10 =	2pt Rushing Conversion = 2pts
+x11 =	FG Made (50+ yards) = 5pts
+x12 = 	FG Made (40-49 yards) = 4pts
+x13 =	FG Made (0-39 yards) = 3pts
+x14 = 	FG Missed(any distance)
+x15 =	PAT Made
+x16 =	Kickoff Return TD = 6pts
+x17 = 	Punt Return TD = 6pts
+x18 =	Fumble Recovered for TD = 6pts
+x18 = 	Each Fumble Lost = -2
+

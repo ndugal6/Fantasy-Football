@@ -40,7 +40,7 @@ def getPlayerWithName(pName, position, save=False, sorted=True):
 
 
 # method name says it all
-def combineOffensePositionWithDefense(oPosition, save=False):
+def combineOffensePositionWithDefense(oPosition, save=True):
     # change working directory to the correct one. If you're unsure what your current dir is then run (os.getcwd())
     os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data')
     players_data = pd.read_csv(oPosition + "AllYears.csv")
@@ -97,6 +97,7 @@ def linearRegression(X=None, Y=None):
     # If I actually get 5 wrong: low variance(close to 1), medium error
     # If I actually get 0 wrong: higher variance, no error
     varianceScore = r2_score(Y_test, PassAttempts_prediction)
+    reg.score()
     print("The Mean Squared Error\n", mean2Err)
     # Explained Variance Score: 1 is perfect prediction
     print('Variance Score: %.2f' % varianceScore)
@@ -153,7 +154,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     if not yfeature in setList:
         raise Exception(yfeature + "Feature doesn't exist. Did you mispell it or pass the from csv")
     if yfeature in set(xFeatures):
-        raise Exception(yfeature + 'is in xFeatures')
+        xFeatures = set(xFeatures).difference([yfeature])
     for x in xFeatures:
         if not x in setList:
             raise Exception(x + "Feature doesn't exist. Did you mispell it or pass the from csv")
@@ -162,7 +163,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     X = players_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
     Y = players_data[yfeature]
 
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=.2)
+    X_train, X_test, Y_train, Y_test = train_test_split(preprocessing.scale(X), preprocessing.scale(Y), test_size=.2)
 
     coeff_titles = list(xFeatures)
     coeff_titles.insert(0, 'Intercept')
@@ -227,12 +228,14 @@ def iterateAndReceiveStats():
 def cumulativeWeeklyMeans(grouped):
     # item is the feature we grouped on and value is it's assocciated dataframe
     for item, value in grouped:
-        if item == 2012:
+        if item == 'Drew Brees':
             xFeatures = set(list(value.columns))
             xFeatures = xFeatures.difference(['Name', 'Opponent', 'Position', 'Opponent_x', 'Position_x',
                                               'Team', 'Opponent_y', 'Position_y'])
+            print('H')
             for feature in xFeatures:
                 valFeature = value[feature]
+                print('Hi')
                 # if valFeature.at[1].isnumeric()==True or valFeature.at[1].isdecimal()==True:
                 # print(np.mean(valFeature))
                 # Here we begin finding the effect of time for features
@@ -255,33 +258,141 @@ def removeAlphaData(unCleanedDF):
 
 #Ignore this
 def createInputData():
-    os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
-    player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year','Week'])
-    brees_data = player_data[player_data.Name == 'Drew Brees']
-    # brees_data.drop("Unnamed: 0", axis=1, inplace=True)
-    grouped = brees_data.groupby(['Year'])
-    listOfAveragedList = []
-    for year, yearData in grouped:
+    os.chdir('data/Updated NFL Data Sets/Indexed Data/')
+    qbAllYears = pd.read_csv('QBAllYears.csv', index_col=['Year','Week']).groupby(['Name'])
+    qbAllYears.apply(sort_index(inplace=True))
+    pd.DataFrame.apply()
+    # cumulativeWeeklyMeans(qbAllYears);exit(0)
+    for qb, data in qbAllYears:
+        if qb == 'Drew Brees':
+            updateData(qb,removeAlphaData(data))
 
-        newValuesAsDict = []
+def updateData(qb, data):
+    print('Name'+qb)
+    # print('\nData: ',data)
+    for column in list(data.columns):
+        columnData = data[column]
+        print(columnData)
+        return 0
 
-        for dataColumn in purgeAlphas(yearData.columns):
-            dataVector = yearData[dataColumn]
-            averagedList = []
-            for val in range(0, len(dataVector)):
-                averagedList.append(np.mean(dataVector[0:val]))
-            newValuesAsDict.append(dict({dataColumn: averagedList}))
-        listOfAveragedList.append((newValuesAsDict))
-
-    updatedDF = pd.DataFrame(listOfAveragedList)
-    print(updatedDF.head(10))
-    updatedDF.to_csv("Averaged_Brees_Values.csv")
-
-
-def main():
-    createInputData()
 
     exit(0)
+
+
+
+
+
+
+
+
+    # os.chdir("/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/")
+    # player_data = pd.read_csv("QB_with_Defense.csv", index_col=['Year','Week'])
+    # brees_data = player_data[player_data.Name == 'Drew Brees']
+    # # brees_data.drop("Unnamed: 0", axis=1, inplace=True)
+    # grouped = brees_data.groupby(['Year'])
+    # listOfAveragedList = []
+    # for year, yearData in grouped:
+    #
+    #     newValuesAsDict = []
+    #
+    #     for dataColumn in purgeAlphas(yearData.columns):
+    #         dataVector = yearData[dataColumn]
+    #         averagedList = []
+    #         for val in range(0, len(dataVector)):
+    #             averagedList.append(np.mean(dataVector[0:val]))
+    #         newValuesAsDict.append(dict({dataColumn: averagedList}))
+    #     listOfAveragedList.append((newValuesAsDict))
+    #
+    # updatedDF = pd.DataFrame(listOfAveragedList)
+    # print(updatedDF.head(10))
+    # updatedDF.to_csv("Averaged_Brees_Values.csv")
+
+def shitToSquared():
+    # positions = ['QB','RB','K','WR','TE']
+    positions = ['RB']
+    for pos in positions:
+        dBrees = pd.read_csv('Data/' + pos + 'allyears.csv', index_col=None)
+        squared = pd.DataFrame()
+        breesOG = dBrees.copy(deep=True)
+        dBrees = removeAlphaData(dBrees)
+        min = dBrees['Year'].min()
+        breesGrouped = dBrees.groupby('Year')
+        for year, data in breesGrouped:
+            power = year - min + 1
+            newDF = np.power(data, power)
+            newDF['Year'] = dBrees['Year']
+            newDF['Week'] = dBrees['Week']
+            newDF['Name'] = breesOG['Name']
+            newDF['Opponent'] = breesOG['Opponent']
+            newDF['Position'] = breesOG['Position']
+            newDF.to_csv(str(year) + pos + 'Squared.csv')
+def squaredToScaled():
+    # positions = ['QB','RB','K','WR','TE']
+    positions = ['DST']
+    for pos in positions:
+        dBrees = pd.read_csv('squared/updated/' + pos + 'allyears.csv', index_col=None)
+        # squared = pd.DataFrame()
+        # alphas = ['Year','Week','Name','Opponent','Position']
+        # for alpha in alphas:
+        #     squared[alpha] = dBrees[alpha].copy()
+        breesOG = dBrees.copy(deep=True)
+        dBrees = removeAlphaData(dBrees)
+        newDF = dBrees.apply(preprocessing.scale)
+        newDF['Year'] = dBrees['Year']
+        newDF['Week'] = dBrees['Week']
+        newDF['Team'] = breesOG['Team']
+        newDF['Opponent'] = breesOG['Opponent']
+        newDF['Position'] = breesOG['Position']
+        newDF.to_csv(pos + 'Scaled_Squared.csv')
+    exit(0);
+def main():
+    os.chdir('scaled')
+    all = pd.read_csv('AllPositionsScaledAllYears.csv')
+    # print(list(all.columns))
+    # all.reindex(index=['Year'])
+    inputDF1 = all[all.Year != 2016]
+    inputDF2 = all[(all.Year == 2016) & (all.Week <= 8)]
+    testing = all[(all.Year == 2016) & (all.Week == 8)]
+
+    breesOG = inputDF2.copy(deep=True)
+    dBrees = removeAlphaData(inputDF2)
+    newDF = pd.DataFrame()
+    for col in list(dBrees.columns):
+        newDF[col] = np.mean(dBrees[col])
+    newDF['Year'] = dBrees['Year']
+    newDF['Week'] = dBrees['Week']
+    newDF['Name'] = breesOG['Name']
+    newDF['Opponent'] = breesOG['Opponent']
+    newDF['Position'] = breesOG['Position']
+    newDF.to_csv('testingDF.csv')
+    exit(0)
+
+
+
+
+
+
+
+
+    trainingDF = pd.concat([inputDF1,inputDF2])
+    trainingDF.to_csv('training_df.csv',index=None)
+    # testingDF =
+
+    print(inputDF1.shape)
+
+    print(inputDF2.shape)
+    print(inputDF2.head())
+
+    exit(0)
+
+
+
+    # squared.to_csv('squaredBrees.csv')
+
+    exit()
+    # combineOffensePositionWithDefense('RB')
+    createInputData()
+    exit()
     multivariateLinearRegression(
         "/Users/nickdugal/Documents/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
         "Pass Attempts")
@@ -297,7 +408,7 @@ def main():
              'Rush Yards']
     # These are the stats I'm actually concerned about accurately predicting right now
     statsUsing = ['Pass 2PT', 'Pass Attempts', 'Pass Completions', 'Pass Interceptions', 'Pass TD',
-                  'Pass Yards', ]
+                  'Pass Yards']
 
     # change to stat in stats in order to predict all relevant stats, instead of only the stats I'm currently caring about
     for stat in statsUsing:

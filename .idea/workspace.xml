@@ -2,8 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/AllPositionsAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dst old/DST_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/dstAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/k old/K_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/kAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qb old/QB_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/qbAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rb old/RB_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/rbAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/te old/TE_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/teAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2010_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2011_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2012_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2013_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2014_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2015_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wr old/WR_2016_FantasyFootballData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Old Version of Stats/wrAllYears_OLD.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2010DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2011DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2012DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2013DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2014DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2015DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/DST/2016DefData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Averaged_Brees_Values.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/DSTAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Drew Brees With Defense.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/KAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/QBAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/QB_with_Defense.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/RBAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/RB_with_Defense.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/TEAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/TE_with_Defense.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/WRAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/WR_with_Defense.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2010KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2011KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2012KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2013KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2014KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2015KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/K/2016KickerData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/KAllYears.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2010QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2011QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2012QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2013QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2014QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2015QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/QB/2016QBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2010RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2011RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2012RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2013RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2014RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2015RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/RB/2016RBData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2010TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2011TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2012TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2013TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2014TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2015TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/TE/2016TEData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2010WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2011WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2012WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2013WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2014WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2015WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/WR/2016WRData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/predictionResults.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Experimenting.py" afterPath="$PROJECT_DIR$/Data Experimenting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Averaged_Brees_Values.csv" afterPath="$PROJECT_DIR$/Data/Updated NFL Data Sets/Indexed Data/Averaged_Brees_Values.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataScrapeAndSave.py" afterPath="$PROJECT_DIR$/DataScrapeAndSave.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +125,29 @@
       <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+            <state relative-caret-position="271">
+              <caret line="375" column="0" lean-forward="true" selection-start-line="375" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#993#1530#0" expanded="false" />
-                <element signature="e#1625#2180#0" expanded="false" />
-                <element signature="e#2252#2446#0" expanded="false" />
-                <element signature="e#2672#5918#0" expanded="false" />
+                <element signature="e#1624#2179#0" expanded="false" />
+                <element signature="e#2251#2445#0" expanded="false" />
+                <element signature="e#2671#5933#0" expanded="false" />
+                <element signature="e#7513#7922#0" expanded="false" />
+                <element signature="e#11969#12067#0" expanded="false" />
+                <element signature="e#12980#13750#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-826">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#2274#7438#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -39,6 +162,9 @@
       <find>exi</find>
       <find>arg</find>
       <find>corr</find>
+      <find>varian</find>
+      <find>sort</find>
+      <find>reinde</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,18 +176,18 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
         <option value="$PROJECT_DIR$/predictions.txt" />
-        <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
         <option value="$USER_HOME$/Downloads/aima-python-master/logic.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Notes" />
+        <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
         <option value="$PROJECT_DIR$/Data Experimenting.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="716" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -296,8 +422,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Data Experimenting" />
-        <item index="1" class="java.lang.String" itemvalue="Python.scratch_14" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DataScrapeAndSave" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scratch_14" />
         <item index="3" class="java.lang.String" itemvalue="Python.scratch_11" />
         <item index="4" class="java.lang.String" itemvalue="Python.scratch_10" />
       </list>
@@ -320,24 +446,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10694444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="73" y="118" width="1340" height="700" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.41058823" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" x="0" y="23" width="1440" height="812" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20117646" sideWeight="0.50555557" order="10" side_tool="true" content_ui="tabs" x="0" y="429" width="1440" height="812" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20117646" sideWeight="0.49444443" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -359,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -367,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -376,8 +500,8 @@
         <state relative-caret-position="1050">
           <caret line="160" column="15" lean-forward="false" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -388,10 +512,12 @@
           <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -401,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -418,8 +542,8 @@
         <state relative-caret-position="510">
           <caret line="37" column="57" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="57" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -429,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,10 +569,12 @@
           <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -460,8 +584,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -473,10 +597,12 @@
           <caret line="165" column="42" lean-forward="false" selection-start-line="165" selection-start-column="42" selection-end-line="165" selection-end-column="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -485,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -504,8 +628,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -515,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,10 +648,12 @@
           <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -538,8 +663,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -549,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,10 +683,12 @@
           <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -572,8 +698,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -582,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,10 +717,12 @@
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -605,8 +732,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -615,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,10 +751,12 @@
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -638,8 +766,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -650,10 +778,12 @@
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -662,7 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,22 +801,10 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
     <entry file="file://$USER_HOME$/Downloads/aima-python-master/logic.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
-    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-            <element signature="e#2278#7442#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="352" column="37" lean-forward="false" selection-start-line="352" selection-start-column="37" selection-end-line="352" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="80" column="29" lean-forward="false" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,20 +840,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-826">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2274#7438#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+        <state relative-caret-position="271">
+          <caret line="375" column="0" lean-forward="true" selection-start-line="375" selection-start-column="0" selection-end-line="375" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#993#1530#0" expanded="false" />
-            <element signature="e#1625#2180#0" expanded="false" />
-            <element signature="e#2252#2446#0" expanded="false" />
-            <element signature="e#2672#5918#0" expanded="false" />
+            <element signature="e#1624#2179#0" expanded="false" />
+            <element signature="e#2251#2445#0" expanded="false" />
+            <element signature="e#2671#5933#0" expanded="false" />
+            <element signature="e#7513#7922#0" expanded="false" />
+            <element signature="e#11969#12067#0" expanded="false" />
+            <element signature="e#12980#13750#0" expanded="false" />
           </folding>
         </state>
       </provider>
