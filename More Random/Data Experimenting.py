@@ -163,7 +163,7 @@ def multivariateLinearRegression( xFeatures, yfeature, file=None, players_data=N
     X = players_data[list(xFeatures)].values.reshape(-1, len(xFeatures))
     Y = players_data[yfeature]
 
-    # X_train, X_test, Y_train, Y_test = train_test_split(X, preprocessing.scale(Y))
+    X_train, X_test, Y_train, Y_test = train_test_split(X, preprocessing.scale(Y))
 
     coeff_titles = list(xFeatures)
     coeff_titles.insert(0, 'Intercept')
@@ -274,7 +274,6 @@ def realMain():
                 # print(prediction)
                 # print(Ytest)
                 # print(prediction.shape)
-                # exit(0)
                 actualDataFrame.loc[name,stat] = np.mean(prediction)
                 vStr = str(stat+' EV')
                 m2eStr = str(stat + ' M2E')
@@ -286,7 +285,6 @@ def realMain():
     actualDataFrame.to_csv('actualDataFrame.csv')
     ourPredictions.close()
     ffPredictions = open('FF Predictions.txt', 'w')
-    # exit(0)
     # stats.append('Points')
     actualDataFrame = pd.read_csv('actualDataFrame.csv')
     ffActualDataFrame = pd.DataFrame(data=None, index=testSet, columns=['Name','Points Predicted','Points Actual','mean2Errs','variances'])
@@ -320,7 +318,6 @@ def main():
     inputDF1 = all[all.Year != 2016]
     inputDF2 = all[(all.Year == 2016) & (all.Week <= 8)]
     testing = all[(all.Year == 2016) & (all.Week == 8)]
-    # print(inputDF2.head());exit(0)
     breesOG = inputDF2.copy(deep=True)
     inputDF2 = removeAlphaData(inputDF2)
 
@@ -373,16 +370,13 @@ def main():
     print(inputDF2.shape)
     print(inputDF2.head())
 
-    exit(0)
 
 
 
     # squared.to_csv('squaredBrees.csv')
 
-    exit()
     # combineOffensePositionWithDefense('RB')
     createInputData()
-    exit()
     multivariateLinearRegression(
         "/Users/nickdugal/Downloads/Fantasy-Football/data/Updated NFL Data Sets/Indexed Data/Drew Brees Data.csv",
         "Pass Attempts")
@@ -491,7 +485,7 @@ def createInputData():
     qbAllYears = pd.read_csv('QBAllYears.csv', index_col=['Year','Week']).groupby(['Name'])
     qbAllYears.apply(sort_index(inplace=True))
     pd.DataFrame.apply()
-    # cumulativeWeeklyMeans(qbAllYears);exit(0)
+    # cumulativeWeeklyMeans(qbAllYears)
     for qb, data in qbAllYears:
         if qb == 'Drew Brees':
             updateData(qb,removeAlphaData(data))
@@ -502,10 +496,8 @@ def updateData(qb, data):
     for column in list(data.columns):
         columnData = data[column]
         print(columnData)
-        return 0
 
 
-    exit(0)
 
 
 
@@ -573,7 +565,6 @@ def squaredToScaled():
         newDF['Opponent'] = breesOG['Opponent']
         newDF['Position'] = breesOG['Position']
         newDF.to_csv(pos + 'Scaled_Squared.csv')
-    exit(0);
 
 
 
