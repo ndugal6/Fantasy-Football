@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2dLinearRegression.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data Experimenting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataExploit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drew Brees Pred.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drew Brees Pred_NoPoints_NoDefense.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drew Brees Pred_NoPoints_YesDefense.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drew Brees PredictionsWithOUTPoints.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NFL Player Evaluation Using Expected Points Added.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Notes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Objective Function Fantasy.pages" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Objective Function Fantasy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/The Final Predictions.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Updated NFL Data Sets.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Updated NFL Data Sets/KAllYears.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/actualDataFrame.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/actualDataFrame.csv.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/predictionResults.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/predictionsWithOUTPoints.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/predictionsWithPoints.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +16,13 @@
       <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/More Random/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3671">
-              <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="33" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#9137#13662#0" expanded="false" />
+                <element signature="e#18149#18860#0" expanded="false" />
+                <element signature="e#18895#19828#0" expanded="false" />
+                <element signature="e#19881#20838#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -658,11 +639,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/More Random/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3671">
-          <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="33" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
             <element signature="e#9137#13662#0" expanded="false" />
+            <element signature="e#18149#18860#0" expanded="false" />
+            <element signature="e#18895#19828#0" expanded="false" />
+            <element signature="e#19881#20838#0" expanded="false" />
           </folding>
         </state>
       </provider>
