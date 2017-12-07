@@ -5,9 +5,8 @@ import os
 
 def main():
     supaData()
-    exit(0)
     combineData()
-    exit(0)
+
     positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
     for pos in positions:
         for year in range(2010, 2017):
