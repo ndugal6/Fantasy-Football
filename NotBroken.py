@@ -17,41 +17,45 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
+    player_pointsOnly('Leonard Fournette', position='rb');exit(0)
     # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
     # numeric = removeAlphaData(actualOld)
     # print(numeric.describe())
     # numeric2 = numeric.astype(dtype='float32',copy=True,errors='ignore')
     # print(numeric2.head());exit(0)
     # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
-    print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
-    pathToQBS = '~/documents/fantasy-football/2017data/qb'
+    # print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
+    pathToQBS = '~/documents/fantasy-football/2017data/rb'
     qbs=[]
-    path = '2017Data/' + 'qb'
-    files = os.listdir(path)
-    for file in files:
-        if os.path.isdir(path + '/' + file):
-            qbs.append(file)
-    qbPreditionList = []
-    qbsFailed = []
-    for qb in qbs:
-        try:
-            qbPreditionList.append(predict(qb))
-        except:
-            qbsFailed.append(qb)
-    print(qbsFailed)
-    preditoinDF = pd.concat(qbPreditionList)
-    preditoinDF.to_csv('PredictionsForQBS.csv')
+    for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'DST']:
+        path = '2017Data/' + pos
+        files = os.listdir(path)
+        for file in files:
+            if os.path.isdir(path + '/' + file):
+                qbs.append(file)
+        qbPreditionList = []
+        qbsFailed = []
+        for qb in qbs:
+            try:
+                qbPreditionList.append(predict(qb,position=pos))
+            except:
+                qbsFailed.append(qb)
+
+        print(qbsFailed)
+        preditoinDF = pd.concat(qbPreditionList)
+        preditoinDF.to_csv('PredictionsForRBS.csv')
 
 
 
 
 def predict(name,position='qb'):
-    actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
-    actualNew = pd.read_csv('2017Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
-    actual = pd.concat([actualOld, actualNew])
+
+
+    actualNew = pd.read_csv('2017Data/' + position + '/' + '/actualDataWithDefense.csv')
+
     toDrop = ['Point After', 'Fumble Returns', 'Fumble TD', 'Week', 'Away Games_x', 'Rush 2PT', 'Away Games_y',
               'Safety', 'Receiving 2PT', 'Blocks', 'Pass 2PT', 'Year']
-    cols = list(purgeAlphas(actual.columns))
+    cols = list(purgeAlphas(actualNew.columns))
     features = list(set(cols).difference(toDrop))
     predictionDF = pd.DataFrame(columns=((features.append("Name"))))
     predictionDF['Name'] = [name]
@@ -67,9 +71,9 @@ def player_pointsOnly(name='drew brees',position='qb'):
 
 
 #Delete. For reference. Get Qbs for certain year
-def playersForYear():
+def playersForYear(position):
     qbs = []
-    path = 'Data/' + 'qb'
+    path = 'Data/' + position
     files = os.listdir(path)
     for file in files:
         if os.path.isdir(path + '/' + file):
@@ -143,12 +147,21 @@ def train_test_divider(dirtyData, feature='Pass Yards',year=2016,week=8,Future=F
 #Output: feature prediction | mean squared error | explained variance
 def linearRegression(position,player='Drew Brees', feature='Pass Yards',Future=False):
     # Get actual stats and average stats for input
-    actualOld = pd.read_csv('Data/'+position+'/'+player+'/actualDataWithDefense.csv')
+    rookie = False
+    try:
+        actualOld = pd.read_csv('Data/'+position+'/'+player+'/actualDataWithDefense.csv')
+        averagesOld = pd.read_csv('Data/' + position + '/' + player + '/averagedDataWithDefense.csv')
+    except:
+        rookie = True
+        print('WOrking on a Rookie')
+    averageNew = pd.read_csv('2017Data/' + position + '/' + player + '/actualDataWithDefense.csv')
     actualNew = pd.read_csv('2017Data/' + position + '/' +player+ '/actualDataWithDefense.csv')
-    actual = pd.concat([actualOld,actualNew])
-    averagesOld = pd.read_csv('Data/'+position+'/'+player+'/averagedDataWithDefense.csv')
-    averageNew = pd.read_csv('2017Data/' + position + '/' + player+'/actualDataWithDefense.csv')
-    averages = pd.concat([actualOld,actualNew])
+    if rookie:
+        actual = actualNew.copy(deep=True)
+        averages = averageNew.copy(deep=True)
+    else:
+        actual = pd.concat([actualOld,actualNew])
+        averages = pd.concat([actualOld,actualNew])
     # Get the combo we need
     data = removeAlphaData(inputForFeature(actual,averages,feature))
     data.round(4)
