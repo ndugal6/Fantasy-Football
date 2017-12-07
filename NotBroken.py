@@ -17,9 +17,33 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
+    # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
+    # numeric = removeAlphaData(actualOld)
+    # print(numeric.describe())
+    # numeric2 = numeric.astype(dtype='float32',copy=True,errors='ignore')
+    # print(numeric2.head());exit(0)
+    # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
+    print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
+    pathToQBS = '~/documents/fantasy-football/2017data/qb'
+    qbs=[]
+    path = '2017Data/' + 'qb'
+    files = os.listdir(path)
+    for file in files:
+        if os.path.isdir(path + '/' + file):
+            qbs.append(file)
+    qbPreditionList = []
+    qbsFailed = []
+    for qb in qbs:
+        try:
+            qbPreditionList.append(predict(qb))
+        except:
+            qbsFailed.append(qb)
+    print(qbsFailed)
+    preditoinDF = pd.concat(qbPreditionList)
+    preditoinDF.to_csv('PredictionsForQBS.csv')
 
-    print(player_pointsOnly(name='Drew Brees',position='qb'));exit(0)
-    
+
+
 
 def predict(name,position='qb'):
     actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
@@ -117,13 +141,13 @@ def train_test_divider(dirtyData, feature='Pass Yards',year=2016,week=8,Future=F
 #           feature: the feature to predict as a string - Default 'Pass Yards'
 #           position: string - options 'QB','RB','TE','WR','K'
 #Output: feature prediction | mean squared error | explained variance
-def linearRegression(position='qb',player='Drew Brees', feature='Pass Yards',Future=False):
+def linearRegression(position,player='Drew Brees', feature='Pass Yards',Future=False):
     # Get actual stats and average stats for input
     actualOld = pd.read_csv('Data/'+position+'/'+player+'/actualDataWithDefense.csv')
-    actualNew = pd.read_csv('2017Data/' + 'qb' + '/' +player+ '/actualDataWithDefense.csv')
+    actualNew = pd.read_csv('2017Data/' + position + '/' +player+ '/actualDataWithDefense.csv')
     actual = pd.concat([actualOld,actualNew])
     averagesOld = pd.read_csv('Data/'+position+'/'+player+'/averagedDataWithDefense.csv')
-    averageNew = pd.read_csv('2017Data/' + 'qb' + '/' + player+'/actualDataWithDefense.csv')
+    averageNew = pd.read_csv('2017Data/' + position + '/' + player+'/actualDataWithDefense.csv')
     averages = pd.concat([actualOld,actualNew])
     # Get the combo we need
     data = removeAlphaData(inputForFeature(actual,averages,feature))
