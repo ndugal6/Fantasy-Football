@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NotBroken.py" afterPath="$PROJECT_DIR$/NotBroken.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real.py" afterPath="$PROJECT_DIR$/real.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,11 +43,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotBroken.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NotBroken.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NotBroken.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="411" column="41" lean-forward="false" selection-start-line="411" selection-start-column="40" selection-end-line="411" selection-end-column="41" />
+            <state relative-caret-position="293">
+              <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1871#3601#0" expanded="false" />
+                <element signature="e#4012#6207#0" expanded="false" />
+                <element signature="e#6449#6764#0" expanded="false" />
+                <element signature="e#6858#7356#0" expanded="false" />
+                <element signature="e#7464#7759#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="real.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/real.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="436" column="0" lean-forward="false" selection-start-line="436" selection-start-column="0" selection-end-line="436" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -54,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -143,10 +161,10 @@
         <option value="$USER_HOME$/PycharmProjects/Practicewith2.7/PandasWIth2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/More Random/Data Experimenting.py" />
-        <option value="$PROJECT_DIR$/real.py" />
         <option value="$PROJECT_DIR$/realBroken.py" />
-        <option value="$PROJECT_DIR$/NotBroken.py" />
         <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
+        <option value="$PROJECT_DIR$/real.py" />
+        <option value="$PROJECT_DIR$/NotBroken.py" />
       </list>
     </option>
   </component>
@@ -446,7 +464,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -625,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/real.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/utils/validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -654,16 +665,6 @@
           <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NotBroken.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="411" column="41" lean-forward="false" selection-start-line="411" selection-start-column="40" selection-end-line="411" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -693,6 +694,31 @@
             <element signature="e#1344#7452#0" expanded="false" />
             <element signature="e#7477#8425#0" expanded="false" />
             <element signature="e#8447#9063#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/real.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="436" column="0" lean-forward="false" selection-start-line="436" selection-start-column="0" selection-end-line="436" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NotBroken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1871#3601#0" expanded="false" />
+            <element signature="e#4012#6207#0" expanded="false" />
+            <element signature="e#6449#6764#0" expanded="false" />
+            <element signature="e#6858#7356#0" expanded="false" />
+            <element signature="e#7464#7759#0" expanded="false" />
           </folding>
         </state>
       </provider>

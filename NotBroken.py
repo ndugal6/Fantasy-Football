@@ -16,44 +16,9 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
-    # player_pointsOnly('Leonard Fournette', position='rb');exit(0)
-    # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
-    # numeric = removeAlphaData(actualOld)
-    # print(numeric.describe())
-    # numeric2 = numeric.astype(dtype='float32',copy=True,errors='ignore')
-    # print(numeric2.head());exit(0)
-    # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
-    # print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
-    pathToQBS = '~/documents/fantasy-football/2017data/rb'
-    people=[]
-    predictions, mean2er, variance,actual = linearRegression(feature='Pass Yards')
-    df = pd.DataFrame({'APreditions':predictions,'Actual':actual,'Mean Squared Error':mean2er,'Explained Variances':variance})
-    # df = df.apply()
-    print(df.head());exit(0)
-    for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'DST']:
-        path = '2017Data/' + pos
-        files = os.listdir(path)
-        for file in files:
-            if os.path.isdir(path + '/' + file):
-                people.append(file)
-        posPreditionList = []
-        peopleFailed = []
-        for person in people:
-            try:
-                posPreditionList.append(predict(person,position=pos))
-            except:
-                peopleFailed.append(person)
-
-        print(peopleFailed)
-        preditoinDF = pd.concat(posPreditionList)
-        preditoinDF.to_csv('PredictionsFor'+pos+'.csv')
-
-
-
+    pass
 
 def predict(name,position='qb'):
-
-
     actualNew = pd.read_csv('2017Data/' + position + '/' + '/actualDataWithDefense.csv')
 
     toDrop = ['Point After', 'Fumble Returns', 'Fumble TD', 'Week', 'Away Games_x', 'Rush 2PT', 'Away Games_y',
@@ -72,28 +37,6 @@ def player_pointsOnly(name='drew brees',position='qb'):
     return linearRegression(position=position,player=name,feature = 'Points_x',Future=True)
 
 
-
-#Delete. For reference. Get Qbs for certain year
-def playersForYear(position):
-    qbs = []
-    path = 'Data/' + position
-    files = os.listdir(path)
-    for file in files:
-        if os.path.isdir(path + '/' + file):
-            subFiles = os.listdir(path + '/' + file)
-            if '2016' in subFiles:
-                qbs.append(path + '/' + file)
-#For reference. Should be deleted
-def makePredictionDF():
-    actual = pd.read_csv('Data/' + 'qb' + '/' + 'Drew Brees' + '/actualDataWithDefense.csv')
-    features = list(purgeAlphas(actual.columns))
-    predictionDF = pd.DataFrame(columns=((features.append("Name"))))
-    predictionDF['Name'] = ['Drew Brees'] * 2
-    features.remove('Name')
-    for feature in features:
-        prediction, mean2, variance = linearRegression(position='qb', player='Drew Brees', feature=feature)
-        predictionDF[feature] = prediction.tolist()
-    print(predictionDF.head())
 
 #Parameters:    dirtyData - pandas.DataFrame | feature - string | year - int | week - int
 # Defaults:     none | 'Pass Yards' | 2016 | 8
@@ -208,70 +151,6 @@ def linearRegression(position='qb',player='Drew Brees', feature='Pass Yards',Fut
 
 
 
-def makePositionsAveraged():
-    for pos in ['rb','wr','te','dst','qb','k']:
-        createAveragedData(pos=pos)
-
-def other(X_train,X_test,y_train,y_test):
-    unscaled_clf = make_pipeline(PCA(n_components=2), GaussianNB())
-    unscaled_clf.fit(X_train, y_train)
-    pred_test = unscaled_clf.predict(X_test)
-
-    # Fit to data and predict using pipelined scaling, GNB and PCA.
-    std_clf = make_pipeline(StandardScaler(), PCA(n_components=2), GaussianNB())
-    std_clf.fit(X_train, y_train)
-    pred_test_std = std_clf.predict(X_test)
-
-    # Show prediction accuracies in scaled and unscaled data.
-    print('\nPrediction accuracy for the normal test dataset with PCA')
-    print('{:.2%}\n'.format(metrics.accuracy_score(y_test, pred_test)))
-
-    print('\nPrediction accuracy for the standardized test dataset with PCA')
-    print('{:.2%}\n'.format(metrics.accuracy_score(y_test, pred_test_std)))
-
-    # Extract PCA from pipeline
-    pca = unscaled_clf.named_steps['pca']
-    pca_std = std_clf.named_steps['pca']
-
-    # Show first principal componenets
-    print('\nPC 1 without scaling:\n', pca.components_[0])
-    print('\nPC 1 with scaling:\n', pca_std.components_[0])
-
-    # Scale and use PCA on X_train data for visualization.
-    scaler = std_clf.named_steps['standardscaler']
-    X_train_std = pca_std.transform(scaler.transform(X_train))
-
-    # visualize standardized vs. untouched dataset with PCA performed
-    fig, (ax1, ax2) = plt.subplots(ncols=2, figsize=FIG_SIZE)
-
-    for l, c, m in zip(range(0, 3), ('blue', 'red', 'green'), ('^', 's', 'o')):
-        ax1.scatter(X_train[y_train == l, 0], X_train[y_train == l, 1],
-                    color=c,
-                    label='class %s' % l,
-                    alpha=0.5,
-                    marker=m
-                    )
-
-    for l, c, m in zip(range(0, 3), ('blue', 'red', 'green'), ('^', 's', 'o')):
-        ax2.scatter(X_train_std[y_train == l, 0], X_train_std[y_train == l, 1],
-                    color=c,
-                    label='class %s' % l,
-                    alpha=0.5,
-                    marker=m
-                    )
-
-    ax1.set_title('Training dataset after PCA')
-    ax2.set_title('Standardized training dataset after PCA')
-
-    for ax in (ax1, ax2):
-        ax.set_xlabel('1st principal component')
-        ax.set_ylabel('2nd principal component')
-        ax.legend(loc='upper right')
-        ax.grid()
-
-    plt.tight_layout()
-
-    plt.show()
 # Takes DF of average values, DF of actual values
 # Returns a dataframe formatted properly for a given Feature
 # try df.head() & df[feature] on returned value where you use it... Weird huh
@@ -284,119 +163,6 @@ def inputForFeature(actual,average,feature):
     df[feature] = pd.to_numeric(actual[feature], downcast='float')
     df.drop('Unnamed: 0',axis=1,inplace=True)
     return df
-# Creates dfs saved as csv for each player that has their average for each week for each year,
-# Each level is saved meaning directory structure is: data -> position (csv for all players) -> specificPlayer -> (csv for all years) -> specificYear (csv for all weeks)
-def createAveragedData(pos='k',dataPath='/Users/nickdugal/documents/fantasy-football'):
-
-    posPath = dataPath + '/'+pos     # Path to position data
-    ensure_dir(posPath)            # Create path if none exists
-    os.chdir(posPath)
-    updatedPoslist = []                  # This will hold updated df per player to concate and make updated qb DF
-    df = pd.read_csv(dataPath+'/'+pos+'2017.csv')
-    grouping = 'Name'
-    if pos.upper() == 'DST':
-        grouping = 'Team'
-    for qbName, data in df.groupby(grouping): #Iterate through df by names, qb=name and data is df for that name
-        pPath = posPath+'/' + qbName    # Player Path
-        ensure_dir(pPath)                #Create a directory for each qb if none exists to hold their data
-        os.chdir(pPath)
-        updatedYearList = []            #This will hold each updated df per year to concate & make updated player DF
-        for year, subData in data.groupby('Year'): #iterate through each qb to evaluate their data by year
-            yPath = pPath  +'/'+str(year)
-            ensure_dir(yPath)
-
-            yearDF = makeAverage(year, subData)
-
-            yearDF.to_csv(yPath+'/AveragedData.csv')
-            subData.to_csv(yPath+'/ActualData.csv')
-            updatedYearList.append(yearDF)
-        pDF = pd.concat(updatedYearList)
-
-        pDF.to_csv(pPath+'/AveragedData.csv')
-        data.to_csv(pPath+'/ActualData.csv')
-        updatedPoslist.append(pDF)
-    posDF = pd.concat(updatedPoslist)
-
-    posDF.to_csv(posPath+'/AveragedData.csv')
-    df.to_csv(posPath+'/ActualData.csv')
-
-   #Uncomment below after testing
-        # updatedYearList = [makeAverage(year,subData) for year, subData in data.groupby('Year')]
-# Crawling my data directory and and merges offensive data with defensive data
-# Not flexible with alternate directory
-# Could make it recurse & flexible using a call to check is a file path is actually a dir
-def mergeOffenseDefenseAverages(dataPath='/Users/nickdugal/documents/fantasy-football/2017data'):
-    actDefense = pd.read_csv(dataPath+'/dst/actualData.csv')
-    avgDefense = pd.read_csv(dataPath+'/dst/averagedData.csv')
-    positions = ['k','qb','wr','te','rb']
-
-    for pos in positions:
-
-
-        positionPath = dataPath+'/'+pos
-        players = os.listdir(positionPath+'/')
-        # os.chdir(playerPath)
-        mergeAndSave(positionPath)
-        for player in players:
-            if player.endswith('.csv') or player.endswith('.DS_Store'):
-                continue
-            else:
-                playerPath = positionPath+'/'+player
-                mergeAndSave(playerPath)
-                years = os.listdir(playerPath+'/')
-                for year in years:
-                    if year.endswith('.csv') or year.endswith('.DS_Store'):
-                        continue
-                    else:
-                        yearPath = playerPath + '/' + year
-                        mergeAndSave(yearPath,year=year)
-# Takes in a path to a directory with actual and average csv, merges with defense data
-# hard coded for my directory. Will break if not adjusted
-def mergeAndSave(dirPath,year=0,defensePath='/Users/nickdugal/documents/fantasy-football/2017data'):
-    dataPath = defensePath
-    actDefense = pd.read_csv(dataPath + '/dst/actualdata.csv')
-    avgDefense = pd.read_csv(dataPath + '/dst/averagedData.csv')
-    if not year == 0:
-        actDefense = actDefense[actDefense.Year == int(year)]
-        avgDefense = avgDefense[avgDefense.Year == float(year)]
-    actual = pd.read_csv(dirPath + '/actualData.csv')
-    averaged = pd.read_csv(dirPath + '/averagedData.csv')
-
-    actualCombined = pd.merge(actual, actDefense, left_on=['Year', 'Week', 'Opponent'],
-                              right_on=['Year', 'Week', 'Team'])
-    averageCombined = pd.merge(averaged, avgDefense, left_on=['Year', 'Week', 'Opponent'],
-                               right_on=['Year', 'Week', 'Team'])
-    try:
-        actualCombined.drop(['Unnamed: 0_x',"Unnamed: 0_y"],axis=1,inplace=True)
-        averageCombined.drop(['Unnamed: 0_x', "Unnamed: 0_y"], axis=1, inplace=True)
-    except:
-        pass
-    actualCombined.to_csv(dirPath + '/actualDataWithDefense.csv')
-    averageCombined.to_csv(dirPath + '/averagedDataWithDefense.csv')
-
-# Takes in an individual year's worth of data, return it corrected as averages as DF
-def makeAverage(year, yearData):
-
-    columns = purgeAlphas(yearData.columns)
-    newDF = pd.DataFrame(columns=yearData.columns, index=yearData.index)
-
-    for column in columns:
-        dataVector = yearData[column]
-        averagedList = []
-        for val in range(len(dataVector)):
-            averagedList.append(np.mean(dataVector[0:val]))
-        newDF[column] = averagedList
-
-    #We also need to retain non numerical data associated with numericals
-    alphaColumns = (set(yearData.columns)).difference(columns)
-
-    for alpha in alphaColumns: #So we run the same as above, except don't do math, just copy data over
-        newDF[alpha] = yearData[alpha]
-    newDF['Week'] = yearData['Week']
-    firstWeek = (newDF['Week'].tolist())[0]
-    newDF[newDF.Week == firstWeek] = yearData[yearData.Week == firstWeek]
-
-    return newDF
 
 # Creates a directory for the file path given if none exists
 def ensure_dir(file_path):
