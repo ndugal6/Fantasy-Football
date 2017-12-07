@@ -1,0 +1,22 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Paul Richardson,0,0,Dolphins,0,0,0,0,0,0,1.0,WR,0,0,11,1,0,0,0,0,0,Dolphins,1,1,1,Seahawks,240,12,16.0,DST,112,3.0,0,352,0,1
+1,2016,4,Paul Richardson,0,0,Jets,0,0,0,0,0,0,2.0,WR,0,0,27,1,0,0,0,0,1,Jets,0,0,0,Seahawks,288,27,3.0,DST,66,2.0,0,354,0,0
+2,2016,7,Paul Richardson,0,0,Cardinals,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,1,Cardinals,0,0,0,Seahawks,205,6,11.0,DST,52,1.0,0,257,0,0
+3,2016,8,Paul Richardson,0,0,Saints,0,0,0,0,0,0,3.0,WR,0,0,33,2,0,0,0,0,1,Saints,0,0,1,Seahawks,285,20,7.0,DST,74,1.0,0,359,0,0
+4,2016,9,Paul Richardson,0,0,Bills,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,0,Bills,1,0,0,Seahawks,245,31,6.0,DST,33,4.0,0,278,0,1
+5,2016,10,Paul Richardson,0,0,Patriots,0,0,0,0,0,0,5.0,WR,0,0,52,2,0,0,0,0,1,Patriots,1,0,0,Seahawks,324,31,5.0,DST,96,3.0,0,420,0,0
+6,2016,11,Paul Richardson,0,0,Eagles,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,0,Eagles,1,0,0,Seahawks,287,26,4.0,DST,152,1.0,0,439,0,1
+7,2016,12,Paul Richardson,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,0,0,0,1,Buccaneers,0,1,2,Seahawks,118,5,22.0,DST,127,6.0,0,245,0,0
+8,2016,16,Paul Richardson,0,0,Cardinals,0,0,0,0,0,0,10.0,WR,0,1,42,4,0,0,0,0,0,Cardinals,1,1,0,Seahawks,313,31,10.0,DST,78,6.0,0,391,0,1
+9,2016,17,Paul Richardson,0,0,49ers,0,0,0,0,0,0,4.0,WR,0,0,40,4,0,1,0,5,1,49ers,1,0,0,Seahawks,289,25,7.0,DST,87,2.0,1,376,0,0
+10,2015,10,Paul Richardson,0,0,Cardinals,0,0,0,0,0,0,4.0,WR,0,0,40,1,0,0,0,0,0,Cardinals,0,0,1,Seahawks,228,32,6.0,DST,115,2.0,1,343,0,1
+11,2014,3,Paul Richardson,0,0,Broncos,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,0,Broncos,1,0,1,Seahawks,255,26,10.0,DST,129,3.0,1,384,0,1
+12,2014,7,Paul Richardson,0,0,Rams,0,0,0,0,0,0,3.0,WR,0,0,33,4,0,0,0,0,1,Rams,0,0,0,Seahawks,292,26,10.0,DST,171,3.0,0,463,1,0
+13,2014,8,Paul Richardson,0,0,Panthers,0,0,0,0,0,0,2.0,WR,0,0,20,2,0,0,0,0,1,Panthers,0,1,1,Seahawks,191,13,12.0,DST,119,1.0,0,310,0,0
+14,2014,9,Paul Richardson,0,0,Raiders,0,0,0,0,0,0,1.0,WR,0,0,12,3,0,0,0,0,0,Raiders,1,0,0,Seahawks,177,30,9.0,DST,149,1.0,0,326,1,1
+15,2014,11,Paul Richardson,0,0,Chiefs,0,0,0,0,0,0,2.0,WR,0,0,24,3,0,0,0,0,1,Chiefs,0,0,0,Seahawks,168,20,6.0,DST,204,2.0,0,372,0,0
+16,2014,13,Paul Richardson,0,0,49ers,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,1,49ers,0,0,0,Seahawks,222,19,8.0,DST,157,4.0,0,379,0,0
+17,2014,14,Paul Richardson,0,0,Eagles,0,0,0,0,0,0,2.0,WR,0,0,27,2,0,0,0,0,1,Eagles,0,2,0,Seahawks,252,24,7.0,DST,188,2.0,0,440,0,0
+18,2014,15,Paul Richardson,0,0,49ers,0,0,0,0,0,0,9.0,WR,0,1,30,3,0,0,0,0,0,49ers,0,0,1,Seahawks,138,17,11.0,DST,152,5.0,0,290,0,1
+19,2014,16,Paul Richardson,0,0,Cardinals,0,0,0,0,0,0,5.0,WR,0,0,52,5,0,0,0,0,1,Cardinals,0,0,0,Seahawks,329,35,1.0,DST,267,1.0,0,596,0,0
+20,2014,17,Paul Richardson,0,0,Rams,0,0,0,0,0,0,6.0,WR,0,0,60,5,0,0,0,0,0,Rams,0,1,1,Seahawks,222,20,11.0,DST,132,3.0,0,354,0,1

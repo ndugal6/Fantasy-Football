@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Nate Burleson,0,0,Bears,0,0,0,0,0,0,1.0,WR,0,0,19,1,0,0,0,0,1,Bears,0,2,1,Lions,148,14,12.0,DST,20,2.0,0,168,0,0
+1,2010,2,Nate Burleson,0,0,Eagles,0,0,0,0,0,0,0.0,WR,0,0,4,1,0,0,0,0,0,Eagles,0,0,2,Lions,329,32,6.0,DST,115,2.0,0,444,0,1
+2,2010,5,Nate Burleson,0,0,Rams,0,0,0,0,0,0,11.0,WR,0,1,56,4,0,0,0,0,0,Rams,0,0,0,Lions,233,44,1.0,DST,89,1.0,0,322,0,1
+3,2010,6,Nate Burleson,0,1,Giants,0,0,0,0,0,0,10.0,WR,0,1,50,6,0,1,0,-7,1,Giants,0,2,1,Lions,302,20,12.0,DST,64,2.0,0,366,0,0
+4,2010,8,Nate Burleson,0,1,Redskins,0,0,0,0,0,0,3.0,WR,0,0,47,7,0,0,0,0,0,Redskins,0,1,1,Lions,202,37,11.0,DST,102,1.0,0,304,1,1
+5,2010,9,Nate Burleson,0,0,Jets,0,0,0,0,0,0,17.0,WR,0,1,113,7,0,0,0,0,0,Jets,0,0,0,Lions,228,20,6.0,DST,78,2.0,0,306,0,1
+6,2010,10,Nate Burleson,0,0,Bills,0,0,0,0,0,0,5.0,WR,0,0,47,4,0,1,0,17,1,Bills,0,0,1,Lions,314,12,10.0,DST,76,1.0,0,390,0,0
+7,2010,11,Nate Burleson,0,0,Cowboys,0,0,0,0,0,0,16.0,WR,0,1,97,7,0,1,0,15,1,Cowboys,0,1,1,Lions,263,19,17.0,DST,75,3.0,0,338,1,0
+8,2010,12,Nate Burleson,0,0,Patriots,0,0,0,0,0,0,3.0,WR,0,0,35,3,0,0,0,0,0,Patriots,0,0,2,Lions,277,24,7.0,DST,129,2.0,0,406,0,1
+9,2010,13,Nate Burleson,0,0,Bears,0,0,0,0,0,0,2.0,WR,0,0,27,3,0,0,0,0,0,Bears,0,0,0,Lions,168,20,6.0,DST,134,2.0,0,302,0,1
+10,2010,14,Nate Burleson,0,0,Packers,0,0,0,0,0,0,1.0,WR,0,0,12,1,0,1,0,-1,0,Packers,0,0,2,Lions,96,7,13.0,DST,190,2.0,0,286,0,1
+11,2010,15,Nate Burleson,0,0,Buccaneers,0,0,0,0,0,0,10.0,WR,0,1,28,4,0,1,0,25,1,Buccaneers,0,0,0,Lions,252,23,1.0,DST,181,0.0,0,433,0,0
+12,2010,16,Nate Burleson,0,0,Dolphins,0,0,0,0,0,0,1.0,WR,0,0,7,1,0,1,0,12,1,Dolphins,0,0,0,Lions,208,34,2.0,DST,67,2.0,0,275,0,0

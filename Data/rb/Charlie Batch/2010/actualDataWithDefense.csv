@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,2,Charlie Batch,0,0,Titans,0,11,5,0,0,25,1.0,QB,0,0,0,0,0,1,0,0,1,Titans,0,1,0,Steelers,21,19,10.0,DST,106,4.0,0,127,0,0
+1,2010,3,Charlie Batch,0,0,Buccaneers,0,17,12,2,3,186,23.0,QB,0,0,0,0,0,5,0,26,1,Buccaneers,0,0,2,Steelers,186,38,4.0,DST,201,0.0,0,387,0,0
+2,2010,4,Charlie Batch,0,0,Ravens,0,21,12,1,0,141,3.0,QB,0,0,0,0,0,1,0,4,0,Ravens,0,0,1,Steelers,126,14,8.0,DST,84,2.0,0,210,0,1

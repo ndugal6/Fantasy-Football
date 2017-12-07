@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Ryan Tannehill,0,1,Redskins,0,34,22,0,1,226,14.0,QB,0,0,0,0,0,3,0,7,1,Redskins,0,1,0,Dolphins,182,17,9.0,DST,74,3.0,0,256,0,0
+1,2015,2,Ryan Tannehill,0,0,Jaguars,0,44,30,0,2,359,27.0,QB,0,0,0,0,0,3,0,17,1,Jaguars,0,0,0,Dolphins,344,20,6.0,DST,42,2.0,0,386,0,0
+2,2015,3,Ryan Tannehill,0,0,Bills,1,49,26,3,2,297,19.0,QB,0,0,0,0,0,1,0,-1,0,Bills,0,0,3,Dolphins,289,14,18.0,DST,102,2.0,0,391,1,1
+3,2015,4,Ryan Tannehill,0,0,Jets,0,44,19,2,2,198,15.0,QB,0,0,0,0,0,1,0,4,0,Jets,0,0,2,Dolphins,167,14,11.0,DST,59,3.0,0,226,0,1
+4,2015,6,Ryan Tannehill,0,0,Titans,0,29,22,2,2,266,19.0,QB,0,0,0,0,0,2,0,14,1,Titans,0,0,2,Dolphins,254,38,6.0,DST,180,2.0,0,434,0,0
+5,2015,7,Ryan Tannehill,0,0,Texans,0,19,18,0,4,282,35.0,QB,0,0,0,0,0,1,0,3,0,Texans,0,1,0,Dolphins,255,44,6.0,DST,248,4.0,0,503,0,1
+6,2015,8,Ryan Tannehill,0,0,Patriots,0,44,28,2,0,300,8.0,QB,0,0,0,0,0,2,0,-1,1,Patriots,0,0,2,Dolphins,255,7,18.0,DST,15,5.0,1,270,0,0
+7,2015,9,Ryan Tannehill,0,1,Bills,0,35,26,0,0,307,11.0,QB,0,0,9,1,0,2,0,3,1,Bills,0,1,0,Dolphins,289,17,10.0,DST,108,2.0,1,397,0,0
+8,2015,10,Ryan Tannehill,0,0,Eagles,0,36,21,0,2,217,20.0,QB,0,0,0,0,0,2,0,-2,1,Eagles,0,0,0,Dolphins,190,20,10.0,DST,99,4.0,1,289,0,0
+9,2015,11,Ryan Tannehill,0,0,Cowboys,0,24,13,1,2,188,18.0,QB,0,0,0,0,0,3,0,13,0,Cowboys,0,0,1,Dolphins,140,14,15.0,DST,70,3.0,0,210,1,1
+10,2015,12,Ryan Tannehill,0,1,Jets,0,58,33,1,3,351,29.0,QB,0,0,0,0,0,0,0,0,1,Jets,0,1,1,Dolphins,321,20,11.0,DST,12,3.0,0,333,0,0
+11,2015,13,Ryan Tannehill,0,0,Ravens,0,19,9,0,1,86,10.0,QB,0,0,0,0,0,1,0,11,0,Ravens,0,1,0,Dolphins,82,15,7.0,DST,137,1.0,0,219,0,1
+12,2015,14,Ryan Tannehill,0,0,Giants,0,41,25,0,1,236,17.0,QB,0,0,0,0,0,4,0,24,0,Giants,0,1,0,Dolphins,235,24,4.0,DST,128,1.0,0,363,0,1
+13,2015,15,Ryan Tannehill,0,0,Chargers,0,34,20,0,0,216,14.0,QB,0,0,0,0,0,3,1,4,1,Chargers,0,1,0,Dolphins,187,14,9.0,DST,44,3.0,0,231,0,0
+14,2015,16,Ryan Tannehill,0,0,Colts,0,38,26,1,0,329,13.0,QB,0,0,0,0,0,1,0,28,0,Colts,0,0,1,Dolphins,279,12,17.0,DST,82,6.0,1,361,0,1
+15,2015,17,Ryan Tannehill,0,0,Patriots,0,38,25,0,2,350,27.0,QB,0,0,0,0,0,3,0,17,0,Patriots,0,0,0,Dolphins,342,20,5.0,DST,96,1.0,0,438,0,1

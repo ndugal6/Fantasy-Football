@@ -1,0 +1,5 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,7,Brock Osweiler,0,0,49ers,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,3,0,0,0,49ers,0,0,0,Broncos,304,42,2.0,DST,115,2.0,0,419,0,1
+1,2014,10,Brock Osweiler,0,0,Raiders,0,5,2,0,0,13,0.0,QB,0,0,0,0,0,3,0,2,1,Raiders,0,0,2,Broncos,353,41,4.0,DST,118,0.0,0,471,0,0
+2,2014,15,Brock Osweiler,0,0,Chargers,0,2,0,0,0,0,0.0,QB,0,0,0,0,0,1,0,-1,1,Chargers,0,0,0,Broncos,226,22,2.0,DST,111,1.0,0,337,0,0
+3,2014,17,Brock Osweiler,0,0,Raiders,0,2,2,0,1,39,7.0,QB,0,0,0,0,0,1,0,-1,0,Raiders,0,1,0,Broncos,309,47,9.0,DST,142,1.0,0,451,1,1

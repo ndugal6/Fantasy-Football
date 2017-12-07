@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Nate Burleson,0,0,Buccaneers,0,0,0,0,0,0,8.0,WR,0,0,60,5,0,1,0,20,1,Buccaneers,0,0,1,Lions,305,27,9.0,DST,126,0.0,0,431,1,0
+1,2011,2,Nate Burleson,0,0,Chiefs,0,0,0,0,0,0,9.0,WR,0,0,93,7,0,0,0,0,0,Chiefs,0,0,1,Lions,322,48,2.0,DST,89,0.0,0,411,0,1
+2,2011,4,Nate Burleson,0,0,Cowboys,0,0,0,0,0,0,1.0,WR,0,0,16,2,0,0,0,0,1,Cowboys,0,0,1,Lions,240,34,2.0,DST,63,0.0,0,303,0,0
+3,2011,5,Nate Burleson,0,0,Bears,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,2,0,4,0,Bears,0,0,1,Lions,214,24,4.0,DST,181,1.0,0,395,0,1
+4,2011,6,Nate Burleson,0,0,49ers,0,0,0,0,0,0,9.0,WR,0,1,34,4,0,0,0,0,0,49ers,0,0,0,Lions,244,19,11.0,DST,66,5.0,1,310,0,1
+5,2011,7,Nate Burleson,0,0,Falcons,0,0,0,0,0,0,1.0,WR,0,0,1,1,0,2,0,10,0,Falcons,0,1,0,Lions,159,16,9.0,DST,104,3.0,0,263,0,1
+6,2011,8,Nate Burleson,0,0,Broncos,0,0,0,0,0,0,2.0,WR,0,0,23,4,0,1,0,9,1,Broncos,0,0,0,Lions,263,45,2.0,DST,113,2.0,0,376,0,0
+7,2011,10,Nate Burleson,0,1,Bears,0,0,0,0,0,0,8.0,WR,0,0,83,8,0,1,0,10,1,Bears,0,2,4,Lions,313,13,39.0,DST,80,2.0,0,393,3,0
+8,2011,11,Nate Burleson,0,0,Panthers,0,0,0,0,0,0,12.0,WR,0,1,63,7,0,0,0,0,0,Panthers,0,1,2,Lions,326,49,14.0,DST,169,2.0,0,495,1,1
+9,2011,12,Nate Burleson,0,0,Packers,0,0,0,0,0,0,4.0,WR,0,0,39,5,0,1,0,11,0,Packers,0,0,3,Lions,273,15,11.0,DST,136,1.0,0,409,0,1
+10,2011,13,Nate Burleson,0,0,Saints,0,0,0,0,0,0,9.0,WR,0,0,93,5,0,0,0,0,1,Saints,1,0,1,Lions,379,17,11.0,DST,87,3.0,0,466,0,0
+11,2011,15,Nate Burleson,0,0,Raiders,0,0,0,0,0,0,14.0,WR,0,1,81,7,0,0,0,0,1,Raiders,0,1,0,Lions,375,28,10.0,DST,57,2.0,0,432,1,0
+12,2011,16,Nate Burleson,0,0,Chargers,0,0,0,0,0,0,9.0,WR,0,0,83,6,0,1,0,11,0,Chargers,0,0,0,Lions,353,38,3.0,DST,87,3.0,0,440,0,1
+13,2011,17,Nate Burleson,0,0,Packers,0,0,0,0,0,0,4.0,WR,0,0,45,6,0,1,0,9,1,Packers,0,2,2,Lions,502,41,10.0,DST,73,2.0,0,575,0,0

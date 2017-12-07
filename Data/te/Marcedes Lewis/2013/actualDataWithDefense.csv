@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,7,Marcedes Lewis,0,0,Chargers,0,0,0,0,0,0,3.0,TE,0,0,31,1,0,0,0,0,0,Chargers,0,0,1,Jaguars,275,6,18.0,DST,78,6.0,0,353,0,1
+1,2013,8,Marcedes Lewis,0,1,49ers,0,0,0,0,0,0,-1.0,TE,0,0,6,1,0,0,0,0,0,49ers,0,1,0,Jaguars,228,10,15.0,DST,90,0.0,0,318,1,1
+2,2013,10,Marcedes Lewis,0,0,Titans,0,0,0,0,0,0,3.0,TE,0,0,39,3,0,0,0,0,1,Titans,0,0,2,Jaguars,160,29,7.0,DST,54,3.0,0,214,0,0
+3,2013,11,Marcedes Lewis,0,0,Cardinals,0,0,0,0,0,0,2.0,TE,0,0,23,3,0,0,0,0,0,Cardinals,0,0,2,Jaguars,242,14,10.0,DST,32,2.0,0,274,0,1
+4,2013,12,Marcedes Lewis,0,0,Texans,0,0,0,0,0,0,1.0,TE,0,0,18,1,0,0,0,0,1,Texans,1,0,0,Jaguars,215,13,13.0,DST,118,4.0,0,333,0,0
+5,2013,13,Marcedes Lewis,0,0,Browns,0,0,0,0,0,0,8.0,TE,0,1,26,3,0,0,0,0,1,Browns,0,0,1,Jaguars,202,32,4.0,DST,112,2.0,0,314,0,0
+6,2013,14,Marcedes Lewis,0,0,Texans,0,0,0,0,0,0,10.0,TE,0,1,42,2,0,0,0,0,0,Texans,0,0,0,Jaguars,132,27,2.0,DST,149,1.0,0,281,0,1
+7,2013,15,Marcedes Lewis,0,0,Bills,0,0,0,0,0,0,11.0,TE,0,1,54,4,0,0,0,0,0,Bills,0,1,2,Jaguars,195,20,15.0,DST,159,5.0,0,354,0,1
+8,2013,16,Marcedes Lewis,0,0,Titans,0,0,0,0,0,0,11.0,TE,0,1,50,4,0,0,0,0,0,Titans,1,0,1,Jaguars,226,16,10.0,DST,63,2.0,0,289,0,1
+9,2013,17,Marcedes Lewis,0,0,Colts,0,0,0,0,0,0,7.0,TE,0,0,70,3,0,0,0,0,1,Colts,0,1,1,Jaguars,308,10,14.0,DST,42,3.0,0,350,0,0

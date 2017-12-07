@@ -1,0 +1,10 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Matt Cassel,0,1,Falcons,0,33,21,2,1,258,19.0,QB,0,0,0,0,0,4,1,20,0,Falcons,0,1,2,Chiefs,241,24,10.0,DST,152,3.0,0,393,0,1
+1,2012,2,Matt Cassel,0,1,Bills,0,42,23,1,2,301,23.0,QB,0,0,0,0,0,2,0,25,1,Bills,0,2,1,Chiefs,272,17,21.0,DST,150,5.0,0,422,1,0
+2,2012,3,Matt Cassel,0,1,Saints,0,44,26,1,0,248,6.0,QB,0,0,0,0,0,1,0,2,1,Saints,0,2,1,Chiefs,237,27,10.0,DST,273,3.0,0,510,0,0
+3,2012,4,Matt Cassel,0,0,Chargers,0,42,24,3,2,251,16.0,QB,0,0,0,0,0,0,0,0,0,Chargers,0,3,3,Chiefs,234,20,24.0,DST,115,2.0,0,349,1,1
+4,2012,5,Matt Cassel,0,2,Ravens,0,15,9,2,0,92,-2.0,QB,0,0,0,0,0,4,0,14,0,Ravens,0,2,2,Chiefs,124,6,18.0,DST,214,0.0,0,338,0,1
+5,2012,8,Matt Cassel,0,1,Raiders,0,30,20,1,1,218,14.0,QB,0,0,0,0,0,7,0,35,0,Raiders,0,2,2,Chiefs,197,16,15.0,DST,102,3.0,0,299,0,1
+6,2012,9,Matt Cassel,0,1,Chargers,0,29,19,1,0,181,7.0,QB,0,0,0,0,0,6,0,37,1,Chargers,0,3,1,Chiefs,176,13,28.0,DST,113,1.0,0,289,2,0
+7,2012,10,Matt Cassel,0,0,Steelers,0,26,11,1,0,154,5.0,QB,0,0,0,0,0,2,0,12,1,Steelers,0,0,1,Chiefs,148,13,11.0,DST,142,2.0,0,290,0,0
+8,2012,11,Matt Cassel,0,0,Bengals,0,16,8,0,0,93,3.0,QB,0,0,0,0,0,1,0,0,0,Bengals,0,1,0,Chiefs,171,6,16.0,DST,113,4.0,0,284,0,1

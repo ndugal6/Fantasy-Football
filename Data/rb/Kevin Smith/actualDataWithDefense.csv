@@ -1,0 +1,22 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,10,Kevin Smith,0,0,Bears,0,0,0,0,0,0,2.0,RB,0,0,10,2,0,4,0,19,1,Bears,0,2,4,Lions,313,13,39.0,DST,80,2.0,0,393,3,0
+1,2011,11,Kevin Smith,0,0,Panthers,0,0,0,0,0,0,38.0,RB,0,1,61,4,0,16,2,140,0,Panthers,0,1,2,Lions,326,49,14.0,DST,169,2.0,0,495,1,1
+2,2011,12,Kevin Smith,0,0,Packers,0,0,0,0,0,0,5.0,RB,0,0,21,3,0,7,0,36,0,Packers,0,0,3,Lions,273,15,11.0,DST,136,1.0,0,409,0,1
+3,2011,13,Kevin Smith,0,0,Saints,0,0,0,0,0,0,13.0,RB,0,0,46,6,0,6,1,34,1,Saints,1,0,1,Lions,379,17,11.0,DST,87,3.0,0,466,0,0
+4,2011,15,Kevin Smith,0,0,Raiders,0,0,0,0,0,0,4.0,RB,0,0,3,1,0,15,0,43,1,Raiders,0,1,0,Lions,375,28,10.0,DST,57,2.0,0,432,1,0
+5,2011,16,Kevin Smith,0,0,Chargers,0,0,0,0,0,0,17.0,RB,0,1,12,2,0,15,1,49,0,Chargers,0,0,0,Lions,353,38,3.0,DST,87,3.0,0,440,0,1
+6,2011,17,Kevin Smith,0,1,Packers,0,0,0,0,0,0,10.0,RB,0,1,26,4,0,9,0,35,1,Packers,0,2,2,Lions,502,41,10.0,DST,73,2.0,0,575,0,0
+7,2010,4,Kevin Smith,0,0,Packers,0,0,0,0,0,0,3.0,RB,0,0,22,4,0,3,0,12,1,Packers,0,1,2,Lions,308,26,16.0,DST,123,3.0,0,431,1,0
+8,2010,5,Kevin Smith,0,0,Rams,0,0,0,0,0,0,3.0,RB,0,0,17,1,0,4,0,24,0,Rams,0,0,0,Lions,233,44,1.0,DST,89,1.0,0,322,0,1
+9,2010,6,Kevin Smith,0,0,Giants,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,4,0,17,1,Giants,0,2,1,Lions,302,20,12.0,DST,64,2.0,0,366,0,0
+10,2010,8,Kevin Smith,0,0,Redskins,0,0,0,0,0,0,6.0,RB,0,0,16,2,0,12,0,51,0,Redskins,0,1,1,Lions,202,37,11.0,DST,102,1.0,0,304,1,1
+11,2010,9,Kevin Smith,0,0,Jets,0,0,0,0,0,0,3.0,RB,0,0,27,1,0,5,0,10,0,Jets,0,0,0,Lions,228,20,6.0,DST,78,2.0,0,306,0,1
+12,2010,10,Kevin Smith,0,0,Bills,0,0,0,0,0,0,5.0,RB,0,0,41,3,0,6,0,19,1,Bills,0,0,1,Lions,314,12,10.0,DST,76,1.0,0,390,0,0
+13,2012,1,Kevin Smith,0,0,Rams,0,0,0,0,0,0,20.0,RB,0,1,29,4,0,13,1,62,0,Rams,0,0,3,Lions,346,27,14.0,DST,83,1.0,0,429,1,1
+14,2012,2,Kevin Smith,0,0,49ers,0,0,0,0,0,0,6.0,RB,0,0,17,2,0,16,0,53,1,49ers,0,0,1,Lions,214,19,8.0,DST,82,2.0,0,296,0,0
+15,2012,8,Kevin Smith,0,0,Seahawks,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,1,0,1,0,Seahawks,0,0,1,Lions,331,28,4.0,DST,84,2.0,0,415,0,1
+16,2012,9,Kevin Smith,0,0,Jaguars,0,0,0,0,0,0,0.0,RB,0,0,9,1,0,3,0,8,1,Jaguars,0,0,0,Lions,285,31,1.0,DST,149,1.0,0,434,0,0
+17,2012,11,Kevin Smith,0,0,Packers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,4,0,Packers,0,2,2,Lions,252,20,23.0,DST,110,5.0,0,362,1,1
+18,2012,12,Kevin Smith,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,6,0,Texans,0,1,0,Lions,419,31,5.0,DST,106,3.0,0,525,0,1
+19,2012,15,Kevin Smith,0,0,Cardinals,0,0,0,0,0,0,1.0,RB,0,0,13,1,0,0,0,0,1,Cardinals,0,1,3,Lions,228,10,29.0,DST,84,2.0,0,312,2,0
+20,2012,16,Kevin Smith,0,0,Falcons,0,0,0,0,0,0,0.0,RB,0,0,4,1,0,0,0,0,0,Falcons,0,2,1,Lions,443,18,10.0,DST,79,0.0,0,522,0,1

@@ -1,0 +1,25 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Legedu Naanee,0,0,Cardinals,0,0,0,0,0,0,2.0,WR,0,0,21,1,0,0,0,0,1,Cardinals,0,0,1,Panthers,403,21,13.0,DST,74,4.0,0,477,1,0
+1,2011,2,Legedu Naanee,0,0,Packers,0,0,0,0,0,0,1.0,WR,0,0,14,2,0,0,0,0,0,Packers,0,1,3,Panthers,404,23,13.0,DST,71,4.0,0,475,0,1
+2,2011,3,Legedu Naanee,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,13,1,0,0,0,0,0,Jaguars,0,0,0,Panthers,158,16,4.0,DST,107,0.0,0,265,0,1
+3,2011,4,Legedu Naanee,0,0,Bears,0,0,0,0,0,0,2.0,WR,0,0,27,4,0,0,0,0,1,Bears,1,0,1,Panthers,374,29,16.0,DST,169,0.0,0,543,2,0
+4,2011,5,Legedu Naanee,0,0,Saints,0,0,0,0,0,0,6.0,WR,0,0,63,4,0,0,0,0,0,Saints,1,0,1,Panthers,219,27,6.0,DST,162,1.0,0,381,0,1
+5,2011,6,Legedu Naanee,0,0,Falcons,0,0,0,0,0,0,3.0,WR,0,0,31,2,0,0,0,0,1,Falcons,0,0,3,Panthers,229,17,11.0,DST,139,1.0,0,368,0,0
+6,2011,7,Legedu Naanee,0,0,Redskins,0,0,0,0,0,0,2.0,WR,0,0,21,3,0,0,0,0,0,Redskins,0,0,0,Panthers,232,33,4.0,DST,175,4.0,0,407,0,1
+7,2011,10,Legedu Naanee,0,0,Titans,0,0,0,0,0,0,7.0,WR,0,0,75,8,0,0,0,0,0,Titans,0,1,1,Panthers,166,3,25.0,DST,113,5.0,0,279,1,1
+8,2011,11,Legedu Naanee,0,0,Lions,0,0,0,0,0,0,4.0,WR,0,0,41,3,0,0,0,0,1,Lions,0,0,4,Panthers,272,35,9.0,DST,137,1.0,0,409,0,0
+9,2011,12,Legedu Naanee,0,0,Colts,0,0,0,0,0,0,1.0,WR,0,0,17,3,0,0,0,0,1,Colts,1,1,0,Panthers,176,27,8.0,DST,201,3.0,0,377,0,0
+10,2011,13,Legedu Naanee,0,0,Buccaneers,0,1,1,0,0,27,10.0,WR,0,1,38,2,0,0,0,0,1,Buccaneers,0,0,0,Panthers,222,38,2.0,DST,163,2.0,0,385,0,0
+11,2011,14,Legedu Naanee,0,0,Falcons,0,0,0,0,0,0,2.0,WR,0,0,29,2,0,0,0,0,0,Falcons,0,0,2,Panthers,259,23,7.0,DST,157,2.0,0,416,0,1
+12,2011,15,Legedu Naanee,0,0,Texans,0,0,0,0,0,0,1.0,WR,0,0,16,2,0,0,0,0,1,Texans,0,0,0,Panthers,150,28,2.0,DST,166,2.0,0,316,0,0
+13,2011,16,Legedu Naanee,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,12,2,0,0,0,0,0,Buccaneers,0,0,0,Panthers,163,48,1.0,DST,270,1.0,0,433,0,1
+14,2010,1,Legedu Naanee,0,0,Chiefs,0,0,0,0,0,0,17.0,WR,0,1,110,5,0,0,0,0,1,Chiefs,0,1,0,Chargers,280,14,14.0,DST,109,2.0,0,389,1,0
+15,2010,2,Legedu Naanee,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Jaguars,1,1,2,Chargers,326,38,9.0,DST,151,1.0,0,477,0,1
+16,2010,3,Legedu Naanee,0,1,Seahawks,0,0,0,0,0,0,6.0,WR,1,0,53,4,0,2,0,-2,1,Seahawks,0,3,2,Chargers,429,20,30.0,DST,89,4.0,0,518,2,0
+17,2010,4,Legedu Naanee,0,0,Cardinals,0,0,0,0,0,0,0.0,WR,0,0,4,1,0,0,0,0,0,Cardinals,0,1,0,Chargers,239,41,9.0,DST,180,1.0,0,419,1,1
+18,2010,5,Legedu Naanee,0,0,Raiders,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,0,1,Raiders,2,3,0,Chargers,415,27,28.0,DST,91,3.0,1,506,2,0
+19,2010,12,Legedu Naanee,0,0,Colts,0,0,0,0,0,0,3.0,WR,0,0,38,3,0,0,0,0,1,Colts,0,0,0,Chargers,172,36,2.0,DST,129,2.0,0,301,0,0
+20,2010,13,Legedu Naanee,0,0,Raiders,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Raiders,0,1,1,Chargers,265,13,15.0,DST,21,4.0,0,286,0,1
+21,2010,16,Legedu Naanee,0,0,Bengals,0,0,0,0,0,0,5.0,WR,0,0,59,4,0,0,0,0,1,Bengals,0,1,1,Chargers,249,20,9.0,DST,64,1.0,0,313,0,0
+22,2010,17,Legedu Naanee,0,0,Broncos,0,0,0,0,0,0,7.0,WR,0,0,79,4,0,0,0,0,1,Broncos,0,0,1,Chargers,283,33,13.0,DST,164,5.0,0,447,1,0
+23,2012,4,Legedu Naanee,0,1,Cardinals,0,0,0,0,0,0,0.0,WR,0,0,19,1,0,0,0,0,1,Cardinals,0,2,2,Dolphins,394,21,13.0,DST,86,4.0,0,480,0,0

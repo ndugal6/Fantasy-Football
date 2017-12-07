@@ -1,0 +1,13 @@
+,Unnamed: 0.1_x,Unnamed: 0.1.1_x,Fumble TD,Fumbles Lost,Name,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Week,Year,Unnamed: 0.1_y,Unnamed: 0.1.1_y,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Team,Total Yards,Touchdowns
+0,21,21,0,0,Tom Brady,Patriots,0,36,16,0,0,267,10.0,QB,0,0,0,0,0,2,0,0,1,2017,18,18,0,1,0,Chiefs,352,42,5.0,DST,185,3.0,0,Patriots,537,0
+1,33,33,0,0,Tom Brady,Saints,0,39,30,0,3,447,35.0,QB,0,0,0,0,0,2,0,9,2,2017,60,60,0,0,0,Patriots,436,36,2.0,DST,119,2.0,0,Saints,555,0
+2,67,67,0,1,Tom Brady,Patriots,1,35,25,0,5,378,46.0,QB,0,0,0,0,0,1,0,6,3,2017,80,80,0,0,2,Texans,292,33,6.0,DST,125,2.0,0,Patriots,417,0
+3,112,112,0,0,Tom Brady,Patriots,0,45,32,0,2,307,24.0,QB,0,0,0,0,0,1,0,2,4,2017,112,112,0,1,1,Panthers,304,33,6.0,DST,140,2.0,0,Patriots,444,0
+4,154,154,0,1,Tom Brady,Buccaneers,0,40,30,1,1,303,15.0,QB,0,0,0,0,0,2,0,5,5,2017,137,137,0,1,1,Patriots,289,19,11.0,DST,113,3.0,0,Buccaneers,402,0
+5,176,176,0,0,Tom Brady,Jets,0,38,20,1,2,257,20.0,QB,0,0,0,0,0,1,0,-1,6,2017,180,180,0,1,1,Patriots,257,24,5.0,DST,118,0.0,0,Jets,375,0
+6,210,210,0,0,Tom Brady,Patriots,0,29,21,0,2,249,21.0,QB,0,0,0,0,0,5,0,5,7,2017,191,191,1,0,0,Falcons,223,7,10.0,DST,120,1.0,0,Patriots,343,0
+7,244,244,0,0,Tom Brady,Patriots,0,47,32,0,1,333,19.0,QB,0,0,0,0,0,1,0,2,8,2017,220,220,1,0,1,Chargers,192,13,14.0,DST,157,1.0,1,Patriots,349,0
+8,298,298,0,0,Tom Brady,Broncos,0,34,25,0,3,266,28.0,QB,0,0,0,0,0,1,0,0,10,2017,290,290,0,0,0,Patriots,297,41,1.0,DST,99,1.0,0,Broncos,396,0
+9,330,330,0,0,Tom Brady,Raiders,0,37,30,0,3,340,31.0,QB,0,0,0,0,0,0,0,0,11,2017,318,318,0,0,0,Patriots,332,33,1.0,DST,89,1.0,0,Raiders,421,0
+10,364,364,0,1,Tom Brady,Patriots,0,28,18,1,4,227,30.0,QB,0,0,0,0,0,5,0,-4,12,2017,323,323,0,1,2,Dolphins,154,17,17.0,DST,67,7.0,0,Patriots,221,0
+11,423,423,0,0,Tom Brady,Bills,0,30,21,1,0,258,8.0,QB,0,0,0,0,0,0,0,0,13,2017,367,367,0,0,1,Patriots,244,23,6.0,DST,191,3.0,0,Bills,435,0

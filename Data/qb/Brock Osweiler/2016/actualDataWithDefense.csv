@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Brock Osweiler,0,0,Bears,0,35,22,1,2,231,20.0,QB,0,0,0,0,0,4,0,14,0,Bears,0,0,1,Texans,215,23,5.0,DST,129,2.0,0,344,0,1
+1,2016,2,Brock Osweiler,0,0,Chiefs,0,33,19,2,1,268,12.0,QB,0,0,0,0,0,2,0,-3,0,Chiefs,0,0,2,Texans,254,19,10.0,DST,97,2.0,0,351,0,1
+2,2016,3,Brock Osweiler,0,0,Patriots,0,41,24,1,0,196,6.0,QB,0,0,0,0,0,1,0,13,1,Patriots,0,2,1,Texans,175,0,18.0,DST,109,2.0,0,284,0,0
+3,2016,4,Brock Osweiler,0,0,Titans,0,37,25,2,2,254,19.0,QB,0,0,0,0,0,1,0,14,0,Titans,0,0,2,Texans,244,27,6.0,DST,115,1.0,0,359,0,1
+4,2016,6,Brock Osweiler,0,0,Colts,0,39,25,1,2,269,20.0,QB,0,0,0,0,0,2,0,-4,0,Colts,0,0,1,Texans,256,26,4.0,DST,158,1.0,0,414,0,1
+5,2016,7,Brock Osweiler,0,1,Broncos,0,41,22,0,0,131,5.0,QB,0,0,0,0,0,3,0,16,1,Broncos,0,2,0,Texans,131,9,12.0,DST,140,1.0,0,271,0,0
+6,2016,8,Brock Osweiler,0,0,Lions,0,29,20,1,1,186,11.0,QB,0,0,0,0,0,3,0,-3,0,Lions,0,0,1,Texans,164,20,9.0,DST,105,3.0,0,269,0,1
+7,2016,10,Brock Osweiler,0,0,Jaguars,0,27,14,0,2,99,17.0,QB,0,0,0,0,0,3,0,23,1,Jaguars,0,0,0,Texans,92,24,2.0,DST,181,1.0,0,273,0,0
+8,2016,11,Brock Osweiler,0,0,Raiders,0,39,26,1,1,243,14.0,QB,0,0,-6,1,0,2,0,19,1,Raiders,0,1,1,Texans,230,20,10.0,DST,124,2.0,0,354,0,0
+9,2016,12,Brock Osweiler,0,0,Chargers,0,37,22,3,0,246,11.0,QB,0,0,0,0,0,3,1,23,0,Chargers,0,1,3,Texans,239,13,16.0,DST,114,1.0,0,353,0,1
+10,2016,13,Brock Osweiler,0,0,Packers,0,35,22,0,2,202,22.0,QB,0,0,-8,0,0,3,0,20,1,Packers,0,1,0,Texans,184,13,11.0,DST,123,2.0,0,307,0,0
+11,2016,14,Brock Osweiler,0,0,Colts,0,24,14,1,0,147,3.0,QB,0,0,0,0,0,2,0,-2,1,Colts,0,0,1,Texans,131,22,5.0,DST,185,2.0,0,316,0,0
+12,2016,15,Brock Osweiler,0,0,Jaguars,0,11,6,2,0,48,-3.0,QB,0,0,0,0,0,0,0,0,0,Jaguars,0,0,2,Texans,308,21,11.0,DST,79,0.0,0,387,1,1
+13,2016,17,Brock Osweiler,0,0,Titans,0,40,21,0,1,253,22.0,QB,0,0,0,0,0,1,1,1,1,Titans,0,1,0,Texans,243,17,16.0,DST,46,4.0,0,289,1,0

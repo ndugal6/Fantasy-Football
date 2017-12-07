@@ -1,0 +1,7 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Johnny Holton,0,0,Falcons,0,0,0,0,0,0,1.0,WR,0,0,4,1,0,1,0,14,0,Falcons,0,0,0,Raiders,299,28,1.0,DST,155,1.0,0,454,0,1
+1,2016,3,Johnny Holton,0,0,Titans,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,2,1,Titans,0,0,1,Raiders,245,17,7.0,DST,123,1.0,0,368,0,0
+2,2016,7,Johnny Holton,0,0,Jaguars,0,0,0,0,0,0,2.0,WR,0,0,0,0,0,2,0,25,1,Jaguars,0,0,0,Raiders,200,33,0.0,DST,144,0.0,0,344,0,0
+3,2016,8,Johnny Holton,0,0,Buccaneers,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,2,1,Buccaneers,0,1,0,Raiders,498,30,4.0,DST,128,2.0,0,626,0,0
+4,2016,12,Johnny Holton,0,0,Panthers,0,0,0,0,0,0,3.0,WR,0,0,30,1,0,0,0,0,0,Panthers,0,1,1,Raiders,310,35,5.0,DST,56,1.0,0,366,0,1
+5,2016,17,Johnny Holton,0,1,Broncos,0,0,0,0,0,0,-1.0,WR,0,0,0,0,0,1,0,0,1,Broncos,0,2,1,Raiders,164,6,18.0,DST,57,2.0,0,221,0,0

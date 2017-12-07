@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Andy Dalton,0,0,Raiders,0,34,25,0,2,269,22.0,QB,0,0,0,0,0,4,0,1,1,Raiders,1,0,0,Bengals,269,33,2.0,DST,127,0.0,0,396,0,0
+1,2015,2,Andy Dalton,0,0,Chargers,0,26,16,0,3,214,27.0,QB,0,0,0,0,0,5,0,10,0,Chargers,0,2,0,Bengals,214,24,5.0,DST,175,0.0,0,389,0,1
+2,2015,3,Andy Dalton,0,1,Ravens,0,32,20,1,3,383,37.0,QB,0,0,0,0,0,5,1,10,1,Ravens,0,1,1,Bengals,372,28,12.0,DST,86,2.0,0,458,1,0
+3,2015,4,Andy Dalton,0,0,Chiefs,0,24,17,0,1,321,19.0,QB,0,0,0,0,0,3,0,16,0,Chiefs,0,0,0,Bengals,321,36,0.0,DST,124,0.0,0,445,0,1
+4,2015,5,Andy Dalton,0,0,Seahawks,0,44,30,1,2,331,30.0,QB,0,0,0,0,0,7,1,18,0,Seahawks,0,1,1,Bengals,310,27,15.0,DST,109,4.0,0,419,1,1
+5,2015,6,Andy Dalton,0,0,Bills,0,33,22,0,3,243,27.0,QB,0,0,0,0,0,3,0,-2,1,Bills,0,0,0,Bengals,243,34,0.0,DST,112,0.0,0,355,0,0
+6,2015,8,Andy Dalton,0,0,Steelers,0,38,23,2,1,231,11.0,QB,0,0,0,0,0,6,0,4,1,Steelers,1,0,2,Bengals,218,16,13.0,DST,78,3.0,0,296,0,0
+7,2015,9,Andy Dalton,0,0,Browns,0,27,21,0,3,234,27.0,QB,0,0,0,0,0,6,0,5,0,Browns,1,0,0,Bengals,219,31,4.0,DST,152,2.0,0,371,0,1
+8,2015,10,Andy Dalton,0,0,Texans,0,38,22,1,0,197,8.0,QB,0,0,0,0,0,4,0,31,0,Texans,0,1,1,Bengals,182,6,18.0,DST,74,4.0,0,256,0,1
+9,2015,11,Andy Dalton,0,1,Cardinals,0,39,22,0,2,315,26.0,QB,0,0,0,0,0,8,0,34,1,Cardinals,0,1,0,Bengals,278,31,6.0,DST,99,4.0,0,377,0,0
+10,2015,12,Andy Dalton,0,0,Rams,0,27,20,1,3,233,25.0,QB,0,0,0,0,0,2,0,4,0,Rams,0,0,1,Bengals,236,31,2.0,DST,140,0.0,0,376,0,1
+11,2015,13,Andy Dalton,0,0,Browns,0,19,14,0,2,220,27.0,QB,0,0,0,0,0,4,1,11,1,Browns,0,0,0,Bengals,233,37,1.0,DST,144,1.0,0,377,0,0
+12,2015,14,Andy Dalton,0,0,Steelers,0,5,3,1,0,59,0.0,QB,0,0,0,0,0,0,0,0,0,Steelers,0,0,3,Bengals,321,20,19.0,DST,64,3.0,0,385,1,1

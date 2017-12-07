@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Shonn Greene,0,0,Chiefs,0,0,0,0,0,0,7.0,RB,0,0,0,0,0,15,0,71,1,Chiefs,0,0,0,Titans,243,26,5.0,DST,162,4.0,0,405,0,0
+1,2014,2,Shonn Greene,0,0,Cowboys,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,5,0,40,0,Cowboys,0,0,2,Titans,232,10,13.0,DST,82,2.0,0,314,0,1
+2,2014,3,Shonn Greene,0,0,Bengals,0,0,0,0,0,0,9.0,RB,0,0,0,0,0,10,1,33,1,Bengals,0,0,2,Titans,177,7,15.0,DST,149,2.0,1,326,0,0
+3,2014,4,Shonn Greene,0,0,Colts,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,10,1,Colts,0,1,2,Titans,176,17,13.0,DST,85,3.0,0,261,0,0
+4,2014,5,Shonn Greene,0,0,Browns,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,11,0,36,0,Browns,1,0,0,Titans,261,28,7.0,DST,149,3.0,1,410,0,1
+5,2014,8,Shonn Greene,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,1,0,Texans,0,1,1,Titans,290,16,10.0,DST,36,2.0,0,326,0,1
+6,2014,10,Shonn Greene,0,1,Ravens,0,0,0,0,0,0,-1.0,RB,0,0,0,0,0,4,0,8,1,Ravens,0,1,1,Titans,143,7,16.0,DST,67,5.0,0,210,0,0
+7,2014,11,Shonn Greene,0,0,Steelers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,6,0,Steelers,0,0,1,Titans,263,24,9.0,DST,49,0.0,0,312,1,1
+8,2014,12,Shonn Greene,0,0,Eagles,0,0,0,0,0,0,7.0,RB,0,0,0,0,0,6,1,15,1,Eagles,0,2,1,Titans,299,24,18.0,DST,52,5.0,0,351,1,0
+9,2014,13,Shonn Greene,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,0,1,Texans,0,1,3,Titans,237,21,12.0,DST,83,3.0,0,320,0,0
+10,2014,15,Shonn Greene,0,0,Jets,0,0,0,0,0,0,6.0,RB,0,0,13,1,0,16,0,50,0,Jets,0,1,0,Titans,253,11,10.0,DST,89,1.0,0,342,0,1
+11,2014,16,Shonn Greene,0,0,Jaguars,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,7,0,28,1,Jaguars,0,0,0,Titans,262,13,11.0,DST,95,4.0,0,357,0,0
+12,2014,17,Shonn Greene,0,0,Colts,0,0,0,0,0,0,9.0,RB,0,0,0,0,0,11,0,94,0,Colts,0,1,0,Titans,50,10,13.0,DST,142,4.0,0,192,0,1

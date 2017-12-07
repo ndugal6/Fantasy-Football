@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Frank Gore,0,0,Seahawks,0,0,0,0,0,0,7.0,RB,0,0,45,6,0,17,0,38,1,Seahawks,0,0,2,49ers,214,6,22.0,DST,49,2.0,0,263,1,0
+1,2010,2,Frank Gore,0,0,Saints,0,0,0,0,0,0,28.0,RB,0,1,56,7,0,20,1,112,0,Saints,0,2,2,49ers,275,22,11.0,DST,142,0.0,1,417,0,1
+2,2010,3,Frank Gore,0,0,Chiefs,0,0,0,0,0,0,14.0,RB,0,0,102,9,0,15,0,43,1,Chiefs,0,0,1,49ers,208,10,14.0,DST,43,5.0,0,251,0,0
+3,2010,4,Frank Gore,0,0,Falcons,0,0,0,0,0,0,13.0,RB,0,0,60,7,0,21,0,77,1,Falcons,0,1,2,49ers,181,14,11.0,DST,81,1.0,0,262,0,0
+4,2010,5,Frank Gore,0,2,Eagles,0,0,0,0,0,0,11.0,RB,0,1,21,4,0,18,0,52,0,Eagles,0,3,2,49ers,290,24,19.0,DST,74,2.0,0,364,1,1
+5,2010,6,Frank Gore,0,0,Raiders,0,0,0,0,0,0,14.0,RB,0,0,0,0,0,25,0,149,0,Raiders,0,0,0,49ers,191,17,6.0,DST,158,2.0,0,349,0,1
+6,2010,7,Frank Gore,0,0,Panthers,0,0,0,0,0,0,15.0,RB,0,0,57,4,0,19,0,102,1,Panthers,0,0,1,49ers,183,20,8.0,DST,99,2.0,0,282,0,0
+7,2010,8,Frank Gore,0,0,Broncos,0,0,0,0,0,0,17.0,RB,0,0,7,1,0,29,1,118,0,Broncos,0,0,0,49ers,196,24,1.0,DST,143,0.0,0,339,0,1
+8,2010,10,Frank Gore,0,0,Rams,0,0,0,0,0,0,20.0,RB,0,0,67,3,0,22,1,87,0,Rams,0,0,0,49ers,323,23,6.0,DST,98,5.0,0,421,0,1
+9,2010,11,Frank Gore,0,0,Buccaneers,0,0,0,0,0,0,5.0,RB,0,0,37,5,0,12,0,23,0,Buccaneers,0,1,1,49ers,118,0,20.0,DST,71,6.0,0,189,0,1
+10,2010,12,Frank Gore,0,0,Cardinals,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,5,0,52,1,Cardinals,1,0,1,49ers,125,27,6.0,DST,261,1.0,0,386,0,0

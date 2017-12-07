@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Jordan Taylor,0,0,Colts,0,0,0,0,0,0,2.0,WR,0,0,20,1,0,0,0,0,0,Colts,0,0,1,Broncos,266,34,3.0,DST,134,1.0,0,400,0,1
+1,2016,4,Jordan Taylor,0,0,Buccaneers,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,1,Buccaneers,0,0,0,Broncos,218,27,5.0,DST,89,4.0,0,307,0,0
+2,2016,6,Jordan Taylor,0,1,Chargers,0,0,0,0,0,0,-1.0,WR,0,0,1,1,0,0,0,0,1,Chargers,0,2,0,Broncos,220,13,15.0,DST,84,2.0,1,304,0,0
+3,2016,8,Jordan Taylor,0,0,Chargers,0,0,0,0,0,0,3.0,WR,0,0,35,1,0,0,0,0,0,Chargers,0,2,1,Broncos,267,27,14.0,DST,57,1.0,0,324,1,1
+4,2016,9,Jordan Taylor,0,0,Raiders,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,1,Raiders,0,1,1,Broncos,266,20,10.0,DST,33,2.0,0,299,0,0
+5,2016,10,Jordan Taylor,0,0,Saints,0,0,0,0,0,0,9.0,WR,0,1,32,2,0,0,0,0,1,Saints,0,0,2,Broncos,234,25,11.0,DST,103,6.0,0,337,0,0
+6,2016,12,Jordan Taylor,0,0,Chiefs,0,0,0,0,0,0,6.0,WR,0,1,6,1,0,0,0,0,0,Chiefs,0,1,0,Broncos,340,27,16.0,DST,124,5.0,1,464,1,1
+7,2016,14,Jordan Taylor,0,0,Titans,0,0,0,0,0,0,1.0,WR,0,0,18,3,0,0,0,0,1,Titans,0,2,0,Broncos,330,10,14.0,DST,18,3.0,0,348,0,0
+8,2016,15,Jordan Taylor,0,0,Patriots,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,0,Patriots,0,2,1,Broncos,251,3,20.0,DST,58,4.0,0,309,0,1
+9,2016,16,Jordan Taylor,0,0,Chiefs,0,0,0,0,0,0,2.0,WR,0,0,26,1,0,0,0,0,1,Chiefs,0,2,1,Broncos,183,10,13.0,DST,63,0.0,0,246,0,0
+10,2016,17,Jordan Taylor,0,0,Raiders,0,0,0,0,0,0,4.0,WR,0,0,41,3,0,0,0,0,0,Raiders,0,0,1,Broncos,206,24,3.0,DST,143,0.0,0,349,0,1

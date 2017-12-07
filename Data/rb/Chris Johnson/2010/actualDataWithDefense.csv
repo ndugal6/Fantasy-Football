@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Chris Johnson,0,0,Raiders,0,0,0,0,0,0,26.0,RB,0,0,8,4,0,27,2,142,0,Raiders,0,1,0,Titans,140,38,4.0,DST,205,2.0,0,345,0,1
+1,2010,2,Chris Johnson,0,1,Steelers,0,0,0,0,0,0,3.0,RB,0,0,19,5,0,16,0,34,0,Steelers,0,4,3,Titans,192,11,31.0,DST,46,4.0,0,238,1,1
+2,2010,3,Chris Johnson,0,0,Giants,0,0,0,0,0,0,24.0,RB,0,0,0,0,0,32,2,125,1,Giants,0,0,0,Titans,110,29,1.0,DST,161,1.0,0,271,0,0
+3,2010,4,Chris Johnson,0,1,Broncos,0,0,0,0,0,0,5.0,RB,0,0,11,3,0,19,0,53,0,Broncos,0,2,0,Titans,167,20,10.0,DST,121,2.0,0,288,0,1
+4,2010,5,Chris Johnson,0,0,Cowboys,0,0,0,0,0,0,25.0,RB,0,0,1,1,0,19,2,131,1,Cowboys,0,0,0,Titans,163,34,3.0,DST,158,3.0,0,321,0,0
+5,2010,6,Chris Johnson,0,0,Jaguars,0,0,0,0,0,0,19.0,RB,0,0,20,2,0,26,1,111,1,Jaguars,0,0,0,Titans,171,30,0.0,DST,153,0.0,0,324,0,0
+6,2010,7,Chris Johnson,0,0,Eagles,0,0,0,0,0,0,6.0,RB,0,0,7,2,0,24,0,66,0,Eagles,0,1,2,Titans,253,37,9.0,DST,75,3.0,0,328,0,1
+7,2010,8,Chris Johnson,0,0,Chargers,0,0,0,0,0,0,13.0,RB,0,0,24,5,0,15,1,59,1,Chargers,0,0,0,Titans,305,25,1.0,DST,65,0.0,0,370,0,0
+8,2010,10,Chris Johnson,0,0,Dolphins,0,0,0,0,0,0,17.0,RB,0,0,7,1,0,17,1,117,1,Dolphins,0,2,1,Titans,124,17,12.0,DST,135,2.0,0,259,0,0
+9,2010,11,Chris Johnson,0,0,Redskins,0,0,0,0,0,0,13.0,RB,0,0,6,2,0,21,0,130,0,Redskins,0,1,1,Titans,222,16,9.0,DST,151,1.0,0,373,0,1
+10,2010,12,Chris Johnson,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,2,2,0,7,0,5,1,Texans,0,0,3,Titans,138,0,17.0,DST,24,1.0,0,162,0,0
+11,2010,13,Chris Johnson,0,0,Jaguars,0,0,0,0,0,0,6.0,RB,0,0,14,2,0,13,0,53,0,Jaguars,0,0,2,Titans,163,6,15.0,DST,57,1.0,0,220,0,1
+12,2010,14,Chris Johnson,0,0,Colts,0,0,0,0,0,0,23.0,RB,0,0,68,8,0,22,1,111,0,Colts,0,2,0,Titans,244,28,4.0,DST,121,0.0,0,365,0,1
+13,2010,15,Chris Johnson,0,0,Texans,0,0,0,0,0,0,19.0,RB,0,0,7,1,0,24,1,130,0,Texans,0,0,1,Titans,212,31,5.0,DST,147,3.0,0,359,0,1
+14,2010,16,Chris Johnson,0,0,Chiefs,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,14,0,58,1,Chiefs,0,0,2,Titans,213,14,17.0,DST,57,3.0,0,270,1,0
+15,2010,17,Chris Johnson,0,0,Colts,0,0,0,0,0,0,14.0,RB,0,1,51,6,0,20,0,39,1,Colts,0,1,0,Titans,290,20,7.0,DST,51,1.0,0,341,0,0

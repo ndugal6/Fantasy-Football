@@ -1,0 +1,6 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,9,Jesse James,0,0,Raiders,0,0,0,0,0,0,7.0,TE,0,1,13,2,0,0,0,0,0,Raiders,0,1,1,Steelers,402,38,5.0,DST,195,1.0,0,597,0,1
+1,2015,10,Jesse James,0,0,Browns,0,0,0,0,0,0,0.0,TE,0,0,2,1,0,0,0,0,0,Browns,0,1,1,Steelers,399,30,5.0,DST,60,1.0,0,459,0,1
+2,2015,12,Jesse James,0,0,Seahawks,0,0,0,0,0,0,2.0,TE,1,0,8,1,0,0,0,0,1,Seahawks,0,0,4,Steelers,480,30,10.0,DST,58,2.0,0,538,0,0
+3,2015,13,Jesse James,0,0,Colts,0,0,0,0,0,0,3.0,TE,0,0,30,3,0,0,0,0,0,Colts,0,2,0,Steelers,364,45,4.0,DST,158,0.0,0,522,0,1
+4,2015,16,Jesse James,0,0,Ravens,0,0,0,0,0,0,0.0,TE,0,0,3,1,0,0,0,0,1,Ravens,0,1,2,Steelers,198,17,13.0,DST,110,3.0,0,308,0,0

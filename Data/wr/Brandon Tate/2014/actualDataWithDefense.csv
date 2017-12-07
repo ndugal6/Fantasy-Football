@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Brandon Tate,0,0,Ravens,0,0,0,0,0,0,1.0,WR,0,0,19,4,0,0,0,0,1,Ravens,1,0,0,Bengals,301,23,3.0,DST,79,0.0,0,380,0,0
+1,2014,2,Brandon Tate,0,0,Falcons,0,0,0,0,0,0,5.0,WR,0,0,50,1,0,0,0,0,0,Falcons,0,0,0,Bengals,302,24,1.0,DST,170,0.0,0,472,0,1
+2,2014,3,Brandon Tate,0,0,Titans,0,0,0,0,0,0,1.0,WR,0,0,5,1,0,1,0,12,0,Titans,0,0,1,Bengals,184,33,2.0,DST,116,0.0,0,300,0,1
+3,2014,5,Brandon Tate,0,1,Patriots,0,0,0,0,0,0,-1.0,WR,0,0,0,0,0,1,0,0,1,Patriots,0,3,0,Bengals,241,17,17.0,DST,79,1.0,0,320,1,0
+4,2014,6,Brandon Tate,0,0,Panthers,0,0,0,0,0,0,9.0,WR,0,1,38,4,0,1,0,9,0,Panthers,0,0,2,Bengals,320,37,5.0,DST,193,1.0,0,513,0,1
+5,2014,7,Brandon Tate,0,0,Colts,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,1,Colts,0,0,0,Bengals,103,0,14.0,DST,32,4.0,0,135,0,0
+6,2014,8,Brandon Tate,0,0,Ravens,0,0,0,0,0,0,3.0,WR,0,0,30,2,0,0,0,0,0,Ravens,0,1,1,Bengals,239,27,7.0,DST,111,2.0,0,350,0,1
+7,2014,9,Brandon Tate,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,0,Jaguars,0,0,2,Bengals,232,33,6.0,DST,191,2.0,0,423,0,1
+8,2014,16,Brandon Tate,0,0,Broncos,0,0,0,0,0,0,1.0,WR,0,0,12,1,0,0,0,0,0,Broncos,0,1,1,Bengals,146,37,10.0,DST,207,0.0,0,353,1,1
+9,2014,17,Brandon Tate,0,0,Steelers,0,0,0,0,0,0,2.0,WR,0,0,22,2,0,0,0,0,1,Steelers,0,1,2,Bengals,221,17,19.0,DST,116,3.0,0,337,1,0

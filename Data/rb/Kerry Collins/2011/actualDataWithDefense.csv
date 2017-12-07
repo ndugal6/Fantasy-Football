@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Kerry Collins,0,2,Texans,0,31,16,0,1,197,11.0,QB,0,0,0,0,0,1,0,0,1,Texans,0,2,0,Colts,172,7,20.0,DST,64,3.0,0,236,1,0
+1,2011,2,Kerry Collins,0,1,Browns,0,38,19,1,1,191,10.0,QB,0,0,0,0,0,1,0,-1,0,Browns,0,1,1,Colts,176,19,10.0,DST,109,2.0,0,285,0,1
+2,2011,3,Kerry Collins,0,0,Steelers,0,29,13,0,0,93,3.0,QB,0,0,0,0,0,0,0,0,0,Steelers,0,1,0,Colts,144,20,13.0,DST,97,1.0,0,241,1,1

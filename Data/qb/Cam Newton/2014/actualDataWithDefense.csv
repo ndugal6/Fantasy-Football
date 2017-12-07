@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,2,Cam Newton,0,0,Lions,1,34,22,0,1,281,20.0,QB,0,0,0,0,0,4,0,19,0,Lions,0,0,0,Panthers,251,24,5.0,DST,62,4.0,0,313,0,1
+1,2014,3,Cam Newton,0,1,Steelers,0,35,24,0,1,250,15.0,QB,0,0,0,0,0,2,0,7,0,Steelers,0,2,0,Panthers,307,19,17.0,DST,42,3.0,0,349,1,1
+2,2014,4,Cam Newton,0,0,Ravens,0,25,14,0,1,197,13.0,QB,0,0,0,0,0,2,0,7,1,Ravens,0,1,0,Panthers,248,10,11.0,DST,67,2.0,0,315,0,0
+3,2014,5,Cam Newton,0,1,Bears,0,35,19,1,2,255,19.0,QB,0,0,0,0,0,6,0,9,0,Bears,0,2,1,Panthers,231,31,8.0,DST,91,2.0,0,322,0,1
+4,2014,6,Cam Newton,0,0,Bengals,0,46,29,1,2,284,37.0,QB,0,0,0,0,0,17,1,107,1,Bengals,0,0,1,Panthers,284,37,2.0,DST,147,0.0,0,431,0,0
+5,2014,7,Cam Newton,0,0,Packers,0,31,17,1,1,205,16.0,QB,0,0,0,0,0,7,0,41,1,Packers,0,0,1,Panthers,223,17,9.0,DST,108,3.0,0,331,0,0
+6,2014,8,Cam Newton,0,1,Seahawks,0,22,12,1,0,171,5.0,QB,0,0,0,0,0,12,0,24,0,Seahawks,0,1,1,Panthers,152,9,14.0,DST,114,3.0,0,266,0,1
+7,2014,9,Cam Newton,0,1,Saints,0,28,10,1,0,151,13.0,QB,0,0,0,0,0,7,1,43,0,Saints,0,1,1,Panthers,122,10,15.0,DST,109,4.0,0,231,0,1
+8,2014,10,Cam Newton,0,1,Eagles,0,40,25,3,2,306,17.0,QB,0,0,0,0,0,2,0,6,1,Eagles,0,2,3,Panthers,215,21,32.0,DST,102,9.0,0,317,2,0
+9,2014,11,Cam Newton,0,0,Falcons,0,37,23,2,2,292,22.0,QB,0,0,0,0,0,5,0,30,0,Falcons,1,0,2,Panthers,285,17,12.0,DST,106,2.0,0,391,0,1
+10,2014,14,Cam Newton,0,0,Saints,0,33,21,0,3,226,41.0,QB,0,0,0,0,0,12,1,83,1,Saints,0,0,0,Panthers,226,41,0.0,DST,271,0.0,0,497,0,0
+11,2014,16,Cam Newton,0,0,Browns,0,31,18,1,1,201,24.0,QB,0,0,0,0,0,12,1,63,0,Browns,0,1,1,Panthers,195,17,9.0,DST,209,1.0,0,404,0,1
+12,2014,17,Cam Newton,0,0,Falcons,0,16,10,0,1,114,21.0,QB,0,0,0,0,0,6,1,51,1,Falcons,0,0,0,Panthers,112,34,1.0,DST,194,1.0,0,306,0,0

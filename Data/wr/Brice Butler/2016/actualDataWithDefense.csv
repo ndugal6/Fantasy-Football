@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Brice Butler,0,0,Giants,0,0,0,0,0,0,1.0,WR,0,0,16,1,0,0,0,0,0,Giants,0,0,0,Cowboys,227,19,4.0,DST,101,0.0,0,328,0,1
+1,2016,4,Brice Butler,0,0,49ers,0,0,0,0,0,0,10.0,WR,0,1,41,5,0,0,0,0,1,49ers,0,0,0,Cowboys,234,24,3.0,DST,194,2.0,0,428,0,0
+2,2016,5,Brice Butler,0,0,Bengals,0,0,0,0,0,0,2.0,WR,0,0,20,2,0,0,0,0,0,Bengals,0,1,0,Cowboys,222,28,3.0,DST,180,1.0,0,402,0,1
+3,2016,6,Brice Butler,0,0,Packers,0,0,0,0,0,0,8.0,WR,0,1,20,1,0,0,0,0,1,Packers,0,1,1,Cowboys,233,30,6.0,DST,191,2.0,0,424,0,0
+4,2016,8,Brice Butler,0,0,Eagles,0,0,0,0,0,0,1.0,WR,0,0,19,1,0,0,0,0,0,Eagles,0,0,1,Cowboys,273,29,4.0,DST,187,2.0,0,460,0,1
+5,2016,9,Brice Butler,0,0,Browns,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,1,Browns,0,0,0,Cowboys,255,35,0.0,DST,168,0.0,0,423,0,0
+6,2016,11,Brice Butler,0,0,Ravens,0,0,0,0,0,0,4.0,WR,0,0,49,2,0,0,0,0,0,Ravens,0,0,0,Cowboys,299,27,2.0,DST,118,1.0,0,417,0,1
+7,2016,15,Brice Butler,0,0,Buccaneers,0,0,0,0,0,0,2.0,WR,0,0,21,1,0,0,0,0,0,Buccaneers,0,1,0,Cowboys,264,26,6.0,DST,185,3.0,0,449,0,1
+8,2016,16,Brice Butler,0,0,Lions,0,0,0,0,0,0,8.0,WR,0,1,21,1,0,0,0,0,0,Lions,0,0,0,Cowboys,211,42,1.0,DST,164,1.0,0,375,0,1
+9,2016,17,Brice Butler,0,0,Eagles,0,0,0,0,0,0,0.0,WR,0,0,3,1,0,0,0,0,1,Eagles,1,0,2,Cowboys,126,13,16.0,DST,69,3.0,0,195,0,0

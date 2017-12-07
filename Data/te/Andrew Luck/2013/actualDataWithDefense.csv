@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Andrew Luck,0,0,Raiders,0,23,18,0,2,178,28.0,QB,0,0,0,0,0,6,1,38,0,Raiders,0,0,0,Colts,147,21,5.0,DST,127,4.0,0,274,0,1
+1,2013,2,Andrew Luck,0,0,Dolphins,0,43,25,1,1,321,19.0,QB,0,0,0,0,0,4,0,38,0,Dolphins,0,0,1,Colts,315,20,9.0,DST,133,3.0,0,448,0,1
+2,2013,3,Andrew Luck,0,0,49ers,0,26,17,0,0,159,14.0,QB,0,0,0,0,0,4,1,24,1,49ers,0,0,0,Colts,152,27,2.0,DST,184,1.0,0,336,0,0
+3,2013,4,Andrew Luck,0,0,Jaguars,0,35,21,1,2,257,22.0,QB,0,0,0,0,0,2,0,26,1,Jaguars,0,0,1,Colts,280,37,4.0,DST,157,2.0,0,437,0,0
+4,2013,5,Andrew Luck,0,1,Seahawks,1,29,16,0,2,229,22.0,QB,0,0,0,0,0,4,0,9,0,Seahawks,1,2,0,Colts,208,34,10.0,DST,109,2.0,1,317,0,1
+5,2013,6,Andrew Luck,0,0,Chargers,0,30,18,1,0,202,7.0,QB,0,0,0,0,0,4,0,19,1,Chargers,0,0,1,Colts,193,9,10.0,DST,74,1.0,0,267,0,0
+6,2013,7,Andrew Luck,0,0,Broncos,0,38,21,0,3,228,35.0,QB,0,0,0,0,0,4,1,29,0,Broncos,0,1,0,Colts,213,39,4.0,DST,121,2.0,0,334,0,1
+7,2013,9,Andrew Luck,0,0,Texans,1,40,18,0,3,271,30.0,QB,0,0,0,0,0,0,0,0,1,Texans,1,0,0,Colts,245,27,7.0,DST,69,4.0,0,314,0,0
+8,2013,10,Andrew Luck,0,1,Rams,1,47,29,3,1,353,16.0,QB,0,0,0,0,0,4,0,17,0,Rams,0,1,4,Colts,388,8,32.0,DST,18,3.0,0,406,2,1
+9,2013,11,Andrew Luck,0,0,Titans,0,36,23,0,0,232,18.0,QB,0,0,0,0,0,9,1,31,1,Titans,0,0,0,Colts,229,30,1.0,DST,137,1.0,0,366,0,0
+10,2013,12,Andrew Luck,0,0,Cardinals,1,39,20,1,1,163,15.0,QB,0,0,0,0,0,2,0,31,1,Cardinals,0,0,1,Colts,159,11,16.0,DST,80,1.0,0,239,1,0
+11,2013,13,Andrew Luck,0,0,Titans,0,32,17,1,0,200,10.0,QB,0,0,0,0,0,5,0,42,0,Titans,0,0,1,Colts,160,22,8.0,DST,104,5.0,0,264,0,1
+12,2013,14,Andrew Luck,0,0,Bengals,0,46,29,0,4,326,40.0,QB,0,0,0,0,0,2,0,32,1,Bengals,0,0,0,Colts,326,28,0.0,DST,63,0.0,0,389,0,0
+13,2013,15,Andrew Luck,0,0,Texans,0,32,19,1,2,180,19.0,QB,0,0,0,0,0,5,0,29,0,Texans,0,0,1,Colts,179,25,4.0,DST,152,1.0,0,331,0,1
+14,2013,16,Andrew Luck,0,0,Chiefs,0,37,26,0,1,241,15.0,QB,0,0,0,0,0,6,0,5,1,Chiefs,0,0,0,Colts,232,23,2.0,DST,135,1.0,0,367,0,0
+15,2013,17,Andrew Luck,0,0,Jaguars,0,37,26,0,1,282,17.0,QB,0,0,0,0,0,2,0,7,0,Jaguars,0,0,0,Colts,299,30,1.0,DST,80,1.0,0,379,0,1

@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Devin Funchess,0,0,Jaguars,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,1,Jaguars,1,0,1,Panthers,158,20,10.0,DST,105,2.0,0,263,0,0
+1,2015,2,Devin Funchess,0,0,Texans,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,0,Texans,1,0,1,Panthers,178,24,7.0,DST,172,2.0,0,350,0,1
+2,2015,3,Devin Funchess,0,0,Saints,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Saints,0,0,0,Panthers,312,27,8.0,DST,119,1.0,0,431,1,1
+3,2015,6,Devin Funchess,0,0,Seahawks,0,0,0,0,0,0,2.0,WR,0,0,24,2,0,0,0,0,1,Seahawks,0,0,2,Panthers,248,27,8.0,DST,135,3.0,0,383,0,0
+4,2015,7,Devin Funchess,0,0,Eagles,0,0,0,0,0,0,2.0,WR,0,0,20,1,0,0,0,0,0,Eagles,0,0,3,Panthers,190,27,8.0,DST,204,1.0,0,394,0,1
+5,2015,8,Devin Funchess,0,0,Colts,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,0,Colts,0,2,1,Panthers,239,29,8.0,DST,140,2.0,0,379,0,1
+6,2015,9,Devin Funchess,0,0,Packers,0,0,0,0,0,0,13.0,WR,0,1,71,3,0,0,0,0,0,Packers,0,0,1,Panthers,297,37,2.0,DST,130,0.0,0,427,0,1
+7,2015,10,Devin Funchess,0,0,Titans,0,0,0,0,0,0,4.0,WR,0,0,41,2,0,0,0,0,1,Titans,0,0,0,Panthers,184,27,6.0,DST,119,5.0,0,303,0,0
+8,2015,11,Devin Funchess,0,0,Redskins,0,0,0,0,0,0,12.0,WR,0,1,64,4,0,0,0,0,0,Redskins,0,0,0,Panthers,226,44,10.0,DST,142,2.0,1,368,1,1
+9,2015,12,Devin Funchess,0,0,Cowboys,0,0,0,0,0,0,1.0,WR,0,0,19,2,0,0,0,0,1,Cowboys,1,0,0,Panthers,165,33,3.0,DST,129,1.0,0,294,0,0
+10,2015,13,Devin Funchess,0,0,Saints,0,0,0,0,0,0,7.0,WR,0,1,13,1,0,0,0,0,1,Saints,0,2,1,Panthers,322,41,15.0,DST,175,1.0,0,497,1,0
+11,2015,14,Devin Funchess,0,0,Falcons,0,0,0,0,0,0,2.0,WR,0,0,25,3,0,0,0,0,0,Falcons,0,0,0,Panthers,282,38,2.0,DST,142,2.0,0,424,0,1
+12,2015,15,Devin Funchess,0,0,Giants,0,0,0,0,0,0,9.0,WR,0,1,30,2,0,0,0,0,1,Giants,1,1,0,Panthers,309,38,7.0,DST,171,3.0,0,480,0,0
+13,2015,17,Devin Funchess,0,1,Buccaneers,0,0,0,0,0,0,17.0,WR,0,1,120,7,0,0,0,0,0,Buccaneers,0,2,0,Panthers,255,38,8.0,DST,111,4.0,0,366,0,1

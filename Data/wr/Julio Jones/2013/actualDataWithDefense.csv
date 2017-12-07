@@ -1,0 +1,6 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Julio Jones,0,1,Saints,0,0,0,0,0,0,12.0,WR,0,1,76,7,0,0,0,0,1,Saints,0,1,1,Falcons,279,17,11.0,DST,88,3.0,0,367,0,0
+1,2013,2,Julio Jones,0,0,Rams,0,0,0,0,0,0,24.0,WR,0,1,182,11,0,0,0,0,0,Rams,0,0,0,Falcons,357,31,2.0,DST,36,2.0,0,393,0,1
+2,2013,3,Julio Jones,0,0,Dolphins,0,0,0,0,0,0,11.0,WR,0,0,115,9,0,1,0,7,1,Dolphins,0,1,1,Falcons,231,23,5.0,DST,146,0.0,0,377,0,0
+3,2013,4,Julio Jones,0,0,Patriots,0,0,0,0,0,0,10.0,WR,0,0,108,6,0,0,0,0,0,Patriots,0,0,1,Falcons,399,23,5.0,DST,58,2.0,0,457,0,1
+4,2013,5,Julio Jones,0,0,Jets,0,0,0,0,0,0,9.0,WR,0,0,99,8,0,0,0,0,0,Jets,0,1,0,Falcons,299,28,4.0,DST,64,2.0,0,363,0,1

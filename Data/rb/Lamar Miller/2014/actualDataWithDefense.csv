@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Lamar Miller,0,1,Patriots,0,0,0,0,0,0,11.0,RB,0,1,19,4,0,11,0,59,0,Patriots,0,2,1,Dolphins,169,33,7.0,DST,191,1.0,0,360,0,1
+1,2014,2,Lamar Miller,0,0,Bills,0,0,0,0,0,0,4.0,RB,0,0,7,2,0,11,0,46,1,Bills,1,1,1,Dolphins,210,10,23.0,DST,80,4.0,0,290,1,0
+2,2014,3,Lamar Miller,0,0,Chiefs,0,0,0,0,0,0,12.0,RB,0,0,24,4,0,15,0,108,0,Chiefs,0,0,0,Dolphins,191,15,8.0,DST,141,4.0,0,332,0,1
+3,2014,4,Lamar Miller,0,1,Raiders,0,0,0,0,0,0,17.0,RB,0,0,3,2,0,12,2,64,1,Raiders,0,2,1,Dolphins,278,38,6.0,DST,157,0.0,0,435,0,0
+4,2014,6,Lamar Miller,0,1,Packers,0,0,0,0,0,0,14.0,RB,0,0,40,3,0,14,1,53,0,Packers,0,1,2,Dolphins,237,24,8.0,DST,112,1.0,0,349,0,1
+5,2014,7,Lamar Miller,0,0,Bears,0,0,0,0,0,0,14.0,RB,0,0,22,2,0,18,1,61,1,Bears,1,0,0,Dolphins,256,27,7.0,DST,137,4.0,0,393,0,0
+6,2014,8,Lamar Miller,0,0,Jaguars,0,0,0,0,0,0,9.0,RB,0,0,21,3,0,14,0,78,1,Jaguars,0,0,1,Dolphins,178,27,6.0,DST,148,3.0,0,326,0,0
+7,2014,9,Lamar Miller,0,0,Chargers,0,0,0,0,0,0,10.0,RB,0,0,8,1,0,11,1,49,0,Chargers,0,0,0,Dolphins,309,37,0.0,DST,132,0.0,0,441,0,1
+8,2014,10,Lamar Miller,0,0,Lions,0,0,0,0,0,0,1.0,RB,0,0,-4,1,0,4,0,10,1,Lions,0,1,1,Dolphins,178,16,11.0,DST,50,3.0,0,228,0,0
+9,2014,11,Lamar Miller,0,0,Bills,0,0,0,0,0,0,9.0,RB,0,0,12,2,0,15,0,86,0,Bills,0,2,0,Dolphins,205,22,10.0,DST,125,5.0,0,330,0,1
+10,2014,12,Lamar Miller,0,0,Broncos,0,0,0,0,0,0,5.0,RB,0,0,8,1,0,12,0,59,1,Broncos,0,0,1,Dolphins,216,36,3.0,DST,97,1.0,0,313,0,0
+11,2014,13,Lamar Miller,0,0,Jets,0,0,0,0,0,0,12.0,RB,0,0,11,2,0,13,1,56,1,Jets,0,0,1,Dolphins,217,16,8.0,DST,74,2.0,0,291,0,0
+12,2014,14,Lamar Miller,0,0,Ravens,0,0,0,0,0,0,8.0,RB,0,0,36,5,0,12,0,53,0,Ravens,0,0,0,Dolphins,186,13,13.0,DST,63,6.0,0,249,0,1
+13,2014,15,Lamar Miller,0,0,Patriots,0,0,0,0,0,0,5.0,RB,0,0,10,1,0,16,0,47,1,Patriots,1,0,2,Dolphins,308,13,23.0,DST,76,4.0,0,384,1,0
+14,2014,17,Lamar Miller,0,0,Jets,0,0,0,0,0,0,23.0,RB,0,0,0,0,0,19,1,178,0,Jets,0,1,0,Dolphins,208,24,10.0,DST,179,7.0,0,387,0,1

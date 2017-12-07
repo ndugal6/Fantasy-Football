@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,7,Matt Barkley,0,0,Cowboys,0,20,11,3,0,129,-1.0,QB,0,0,0,0,0,0,0,0,0,Cowboys,0,0,3,Eagles,194,3,19.0,DST,84,3.0,0,278,0,1
+1,2013,8,Matt Barkley,0,1,Giants,0,26,17,1,0,158,3.0,QB,0,0,0,0,0,0,0,0,0,Giants,0,1,2,Eagles,152,7,17.0,DST,48,4.0,0,200,0,1
+2,2013,9,Matt Barkley,0,0,Raiders,0,3,2,0,0,13,0.0,QB,0,0,0,0,0,2,0,-2,1,Raiders,0,0,0,Eagles,418,49,1.0,DST,124,1.0,0,542,0,0

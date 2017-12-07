@@ -4,21 +4,22 @@ import pandas as pd
 import os
 
 def main():
-    supaData()
-    combineData()
+    # supaData()
+    # combineData()
 
-    positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
+    # positions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
+    positions = ['DST']
     for pos in positions:
-        for year in range(2010, 2017):
+        for year in range(2017, 2018):
             inmates_list = []
-            for i in range(1, 18):
+            for i in range(1, 14):
                 getDatar(i, str(year), pos, inmates_list)
             # After building up a dictionary with data for a position
             # through a year for all weeks, we create a dataframe using pandas
             df = pd.DataFrame(inmates_list)
             # we can export this data to any format your heart desires. I've like csv for this
             df.to_csv(
-                "~/desktop/new-fantasyfootballdata/" + str(pos) + '_' + str(year) + '_' + "FantasyFootballData.csv")
+                "~/documents/fantasy-football/data/new2017" + str(pos) + '_' + str(year) + '_' + "FantasyFootballData.csv")
 
     print("head\n", df.head());
     print("\nShape\n", df.shape)
@@ -147,7 +148,7 @@ def getDatar(week, year, position, inmates_list):
 def combineData():
     positions = ['RB']
     for i in range(2010, 2017):
-        os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/')
+        os.chdir('/Users/nickdugal/Documents/Fantasy-Football/data/new2017')
         for pos in positions:
             os.chdir(pos)
             frames = []
@@ -165,13 +166,13 @@ def combineData():
                 a.drop('Unnamed: 0', axis=1, inplace=True)
             except: pass
             print(pos, '\n', a.head())
-            a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/squared/AllYears/' + pos + 'AllYears.csv')
-            os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared')
+            a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/new2017/' + pos + 'AllYears.csv')
+            os.chdir('/Users/nickdugal/Documents/Fantasy-Football/new2017')
 
 def supaData():
     files = ['qbScaled_Squared.csv', 'rbScaled_Squared.csv', 'wrScaled_Squared.csv', 'teScaled_Squared.csv']
 
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared/scaled/')
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/new2017')
     frames = []
     for file in files:
         frames.append(pd.read_csv(file))
@@ -184,7 +185,7 @@ def supaData():
         a.drop('Unnamed: 0', axis=1, inplace=True)
     except:
         pass
-    a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/squared/scaled/AllPositionsScaledAllYears.csv', index=None)
-    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/squared')
+    a.to_csv('/Users/nickdugal/Documents/Fantasy-Football/new2017/AllPositions.csv', index=None)
+    os.chdir('/Users/nickdugal/Documents/Fantasy-Football/new2017')
 
 if __name__ == "__main__": main()

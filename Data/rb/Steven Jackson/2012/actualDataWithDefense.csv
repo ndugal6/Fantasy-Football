@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Steven Jackson,0,0,Lions,0,0,0,0,0,0,8.0,RB,0,0,31,4,0,21,0,53,1,Lions,0,0,0,Rams,173,23,5.0,DST,77,4.0,0,250,0,0
+1,2012,2,Steven Jackson,0,0,Redskins,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,9,0,58,0,Redskins,0,2,1,Rams,301,31,14.0,DST,151,2.0,0,452,1,1
+2,2012,3,Steven Jackson,0,0,Bears,0,0,0,0,0,0,2.0,RB,0,0,5,2,0,11,0,29,1,Bears,0,0,2,Rams,101,6,26.0,DST,59,6.0,0,160,1,0
+3,2012,4,Steven Jackson,0,0,Seahawks,0,0,0,0,0,0,6.0,RB,0,0,12,1,0,18,0,55,0,Seahawks,0,0,1,Rams,211,19,8.0,DST,75,2.0,0,286,0,1
+4,2012,5,Steven Jackson,0,0,Cardinals,0,0,0,0,0,0,7.0,RB,0,0,0,0,0,18,0,76,0,Cardinals,0,0,1,Rams,131,17,7.0,DST,111,1.0,0,242,0,1
+5,2012,6,Steven Jackson,0,0,Dolphins,0,0,0,0,0,0,9.0,RB,1,0,28,3,0,12,0,52,1,Dolphins,0,1,0,Rams,300,14,9.0,DST,162,3.0,0,462,0,0
+6,2012,7,Steven Jackson,0,0,Packers,0,0,0,0,0,0,11.0,RB,0,0,0,0,0,12,1,57,0,Packers,0,0,1,Rams,246,20,9.0,DST,108,3.0,0,354,0,1
+7,2012,8,Steven Jackson,0,0,Patriots,0,0,0,0,0,0,4.0,RB,0,0,22,2,0,8,0,26,0,Patriots,0,0,2,Rams,219,7,13.0,DST,107,2.0,0,326,0,1
+8,2012,10,Steven Jackson,0,0,49ers,0,0,0,0,0,0,18.0,RB,0,0,26,2,0,29,1,101,1,49ers,0,1,0,Rams,299,24,5.0,DST,159,2.0,0,458,0,0
+9,2012,11,Steven Jackson,0,0,Jets,0,0,0,0,0,0,8.0,RB,0,0,5,2,0,13,0,81,0,Jets,0,2,1,Rams,167,13,14.0,DST,114,1.0,0,281,0,1
+10,2012,12,Steven Jackson,0,0,Cardinals,0,0,0,0,0,0,13.0,RB,0,0,0,0,0,24,0,139,1,Cardinals,0,0,1,Rams,194,31,4.0,DST,173,2.0,0,367,0,0
+11,2012,13,Steven Jackson,0,0,49ers,0,0,0,0,0,0,10.0,RB,0,0,69,5,0,21,0,48,0,49ers,0,0,0,Rams,208,16,6.0,DST,85,2.0,0,293,0,1
+12,2012,14,Steven Jackson,0,0,Bills,0,0,0,0,0,0,12.0,RB,0,0,9,1,0,19,1,64,1,Bills,0,0,1,Rams,207,15,7.0,DST,78,1.0,0,285,0,0
+13,2012,16,Steven Jackson,0,0,Buccaneers,0,0,0,0,0,0,14.0,RB,0,0,-4,1,0,19,1,81,1,Buccaneers,0,1,1,Rams,196,28,4.0,DST,89,0.0,0,285,0,0
+14,2012,17,Steven Jackson,0,0,Seahawks,0,0,0,0,0,0,9.0,RB,0,0,45,7,0,11,0,52,1,Seahawks,0,0,1,Rams,252,13,9.0,DST,79,0.0,0,331,0,0

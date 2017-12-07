@@ -1,0 +1,9 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,7,MyCole Pruitt,0,0,Lions,0,0,0,0,0,0,1.0,TE,0,0,13,1,0,0,0,0,1,Lions,0,1,0,Min,285,28,8.0,DST,140,4.0,1,425,0,0
+1,2015,8,MyCole Pruitt,0,0,Bears,0,0,0,0,0,0,1.0,TE,0,0,15,2,0,0,0,0,1,Bears,0,0,1,Min,180,23,4.0,DST,147,1.0,0,327,0,0
+2,2015,9,MyCole Pruitt,0,0,Rams,0,0,0,0,0,0,0.0,TE,0,0,6,1,0,0,0,0,0,Rams,0,0,1,Min,148,21,4.0,DST,145,1.0,0,293,0,1
+3,2015,10,MyCole Pruitt,0,0,Raiders,0,0,0,0,0,0,0.0,TE,0,0,7,2,0,0,0,0,1,Raiders,1,0,0,Min,122,30,6.0,DST,263,4.0,0,385,0,0
+4,2015,11,MyCole Pruitt,0,0,Packers,0,0,0,0,0,0,0.0,TE,0,0,8,1,0,0,0,0,0,Packers,0,1,0,Min,248,13,15.0,DST,94,6.0,0,342,0,1
+5,2015,13,MyCole Pruitt,0,0,Seahawks,0,0,0,0,0,0,0.0,TE,0,0,4,1,0,0,0,0,0,Seahawks,0,0,1,Min,94,7,13.0,DST,31,4.0,0,125,0,1
+6,2015,14,MyCole Pruitt,0,0,Cardinals,0,0,0,0,0,0,3.0,TE,0,0,36,2,0,0,0,0,1,Cardinals,0,3,0,Min,317,20,13.0,DST,72,3.0,0,389,0,0
+7,2016,4,MyCole Pruitt,0,0,Giants,0,0,0,0,0,0,0.0,TE,0,0,7,1,0,0,0,0,0,Giants,0,0,0,Min,262,24,1.0,DST,104,0.0,0,366,0,1

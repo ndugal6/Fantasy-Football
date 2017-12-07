@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,2,Calvin Johnson,0,0,Cardinals,0,0,0,0,0,0,23.0,WR,0,2,116,6,0,0,0,0,1,Cardinals,1,1,0,Lions,273,21,6.0,DST,49,1.0,0,322,0,0
+1,2013,3,Calvin Johnson,0,0,Redskins,0,0,0,0,0,0,17.0,WR,0,1,115,7,0,0,0,0,1,Redskins,0,0,1,Lions,378,27,10.0,DST,63,1.0,0,441,1,0
+2,2013,4,Calvin Johnson,0,0,Bears,0,0,0,0,0,0,10.0,WR,0,1,44,4,0,0,0,0,0,Bears,0,2,1,Lions,228,40,7.0,DST,159,1.0,0,387,0,1
+3,2013,6,Calvin Johnson,0,0,Browns,0,0,0,0,0,0,2.0,WR,0,0,25,3,0,0,0,0,1,Browns,0,0,1,Lions,248,31,3.0,DST,118,1.0,0,366,0,0
+4,2013,7,Calvin Johnson,0,0,Bengals,0,0,0,0,0,0,27.0,WR,0,2,155,9,0,0,0,0,0,Bengals,1,0,0,Lions,357,24,3.0,DST,77,0.0,0,434,0,1
+5,2013,8,Calvin Johnson,0,1,Cowboys,0,0,0,0,0,0,37.0,WR,0,1,329,14,0,0,0,0,0,Cowboys,0,2,2,Lions,480,31,9.0,DST,143,1.0,0,623,0,1
+6,2013,10,Calvin Johnson,0,0,Bears,0,0,0,0,0,0,20.0,WR,0,2,83,6,0,0,0,0,1,Bears,0,0,1,Lions,219,21,3.0,DST,145,0.0,0,364,0,0
+7,2013,11,Calvin Johnson,0,0,Steelers,0,0,0,0,0,0,29.0,WR,0,2,179,6,0,0,0,0,1,Steelers,0,2,1,Lions,344,27,9.0,DST,107,2.0,0,451,0,0
+8,2013,12,Calvin Johnson,0,0,Buccaneers,0,0,0,0,0,0,11.0,WR,0,0,115,7,0,0,0,0,0,Buccaneers,1,1,4,Lions,286,21,21.0,DST,104,2.0,0,390,1,1
+9,2013,13,Calvin Johnson,0,0,Packers,0,0,0,0,0,0,16.0,WR,0,1,101,6,0,0,0,0,0,Packers,0,2,2,Lions,320,40,15.0,DST,241,1.0,0,561,1,1
+10,2013,14,Calvin Johnson,0,0,Eagles,0,0,0,0,0,0,5.0,WR,0,0,52,3,0,0,0,0,1,Eagles,1,3,0,Lions,151,20,12.0,DST,80,0.0,0,231,0,0
+11,2013,15,Calvin Johnson,0,0,Ravens,0,0,0,0,0,0,9.0,WR,0,0,98,6,0,0,0,0,0,Ravens,0,0,3,Lions,230,16,11.0,DST,119,1.0,0,349,0,1
+12,2013,16,Calvin Johnson,0,0,Giants,0,0,0,0,0,0,4.0,WR,0,0,43,3,0,0,0,0,0,Giants,0,1,2,Lions,207,20,18.0,DST,148,2.0,0,355,1,1

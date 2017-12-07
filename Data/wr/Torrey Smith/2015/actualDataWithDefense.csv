@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,2,Torrey Smith,0,0,Steelers,0,0,0,0,0,0,20.0,WR,1,1,120,6,0,0,0,0,1,Steelers,0,1,0,49ers,298,18,11.0,DST,111,5.0,0,409,0,0
+1,2015,4,Torrey Smith,0,0,Packers,0,0,0,0,0,0,5.0,WR,0,0,54,2,0,0,0,0,0,Packers,0,0,1,49ers,119,3,18.0,DST,77,6.0,0,196,0,1
+2,2015,5,Torrey Smith,0,0,Giants,0,0,0,0,0,0,4.0,WR,0,0,42,2,0,0,0,0,1,Giants,0,0,0,49ers,256,27,3.0,DST,124,2.0,0,380,0,0
+3,2015,6,Torrey Smith,0,0,Ravens,0,0,0,0,0,0,15.0,WR,0,1,96,3,0,0,0,0,0,Ravens,0,0,0,49ers,326,25,4.0,DST,65,3.0,0,391,0,1
+4,2015,8,Torrey Smith,0,0,Rams,0,0,0,0,0,0,1.0,WR,0,0,19,2,0,0,0,0,1,Rams,0,0,0,49ers,151,6,15.0,DST,38,3.0,1,189,0,0
+5,2015,9,Torrey Smith,0,0,Falcons,0,0,0,0,0,0,4.0,WR,0,0,44,2,0,0,0,0,0,Falcons,0,0,2,49ers,185,17,8.0,DST,133,0.0,0,318,0,1
+6,2015,11,Torrey Smith,0,0,Seahawks,0,0,0,0,0,0,1.0,WR,0,0,16,1,0,0,0,0,1,Seahawks,0,0,0,49ers,247,13,9.0,DST,59,2.0,0,306,0,0
+7,2015,12,Torrey Smith,0,0,Cardinals,0,0,0,0,0,0,5.0,WR,0,0,51,2,0,0,0,0,0,Cardinals,0,1,1,49ers,301,13,13.0,DST,67,2.0,0,368,0,1
+8,2015,13,Torrey Smith,0,0,Bears,0,0,0,0,0,0,13.0,WR,0,1,76,2,0,0,0,0,1,Bears,1,0,0,49ers,170,26,7.0,DST,121,4.0,0,291,0,0
+9,2015,14,Torrey Smith,0,0,Browns,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,0,0,0,1,Browns,0,0,0,49ers,150,10,16.0,DST,71,9.0,0,221,0,0
+10,2015,15,Torrey Smith,0,0,Bengals,0,0,0,0,0,0,3.0,WR,0,0,33,2,0,0,0,0,0,Bengals,1,1,3,49ers,263,14,18.0,DST,55,4.0,0,318,0,1
+11,2015,16,Torrey Smith,0,0,Lions,0,0,0,0,0,0,8.0,WR,0,1,23,2,0,0,0,0,1,Lions,0,1,0,49ers,201,17,9.0,DST,121,3.0,0,322,0,0
+12,2015,17,Torrey Smith,0,0,Rams,0,0,0,0,0,0,6.0,WR,0,0,61,5,0,0,0,0,0,Rams,0,0,1,49ers,350,19,7.0,DST,108,1.0,0,458,0,1

@@ -1,0 +1,8 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Andy Janovich,0,0,Panthers,0,0,0,0,0,0,8.0,RB,0,0,0,0,0,1,1,28,0,Panthers,0,1,2,Broncos,159,21,9.0,DST,148,2.0,0,307,0,1
+1,2016,2,Andy Janovich,0,0,Colts,0,0,0,0,0,0,1.0,RB,0,0,11,1,0,0,0,0,0,Colts,0,0,1,Broncos,266,34,3.0,DST,134,1.0,0,400,0,1
+2,2016,3,Andy Janovich,0,0,Bengals,0,0,0,0,0,0,1.0,RB,0,0,13,1,0,1,0,2,1,Bengals,1,1,0,Broncos,303,29,6.0,DST,52,2.0,0,355,0,0
+3,2016,5,Andy Janovich,0,0,Falcons,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,2,0,Falcons,0,0,1,Broncos,183,16,12.0,DST,84,6.0,0,267,0,1
+4,2016,7,Andy Janovich,0,0,Texans,0,0,0,0,0,0,1.0,RB,0,0,12,1,0,1,0,1,0,Texans,0,0,0,Broncos,157,27,1.0,DST,190,0.0,0,347,0,1
+5,2016,10,Andy Janovich,0,0,Saints,0,0,0,0,0,0,0.0,RB,0,0,9,1,0,0,0,0,1,Saints,0,0,2,Broncos,234,25,11.0,DST,103,6.0,0,337,0,0
+6,2016,12,Andy Janovich,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,-1,1,0,0,0,0,0,Chiefs,0,1,0,Broncos,340,27,16.0,DST,124,5.0,1,464,1,1

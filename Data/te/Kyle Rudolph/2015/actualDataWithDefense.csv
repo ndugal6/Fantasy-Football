@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Kyle Rudolph,0,0,49ers,0,0,0,0,0,0,5.0,TE,0,0,53,5,0,0,0,0,1,49ers,0,0,1,Min,177,3,17.0,DST,71,5.0,0,248,0,0
+1,2015,2,Kyle Rudolph,0,0,Lions,0,0,0,0,0,0,9.0,TE,0,1,30,5,0,0,0,0,0,Lions,0,1,0,Min,151,26,4.0,DST,199,1.0,0,350,0,1
+2,2015,3,Kyle Rudolph,0,0,Chargers,0,0,0,0,0,0,1.0,TE,0,0,14,2,0,0,0,0,0,Chargers,0,0,1,Min,121,31,2.0,DST,163,0.0,0,284,0,1
+3,2015,4,Kyle Rudolph,0,0,Broncos,0,0,0,0,0,0,0.0,TE,0,0,7,2,0,0,0,0,1,Broncos,0,1,0,Min,212,20,13.0,DST,113,7.0,0,325,0,0
+4,2015,6,Kyle Rudolph,0,0,Chiefs,0,0,0,0,0,0,6.0,TE,0,1,9,2,0,0,0,0,0,Chiefs,0,0,2,Min,237,16,10.0,DST,84,2.0,0,321,0,1
+5,2015,7,Kyle Rudolph,0,0,Lions,0,0,0,0,0,0,7.0,TE,0,1,10,2,0,0,0,0,1,Lions,0,1,0,Min,285,28,8.0,DST,140,4.0,1,425,0,0
+6,2015,8,Kyle Rudolph,0,0,Bears,0,0,0,0,0,0,2.0,TE,0,0,22,2,0,0,0,0,1,Bears,0,0,1,Min,180,23,4.0,DST,147,1.0,0,327,0,0
+7,2015,9,Kyle Rudolph,0,0,Rams,0,0,0,0,0,0,3.0,TE,0,0,30,2,0,0,0,0,0,Rams,0,0,1,Min,148,21,4.0,DST,145,1.0,0,293,0,1
+8,2015,10,Kyle Rudolph,0,0,Raiders,0,0,0,0,0,0,0.0,TE,0,0,7,1,0,0,0,0,1,Raiders,1,0,0,Min,122,30,6.0,DST,263,4.0,0,385,0,0
+9,2015,11,Kyle Rudolph,0,0,Packers,0,0,0,0,0,0,16.0,TE,0,1,106,6,0,0,0,0,0,Packers,0,1,0,Min,248,13,15.0,DST,94,6.0,0,342,0,1
+10,2015,12,Kyle Rudolph,0,0,Falcons,0,0,0,0,0,0,5.0,TE,0,0,53,7,0,0,0,0,1,Falcons,0,0,1,Min,174,20,6.0,DST,191,0.0,0,365,0,0
+11,2015,13,Kyle Rudolph,0,0,Seahawks,0,0,0,0,0,0,1.0,TE,0,0,13,3,0,0,0,0,0,Seahawks,0,0,1,Min,94,7,13.0,DST,31,4.0,0,125,0,1
+12,2015,14,Kyle Rudolph,0,0,Cardinals,0,0,0,0,0,0,6.0,TE,0,0,67,6,0,0,0,0,1,Cardinals,0,3,0,Min,317,20,13.0,DST,72,3.0,0,389,0,0
+13,2015,15,Kyle Rudolph,0,0,Bears,0,0,0,0,0,0,2.0,TE,0,0,21,2,0,0,0,0,0,Bears,0,0,0,Min,221,38,1.0,DST,129,1.0,0,350,0,1
+14,2015,16,Kyle Rudolph,0,0,Giants,0,0,0,0,0,0,11.0,TE,0,1,53,2,0,0,0,0,0,Giants,0,0,0,Min,150,49,3.0,DST,218,3.0,0,368,0,1

@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Dwayne Bowe,0,0,Chargers,0,0,0,0,0,0,1.0,WR,0,0,13,1,0,0,0,0,0,Chargers,0,0,0,Chiefs,62,21,2.0,DST,135,1.0,0,197,0,1
+1,2010,2,Dwayne Bowe,0,0,Browns,0,0,0,0,0,0,4.0,WR,0,0,45,4,0,0,0,0,1,Browns,0,0,2,Chiefs,172,16,9.0,DST,140,1.0,0,312,0,0
+2,2010,3,Dwayne Bowe,0,0,49ers,0,0,0,0,0,0,12.0,WR,0,1,61,2,0,0,0,0,0,49ers,0,0,1,Chiefs,250,31,2.0,DST,207,0.0,0,457,0,1
+3,2010,5,Dwayne Bowe,0,0,Colts,0,0,0,0,0,0,3.0,WR,0,0,33,2,0,0,0,0,1,Colts,0,1,0,Chiefs,148,9,10.0,DST,113,1.0,0,261,0,0
+4,2010,6,Dwayne Bowe,0,0,Texans,0,0,0,0,0,0,22.0,WR,0,2,108,6,0,0,0,0,1,Texans,0,0,0,Chiefs,189,31,1.0,DST,228,1.0,0,417,0,0
+5,2010,7,Dwayne Bowe,0,0,Jaguars,0,0,0,0,0,0,20.0,WR,0,2,81,3,0,0,0,0,0,Jaguars,0,0,0,Chiefs,190,42,1.0,DST,236,1.0,0,426,0,1
+6,2010,8,Dwayne Bowe,0,0,Bills,0,0,0,0,0,0,7.0,WR,0,1,16,3,0,1,0,4,0,Bills,0,0,0,Chiefs,140,13,10.0,DST,274,3.0,0,414,0,1
+7,2010,9,Dwayne Bowe,0,0,Raiders,0,0,0,0,0,0,12.0,WR,0,1,63,5,0,0,0,0,1,Raiders,0,1,1,Chiefs,200,20,17.0,DST,104,3.0,0,304,1,0
+8,2010,10,Dwayne Bowe,0,0,Broncos,0,0,0,0,0,0,30.0,WR,0,2,186,13,0,0,0,0,1,Broncos,0,1,0,Chiefs,433,29,12.0,DST,51,4.0,0,484,1,0
+9,2010,11,Dwayne Bowe,0,0,Cardinals,0,0,0,0,0,0,22.0,WR,0,2,109,6,0,0,0,0,0,Cardinals,0,0,0,Chiefs,193,31,0.0,DST,159,0.0,0,352,0,1
+10,2010,12,Dwayne Bowe,0,0,Seahawks,0,0,0,0,0,0,35.0,WR,0,3,170,13,0,0,0,0,1,Seahawks,2,1,0,Chiefs,233,42,12.0,DST,270,0.0,0,503,1,0
+11,2010,14,Dwayne Bowe,0,0,Chargers,0,0,0,0,0,0,0.0,WR,0,0,3,1,0,0,0,0,1,Chargers,0,0,0,Chiefs,19,0,14.0,DST,48,4.0,0,67,0,0
+12,2010,15,Dwayne Bowe,0,0,Rams,0,0,0,0,0,0,5.0,WR,0,0,53,2,0,0,0,0,1,Rams,0,0,1,Chiefs,173,27,6.0,DST,210,3.0,0,383,0,0
+13,2010,16,Dwayne Bowe,0,0,Titans,0,0,0,0,0,0,21.0,WR,0,1,153,6,0,0,0,0,0,Titans,0,1,1,Chiefs,306,34,5.0,DST,152,1.0,0,458,0,1
+14,2010,17,Dwayne Bowe,0,0,Raiders,0,0,0,0,0,0,6.0,WR,0,0,68,5,0,0,0,0,0,Raiders,0,0,2,Chiefs,86,10,24.0,DST,115,7.0,0,201,1,1

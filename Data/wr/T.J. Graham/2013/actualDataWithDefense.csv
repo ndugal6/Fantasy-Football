@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,T.J. Graham,0,0,Patriots,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,5,0,Patriots,0,2,0,Bills,150,21,5.0,DST,136,0.0,0,286,0,1
+1,2013,2,T.J. Graham,0,0,Panthers,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,0,Panthers,0,1,1,Bills,287,24,6.0,DST,149,1.0,0,436,0,1
+2,2013,3,T.J. Graham,0,0,Jets,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,1,Jets,0,0,0,Bills,208,20,12.0,DST,120,8.0,0,328,0,0
+3,2013,4,T.J. Graham,0,0,Ravens,0,0,0,0,0,0,4.0,WR,0,0,32,2,0,1,0,14,0,Ravens,0,1,2,Bills,147,23,9.0,DST,203,2.0,0,350,0,1
+4,2013,5,T.J. Graham,0,0,Browns,0,0,0,0,0,0,2.0,WR,0,0,21,2,0,0,0,0,1,Browns,0,0,1,Bills,188,24,19.0,DST,155,4.0,0,343,2,0
+5,2013,6,T.J. Graham,0,0,Bengals,0,0,0,0,0,0,7.0,WR,0,0,74,4,0,0,0,0,0,Bengals,0,1,0,Bills,192,24,8.0,DST,130,5.0,0,322,0,1
+6,2013,7,T.J. Graham,0,0,Dolphins,0,0,0,0,0,0,3.0,WR,0,0,36,2,0,0,0,0,1,Dolphins,0,0,1,Bills,178,23,7.0,DST,90,4.0,0,268,0,0
+7,2013,8,T.J. Graham,0,0,Saints,0,0,0,0,0,0,1.0,WR,0,0,19,2,0,0,0,0,1,Saints,0,2,1,Bills,211,17,14.0,DST,88,4.0,0,299,0,0
+8,2013,9,T.J. Graham,0,1,Chiefs,0,0,0,0,0,0,-1.0,WR,0,0,-2,1,0,0,0,0,0,Chiefs,0,1,2,Bills,229,13,25.0,DST,241,0.0,0,470,2,1
+9,2013,10,T.J. Graham,0,0,Steelers,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,1,Steelers,0,0,1,Bills,132,10,12.0,DST,95,3.0,0,227,0,0
+10,2013,11,T.J. Graham,0,0,Jets,0,0,0,0,0,0,13.0,WR,0,1,74,2,0,1,0,-3,0,Jets,0,0,0,Bills,245,37,1.0,DST,68,1.0,0,313,0,1
+11,2013,16,T.J. Graham,0,0,Dolphins,0,0,0,0,0,0,2.0,WR,0,0,27,2,0,1,0,-2,0,Dolphins,0,0,1,Bills,187,19,7.0,DST,203,1.0,0,390,0,1
+12,2013,17,T.J. Graham,0,0,Patriots,0,0,0,0,0,0,12.0,WR,0,1,62,3,0,0,0,0,1,Patriots,0,0,0,Bills,224,20,8.0,DST,169,4.0,0,393,0,0

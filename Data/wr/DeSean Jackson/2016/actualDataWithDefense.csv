@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,DeSean Jackson,0,0,Steelers,0,0,0,0,0,0,10.0,WR,0,0,102,6,0,0,0,0,0,Steelers,0,0,2,Redskins,329,16,8.0,DST,55,0.0,0,384,0,1
+1,2016,2,DeSean Jackson,0,0,Cowboys,0,0,0,0,0,0,4.0,WR,0,0,40,3,0,0,0,0,0,Cowboys,0,0,1,Redskins,350,23,5.0,DST,82,2.0,0,432,0,1
+2,2016,3,DeSean Jackson,0,0,Giants,0,0,0,0,0,0,15.0,WR,0,1,96,5,0,0,0,0,1,Giants,0,1,0,Redskins,313,29,4.0,DST,90,2.0,0,403,0,0
+3,2016,4,DeSean Jackson,0,0,Browns,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,0,Browns,0,0,1,Redskins,156,31,5.0,DST,145,3.0,0,301,0,1
+4,2016,5,DeSean Jackson,0,0,Ravens,0,0,0,0,0,0,3.0,WR,0,0,35,3,0,0,0,0,1,Ravens,0,1,1,Redskins,250,16,9.0,DST,60,1.0,0,310,0,0
+5,2016,6,DeSean Jackson,0,0,Eagles,0,0,0,0,0,0,5.0,WR,0,0,55,4,0,0,0,0,0,Eagles,0,0,1,Redskins,263,27,15.0,DST,230,0.0,0,493,2,1
+6,2016,7,DeSean Jackson,0,0,Lions,0,0,0,0,0,0,3.0,WR,0,0,35,5,0,0,0,0,1,Lions,0,2,0,Redskins,283,17,10.0,DST,130,2.0,0,413,0,0
+7,2016,8,DeSean Jackson,0,0,Bengals,0,0,0,0,0,0,4.0,WR,0,0,48,3,0,0,0,0,1,Bengals,0,0,1,Redskins,446,27,4.0,DST,100,1.0,0,546,0,0
+8,2016,11,DeSean Jackson,0,0,Packers,0,0,0,0,0,0,11.0,WR,0,1,51,4,0,0,0,0,0,Packers,0,0,0,Redskins,364,42,2.0,DST,151,2.0,0,515,0,1
+9,2016,12,DeSean Jackson,0,0,Cowboys,0,0,0,0,0,0,17.0,WR,0,1,118,4,0,0,0,0,1,Cowboys,0,0,0,Redskins,449,26,1.0,DST,56,0.0,0,505,0,0
+10,2016,13,DeSean Jackson,0,0,Cardinals,0,0,0,0,0,0,5.0,WR,0,0,59,1,0,0,0,0,1,Cardinals,0,1,1,Redskins,246,23,7.0,DST,87,2.0,0,333,0,0
+11,2016,14,DeSean Jackson,0,0,Eagles,0,0,0,0,0,0,16.0,WR,0,1,102,3,0,0,0,0,1,Eagles,0,0,1,Redskins,227,27,11.0,DST,107,2.0,0,334,1,0
+12,2016,15,DeSean Jackson,0,0,Panthers,0,0,0,0,0,0,11.0,WR,0,0,111,7,0,0,0,0,0,Panthers,0,2,1,Redskins,306,15,11.0,DST,29,1.0,0,335,0,1
+13,2016,16,DeSean Jackson,0,0,Bears,0,0,0,0,0,0,11.0,WR,0,0,114,5,0,0,0,0,1,Bears,0,0,0,Redskins,270,41,0.0,DST,208,0.0,0,478,0,0
+14,2016,17,DeSean Jackson,0,0,Giants,0,0,0,0,0,0,3.0,WR,0,0,34,2,0,0,0,0,0,Giants,0,1,2,Redskins,246,10,23.0,DST,38,4.0,0,284,1,1

@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Derrick Henry,0,0,Lions,0,0,0,0,0,0,4.0,RB,0,0,9,1,0,9,0,40,1,Lions,0,0,1,Titans,224,16,11.0,DST,139,3.0,1,363,0,0
+1,2016,3,Derrick Henry,0,0,Raiders,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,10,0,45,0,Raiders,0,1,2,Titans,212,10,14.0,DST,181,1.0,0,393,0,1
+2,2016,4,Derrick Henry,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,9,1,Texans,0,0,1,Titans,196,20,13.0,DST,124,1.0,0,320,1,0
+3,2016,5,Derrick Henry,0,0,Dolphins,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,7,0,54,1,Dolphins,1,0,0,Titans,163,30,8.0,DST,235,0.0,0,398,1,0
+4,2016,6,Derrick Henry,0,0,Browns,0,0,0,0,0,0,2.0,RB,0,0,20,2,0,2,0,7,0,Browns,0,0,1,Titans,270,28,4.0,DST,137,2.0,0,407,0,1
+5,2016,7,Derrick Henry,0,0,Colts,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,3,0,Colts,0,1,0,Titans,207,26,12.0,DST,124,3.0,0,331,1,1
+6,2016,8,Derrick Henry,0,0,Jaguars,0,0,0,0,0,0,15.0,RB,0,0,37,4,0,16,1,60,0,Jaguars,0,0,0,Titans,280,36,0.0,DST,214,0.0,0,494,0,1
+7,2016,10,Derrick Henry,0,0,Packers,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,9,0,31,0,Packers,0,0,0,Titans,292,47,1.0,DST,154,1.0,0,446,0,1
+8,2016,12,Derrick Henry,0,0,Bears,0,0,0,0,0,0,12.0,RB,0,0,0,0,0,8,1,60,1,Bears,0,0,0,Titans,226,27,1.0,DST,149,0.0,0,375,0,0
+9,2016,14,Derrick Henry,0,0,Broncos,0,0,0,0,0,0,4.0,RB,0,0,5,1,0,12,0,42,0,Broncos,0,0,0,Titans,73,13,9.0,DST,180,2.0,0,253,0,1
+10,2016,15,Derrick Henry,0,0,Chiefs,0,0,0,0,0,0,17.0,RB,0,0,0,0,0,9,2,58,1,Chiefs,0,2,1,Titans,241,19,11.0,DST,148,1.0,0,389,0,0
+11,2016,16,Derrick Henry,0,0,Jaguars,0,0,0,0,0,0,3.0,RB,0,0,22,2,0,4,0,13,1,Jaguars,0,0,1,Titans,205,17,15.0,DST,58,3.0,0,263,1,0
+12,2016,17,Derrick Henry,0,0,Texans,0,0,0,0,0,0,12.0,RB,0,0,3,1,0,15,1,65,0,Texans,0,0,1,Titans,133,24,7.0,DST,103,4.0,0,236,0,1

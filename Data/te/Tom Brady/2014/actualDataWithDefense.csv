@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Tom Brady,0,2,Dolphins,0,56,29,0,1,249,13.0,QB,0,0,0,0,0,1,0,3,1,Dolphins,1,2,0,Patriots,226,20,14.0,DST,89,4.0,0,315,0,0
+1,2014,3,Tom Brady,0,0,Raiders,0,37,24,0,1,234,15.0,QB,0,0,0,0,0,3,0,-7,0,Raiders,0,0,0,Patriots,221,16,6.0,DST,76,2.0,0,297,0,1
+2,2014,4,Tom Brady,0,1,Chiefs,0,23,14,2,1,159,7.0,QB,0,0,0,0,0,0,0,0,1,Chiefs,0,1,2,Patriots,215,14,19.0,DST,75,3.0,0,290,1,0
+3,2014,5,Tom Brady,0,0,Bengals,0,35,23,0,2,292,24.0,QB,0,0,0,0,0,4,0,13,0,Bengals,0,0,0,Patriots,285,43,1.0,DST,220,1.0,0,505,0,1
+4,2014,6,Tom Brady,0,0,Bills,0,37,27,0,4,361,38.0,QB,0,0,0,0,0,4,0,3,1,Bills,0,0,0,Patriots,346,37,2.0,DST,50,2.0,0,396,0,0
+5,2014,7,Tom Brady,0,0,Jets,0,37,20,0,3,261,28.0,QB,0,0,0,0,0,0,0,0,0,Jets,0,0,0,Patriots,260,27,2.0,DST,63,1.0,0,323,0,1
+6,2014,8,Tom Brady,0,0,Bears,0,35,30,0,5,354,44.0,QB,0,0,0,0,0,2,0,0,0,Bears,0,0,0,Patriots,365,51,1.0,DST,122,1.0,0,487,0,1
+7,2014,9,Tom Brady,0,0,Broncos,0,53,33,1,4,333,35.0,QB,0,0,0,0,0,2,0,4,0,Broncos,0,0,1,Patriots,332,43,3.0,DST,66,1.0,0,398,0,1
+8,2014,11,Tom Brady,0,0,Colts,0,30,19,2,2,257,18.0,QB,0,0,0,0,0,2,0,-2,1,Colts,0,0,2,Patriots,257,42,4.0,DST,246,0.0,0,503,0,0
+9,2014,12,Tom Brady,0,0,Lions,0,53,38,1,2,349,23.0,QB,0,0,0,0,0,0,0,0,0,Lions,0,0,1,Patriots,349,34,2.0,DST,90,0.0,0,439,0,1
+10,2014,13,Tom Brady,0,0,Packers,0,35,22,0,2,245,21.0,QB,0,0,0,0,0,1,0,-1,1,Packers,0,0,0,Patriots,236,21,2.0,DST,84,1.0,0,320,0,0
+11,2014,14,Tom Brady,0,0,Chargers,0,44,28,1,2,317,22.0,QB,0,0,0,0,0,4,0,7,1,Chargers,0,1,1,Patriots,310,23,12.0,DST,87,1.0,0,397,1,0
+12,2014,15,Tom Brady,0,0,Dolphins,0,35,21,1,2,287,22.0,QB,0,0,0,0,0,3,0,18,0,Dolphins,0,0,1,Patriots,287,41,2.0,DST,108,0.0,0,395,0,1
+13,2014,16,Tom Brady,0,0,Jets,0,35,23,1,1,182,12.0,QB,0,0,0,0,0,7,0,10,1,Jets,0,0,1,Patriots,146,17,10.0,DST,85,4.0,0,231,0,0
+14,2014,17,Tom Brady,0,0,Bills,0,16,8,0,0,80,3.0,QB,0,0,0,0,0,2,0,9,0,Bills,0,0,0,Patriots,144,9,11.0,DST,116,4.0,0,260,0,1

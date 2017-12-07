@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Arian Foster,0,1,Redskins,0,0,0,0,0,0,10.0,RB,0,0,17,2,0,27,0,103,0,Redskins,0,1,0,Texans,206,17,6.0,DST,115,0.0,0,321,0,1
+1,2014,2,Arian Foster,0,0,Raiders,0,0,0,0,0,0,20.0,RB,0,0,12,2,0,28,1,138,1,Raiders,1,0,0,Texans,139,30,2.0,DST,188,0.0,0,327,0,0
+2,2014,4,Arian Foster,0,0,Bills,0,0,0,0,0,0,5.0,RB,0,0,55,7,0,8,0,6,0,Bills,0,1,2,Texans,264,23,10.0,DST,37,3.0,0,301,0,1
+3,2014,5,Arian Foster,0,0,Cowboys,0,0,0,0,0,0,28.0,RB,0,0,15,2,0,23,2,157,1,Cowboys,0,0,1,Texans,154,17,6.0,DST,176,0.0,0,330,0,0
+4,2014,6,Arian Foster,0,0,Colts,0,0,0,0,0,0,25.0,RB,0,0,32,3,0,20,2,109,0,Colts,0,2,0,Texans,196,28,9.0,DST,136,5.0,0,332,0,1
+5,2014,7,Arian Foster,0,1,Steelers,0,0,0,0,0,0,16.0,RB,0,1,13,4,0,20,0,102,1,Steelers,0,2,1,Texans,261,23,8.0,DST,132,1.0,0,393,0,0
+6,2014,8,Arian Foster,0,0,Titans,0,0,0,0,0,0,35.0,RB,0,1,22,4,0,20,2,151,1,Titans,0,0,0,Texans,193,30,5.0,DST,212,5.0,0,405,0,0
+7,2014,9,Arian Foster,0,0,Eagles,0,0,0,0,0,0,17.0,RB,0,1,63,2,0,15,0,56,0,Eagles,0,0,1,Texans,182,21,7.0,DST,118,4.0,0,300,0,1
+8,2014,13,Arian Foster,0,0,Titans,0,0,0,0,0,0,15.0,RB,0,1,26,5,0,19,0,79,0,Titans,1,1,0,Texans,358,45,10.0,DST,99,0.0,0,457,1,1
+9,2014,14,Arian Foster,0,0,Jaguars,0,0,0,0,0,0,20.0,RB,0,0,21,2,0,24,1,127,1,Jaguars,0,0,0,Texans,135,27,2.0,DST,169,1.0,0,304,0,0
+10,2014,15,Arian Foster,0,0,Colts,0,0,0,0,0,0,10.0,RB,0,0,18,3,0,26,0,99,1,Colts,0,1,1,Texans,152,10,12.0,DST,137,1.0,0,289,0,0
+11,2014,16,Arian Foster,0,0,Ravens,0,1,1,0,1,5,17.0,RB,0,0,23,1,0,25,0,96,0,Ravens,0,0,1,Texans,190,25,3.0,DST,123,0.0,0,313,0,1
+12,2014,17,Arian Foster,0,0,Jaguars,0,0,0,0,0,0,9.0,RB,0,1,10,1,0,5,0,23,0,Jaguars,0,1,1,Texans,235,23,14.0,DST,123,3.0,0,358,1,1

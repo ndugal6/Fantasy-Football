@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Peyton Hillis,0,0,Falcons,0,0,0,0,0,0,1.0,RB,0,0,8,3,0,7,0,16,0,Falcons,0,1,2,Chiefs,241,24,10.0,DST,152,3.0,0,393,0,1
+1,2012,2,Peyton Hillis,0,1,Bills,0,0,0,0,0,0,7.0,RB,0,0,25,2,0,11,0,66,1,Bills,0,2,1,Chiefs,272,17,21.0,DST,150,5.0,0,422,1,0
+2,2012,3,Peyton Hillis,0,0,Saints,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,11,1,Saints,0,2,1,Chiefs,237,27,10.0,DST,273,3.0,0,510,0,0
+3,2012,8,Peyton Hillis,0,0,Raiders,0,0,0,0,0,0,2.0,RB,0,0,5,1,0,4,0,23,0,Raiders,0,2,2,Chiefs,197,16,15.0,DST,102,3.0,0,299,0,1
+4,2012,9,Peyton Hillis,0,0,Chargers,0,0,0,0,0,0,1.0,RB,0,0,7,1,0,7,0,14,1,Chargers,0,3,1,Chiefs,176,13,28.0,DST,113,1.0,0,289,2,0
+5,2012,10,Peyton Hillis,0,0,Steelers,0,0,0,0,0,0,3.0,RB,0,0,2,1,0,10,0,30,1,Steelers,0,0,1,Chiefs,148,13,11.0,DST,142,2.0,0,290,0,0
+6,2012,11,Peyton Hillis,0,1,Bengals,0,0,0,0,0,0,-1.0,RB,0,0,0,0,0,3,0,9,0,Bengals,0,1,0,Chiefs,171,6,16.0,DST,113,4.0,0,284,0,1
+7,2012,12,Peyton Hillis,0,0,Broncos,0,1,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,5,0,Broncos,0,0,1,Chiefs,116,9,11.0,DST,148,2.0,0,264,0,1
+8,2012,13,Peyton Hillis,0,0,Panthers,0,0,0,0,0,0,7.0,RB,0,0,9,1,0,12,1,19,0,Panthers,0,0,0,Chiefs,197,27,2.0,DST,158,1.0,0,355,0,1
+9,2012,14,Peyton Hillis,0,0,Browns,0,0,0,0,0,0,1.0,RB,0,0,6,1,0,5,0,11,1,Browns,0,0,1,Chiefs,130,7,20.0,DST,180,5.0,0,310,1,0
+10,2012,15,Peyton Hillis,0,0,Raiders,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,0,1,Raiders,0,0,1,Chiefs,109,0,16.0,DST,10,4.0,0,119,0,0
+11,2012,16,Peyton Hillis,0,0,Colts,0,0,0,0,0,0,10.0,RB,0,0,0,0,0,15,0,101,0,Colts,0,1,2,Chiefs,155,13,20.0,DST,352,1.0,0,507,1,1
+12,2012,17,Peyton Hillis,0,0,Broncos,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,5,0,4,1,Broncos,0,0,0,Chiefs,26,3,14.0,DST,93,4.0,0,119,0,0

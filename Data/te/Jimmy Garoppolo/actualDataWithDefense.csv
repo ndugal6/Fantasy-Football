@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,3,Jimmy Garoppolo,0,0,Jaguars,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,0,Jaguars,0,0,0,Patriots,346,51,2.0,DST,125,2.0,0,471,0,1
+1,2015,5,Jimmy Garoppolo,0,0,Cowboys,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,1,Cowboys,0,0,0,Patriots,247,30,5.0,DST,109,5.0,0,356,0,0
+2,2015,9,Jimmy Garoppolo,0,0,Redskins,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,1,0,-1,0,Redskins,0,1,1,Patriots,299,27,5.0,DST,161,0.0,0,460,0,1
+3,2015,17,Jimmy Garoppolo,0,0,Dolphins,0,4,1,0,0,6,0.0,QB,0,0,0,0,0,0,0,0,1,Dolphins,0,0,0,Patriots,126,10,9.0,DST,70,2.0,0,196,0,0
+4,2014,4,Jimmy Garoppolo,0,0,Chiefs,0,7,6,0,1,70,8.0,QB,0,0,0,0,0,0,0,0,1,Chiefs,0,1,2,Patriots,215,14,19.0,DST,75,3.0,0,290,1,0
+5,2014,5,Jimmy Garoppolo,0,0,Bengals,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,3,0,-4,0,Bengals,0,0,0,Patriots,285,43,1.0,DST,220,1.0,0,505,0,1
+6,2014,8,Jimmy Garoppolo,0,0,Bears,0,3,3,0,0,22,0.0,QB,0,0,0,0,0,1,0,-1,0,Bears,0,0,0,Patriots,365,51,1.0,DST,122,1.0,0,487,0,1
+7,2014,11,Jimmy Garoppolo,0,0,Colts,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,1,Colts,0,0,2,Patriots,257,42,4.0,DST,246,0.0,0,503,0,0
+8,2014,17,Jimmy Garoppolo,0,0,Bills,0,17,10,0,0,90,4.0,QB,0,0,0,0,0,4,0,16,0,Bills,0,0,0,Patriots,144,9,11.0,DST,116,4.0,0,260,0,1
+9,2016,1,Jimmy Garoppolo,0,1,Cardinals,0,33,24,0,1,264,16.0,QB,0,0,3,1,0,4,0,12,1,Cardinals,0,2,0,Patriots,257,23,7.0,DST,106,2.0,0,363,0,0
+10,2016,2,Jimmy Garoppolo,0,0,Dolphins,0,26,18,0,3,232,27.0,QB,0,0,0,0,0,0,0,0,0,Dolphins,0,1,0,Patriots,302,31,4.0,DST,161,2.0,0,463,0,1
+11,2016,5,Jimmy Garoppolo,0,0,Browns,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-3,1,Browns,0,0,0,Patriots,403,33,1.0,DST,98,1.0,0,501,0,0
+12,2016,8,Jimmy Garoppolo,0,0,Bills,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,1,0,-1,1,Bills,0,0,0,Patriots,285,41,5.0,DST,72,5.0,0,357,0,0
+13,2016,16,Jimmy Garoppolo,0,0,Jets,0,2,1,0,0,6,0.0,QB,0,0,0,0,0,3,0,-2,0,Jets,0,0,0,Patriots,211,41,1.0,DST,114,1.0,0,325,0,1
+14,2016,17,Jimmy Garoppolo,0,0,Dolphins,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,0,0,0,1,Dolphins,0,0,0,Patriots,276,35,0.0,DST,120,0.0,0,396,0,0

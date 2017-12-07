@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,D.J. Ware,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,0,0,0,1,Redskins,1,0,1,Giants,240,14,18.0,DST,75,4.0,0,315,1,0
+1,2011,2,D.J. Ware,0,0,Rams,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,3,0,22,0,Rams,0,0,1,Giants,204,28,5.0,DST,119,3.0,0,323,0,1
+2,2011,4,D.J. Ware,0,0,Cardinals,0,0,0,0,0,0,0.0,RB,0,0,2,1,0,0,0,0,1,Cardinals,0,2,0,Giants,306,31,5.0,DST,54,1.0,0,360,0,0
+3,2011,5,D.J. Ware,0,0,Seahawks,0,0,0,0,0,0,2.0,RB,0,0,22,1,0,4,0,3,0,Seahawks,0,2,3,Giants,395,25,22.0,DST,69,3.0,1,464,1,1
+4,2011,6,D.J. Ware,0,0,Bills,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,19,0,Bills,1,0,0,Giants,292,27,3.0,DST,122,0.0,0,414,0,1
+5,2011,8,D.J. Ware,0,0,Dolphins,0,0,0,0,0,0,0.0,RB,0,0,5,1,0,2,0,1,0,Dolphins,0,0,0,Giants,344,20,5.0,DST,58,1.0,0,402,0,1
+6,2011,9,D.J. Ware,0,0,Patriots,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,7,0,23,1,Patriots,0,1,1,Giants,250,24,5.0,DST,111,0.0,0,361,0,0
+7,2011,10,D.J. Ware,0,0,49ers,0,0,0,0,0,0,6.0,RB,0,0,34,5,0,9,0,34,1,49ers,0,0,2,Giants,302,20,9.0,DST,93,1.0,0,395,0,0
+8,2011,11,D.J. Ware,0,0,Eagles,0,0,0,0,0,0,1.0,RB,0,0,17,2,0,3,0,-3,0,Eagles,0,1,1,Giants,249,10,14.0,DST,29,3.0,0,278,0,1
+9,2011,12,D.J. Ware,0,0,Saints,0,0,0,0,0,0,6.0,RB,0,0,45,8,0,5,0,23,1,Saints,0,1,1,Giants,392,24,6.0,DST,73,1.0,0,465,0,0
+10,2011,13,D.J. Ware,0,0,Packers,0,0,0,0,0,0,2.0,RB,0,0,8,2,1,1,0,3,0,Packers,0,1,1,Giants,347,35,11.0,DST,100,1.0,0,447,1,1
+11,2011,14,D.J. Ware,0,0,Cowboys,0,0,0,0,0,0,3.0,RB,0,0,19,3,1,2,0,-1,1,Cowboys,0,0,1,Giants,400,37,2.0,DST,110,0.0,0,510,0,0
+12,2011,15,D.J. Ware,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,2,1,0,0,0,0,0,Redskins,0,0,3,Giants,233,10,16.0,DST,91,3.0,0,324,0,1
+13,2011,16,D.J. Ware,0,0,Jets,0,0,0,0,0,0,2.0,RB,0,0,5,1,0,3,0,20,1,Jets,0,0,1,Giants,217,29,4.0,DST,115,2.0,0,332,0,0
+14,2011,17,D.J. Ware,0,0,Cowboys,0,0,0,0,0,0,1.0,RB,0,0,8,1,0,2,0,19,0,Cowboys,0,0,0,Giants,331,31,2.0,DST,106,2.0,0,437,0,1

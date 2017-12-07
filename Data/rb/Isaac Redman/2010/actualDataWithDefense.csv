@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Isaac Redman,0,0,Falcons,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,6,0,19,0,Falcons,0,0,1,Steelers,211,15,9.0,DST,143,3.0,0,354,0,1
+1,2010,2,Isaac Redman,0,0,Titans,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,4,0,8,1,Titans,0,1,0,Steelers,21,19,10.0,DST,106,4.0,0,127,0,0
+2,2010,3,Isaac Redman,0,0,Buccaneers,0,0,0,0,0,0,3.0,RB,0,0,9,1,0,5,0,31,1,Buccaneers,0,0,2,Steelers,186,38,4.0,DST,201,0.0,0,387,0,0
+3,2010,4,Isaac Redman,0,0,Ravens,0,0,0,0,0,0,0.0,RB,0,0,6,1,0,0,0,0,0,Ravens,0,0,1,Steelers,126,14,8.0,DST,84,2.0,0,210,0,1
+4,2010,6,Isaac Redman,0,0,Browns,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,6,0,31,0,Browns,0,0,1,Steelers,257,28,2.0,DST,121,0.0,0,378,0,1
+5,2010,7,Isaac Redman,0,0,Dolphins,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,9,1,Dolphins,0,2,0,Steelers,290,23,8.0,DST,58,3.0,0,348,0,0
+6,2010,8,Isaac Redman,0,0,Saints,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,19,1,Saints,0,1,1,Steelers,171,10,14.0,DST,108,3.0,0,279,0,0
+7,2010,9,Isaac Redman,0,0,Bengals,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,2,1,Bengals,0,1,1,Steelers,193,27,6.0,DST,121,1.0,0,314,0,0
+8,2010,11,Isaac Redman,0,0,Raiders,0,0,0,0,0,0,9.0,RB,0,1,16,1,0,5,0,27,0,Raiders,0,1,0,Steelers,269,35,4.0,DST,162,2.0,0,431,0,1
+9,2010,12,Isaac Redman,0,0,Bills,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,5,0,25,1,Bills,0,1,0,Steelers,220,19,11.0,DST,206,5.0,0,426,0,0
+10,2010,13,Isaac Redman,0,0,Ravens,0,0,0,0,0,0,9.0,RB,0,1,23,2,0,4,0,10,1,Ravens,0,0,1,Steelers,234,13,12.0,DST,54,3.0,0,288,0,0
+11,2010,14,Isaac Redman,0,0,Bengals,0,0,0,0,0,0,0.0,RB,0,0,6,1,0,1,0,4,0,Bengals,0,0,0,Steelers,231,23,5.0,DST,123,4.0,0,354,0,1
+12,2010,15,Isaac Redman,0,0,Jets,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,7,0,Jets,0,0,0,Steelers,232,17,15.0,DST,146,3.0,1,378,1,1
+13,2010,16,Isaac Redman,0,0,Panthers,0,0,0,0,0,0,4.0,RB,0,0,2,1,0,4,0,43,0,Panthers,0,2,0,Steelers,293,27,8.0,DST,115,3.0,0,408,0,1
+14,2010,17,Isaac Redman,0,0,Browns,0,0,0,0,0,0,1.0,RB,0,0,7,1,0,3,0,12,1,Browns,0,0,0,Steelers,318,41,2.0,DST,100,2.0,0,418,0,0

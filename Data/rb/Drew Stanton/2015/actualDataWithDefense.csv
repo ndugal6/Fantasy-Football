@@ -1,0 +1,7 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,3,Drew Stanton,0,0,49ers,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,3,0,-3,0,49ers,0,0,1,Cardinals,307,47,3.0,DST,139,1.0,0,446,0,1
+1,2015,5,Drew Stanton,0,0,Lions,0,4,1,0,0,10,0.0,QB,0,0,0,0,0,3,0,-3,1,Lions,0,0,0,Cardinals,158,42,2.0,DST,187,2.0,0,345,0,0
+2,2015,13,Drew Stanton,0,0,Rams,0,1,1,0,0,6,0.0,QB,0,0,0,0,0,3,0,-3,1,Rams,0,0,0,Cardinals,349,27,3.0,DST,175,2.0,0,524,0,0
+3,2015,15,Drew Stanton,0,0,Eagles,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,1,Eagles,0,0,0,Cardinals,263,40,2.0,DST,230,2.0,0,493,0,0
+4,2015,16,Drew Stanton,0,0,Packers,0,1,1,0,0,4,0.0,QB,0,0,0,0,0,2,0,-2,0,Packers,0,1,1,Cardinals,260,38,6.0,DST,121,2.0,0,381,0,1
+5,2015,17,Drew Stanton,0,0,Seahawks,0,18,8,2,0,84,-1.0,QB,0,0,0,0,0,0,0,0,0,Seahawks,0,0,3,Cardinals,205,6,18.0,DST,27,2.0,0,232,0,1

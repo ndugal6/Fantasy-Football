@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Cody Latimer,0,0,Colts,0,0,0,0,0,0,1.0,WR,0,0,12,2,0,0,0,0,0,Colts,0,0,1,Broncos,266,34,3.0,DST,134,1.0,0,400,0,1
+1,2016,3,Cody Latimer,0,0,Bengals,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,1,Bengals,1,1,0,Broncos,303,29,6.0,DST,52,2.0,0,355,0,0
+2,2016,13,Cody Latimer,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,1,Jaguars,0,0,0,Broncos,102,20,6.0,DST,104,2.0,0,206,0,0
+3,2016,14,Cody Latimer,0,0,Titans,0,0,0,0,0,0,1.0,WR,0,0,16,1,0,0,0,0,1,Titans,0,2,0,Broncos,330,10,14.0,DST,18,3.0,0,348,0,0
+4,2016,17,Cody Latimer,0,0,Raiders,0,0,0,0,0,0,2.0,WR,0,0,28,3,0,0,0,0,0,Raiders,0,0,1,Broncos,206,24,3.0,DST,143,0.0,0,349,0,1
+5,2015,10,Cody Latimer,0,0,Chiefs,0,0,0,0,0,0,3.0,WR,0,0,30,3,0,0,0,0,0,Chiefs,0,0,5,Broncos,152,13,22.0,DST,69,5.0,0,221,0,1
+6,2015,11,Cody Latimer,0,0,Bears,0,0,0,0,0,0,8.0,WR,0,1,22,2,0,1,0,5,1,Bears,0,0,0,Broncos,219,17,9.0,DST,170,5.0,0,389,0,0
+7,2015,12,Cody Latimer,0,0,Patriots,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,0,Patriots,0,0,1,Broncos,254,30,5.0,DST,179,3.0,0,433,0,1
+8,2015,14,Cody Latimer,0,0,Raiders,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,-4,0,Raiders,0,2,0,Broncos,276,12,18.0,DST,34,5.0,1,310,0,1
+9,2014,10,Cody Latimer,0,0,Raiders,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,1,Raiders,0,0,2,Broncos,353,41,4.0,DST,118,0.0,0,471,0,0
+10,2014,17,Cody Latimer,0,0,Raiders,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Raiders,0,1,0,Broncos,309,47,9.0,DST,142,1.0,0,451,1,1

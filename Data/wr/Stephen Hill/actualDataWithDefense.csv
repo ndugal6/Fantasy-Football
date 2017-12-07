@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Stephen Hill,0,0,Buccaneers,0,0,0,0,0,0,3.0,WR,0,0,39,6,0,0,0,0,0,Buccaneers,0,1,1,Jets,214,18,13.0,DST,90,5.0,0,304,0,1
+1,2013,2,Stephen Hill,0,1,Patriots,0,0,0,0,0,0,7.0,WR,0,0,86,4,0,0,0,0,1,Patriots,0,1,3,Jets,189,10,19.0,DST,129,4.0,0,318,0,0
+2,2013,3,Stephen Hill,0,0,Bills,0,0,0,0,0,0,16.0,WR,0,1,108,3,0,0,0,0,0,Bills,0,0,2,Jets,331,27,5.0,DST,182,0.0,0,513,0,1
+3,2013,5,Stephen Hill,0,0,Falcons,0,0,0,0,0,0,2.0,WR,0,0,21,2,0,0,0,0,1,Falcons,0,0,0,Jets,170,30,4.0,DST,118,4.0,0,288,0,0
+4,2013,6,Stephen Hill,0,0,Steelers,0,0,0,0,0,0,4.0,WR,0,0,46,3,0,0,0,0,0,Steelers,0,0,2,Jets,184,6,17.0,DST,83,3.0,0,267,0,1
+5,2013,7,Stephen Hill,0,0,Patriots,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,0,0,0,0,Patriots,0,0,1,Jets,206,30,12.0,DST,177,4.0,0,383,1,1
+6,2013,8,Stephen Hill,0,0,Bengals,0,0,0,0,0,0,2.0,WR,0,0,23,4,0,0,0,0,1,Bengals,0,0,2,Jets,147,9,27.0,DST,93,4.0,0,240,2,0
+7,2013,13,Stephen Hill,0,0,Dolphins,0,0,0,0,0,0,0.0,WR,0,0,2,1,0,0,0,0,0,Dolphins,0,1,2,Jets,78,3,20.0,DST,99,4.0,0,177,0,1
+8,2012,1,Stephen Hill,0,0,Bills,0,0,0,0,0,0,20.0,WR,0,2,89,5,0,0,0,0,0,Bills,0,0,1,Jets,266,48,2.0,DST,118,0.0,0,384,0,1
+9,2012,6,Stephen Hill,0,0,Colts,0,0,0,0,0,0,8.0,WR,0,1,23,3,0,0,0,0,0,Colts,0,0,0,Jets,99,35,1.0,DST,252,1.0,0,351,0,1
+10,2012,7,Stephen Hill,0,0,Patriots,0,0,0,0,0,0,5.0,WR,0,0,55,4,0,0,0,0,1,Patriots,0,1,1,Jets,297,26,17.0,DST,106,4.0,1,403,1,0
+11,2012,8,Stephen Hill,0,0,Dolphins,0,0,0,0,0,0,2.0,WR,0,0,29,2,0,0,0,0,0,Dolphins,2,1,1,Jets,258,9,25.0,DST,105,4.0,0,363,1,1
+12,2012,12,Stephen Hill,0,0,Patriots,0,0,0,0,0,0,1.0,WR,0,0,16,2,0,0,0,0,0,Patriots,0,4,1,Jets,286,19,28.0,DST,119,2.0,0,405,2,1
+13,2012,13,Stephen Hill,0,0,Cardinals,0,0,0,0,0,0,4.0,WR,0,0,40,5,0,0,0,0,0,Cardinals,0,1,3,Jets,112,7,18.0,DST,177,3.0,0,289,0,1

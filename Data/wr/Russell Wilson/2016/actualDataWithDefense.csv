@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Russell Wilson,0,1,Dolphins,0,43,27,1,1,258,14.0,QB,0,0,0,0,0,4,0,16,0,Dolphins,1,1,1,Seahawks,240,12,16.0,DST,112,3.0,0,352,0,1
+1,2016,3,Russell Wilson,0,0,49ers,0,23,15,0,1,243,15.0,QB,0,0,0,0,0,1,0,3,0,49ers,0,1,1,Seahawks,291,37,6.0,DST,127,2.0,0,418,0,1
+2,2016,4,Russell Wilson,0,0,Jets,0,32,23,0,3,309,30.0,QB,0,0,0,0,0,5,0,-5,1,Jets,0,0,0,Seahawks,288,27,3.0,DST,66,2.0,0,354,0,0
+3,2016,6,Russell Wilson,0,0,Falcons,0,37,25,0,0,270,10.0,QB,0,0,0,0,0,6,0,7,0,Falcons,1,0,0,Seahawks,261,26,4.0,DST,72,1.0,0,333,0,1
+4,2016,7,Russell Wilson,0,0,Cardinals,0,37,24,0,0,225,9.0,QB,0,0,-1,1,0,1,0,-2,1,Cardinals,0,0,0,Seahawks,205,6,11.0,DST,52,1.0,0,257,0,0
+5,2016,8,Russell Wilson,0,0,Saints,0,34,22,1,0,253,9.0,QB,0,0,0,0,0,3,0,11,1,Saints,0,0,1,Seahawks,285,20,7.0,DST,74,1.0,0,359,0,0
+6,2016,9,Russell Wilson,0,0,Bills,0,26,20,0,2,282,30.0,QB,0,0,0,0,0,3,1,10,0,Bills,1,0,0,Seahawks,245,31,6.0,DST,33,4.0,0,278,0,1
+7,2016,10,Russell Wilson,0,0,Patriots,0,37,25,0,3,348,31.0,QB,0,0,0,0,0,3,0,6,1,Patriots,1,0,0,Seahawks,324,31,5.0,DST,96,3.0,0,420,0,0
+8,2016,11,Russell Wilson,0,0,Eagles,0,31,18,0,1,272,24.0,QB,0,1,15,1,0,8,0,19,0,Eagles,1,0,0,Seahawks,287,26,4.0,DST,152,1.0,0,439,0,1
+9,2016,12,Russell Wilson,0,0,Buccaneers,0,33,17,2,0,151,10.0,QB,0,0,0,0,0,8,0,80,1,Buccaneers,0,1,2,Seahawks,118,5,22.0,DST,127,6.0,0,245,0,0
+10,2016,13,Russell Wilson,0,0,Panthers,0,36,26,1,1,277,17.0,QB,0,0,0,0,0,3,0,29,0,Panthers,0,0,1,Seahawks,294,40,5.0,DST,240,3.0,0,534,0,1
+11,2016,14,Russell Wilson,0,0,Packers,0,39,22,5,1,240,6.0,QB,0,0,0,0,0,4,0,19,1,Packers,0,1,5,Seahawks,218,10,22.0,DST,136,3.0,0,354,0,0
+12,2016,16,Russell Wilson,0,1,Cardinals,1,45,29,0,4,350,42.0,QB,0,0,0,0,0,10,0,36,0,Cardinals,1,1,0,Seahawks,313,31,10.0,DST,78,6.0,0,391,0,1
+13,2016,17,Russell Wilson,0,0,49ers,0,32,19,0,1,258,16.0,QB,0,0,0,0,0,2,0,4,1,49ers,1,0,0,Seahawks,289,25,7.0,DST,87,2.0,1,376,0,0

@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Joe Flacco,0,0,Broncos,0,32,18,2,0,117,0.0,QB,0,0,0,0,0,0,0,0,1,Broncos,0,0,2,Ravens,100,13,19.0,DST,73,2.0,0,173,1,0
+1,2015,2,Joe Flacco,0,0,Raiders,0,45,32,1,2,384,25.0,QB,0,0,0,0,0,2,0,2,1,Raiders,0,1,1,Ravens,384,33,4.0,DST,109,0.0,0,493,0,0
+2,2015,3,Joe Flacco,0,0,Bengals,0,49,32,1,2,362,24.0,QB,0,0,0,0,0,0,0,0,0,Bengals,0,0,1,Ravens,362,24,3.0,DST,36,0.0,0,398,0,1
+3,2015,4,Joe Flacco,0,1,Steelers,0,33,20,1,1,189,10.0,QB,0,0,0,0,0,3,0,0,1,Steelers,0,1,1,Ravens,165,23,10.0,DST,191,5.0,0,356,0,0
+4,2015,5,Joe Flacco,0,0,Browns,0,35,19,0,1,210,26.0,QB,0,0,0,0,0,2,2,2,0,Browns,0,0,0,Ravens,196,30,1.0,DST,181,1.0,0,377,0,1
+5,2015,6,Joe Flacco,0,0,49ers,0,53,33,2,2,343,21.0,QB,0,0,0,0,0,0,0,0,1,49ers,0,0,2,Ravens,343,20,8.0,DST,77,0.0,0,420,0,0
+6,2015,7,Joe Flacco,0,0,Cardinals,1,40,26,1,1,252,16.0,QB,0,0,0,0,0,0,0,0,1,Cardinals,0,1,1,Ravens,221,18,11.0,DST,55,3.0,0,276,0,0
+7,2015,8,Joe Flacco,0,0,Chargers,0,37,25,0,1,319,24.0,QB,0,0,0,0,0,4,1,2,0,Chargers,0,0,0,Ravens,293,29,3.0,DST,72,3.0,0,365,0,1
+8,2015,10,Joe Flacco,0,1,Jaguars,0,45,34,2,3,316,26.0,QB,0,0,0,0,0,2,0,17,0,Jaguars,0,2,2,Ravens,308,20,13.0,DST,89,1.0,0,397,0,1
+9,2015,11,Joe Flacco,0,0,Rams,0,44,27,2,1,299,13.0,QB,0,0,0,0,0,0,0,0,0,Rams,0,0,2,Ravens,292,16,9.0,DST,96,1.0,0,388,0,1

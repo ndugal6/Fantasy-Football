@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,7,Nick Miller,0,0,Broncos,0,0,0,0,0,0,3.0,WR,0,0,32,1,0,0,0,0,1,Broncos,0,0,0,Raiders,180,59,2.0,DST,328,2.0,0,508,0,0
+1,2010,9,Nick Miller,0,1,Chiefs,0,0,0,0,0,0,-1.0,WR,0,0,0,0,0,0,0,0,0,Chiefs,0,2,1,Raiders,209,23,11.0,DST,112,4.0,0,321,0,1
+2,2010,11,Nick Miller,0,0,Steelers,0,0,0,0,0,0,0.0,WR,0,0,8,2,0,0,0,0,1,Steelers,0,1,2,Raiders,121,3,22.0,DST,61,6.0,0,182,0,0

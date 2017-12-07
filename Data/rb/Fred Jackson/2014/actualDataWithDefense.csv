@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Fred Jackson,0,0,Bears,0,0,0,0,0,0,7.0,RB,0,0,13,3,0,7,0,61,1,Bears,0,0,1,Bills,167,23,4.0,DST,193,1.0,0,360,0,0
+1,2014,2,Fred Jackson,0,0,Dolphins,0,0,0,0,0,0,4.0,RB,0,0,27,2,0,12,0,24,0,Dolphins,0,0,0,Bills,202,29,0.0,DST,113,0.0,0,315,0,1
+2,2014,3,Fred Jackson,0,0,Chargers,0,1,0,0,0,0,16.0,RB,0,1,78,8,0,6,0,34,0,Chargers,0,0,0,Bills,205,10,12.0,DST,87,3.0,1,292,0,1
+3,2014,4,Fred Jackson,0,0,Texans,0,0,0,0,0,0,8.0,RB,0,0,52,6,0,7,0,33,1,Texans,0,0,2,Bills,220,17,16.0,DST,96,2.0,0,316,1,0
+4,2014,5,Fred Jackson,0,0,Lions,0,0,0,0,0,0,11.0,RB,0,0,58,7,1,10,0,49,1,Lions,0,0,1,Bills,294,17,14.0,DST,49,2.0,0,343,1,0
+5,2014,6,Fred Jackson,0,0,Patriots,0,0,0,0,0,0,9.0,RB,0,0,17,4,0,10,1,26,0,Patriots,0,2,1,Bills,268,22,12.0,DST,68,5.0,0,336,0,1
+6,2014,10,Fred Jackson,0,0,Chiefs,0,0,0,0,0,0,4.0,RB,0,0,39,4,0,3,0,10,0,Chiefs,0,2,0,Bills,253,13,12.0,DST,111,1.0,0,364,0,1
+7,2014,12,Fred Jackson,0,0,Jets,0,0,0,0,0,0,10.0,RB,0,0,13,3,0,10,1,32,0,Jets,0,0,0,Bills,220,38,1.0,DST,116,1.0,0,336,0,1
+8,2014,13,Fred Jackson,0,0,Browns,0,0,0,0,0,0,9.0,RB,0,0,27,3,0,21,0,70,0,Browns,1,0,2,Bills,181,26,8.0,DST,106,1.0,0,287,0,1
+9,2014,14,Fred Jackson,0,0,Broncos,0,0,0,0,0,0,6.0,RB,0,0,37,10,0,8,0,35,1,Broncos,0,1,2,Bills,341,17,14.0,DST,74,4.0,0,415,0,0
+10,2014,15,Fred Jackson,0,0,Packers,0,0,0,0,0,0,9.0,RB,0,0,27,3,0,20,0,71,0,Packers,0,0,1,Bills,140,21,6.0,DST,113,3.0,0,253,0,1
+11,2014,16,Fred Jackson,0,0,Raiders,0,0,0,0,0,0,10.0,RB,0,0,93,9,0,6,0,10,1,Raiders,0,0,2,Bills,308,24,7.0,DST,13,2.0,0,321,0,0
+12,2014,17,Fred Jackson,0,0,Patriots,0,0,0,0,0,0,5.0,RB,0,0,4,1,0,18,0,58,1,Patriots,0,1,0,Bills,164,17,8.0,DST,104,2.0,0,268,0,0

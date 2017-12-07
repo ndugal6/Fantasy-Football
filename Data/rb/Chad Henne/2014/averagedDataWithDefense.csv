@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014.0,1,Chad Henne,0.0,1.0,Eagles,0.0,43.0,24.0,0.0,2.0,266.0,21.0,QB,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,1.0,Eagles,1.0,1.0,0.0,Jaguars,242.0,17.0,17.0,DST,64.0,3.0,0.0,306.0,1.0,0.0
+1,2014.0,2,Chad Henne,0.0,1.0,Redskins,0.0,43.0,24.0,0.0,2.0,266.0,21.0,QB,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,1.0,Redskins,0.0,1.0,0.0,Jaguars,206.0,17.0,6.0,DST,115.0,0.0,0.0,321.0,0.0,1.0
+2,2014.0,3,Chad Henne,0.0,0.5,Colts,0.0,35.5,19.0,0.5,1.5,229.5,16.5,QB,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.5,1.0,Colts,0.0,0.0,0.5,Jaguars,295.0,30.5,1.5,DST,114.5,0.5,0.0,409.5,0.0,0.5

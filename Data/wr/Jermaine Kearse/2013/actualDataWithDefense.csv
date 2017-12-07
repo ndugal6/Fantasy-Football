@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Jermaine Kearse,0,0,Panthers,0,0,0,0,0,0,10.0,WR,0,1,49,2,0,0,0,0,1,Panthers,0,1,0,Seahawks,300,12,11.0,DST,70,2.0,0,370,0,0
+1,2013,3,Jermaine Kearse,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,0,0,0,0,Jaguars,0,1,1,Seahawks,323,45,6.0,DST,156,2.0,0,479,0,1
+2,2013,5,Jermaine Kearse,0,0,Colts,0,0,0,0,0,0,8.0,WR,0,1,28,1,0,0,0,0,1,Colts,1,1,1,Seahawks,205,28,14.0,DST,218,2.0,0,423,1,0
+3,2013,6,Jermaine Kearse,0,0,Titans,0,0,0,0,0,0,1.0,WR,0,0,17,3,0,0,0,0,0,Titans,0,2,0,Seahawks,253,20,16.0,DST,151,2.0,0,404,1,1
+4,2013,7,Jermaine Kearse,0,0,Cardinals,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,0,0,0,1,Cardinals,0,2,0,Seahawks,209,34,7.0,DST,135,3.0,0,344,0,0
+5,2013,9,Jermaine Kearse,0,1,Buccaneers,0,0,0,0,0,0,9.0,WR,0,1,43,2,0,0,0,0,0,Buccaneers,0,1,2,Seahawks,217,27,7.0,DST,198,0.0,0,415,0,1
+6,2013,10,Jermaine Kearse,0,0,Falcons,0,0,0,0,0,0,13.0,WR,0,1,75,3,0,0,0,0,1,Falcons,0,0,0,Seahawks,279,33,1.0,DST,211,1.0,0,490,0,0
+7,2013,13,Jermaine Kearse,0,0,Saints,0,0,0,0,0,0,2.0,WR,0,0,26,2,0,0,0,0,0,Saints,0,0,0,Seahawks,302,34,1.0,DST,127,1.0,0,429,0,1
+8,2013,14,Jermaine Kearse,0,0,49ers,0,0,0,0,0,0,1.0,WR,0,0,15,2,0,0,0,0,1,49ers,1,0,1,Seahawks,178,17,10.0,DST,86,2.0,0,264,0,0
+9,2013,15,Jermaine Kearse,0,0,Giants,0,0,0,0,0,0,2.0,WR,0,0,21,2,0,0,0,0,1,Giants,0,0,1,Seahawks,193,23,7.0,DST,134,4.0,0,327,0,0
+10,2013,16,Jermaine Kearse,0,0,Cardinals,0,0,0,0,0,0,3.0,WR,0,0,38,3,0,0,0,0,0,Cardinals,0,1,1,Seahawks,89,10,15.0,DST,103,4.0,0,192,0,1

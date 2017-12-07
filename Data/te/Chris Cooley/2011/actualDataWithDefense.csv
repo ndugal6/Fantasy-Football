@@ -1,0 +1,5 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Chris Cooley,0,0,Giants,0,0,0,0,0,0,2.0,TE,0,0,21,2,0,0,0,0,0,Giants,0,1,0,Redskins,258,28,6.0,DST,74,4.0,0,332,0,1
+1,2011,3,Chris Cooley,0,0,Cowboys,0,0,0,0,0,0,4.0,TE,0,0,41,4,0,2,0,3,1,Cowboys,1,1,1,Redskins,233,16,13.0,DST,65,3.0,0,298,0,0
+2,2011,4,Chris Cooley,0,0,Rams,0,0,0,0,0,0,0.0,TE,0,0,4,1,0,0,0,0,1,Rams,0,0,2,Redskins,143,17,8.0,DST,196,0.0,0,339,0,0
+3,2011,6,Chris Cooley,0,0,Eagles,0,0,0,0,0,0,0.0,TE,0,0,-1,1,0,0,0,0,0,Eagles,0,0,4,Redskins,245,13,17.0,DST,42,2.0,0,287,0,1

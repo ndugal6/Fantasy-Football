@@ -1,0 +1,9 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,9,Blaine Gabbert,0,0,Falcons,0,25,15,2,2,185,18.0,QB,0,0,0,0,0,8,0,32,0,Falcons,0,0,2,49ers,185,17,8.0,DST,133,0.0,0,318,0,1
+1,2015,11,Blaine Gabbert,0,0,Seahawks,0,34,22,0,1,264,18.0,QB,0,0,0,0,0,4,0,22,1,Seahawks,0,0,0,49ers,247,13,9.0,DST,59,2.0,0,306,0,0
+2,2015,12,Blaine Gabbert,0,0,Cardinals,0,36,25,1,1,318,17.0,QB,0,0,0,0,0,1,0,11,0,Cardinals,0,1,1,49ers,301,13,13.0,DST,67,2.0,0,368,0,1
+3,2015,13,Blaine Gabbert,0,0,Bears,0,32,18,0,1,196,26.0,QB,0,0,0,0,0,6,1,75,1,Bears,1,0,0,49ers,170,26,7.0,DST,121,4.0,0,291,0,0
+4,2015,14,Blaine Gabbert,0,0,Browns,0,28,18,0,1,194,14.0,QB,0,0,0,0,0,3,0,19,1,Browns,0,0,0,49ers,150,10,16.0,DST,71,9.0,0,221,0,0
+5,2015,15,Blaine Gabbert,0,0,Bengals,0,50,30,3,1,295,12.0,QB,0,0,0,0,0,2,0,10,0,Bengals,1,1,3,49ers,263,14,18.0,DST,55,4.0,0,318,0,1
+6,2015,16,Blaine Gabbert,0,1,Lions,0,33,22,0,2,225,20.0,QB,0,0,0,0,0,1,0,9,1,Lions,0,1,0,49ers,201,17,9.0,DST,121,3.0,0,322,0,0
+7,2015,17,Blaine Gabbert,0,0,Rams,0,44,28,1,1,354,18.0,QB,0,0,0,0,0,7,0,7,0,Rams,0,0,1,49ers,350,19,7.0,DST,108,1.0,0,458,0,1

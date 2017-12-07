@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Mike Brown,0,0,Chiefs,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Chiefs,0,0,2,Jaguars,107,2,26.0,DST,71,6.0,0,178,1,1
+1,2013,6,Mike Brown,0,0,Broncos,0,0,0,0,0,0,4.0,WR,0,0,49,4,0,0,0,0,1,Broncos,0,0,2,Jaguars,291,19,10.0,DST,71,2.0,0,362,0,0
+2,2013,7,Mike Brown,0,0,Chargers,0,0,0,0,0,0,12.0,WR,0,0,120,5,0,0,0,0,0,Chargers,0,0,1,Jaguars,275,6,18.0,DST,78,6.0,0,353,0,1
+3,2013,8,Mike Brown,0,0,49ers,0,0,0,0,0,0,10.0,WR,0,1,43,3,0,0,0,0,0,49ers,0,1,0,Jaguars,228,10,15.0,DST,90,0.0,0,318,1,1
+4,2013,10,Mike Brown,0,0,Titans,0,0,0,0,0,0,4.0,WR,0,0,40,2,0,0,0,0,1,Titans,0,0,2,Jaguars,160,29,7.0,DST,54,3.0,0,214,0,0
+5,2013,11,Mike Brown,0,0,Cardinals,0,0,0,0,0,0,2.0,WR,0,0,23,2,0,0,0,0,0,Cardinals,0,0,2,Jaguars,242,14,10.0,DST,32,2.0,0,274,0,1
+6,2013,13,Mike Brown,0,0,Browns,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,1,Browns,0,0,1,Jaguars,202,32,4.0,DST,112,2.0,0,314,0,0
+7,2013,14,Mike Brown,0,0,Texans,0,0,0,0,0,0,1.0,WR,0,0,16,3,0,0,0,0,0,Texans,0,0,0,Jaguars,132,27,2.0,DST,149,1.0,0,281,0,1
+8,2013,15,Mike Brown,0,1,Bills,0,0,0,0,0,0,1.0,WR,0,0,20,3,0,0,0,0,0,Bills,0,1,2,Jaguars,195,20,15.0,DST,159,5.0,0,354,0,1
+9,2013,16,Mike Brown,0,0,Titans,0,0,0,0,0,0,13.0,WR,0,1,71,5,0,0,0,0,0,Titans,1,0,1,Jaguars,226,16,10.0,DST,63,2.0,0,289,0,1
+10,2013,17,Mike Brown,0,0,Colts,0,0,0,0,0,0,4.0,WR,0,0,43,3,0,0,0,0,1,Colts,0,1,1,Jaguars,308,10,14.0,DST,42,3.0,0,350,0,0

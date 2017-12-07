@@ -1,0 +1,10 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Shaun Hill,0,1,Bears,0,19,9,1,0,88,0.0,QB,0,0,0,0,0,3,0,-4,1,Bears,0,2,1,Lions,148,14,12.0,DST,20,2.0,0,168,0,0
+1,2010,2,Shaun Hill,0,0,Eagles,1,45,25,2,2,335,24.0,QB,0,0,0,0,0,3,0,16,0,Eagles,0,0,2,Lions,329,32,6.0,DST,115,2.0,0,444,0,1
+2,2010,4,Shaun Hill,0,0,Packers,0,54,34,2,2,331,26.0,QB,0,0,0,0,0,4,0,53,1,Packers,0,1,2,Lions,308,26,16.0,DST,123,3.0,0,431,1,0
+3,2010,5,Shaun Hill,0,0,Rams,0,32,21,0,3,227,27.0,QB,0,0,0,0,0,2,0,9,0,Rams,0,0,0,Lions,233,44,1.0,DST,89,1.0,0,322,0,1
+4,2010,6,Shaun Hill,0,0,Giants,0,15,9,0,1,91,9.0,QB,0,0,0,0,0,0,0,0,1,Giants,0,2,1,Lions,302,20,12.0,DST,64,2.0,0,366,0,0
+5,2010,10,Shaun Hill,0,0,Bills,0,50,29,1,1,323,16.0,QB,0,0,0,0,0,1,0,1,1,Bills,0,0,1,Lions,314,12,10.0,DST,76,1.0,0,390,0,0
+6,2010,11,Shaun Hill,0,0,Cowboys,0,47,32,1,2,289,21.0,QB,0,0,0,0,0,0,0,0,1,Cowboys,0,1,1,Lions,263,19,17.0,DST,75,3.0,0,338,1,0
+7,2010,12,Shaun Hill,0,0,Patriots,0,46,27,2,1,285,15.0,QB,0,0,0,0,0,4,0,23,0,Patriots,0,0,2,Lions,277,24,7.0,DST,129,2.0,0,406,0,1
+8,2010,16,Shaun Hill,0,0,Dolphins,0,26,14,0,2,222,21.0,QB,0,0,0,0,0,1,0,10,1,Dolphins,0,0,0,Lions,208,34,2.0,DST,67,2.0,0,275,0,0

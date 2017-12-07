@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Matt Cassel,0,0,Rams,0,25,17,0,2,170,18.0,QB,0,0,0,0,0,5,0,-3,1,Rams,0,0,0,Min,170,34,0.0,DST,185,0.0,0,355,0,0
+1,2014,2,Matt Cassel,0,0,Patriots,0,36,19,4,1,202,7.0,QB,0,0,0,0,0,3,0,16,0,Patriots,1,0,4,Min,163,7,29.0,DST,54,6.0,0,217,1,1
+2,2014,3,Matt Cassel,0,0,Saints,0,10,5,0,0,53,2.0,QB,0,0,0,0,0,1,0,5,1,Saints,0,0,0,Min,188,9,9.0,DST,59,2.0,0,247,0,0

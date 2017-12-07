@@ -1,0 +1,10 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Derrick Mason,0,0,Cowboys,0,0,0,0,0,0,1.0,WR,0,0,19,3,0,0,0,0,0,Cowboys,0,1,1,Jets,315,27,9.0,DST,45,4.0,0,360,0,1
+1,2011,2,Derrick Mason,0,0,Jaguars,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,0,Jaguars,0,0,2,Jets,182,32,5.0,DST,101,1.0,0,283,0,1
+2,2011,3,Derrick Mason,0,0,Raiders,0,0,0,0,0,0,4.0,WR,0,0,45,6,0,0,0,0,1,Raiders,0,1,1,Jets,339,24,9.0,DST,100,4.0,0,439,0,0
+3,2011,4,Derrick Mason,0,0,Ravens,0,0,0,0,0,0,3.0,WR,0,0,37,2,0,0,0,0,1,Ravens,0,3,1,Jets,112,17,32.0,DST,38,2.0,0,150,3,0
+4,2011,5,Derrick Mason,0,0,Patriots,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,1,Patriots,0,0,0,Jets,158,21,3.0,DST,97,2.0,0,255,0,0
+5,2011,6,Derrick Mason,0,0,Ravens,0,0,0,0,0,0,2.0,WR,0,0,27,3,0,0,0,0,1,Ravens,0,0,0,Texans,200,14,8.0,DST,93,4.0,0,293,0,0
+6,2011,7,Derrick Mason,0,0,Titans,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,1,Titans,0,0,0,Texans,296,41,0.0,DST,222,0.0,0,518,0,0
+7,2011,8,Derrick Mason,0,0,Jaguars,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,0,Jaguars,0,2,0,Texans,202,24,7.0,DST,156,2.0,0,358,0,1
+8,2011,10,Derrick Mason,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,16,1,0,0,0,0,1,Buccaneers,1,0,0,Texans,235,37,3.0,DST,185,1.0,0,420,0,0

@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Orleans Darkwa,0,0,Saints,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,1,0,-1,0,Saints,0,3,0,Giants,353,16,12.0,DST,64,2.0,0,417,0,1
+1,2016,3,Orleans Darkwa,0,0,Redskins,0,0,0,0,0,0,11.0,RB,0,0,9,1,0,10,1,53,0,Redskins,0,1,2,Giants,337,27,9.0,DST,120,2.0,0,457,0,1
+2,2016,5,Orleans Darkwa,0,0,Packers,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,7,0,11,1,Packers,0,1,0,Giants,178,16,10.0,DST,43,4.0,0,221,0,0
+3,2015,7,Orleans Darkwa,0,0,Cowboys,0,0,0,0,0,0,10.0,RB,0,0,0,0,0,8,1,48,0,Cowboys,0,0,0,Giants,157,27,3.0,DST,132,2.0,0,289,0,1
+4,2015,8,Orleans Darkwa,0,0,Saints,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,4,0,23,1,Saints,0,1,0,Giants,329,49,5.0,DST,87,3.0,0,416,0,0
+5,2015,9,Orleans Darkwa,0,0,Buccaneers,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,6,0,23,1,Buccaneers,0,0,2,Giants,213,32,4.0,DST,114,0.0,0,327,0,0
+6,2015,10,Orleans Darkwa,0,0,Patriots,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,15,0,Patriots,0,1,0,Giants,342,26,6.0,DST,80,3.0,0,422,0,1
+7,2015,12,Orleans Darkwa,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,2,1,Redskins,0,0,3,Giants,299,14,13.0,DST,33,3.0,0,332,0,0
+8,2015,13,Orleans Darkwa,0,0,Jets,0,0,0,0,0,0,3.0,RB,0,0,10,1,0,8,0,23,0,Jets,0,0,1,Giants,281,20,9.0,DST,74,3.0,0,355,0,1
+9,2015,14,Orleans Darkwa,0,0,Dolphins,0,0,0,0,0,0,1.0,RB,0,0,6,1,0,2,0,10,1,Dolphins,0,1,0,Giants,337,31,2.0,DST,92,0.0,0,429,0,0
+10,2014,2,Orleans Darkwa,0,0,Bills,0,0,0,0,0,0,3.0,RB,0,0,31,3,0,0,0,0,1,Bills,1,1,1,Dolphins,210,10,23.0,DST,80,4.0,0,290,1,0
+11,2014,4,Orleans Darkwa,0,0,Raiders,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,4,0,2,1,Raiders,0,2,1,Dolphins,278,38,6.0,DST,157,0.0,0,435,0,0
+12,2014,14,Orleans Darkwa,0,0,Titans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,0,1,Titans,0,0,1,Giants,260,36,8.0,DST,142,0.0,0,402,1,0
+13,2014,16,Orleans Darkwa,0,0,Rams,0,0,0,0,0,0,9.0,RB,0,0,17,2,0,4,1,21,1,Rams,1,0,0,Giants,386,37,3.0,DST,128,1.0,0,514,0,0

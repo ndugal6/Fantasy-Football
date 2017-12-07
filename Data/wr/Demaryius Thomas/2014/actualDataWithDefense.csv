@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Demaryius Thomas,0,0,Colts,0,0,0,0,0,0,4.0,WR,0,0,48,4,0,0,0,0,0,Colts,0,0,0,Broncos,259,31,1.0,DST,102,1.0,0,361,0,1
+1,2014,2,Demaryius Thomas,0,0,Chiefs,0,0,0,0,0,0,12.0,WR,0,1,62,5,0,0,0,0,0,Chiefs,0,0,0,Broncos,237,24,2.0,DST,88,1.0,0,325,0,1
+2,2014,3,Demaryius Thomas,0,0,Seahawks,0,0,0,0,0,0,5.0,WR,1,0,31,4,0,0,0,0,1,Seahawks,0,1,1,Broncos,296,20,9.0,DST,36,1.0,0,332,0,0
+3,2014,5,Demaryius Thomas,0,0,Cardinals,0,0,0,0,0,0,34.0,WR,0,2,226,8,0,0,0,0,0,Cardinals,0,0,2,Broncos,476,41,5.0,DST,92,1.0,0,568,0,1
+4,2014,6,Demaryius Thomas,0,0,Jets,0,0,0,0,0,0,18.0,WR,0,1,124,10,0,0,0,0,1,Jets,0,0,0,Broncos,221,31,2.0,DST,138,2.0,0,359,0,0
+5,2014,7,Demaryius Thomas,0,0,49ers,0,0,0,0,0,0,29.0,WR,0,2,171,8,0,0,0,0,0,49ers,0,0,0,Broncos,304,42,2.0,DST,115,2.0,0,419,0,1
+6,2014,8,Demaryius Thomas,0,0,Chargers,0,0,0,0,0,0,10.0,WR,0,0,105,8,0,0,0,0,0,Chargers,0,0,0,Broncos,286,35,0.0,DST,139,0.0,0,425,0,1
+7,2014,9,Demaryius Thomas,0,0,Patriots,0,0,0,0,0,0,12.0,WR,0,0,127,7,0,0,0,0,1,Patriots,0,0,2,Broncos,429,21,12.0,DST,43,1.0,0,472,1,0
+8,2014,10,Demaryius Thomas,0,0,Raiders,0,0,0,0,0,0,10.0,WR,0,0,108,11,0,0,0,0,1,Raiders,0,0,2,Broncos,353,41,4.0,DST,118,0.0,0,471,0,0
+9,2014,11,Demaryius Thomas,0,0,Rams,0,0,0,0,0,0,10.0,WR,0,0,103,7,0,0,0,0,1,Rams,0,0,2,Broncos,369,7,13.0,DST,28,2.0,0,397,0,0
+10,2014,12,Demaryius Thomas,0,0,Dolphins,0,0,0,0,0,0,26.0,WR,0,3,87,10,0,0,0,0,0,Dolphins,0,1,0,Broncos,249,39,3.0,DST,201,1.0,0,450,0,1
+11,2014,13,Demaryius Thomas,0,0,Chiefs,0,0,0,0,0,0,12.0,WR,0,1,63,6,0,0,0,0,1,Chiefs,0,1,0,Broncos,174,29,3.0,DST,214,1.0,0,388,0,0
+12,2014,14,Demaryius Thomas,0,0,Bills,0,0,0,0,0,0,1.0,WR,0,0,11,2,0,0,0,0,0,Bills,0,1,2,Broncos,173,24,7.0,DST,133,0.0,0,306,0,1
+13,2014,15,Demaryius Thomas,0,0,Chargers,0,0,0,0,0,0,18.0,WR,0,1,123,6,0,0,0,0,1,Chargers,0,0,0,Broncos,226,22,2.0,DST,111,1.0,0,337,0,0
+14,2014,16,Demaryius Thomas,0,0,Bengals,0,0,0,0,0,0,11.0,WR,0,0,115,7,0,0,0,0,1,Bengals,0,0,4,Broncos,300,28,16.0,DST,85,2.0,0,385,1,0
+15,2014,17,Demaryius Thomas,0,0,Raiders,0,0,0,0,0,0,11.0,WR,0,0,115,8,0,0,0,0,0,Raiders,0,1,0,Broncos,309,47,9.0,DST,142,1.0,0,451,1,1

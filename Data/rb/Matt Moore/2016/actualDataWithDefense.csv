@@ -1,0 +1,5 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,14,Matt Moore,0,0,Cardinals,0,5,3,0,0,47,1.0,QB,0,0,0,0,0,0,0,0,0,Cardinals,0,2,1,Dolphins,231,26,8.0,DST,83,1.0,0,314,0,1
+1,2016,15,Matt Moore,0,0,Jets,0,18,12,1,4,236,31.0,QB,0,0,0,0,0,0,0,0,1,Jets,0,0,1,Dolphins,236,34,3.0,DST,67,1.0,0,303,0,0
+2,2016,16,Matt Moore,0,0,Bills,0,30,16,1,2,233,19.0,QB,0,0,0,0,0,1,0,-1,1,Bills,0,0,1,Dolphins,233,34,2.0,DST,261,0.0,0,494,0,0
+3,2016,17,Matt Moore,0,0,Patriots,0,34,24,1,2,205,18.0,QB,0,0,0,0,0,0,0,0,0,Patriots,0,1,1,Dolphins,205,14,8.0,DST,75,0.0,0,280,0,1

@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,13,Marcus Thigpen,0,0,Patriots,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,8,0,Patriots,0,1,0,Dolphins,176,16,9.0,DST,101,3.0,0,277,0,1
+1,2012,14,Marcus Thigpen,0,1,49ers,0,0,0,0,0,0,-1.0,WR,0,0,0,0,0,0,0,0,1,49ers,0,1,0,Dolphins,133,13,11.0,DST,94,2.0,0,227,0,0
+2,2012,15,Marcus Thigpen,0,0,Jaguars,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,0,Jaguars,0,1,0,Dolphins,209,24,4.0,DST,180,1.0,0,389,0,1

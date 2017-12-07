@@ -1,0 +1,10 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Vince Young,0,1,Raiders,0,17,13,0,2,154,20.0,QB,0,0,0,0,0,7,0,30,0,Raiders,0,1,0,Titans,140,38,4.0,DST,205,2.0,0,345,0,1
+1,2010,2,Vince Young,0,1,Steelers,0,10,7,2,0,66,-2.0,QB,0,0,0,0,0,2,0,12,0,Steelers,0,4,3,Titans,192,11,31.0,DST,46,4.0,0,238,1,1
+2,2010,3,Vince Young,0,0,Giants,0,16,10,0,1,118,10.0,QB,0,0,0,0,0,3,0,6,1,Giants,0,0,0,Titans,110,29,1.0,DST,161,1.0,0,271,0,0
+3,2010,4,Vince Young,0,0,Broncos,0,28,17,0,1,173,13.0,QB,0,0,0,0,0,1,0,18,0,Broncos,0,2,0,Titans,167,20,10.0,DST,121,2.0,0,288,0,1
+4,2010,5,Vince Young,0,0,Cowboys,0,25,12,0,2,173,20.0,QB,0,0,0,0,0,4,0,22,1,Cowboys,0,0,0,Titans,163,34,3.0,DST,158,3.0,0,321,0,0
+5,2010,6,Vince Young,0,0,Jaguars,0,5,3,0,1,61,8.0,QB,0,0,0,0,0,1,0,0,1,Jaguars,0,0,0,Titans,171,30,0.0,DST,153,0.0,0,324,0,0
+6,2010,8,Vince Young,0,0,Chargers,0,21,10,0,2,253,22.0,QB,0,0,0,0,0,2,0,3,1,Chargers,0,0,0,Titans,305,25,1.0,DST,65,0.0,0,370,0,0
+7,2010,10,Vince Young,0,1,Dolphins,0,18,9,1,1,92,7.0,QB,0,0,0,0,0,2,0,14,1,Dolphins,0,2,1,Titans,124,17,12.0,DST,135,2.0,0,259,0,0
+8,2010,11,Vince Young,0,1,Redskins,0,16,12,0,0,165,7.0,QB,0,0,0,0,0,3,0,20,0,Redskins,0,1,1,Titans,222,16,9.0,DST,151,1.0,0,373,0,1

@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Louis Murphy,0,0,Titans,0,0,0,0,0,0,2.0,WR,0,0,28,4,0,0,0,0,1,Titans,0,1,1,Raiders,150,13,15.0,DST,136,4.0,0,286,0,0
+1,2010,2,Louis Murphy,0,0,Rams,0,0,0,0,0,0,15.0,WR,0,1,91,6,0,0,0,0,0,Rams,0,0,2,Raiders,231,16,10.0,DST,173,2.0,0,404,0,1
+2,2010,3,Louis Murphy,0,0,Cardinals,0,0,0,0,0,0,11.0,WR,0,0,119,5,0,0,0,0,1,Cardinals,0,0,1,Raiders,231,23,12.0,DST,133,3.0,0,364,1,0
+3,2010,4,Louis Murphy,0,0,Texans,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,0,Texans,0,1,2,Raiders,245,24,11.0,DST,118,4.0,0,363,0,1
+4,2010,5,Louis Murphy,0,0,Chargers,0,0,0,0,0,0,6.0,WR,0,0,61,2,0,0,0,0,0,Chargers,0,0,0,Raiders,168,35,3.0,DST,111,3.0,0,279,0,1
+5,2010,6,Louis Murphy,0,0,49ers,0,0,0,0,0,0,4.0,WR,0,0,4,1,0,1,0,43,1,49ers,0,0,2,Raiders,69,9,13.0,DST,110,2.0,0,179,0,0
+6,2010,7,Louis Murphy,0,0,Broncos,0,0,0,0,0,0,2.0,WR,0,0,29,2,0,0,0,0,1,Broncos,0,0,0,Raiders,180,59,2.0,DST,328,2.0,0,508,0,0
+7,2010,11,Louis Murphy,0,1,Steelers,0,0,0,0,0,0,1.0,WR,0,0,25,3,0,0,0,0,1,Steelers,0,1,2,Raiders,121,3,22.0,DST,61,6.0,0,182,0,0
+8,2010,12,Louis Murphy,0,0,Dolphins,0,0,0,0,0,0,7.0,WR,0,0,73,4,0,0,0,0,0,Dolphins,0,1,2,Raiders,247,17,11.0,DST,16,1.0,0,263,0,1
+9,2010,13,Louis Murphy,0,0,Chargers,0,0,0,0,0,0,3.0,WR,0,0,36,2,0,0,0,0,1,Chargers,0,1,0,Raiders,117,28,3.0,DST,251,1.0,0,368,0,0
+10,2010,14,Louis Murphy,0,0,Jaguars,0,0,0,0,0,0,11.0,WR,0,1,59,6,0,0,0,0,1,Jaguars,0,1,1,Raiders,323,31,7.0,DST,153,3.0,0,476,0,0
+11,2010,15,Louis Murphy,0,0,Broncos,0,0,0,0,0,0,1.0,WR,0,0,14,1,0,0,0,0,0,Broncos,0,1,2,Raiders,238,39,6.0,DST,264,0.0,0,502,0,1
+12,2010,16,Louis Murphy,0,0,Colts,0,0,0,0,0,0,3.0,WR,0,0,36,2,0,0,0,0,0,Colts,0,0,0,Raiders,210,26,4.0,DST,80,3.0,0,290,0,1
+13,2010,17,Louis Murphy,0,0,Chiefs,0,0,0,0,0,0,2.0,WR,0,0,29,2,0,0,0,0,1,Chiefs,0,1,0,Raiders,135,31,6.0,DST,209,4.0,0,344,0,0

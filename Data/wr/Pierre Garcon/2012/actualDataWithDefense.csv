@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Pierre Garcon,0,0,Saints,0,0,0,0,0,0,16.0,WR,0,1,109,4,0,0,0,0,1,Saints,1,0,0,Redskins,306,40,10.0,DST,153,2.0,0,459,1,0
+1,2012,4,Pierre Garcon,0,0,Buccaneers,0,0,0,0,0,0,2.0,WR,0,0,20,1,0,0,0,0,1,Buccaneers,0,0,0,Redskins,321,24,2.0,DST,153,1.0,0,474,0,0
+2,2012,5,Pierre Garcon,0,0,Falcons,0,0,0,0,0,0,2.0,WR,0,0,24,3,0,0,0,0,0,Falcons,0,0,2,Redskins,187,17,11.0,DST,129,3.0,0,316,0,1
+3,2012,11,Pierre Garcon,0,0,Eagles,0,0,0,0,0,0,0.0,WR,0,0,5,3,0,0,0,0,0,Eagles,0,0,0,Redskins,192,31,2.0,DST,169,2.0,0,361,0,1
+4,2012,12,Pierre Garcon,0,0,Cowboys,0,0,0,0,0,0,14.0,WR,0,1,86,4,0,1,0,7,1,Cowboys,0,0,1,Redskins,288,38,5.0,DST,149,3.0,0,437,0,0
+5,2012,13,Pierre Garcon,0,0,Giants,0,0,0,0,0,0,16.0,WR,0,1,106,8,0,0,0,0,0,Giants,0,1,0,Redskins,163,17,6.0,DST,207,0.0,0,370,0,1
+6,2012,14,Pierre Garcon,0,0,Ravens,0,0,0,0,0,0,14.0,WR,0,1,83,5,0,1,0,2,0,Ravens,0,1,0,Redskins,244,31,5.0,DST,179,3.0,0,423,0,1
+7,2012,15,Pierre Garcon,0,0,Browns,0,0,0,0,0,0,6.0,WR,0,0,65,6,0,0,0,0,1,Browns,0,0,1,Redskins,308,38,4.0,DST,122,2.0,0,430,0,0
+8,2012,16,Pierre Garcon,0,0,Eagles,0,0,0,0,0,0,8.0,WR,0,0,89,7,0,0,0,0,1,Eagles,0,0,1,Redskins,185,27,4.0,DST,128,1.0,0,313,0,0
+9,2012,17,Pierre Garcon,0,0,Cowboys,0,0,0,0,0,0,4.0,WR,0,0,46,3,0,0,0,0,0,Cowboys,0,0,0,Redskins,87,28,1.0,DST,274,1.0,0,361,0,1

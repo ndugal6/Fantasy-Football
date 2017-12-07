@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Kirk Cousins,0,0,Steelers,0,43,30,2,0,329,9.0,QB,0,0,0,0,0,1,0,8,0,Steelers,0,0,2,Redskins,329,16,8.0,DST,55,0.0,0,384,0,1
+1,2016,2,Kirk Cousins,0,0,Cowboys,0,46,28,1,1,364,20.0,QB,0,0,0,0,0,2,0,20,0,Cowboys,0,0,1,Redskins,350,23,5.0,DST,82,2.0,0,432,0,1
+2,2016,3,Kirk Cousins,0,0,Giants,0,35,21,0,2,296,23.0,QB,0,0,0,0,0,3,0,-5,1,Giants,0,1,0,Redskins,313,29,4.0,DST,90,2.0,0,403,0,0
+3,2016,4,Kirk Cousins,0,0,Browns,0,27,21,1,3,183,23.0,QB,0,0,0,0,0,0,0,0,0,Browns,0,0,1,Redskins,156,31,5.0,DST,145,3.0,0,301,0,1
+4,2016,5,Kirk Cousins,0,0,Ravens,0,41,29,1,1,260,14.0,QB,0,0,0,0,0,1,0,-1,1,Ravens,0,1,1,Redskins,250,16,9.0,DST,60,1.0,0,310,0,0
+5,2016,6,Kirk Cousins,0,0,Eagles,0,34,18,1,2,263,20.0,QB,0,0,0,0,0,2,0,8,0,Eagles,0,0,1,Redskins,263,27,15.0,DST,230,0.0,0,493,2,1
+6,2016,7,Kirk Cousins,0,1,Lions,0,39,30,0,1,301,24.0,QB,0,0,0,0,0,3,1,15,1,Lions,0,2,0,Redskins,283,17,10.0,DST,130,2.0,0,413,0,0
+7,2016,8,Kirk Cousins,0,0,Bengals,0,56,38,1,2,458,28.0,QB,0,0,0,0,0,3,0,-1,1,Bengals,0,0,1,Redskins,446,27,4.0,DST,100,1.0,0,546,0,0
+8,2016,11,Kirk Cousins,0,0,Packers,0,30,21,0,3,375,33.0,QB,0,0,0,0,0,4,0,4,0,Packers,0,0,0,Redskins,364,42,2.0,DST,151,2.0,0,515,0,1
+9,2016,12,Kirk Cousins,0,0,Cowboys,0,53,41,0,3,449,35.0,QB,0,0,0,0,0,1,0,2,1,Cowboys,0,0,0,Redskins,449,26,1.0,DST,56,0.0,0,505,0,0
+10,2016,13,Kirk Cousins,0,1,Cardinals,0,37,21,1,1,271,19.0,QB,0,0,0,0,0,2,1,0,1,Cardinals,0,1,1,Redskins,246,23,7.0,DST,87,2.0,0,333,0,0
+11,2016,14,Kirk Cousins,0,0,Eagles,0,21,14,1,2,234,19.0,QB,0,0,0,0,0,4,0,6,1,Eagles,0,0,1,Redskins,227,27,11.0,DST,107,2.0,0,334,1,0
+12,2016,15,Kirk Cousins,0,1,Panthers,0,47,32,1,0,315,10.0,QB,0,0,0,0,0,2,0,11,0,Panthers,0,2,1,Redskins,306,15,11.0,DST,29,1.0,0,335,0,1
+13,2016,16,Kirk Cousins,0,0,Bears,0,29,18,0,1,270,31.0,QB,0,0,0,0,0,5,2,30,1,Bears,0,0,0,Redskins,270,41,0.0,DST,208,0.0,0,478,0,0
+14,2016,17,Kirk Cousins,0,0,Giants,0,35,22,2,1,287,13.0,QB,0,0,0,0,0,0,0,0,0,Giants,0,1,2,Redskins,246,10,23.0,DST,38,4.0,0,284,1,1

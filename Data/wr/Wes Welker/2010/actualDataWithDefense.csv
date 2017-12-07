@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Wes Welker,0,0,Bengals,0,0,0,0,0,0,18.0,WR,0,2,64,8,0,0,0,0,0,Bengals,0,0,0,Patriots,258,38,0.0,DST,118,0.0,0,376,0,1
+1,2010,2,Wes Welker,0,0,Jets,0,0,0,0,0,0,9.0,WR,0,1,38,6,0,0,0,0,1,Jets,0,1,2,Patriots,239,14,11.0,DST,52,1.0,0,291,0,0
+2,2010,3,Wes Welker,0,0,Bills,0,0,0,0,0,0,4.0,WR,0,0,45,4,0,0,0,0,0,Bills,0,1,0,Patriots,245,38,9.0,DST,200,1.0,0,445,1,1
+3,2010,4,Wes Welker,0,0,Dolphins,0,0,0,0,0,0,7.0,WR,0,0,70,8,0,0,0,0,1,Dolphins,0,0,0,Patriots,146,41,3.0,DST,119,3.0,0,265,0,0
+4,2010,6,Wes Welker,0,0,Ravens,0,0,0,0,0,0,5.0,WR,0,0,53,7,0,0,0,0,0,Ravens,0,0,2,Patriots,267,23,8.0,DST,127,3.0,0,394,0,1
+5,2010,7,Wes Welker,0,0,Chargers,0,0,0,0,0,0,2.0,WR,0,0,25,4,0,0,0,0,1,Chargers,0,0,0,Patriots,128,23,5.0,DST,51,4.0,0,179,0,0
+6,2010,9,Wes Welker,0,0,Browns,0,0,0,0,0,0,4.0,WR,0,0,36,4,0,0,0,0,1,Browns,0,2,1,Patriots,215,14,11.0,DST,68,1.0,0,283,0,0
+7,2010,10,Wes Welker,0,0,Steelers,0,0,0,0,0,0,8.0,WR,0,0,89,8,0,0,0,0,1,Steelers,0,0,0,Patriots,350,39,0.0,DST,103,0.0,0,453,0,0
+8,2010,11,Wes Welker,0,0,Colts,0,0,0,0,0,0,11.0,WR,0,1,58,5,0,0,0,0,0,Colts,0,0,0,Patriots,178,31,1.0,DST,168,1.0,0,346,0,1
+9,2010,12,Wes Welker,0,0,Lions,0,0,0,0,0,0,21.0,WR,0,2,90,8,0,0,0,0,1,Lions,0,0,0,Patriots,338,45,1.0,DST,109,1.0,0,447,0,0
+10,2010,13,Wes Welker,0,0,Jets,0,0,0,0,0,0,14.0,WR,0,1,80,7,0,0,0,0,0,Jets,0,0,0,Patriots,304,45,3.0,DST,101,3.0,0,405,0,1
+11,2010,14,Wes Welker,0,0,Bears,0,0,0,0,0,0,11.0,WR,0,0,115,8,0,0,0,0,1,Bears,0,0,0,Patriots,351,36,3.0,DST,124,3.0,0,475,0,0
+12,2010,15,Wes Welker,0,0,Packers,0,0,0,0,0,0,4.0,WR,0,0,42,3,0,0,0,0,0,Packers,0,0,0,Patriots,136,31,3.0,DST,113,3.0,0,249,0,1
+13,2010,16,Wes Welker,0,0,Bills,0,0,0,0,0,0,1.0,WR,0,0,19,3,0,0,0,0,1,Bills,0,0,0,Patriots,131,34,1.0,DST,217,1.0,0,348,0,0

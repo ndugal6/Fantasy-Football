@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,7,Kyle Boller,0,0,Broncos,0,0,0,0,0,0,1.0,QB,0,0,0,0,0,6,0,11,1,Broncos,0,0,0,Raiders,180,59,2.0,DST,328,2.0,0,508,0,0
+1,2010,14,Kyle Boller,0,0,Jaguars,0,3,1,1,0,20,-2.0,QB,0,0,0,0,0,1,0,7,1,Jaguars,0,1,1,Raiders,323,31,7.0,DST,153,3.0,0,476,0,0
+2,2010,17,Kyle Boller,0,0,Chiefs,0,1,1,0,0,5,0.0,QB,0,0,0,0,0,0,0,0,1,Chiefs,0,1,0,Raiders,135,31,6.0,DST,209,4.0,0,344,0,0

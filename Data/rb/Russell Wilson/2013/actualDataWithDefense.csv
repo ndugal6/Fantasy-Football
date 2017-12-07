@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Russell Wilson,0,1,Panthers,0,33,25,0,1,320,17.0,QB,0,0,0,0,0,5,0,7,1,Panthers,0,1,0,Seahawks,300,12,11.0,DST,70,2.0,0,370,0,0
+1,2013,2,Russell Wilson,0,0,49ers,0,19,8,1,1,142,12.0,QB,0,0,0,0,0,10,0,33,0,49ers,1,0,1,Seahawks,118,29,8.0,DST,172,4.0,0,290,0,1
+2,2013,3,Russell Wilson,0,1,Jaguars,0,21,14,1,4,202,30.0,QB,0,0,0,0,0,2,0,14,0,Jaguars,0,1,1,Seahawks,323,45,6.0,DST,156,2.0,0,479,0,1
+3,2013,4,Russell Wilson,0,0,Texans,0,23,12,1,0,123,9.0,QB,0,0,0,0,0,10,0,77,1,Texans,0,1,1,Seahawks,91,23,10.0,DST,179,5.0,0,270,0,0
+4,2013,5,Russell Wilson,0,1,Colts,0,31,15,1,2,210,27.0,QB,0,0,0,0,0,13,0,102,1,Colts,1,1,1,Seahawks,205,28,14.0,DST,218,2.0,0,423,1,0
+5,2013,6,Russell Wilson,0,0,Titans,0,31,23,0,0,257,16.0,QB,0,0,0,0,0,10,0,61,0,Titans,0,2,0,Seahawks,253,20,16.0,DST,151,2.0,0,404,1,1
+6,2013,7,Russell Wilson,0,2,Cardinals,0,29,18,0,3,235,27.0,QB,0,0,0,0,0,8,0,29,1,Cardinals,0,2,0,Seahawks,209,34,7.0,DST,135,3.0,0,344,0,0
+7,2013,8,Russell Wilson,0,0,Rams,0,18,10,0,2,139,18.0,QB,0,0,0,0,0,3,0,16,1,Rams,0,0,0,Seahawks,91,14,11.0,DST,44,7.0,0,135,0,0
+8,2013,9,Russell Wilson,0,0,Buccaneers,0,26,19,2,2,217,25.0,QB,0,0,0,0,0,6,1,36,0,Buccaneers,0,1,2,Seahawks,217,27,7.0,DST,198,0.0,0,415,0,1
+9,2013,10,Russell Wilson,0,0,Falcons,0,26,19,0,2,287,25.0,QB,0,0,0,0,0,3,0,20,1,Falcons,0,0,0,Seahawks,279,33,1.0,DST,211,1.0,0,490,0,0
+10,2013,13,Russell Wilson,0,0,Saints,0,30,22,0,3,310,34.0,QB,0,0,0,0,0,8,0,47,0,Saints,0,0,0,Seahawks,302,34,1.0,DST,127,1.0,0,429,0,1
+11,2013,14,Russell Wilson,0,0,49ers,0,25,15,1,1,199,11.0,QB,0,0,0,0,0,1,0,2,1,49ers,1,0,1,Seahawks,178,17,10.0,DST,86,2.0,0,264,0,0
+12,2013,15,Russell Wilson,0,0,Giants,0,27,18,1,1,206,17.0,QB,0,0,0,0,0,8,0,50,1,Giants,0,0,1,Seahawks,193,23,7.0,DST,134,4.0,0,327,0,0
+13,2013,16,Russell Wilson,0,0,Cardinals,0,27,11,1,1,108,11.0,QB,0,0,0,0,0,2,0,32,0,Cardinals,0,1,1,Seahawks,89,10,15.0,DST,103,4.0,0,192,0,1
+14,2013,17,Russell Wilson,0,0,Rams,0,23,15,0,1,172,12.0,QB,0,0,0,0,0,5,0,-1,0,Rams,0,0,0,Seahawks,158,27,5.0,DST,111,4.0,0,269,0,1

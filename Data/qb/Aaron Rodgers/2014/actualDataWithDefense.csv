@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Aaron Rodgers,0,0,Seahawks,0,33,23,1,1,189,11.0,QB,0,0,0,0,0,0,0,0,1,Seahawks,0,0,1,Packers,175,16,11.0,DST,80,3.0,1,255,0,0
+1,2014,2,Aaron Rodgers,0,1,Jets,1,42,25,0,3,346,34.0,QB,0,0,0,0,0,6,0,28,0,Jets,0,1,0,Packers,310,31,6.0,DST,80,4.0,0,390,0,1
+2,2014,3,Aaron Rodgers,0,0,Lions,0,27,16,0,1,162,12.0,QB,0,0,0,0,0,0,0,0,1,Lions,0,1,0,Packers,147,7,19.0,DST,76,2.0,1,223,1,0
+3,2014,4,Aaron Rodgers,0,0,Bears,0,28,22,0,4,302,36.0,QB,0,0,0,0,0,1,0,8,1,Bears,1,0,0,Packers,302,38,3.0,DST,56,1.0,0,358,0,0
+4,2014,6,Aaron Rodgers,0,0,Dolphins,0,42,24,0,3,264,31.0,QB,0,0,0,0,0,7,0,34,1,Dolphins,1,0,0,Packers,248,27,6.0,DST,121,3.0,0,369,0,0
+5,2014,7,Aaron Rodgers,0,0,Panthers,0,22,19,0,3,255,30.0,QB,0,0,0,0,0,3,0,21,0,Panthers,0,0,0,Packers,241,38,2.0,DST,122,2.0,0,363,0,1
+6,2014,8,Aaron Rodgers,0,0,Saints,0,39,28,2,1,418,26.0,QB,0,0,0,0,0,2,1,21,1,Saints,0,1,2,Packers,402,23,11.0,DST,89,4.0,0,491,0,0
+7,2014,10,Aaron Rodgers,0,0,Bears,0,27,18,0,6,315,48.0,QB,0,0,0,0,0,0,0,0,0,Bears,0,1,0,Packers,319,55,8.0,DST,132,0.0,0,451,1,1
+8,2014,11,Aaron Rodgers,0,0,Eagles,0,36,22,0,3,341,34.0,QB,0,0,0,0,0,3,0,32,0,Eagles,2,0,0,Packers,365,53,5.0,DST,110,1.0,0,475,0,1
+9,2014,13,Aaron Rodgers,0,0,Patriots,0,38,24,0,2,368,28.0,QB,0,0,0,0,0,5,0,22,0,Patriots,0,0,0,Packers,348,26,4.0,DST,130,3.0,0,478,0,1
+10,2014,14,Aaron Rodgers,0,0,Falcons,0,36,24,0,3,327,33.0,QB,0,0,0,0,0,5,0,28,0,Falcons,1,0,0,Packers,323,43,3.0,DST,179,1.0,0,502,0,1
+11,2014,15,Aaron Rodgers,0,0,Bills,0,42,17,2,0,185,5.0,QB,0,0,0,0,0,3,0,27,1,Bills,1,0,2,Packers,175,13,22.0,DST,158,1.0,1,333,1,0
+12,2014,16,Aaron Rodgers,0,1,Buccaneers,0,40,31,0,1,318,17.0,QB,0,0,0,0,0,0,0,0,1,Buccaneers,0,1,0,Packers,310,20,7.0,DST,121,1.0,0,431,0,0
+13,2014,17,Aaron Rodgers,0,0,Lions,0,22,17,0,2,226,28.0,QB,0,0,0,0,0,2,1,14,0,Lions,1,2,0,Packers,225,30,7.0,DST,152,1.0,0,377,0,1

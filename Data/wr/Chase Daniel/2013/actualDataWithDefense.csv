@@ -1,0 +1,6 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Chase Daniel,0,0,Jaguars,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,1,0,-1,1,Jaguars,1,0,0,Chiefs,171,28,5.0,DST,121,1.0,1,292,0,0
+1,2013,4,Chase Daniel,0,0,Giants,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,0,Giants,0,1,2,Chiefs,288,31,7.0,DST,102,1.0,0,390,0,1
+2,2013,14,Chase Daniel,0,0,Redskins,0,3,1,1,0,17,-2.0,QB,0,0,0,0,0,3,0,-3,1,Redskins,0,0,1,Chiefs,154,45,2.0,DST,192,0.0,0,346,0,0
+3,2013,15,Chase Daniel,0,0,Raiders,0,5,3,0,0,31,1.0,QB,0,0,0,0,0,1,0,-1,1,Raiders,0,1,0,Chiefs,306,56,4.0,DST,78,2.0,0,384,0,0
+4,2013,17,Chase Daniel,0,0,Chargers,0,30,21,0,1,200,19.0,QB,0,0,0,0,0,7,0,59,1,Chargers,0,0,0,Chiefs,189,24,3.0,DST,143,2.0,0,332,0,0

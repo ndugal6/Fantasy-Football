@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Jason Snelling,0,0,Bears,0,0,0,0,0,0,4.0,RB,0,0,32,5,0,2,0,10,1,Bears,0,2,1,Falcons,276,12,24.0,DST,110,5.0,0,386,1,0
+1,2011,2,Jason Snelling,0,0,Eagles,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,0,Eagles,0,0,2,Falcons,180,35,8.0,DST,138,4.0,0,318,0,1
+2,2011,3,Jason Snelling,0,0,Buccaneers,0,0,0,0,0,0,0.0,RB,0,0,3,2,0,0,0,0,1,Buccaneers,0,2,1,Falcons,295,13,17.0,DST,30,4.0,0,325,0,0
+3,2011,5,Jason Snelling,0,0,Packers,0,0,0,0,0,0,2.0,RB,0,0,21,2,0,1,0,2,0,Packers,0,0,2,Falcons,156,14,9.0,DST,95,1.0,0,251,0,1
+4,2011,6,Jason Snelling,0,0,Panthers,0,0,0,0,0,0,1.0,RB,0,0,7,1,0,3,0,12,0,Panthers,0,0,0,Falcons,159,31,1.0,DST,166,1.0,0,325,0,1
+5,2011,7,Jason Snelling,0,0,Lions,0,0,0,0,0,0,1.0,RB,0,0,18,1,0,0,0,0,1,Lions,0,0,2,Falcons,199,23,8.0,DST,129,3.0,0,328,0,0
+6,2011,9,Jason Snelling,0,0,Colts,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,8,0,15,1,Colts,0,0,1,Falcons,269,31,9.0,DST,163,1.0,0,432,1,0
+7,2011,10,Jason Snelling,0,0,Saints,0,0,0,0,0,0,8.0,RB,0,1,25,2,0,1,0,0,0,Saints,0,0,1,Falcons,343,23,4.0,DST,138,1.0,0,481,0,1
+8,2011,11,Jason Snelling,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,4,1,0,7,0,11,0,Titans,0,1,0,Falcons,316,23,3.0,DST,116,0.0,0,432,0,1
+9,2011,13,Jason Snelling,0,0,Texans,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,2,0,16,1,Texans,0,0,2,Falcons,267,10,11.0,DST,70,0.0,0,337,0,0
+10,2011,14,Jason Snelling,0,0,Panthers,0,0,0,0,0,0,0.0,RB,0,0,-1,1,0,3,0,6,1,Panthers,0,0,0,Falcons,308,31,5.0,DST,86,3.0,1,394,0,0
+11,2011,15,Jason Snelling,0,0,Jaguars,0,0,0,0,0,0,4.0,RB,0,0,26,4,0,5,0,22,0,Jaguars,1,0,0,Falcons,276,41,9.0,DST,97,1.0,0,373,1,1
+12,2011,16,Jason Snelling,0,0,Saints,0,0,0,0,0,0,2.0,RB,0,0,28,4,0,0,0,0,1,Saints,0,1,0,Falcons,434,16,12.0,DST,35,0.0,0,469,1,0
+13,2011,17,Jason Snelling,0,0,Buccaneers,0,0,0,0,0,0,5.0,RB,0,0,4,1,0,9,0,50,0,Buccaneers,0,1,1,Falcons,177,45,10.0,DST,251,0.0,0,428,1,1

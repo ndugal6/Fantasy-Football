@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Stefon Diggs,0,0,Titans,0,0,0,0,0,0,10.0,WR,0,0,103,7,0,1,0,-1,1,Titans,0,0,0,Min,236,25,1.0,DST,65,0.0,0,301,0,0
+1,2016,2,Stefon Diggs,0,0,Packers,0,0,0,0,0,0,24.0,WR,0,1,182,9,0,0,0,0,0,Packers,0,1,0,Min,254,17,10.0,DST,30,4.0,0,284,0,1
+2,2016,3,Stefon Diggs,0,0,Panthers,0,0,0,0,0,0,4.0,WR,0,0,40,4,0,0,0,0,1,Panthers,0,0,0,Min,153,22,3.0,DST,58,2.0,0,211,0,0
+3,2016,4,Stefon Diggs,0,0,Giants,0,0,0,0,0,0,4.0,WR,0,0,47,5,0,1,0,-1,0,Giants,0,0,0,Min,262,24,1.0,DST,104,0.0,0,366,0,1
+4,2016,7,Stefon Diggs,0,0,Eagles,0,0,0,0,0,0,1.0,WR,0,0,18,2,0,0,0,0,1,Eagles,0,3,1,Min,189,10,27.0,DST,93,6.0,0,282,1,0
+5,2016,8,Stefon Diggs,0,0,Bears,0,0,0,0,0,0,13.0,WR,0,1,76,8,0,0,0,0,1,Bears,0,0,0,Min,201,10,12.0,DST,57,5.0,0,258,0,0
+6,2016,9,Stefon Diggs,0,0,Lions,0,0,0,0,0,0,9.0,WR,0,0,80,13,0,1,0,12,0,Lions,1,0,0,Min,259,16,8.0,DST,78,2.0,0,337,0,1
+7,2016,10,Stefon Diggs,0,0,Redskins,0,0,0,0,0,0,16.0,WR,0,0,164,13,0,0,0,0,1,Redskins,0,0,1,Min,284,20,9.0,DST,47,3.0,0,331,0,0
+8,2016,11,Stefon Diggs,0,0,Cardinals,0,0,0,0,0,0,3.0,WR,0,0,37,6,0,0,0,0,0,Cardinals,1,1,0,Min,145,30,6.0,DST,72,2.0,0,217,0,1
+9,2016,13,Stefon Diggs,0,0,Cowboys,0,0,0,0,0,0,5.0,WR,0,0,59,8,0,0,0,0,0,Cowboys,0,1,0,Min,231,15,9.0,DST,87,3.0,0,318,0,1
+10,2016,14,Stefon Diggs,0,0,Jaguars,0,0,0,0,0,0,5.0,WR,0,0,55,3,0,0,0,0,1,Jaguars,0,1,0,Min,292,25,3.0,DST,85,0.0,0,377,0,0
+11,2016,15,Stefon Diggs,0,0,Colts,0,0,0,0,0,0,1.0,WR,0,0,13,2,0,0,0,0,0,Colts,0,2,1,Min,248,6,21.0,DST,34,5.0,0,282,0,1
+12,2016,16,Stefon Diggs,0,0,Packers,0,0,0,0,0,0,8.0,WR,0,1,29,4,0,0,0,0,1,Packers,0,2,0,Min,353,25,9.0,DST,93,4.0,0,446,0,0

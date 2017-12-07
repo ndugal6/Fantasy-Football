@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,T.Y. Hilton,0,0,Bills,0,0,0,0,0,0,8.0,WR,0,0,88,7,0,0,0,0,1,Bills,0,1,2,Colts,240,14,12.0,DST,64,2.0,0,304,0,0
+1,2015,2,T.Y. Hilton,0,0,Jets,0,0,0,0,0,0,4.0,WR,0,0,45,4,0,0,0,0,0,Jets,0,2,3,Colts,250,7,17.0,DST,93,0.0,0,343,0,1
+2,2015,3,T.Y. Hilton,0,0,Titans,0,0,0,0,0,0,9.0,WR,0,0,94,4,0,0,0,0,1,Titans,0,0,2,Colts,245,35,7.0,DST,133,3.0,0,378,0,0
+3,2015,4,T.Y. Hilton,0,0,Jaguars,0,0,0,0,0,0,6.0,WR,0,0,67,7,0,0,0,0,0,Jaguars,0,2,0,Colts,266,16,11.0,DST,60,3.0,0,326,0,1
+4,2015,5,T.Y. Hilton,0,0,Texans,0,0,0,0,0,0,8.0,WR,0,0,88,5,0,0,0,0,1,Texans,0,0,0,Colts,213,27,1.0,DST,110,0.0,0,323,0,0
+5,2015,6,T.Y. Hilton,0,0,Patriots,0,0,0,0,0,0,13.0,WR,0,1,74,6,0,0,0,0,0,Patriots,1,0,0,Colts,289,27,6.0,DST,120,3.0,0,409,0,1
+6,2015,7,T.Y. Hilton,0,0,Saints,0,0,0,0,0,0,27.0,WR,0,2,150,4,0,0,0,0,0,Saints,0,1,2,Colts,301,21,11.0,DST,75,4.0,0,376,0,1
+7,2015,8,T.Y. Hilton,0,0,Panthers,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,1,Panthers,0,1,3,Colts,223,26,11.0,DST,136,2.0,0,359,0,0
+8,2015,9,T.Y. Hilton,0,0,Broncos,0,0,0,0,0,0,8.0,WR,0,0,82,5,0,0,0,0,0,Broncos,0,0,0,Colts,245,27,8.0,DST,120,1.0,0,365,1,1
+9,2015,11,T.Y. Hilton,0,0,Falcons,0,0,0,0,0,0,2.0,WR,0,0,21,2,0,0,0,0,1,Falcons,0,1,2,Colts,202,24,9.0,DST,74,2.0,0,276,0,0
+10,2015,12,T.Y. Hilton,0,0,Buccaneers,0,0,0,0,0,0,21.0,WR,0,2,95,6,0,0,0,0,0,Buccaneers,0,0,0,Colts,309,25,4.0,DST,27,3.0,0,336,0,1
+11,2015,13,T.Y. Hilton,0,0,Steelers,0,0,0,0,0,0,3.0,WR,0,0,36,3,0,0,0,0,1,Steelers,0,1,2,Colts,186,10,24.0,DST,54,5.0,0,240,1,0
+12,2015,14,T.Y. Hilton,0,0,Jaguars,0,0,0,0,0,0,13.0,WR,0,0,132,4,0,0,0,0,1,Jaguars,0,1,1,Colts,227,16,23.0,DST,95,3.0,0,322,2,0
+13,2015,15,T.Y. Hilton,0,0,Texans,0,0,0,0,0,0,2.0,WR,0,0,29,3,0,0,0,0,0,Texans,0,1,1,Colts,140,10,14.0,DST,50,3.0,0,190,0,1
+14,2015,16,T.Y. Hilton,0,0,Dolphins,0,0,0,0,0,0,6.0,WR,0,0,64,4,0,0,0,0,1,Dolphins,0,0,0,Colts,168,18,6.0,DST,100,2.0,0,268,0,0
+15,2015,17,T.Y. Hilton,0,0,Titans,0,0,0,0,0,0,4.0,WR,0,0,44,4,0,0,0,0,0,Titans,0,0,1,Colts,200,30,3.0,DST,127,1.0,0,327,0,1

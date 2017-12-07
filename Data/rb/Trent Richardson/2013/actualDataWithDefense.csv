@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Trent Richardson,0,0,Dolphins,0,0,0,0,0,0,7.0,RB,0,0,30,2,0,13,0,47,0,Dolphins,0,0,3,Browns,244,10,19.0,DST,47,6.0,0,291,0,1
+1,2013,2,Trent Richardson,0,0,Ravens,0,0,0,0,0,0,7.0,RB,0,0,21,5,0,18,0,58,1,Ravens,0,0,0,Browns,194,6,15.0,DST,65,5.0,0,259,0,0
+2,2013,3,Trent Richardson,0,0,49ers,0,0,0,0,0,0,9.0,RB,0,0,0,0,0,13,1,35,1,49ers,0,0,0,Colts,152,27,2.0,DST,184,1.0,0,336,0,0
+3,2013,4,Trent Richardson,0,0,Jaguars,0,0,0,0,0,0,12.0,RB,0,0,6,1,0,20,1,60,1,Jaguars,0,0,1,Colts,280,37,4.0,DST,157,2.0,0,437,0,0
+4,2013,5,Trent Richardson,0,0,Seahawks,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,18,0,56,0,Seahawks,1,2,0,Colts,208,34,10.0,DST,109,2.0,1,317,0,1
+5,2013,6,Trent Richardson,0,0,Chargers,0,0,0,0,0,0,5.0,RB,0,0,13,1,0,10,0,40,1,Chargers,0,0,1,Colts,193,9,10.0,DST,74,1.0,0,267,0,0
+6,2013,7,Trent Richardson,0,1,Broncos,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,14,0,37,0,Broncos,0,1,0,Colts,213,39,4.0,DST,121,2.0,0,334,0,1
+7,2013,9,Trent Richardson,0,0,Texans,0,0,0,0,0,0,5.0,RB,0,0,33,2,0,8,0,20,1,Texans,1,0,0,Colts,245,27,7.0,DST,69,4.0,0,314,0,0
+8,2013,10,Trent Richardson,0,0,Rams,0,0,0,0,0,0,3.0,RB,0,0,33,3,0,5,0,2,0,Rams,0,1,4,Colts,388,8,32.0,DST,18,3.0,0,406,2,1
+9,2013,11,Trent Richardson,0,0,Titans,0,0,0,0,0,0,5.0,RB,0,0,31,5,0,8,0,22,1,Titans,0,0,0,Colts,229,30,1.0,DST,137,1.0,0,366,0,0
+10,2013,12,Trent Richardson,0,0,Cardinals,0,0,0,0,0,0,2.0,RB,0,0,11,2,0,7,0,15,1,Cardinals,0,0,1,Colts,159,11,16.0,DST,80,1.0,0,239,1,0
+11,2013,13,Trent Richardson,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,19,0,Titans,0,0,1,Colts,160,22,8.0,DST,104,5.0,0,264,0,1
+12,2013,14,Trent Richardson,0,0,Bengals,0,0,0,0,0,0,8.0,RB,0,0,68,5,0,6,0,20,1,Bengals,0,0,0,Colts,326,28,0.0,DST,63,0.0,0,389,0,0
+13,2013,15,Trent Richardson,0,0,Texans,0,0,0,0,0,0,15.0,RB,0,1,38,4,0,19,0,64,0,Texans,0,0,1,Colts,179,25,4.0,DST,152,1.0,0,331,0,1
+14,2013,16,Trent Richardson,0,0,Chiefs,0,0,0,0,0,0,5.0,RB,0,0,15,3,0,16,0,43,1,Chiefs,0,0,0,Colts,232,23,2.0,DST,135,1.0,0,367,0,0
+15,2013,17,Trent Richardson,0,0,Jaguars,0,0,0,0,0,0,9.0,RB,0,0,17,2,0,8,1,25,0,Jaguars,0,0,0,Colts,299,30,1.0,DST,80,1.0,0,379,0,1

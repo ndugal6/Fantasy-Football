@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,C.J. Anderson,0,0,Colts,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,4,0,27,0,Colts,0,0,0,Broncos,259,31,1.0,DST,102,1.0,0,361,0,1
+1,2014,2,C.J. Anderson,0,0,Chiefs,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,5,0,31,0,Chiefs,0,0,0,Broncos,237,24,2.0,DST,88,1.0,0,325,0,1
+2,2014,3,C.J. Anderson,0,0,Seahawks,0,0,0,0,0,0,0.0,RB,0,0,1,1,0,2,0,-3,1,Seahawks,0,1,1,Broncos,296,20,9.0,DST,36,1.0,0,332,0,0
+3,2014,7,C.J. Anderson,0,0,49ers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,9,0,49ers,0,0,0,Broncos,304,42,2.0,DST,115,2.0,0,419,0,1
+4,2014,8,C.J. Anderson,0,0,Chargers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,0,0,Chargers,0,0,0,Broncos,286,35,0.0,DST,139,0.0,0,425,0,1
+5,2014,9,C.J. Anderson,0,0,Patriots,0,0,0,0,0,0,4.0,RB,0,0,33,3,0,3,0,18,1,Patriots,0,0,2,Broncos,429,21,12.0,DST,43,1.0,0,472,1,0
+6,2014,10,C.J. Anderson,0,0,Raiders,0,0,0,0,0,0,22.0,RB,0,1,73,4,0,13,0,90,1,Raiders,0,0,2,Broncos,353,41,4.0,DST,118,0.0,0,471,0,0
+7,2014,11,C.J. Anderson,0,0,Rams,0,0,0,0,0,0,10.0,RB,0,0,86,8,0,9,0,29,1,Rams,0,0,2,Broncos,369,7,13.0,DST,28,2.0,0,397,0,0
+8,2014,12,C.J. Anderson,0,0,Dolphins,0,0,0,0,0,0,24.0,RB,0,0,28,4,0,27,1,167,0,Dolphins,0,1,0,Broncos,249,39,3.0,DST,201,1.0,0,450,0,1
+9,2014,13,C.J. Anderson,0,0,Chiefs,0,0,0,0,0,0,23.0,RB,0,1,17,2,0,32,0,168,1,Chiefs,0,1,0,Broncos,174,29,3.0,DST,214,1.0,0,388,0,0
+10,2014,14,C.J. Anderson,0,0,Bills,0,0,0,0,0,0,23.0,RB,0,0,0,0,0,21,3,58,0,Bills,0,1,2,Broncos,173,24,7.0,DST,133,0.0,0,306,0,1
+11,2014,15,C.J. Anderson,0,0,Chargers,0,0,0,0,0,0,9.0,RB,0,0,11,2,0,29,0,85,1,Chargers,0,0,0,Broncos,226,22,2.0,DST,111,1.0,0,337,0,0
+12,2014,16,C.J. Anderson,0,0,Bengals,0,0,0,0,0,0,19.0,RB,0,0,55,8,0,18,1,83,1,Bengals,0,0,4,Broncos,300,28,16.0,DST,85,2.0,0,385,1,0
+13,2014,17,C.J. Anderson,0,0,Raiders,0,0,0,0,0,0,28.0,RB,0,0,20,2,0,13,3,87,0,Raiders,0,1,0,Broncos,309,47,9.0,DST,142,1.0,0,451,1,1

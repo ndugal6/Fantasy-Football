@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Ben Tate,0,0,Dolphins,0,0,0,0,0,0,2.0,RB,0,0,22,3,0,5,0,6,0,Dolphins,0,0,0,Texans,254,30,8.0,DST,83,2.0,0,337,1,1
+1,2012,2,Ben Tate,0,0,Jaguars,0,0,0,0,0,0,21.0,RB,0,0,23,4,0,12,2,74,1,Jaguars,0,0,0,Texans,195,27,1.0,DST,216,0.0,0,411,0,0
+2,2012,3,Ben Tate,0,1,Broncos,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,8,0,26,1,Broncos,0,1,1,Texans,284,31,7.0,DST,152,1.0,1,436,0,0
+3,2012,4,Ben Tate,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,3,2,0,5,0,11,0,Titans,0,0,0,Texans,202,38,0.0,DST,95,0.0,0,297,0,1
+4,2012,6,Ben Tate,0,0,Packers,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,14,0,Packers,0,0,3,Texans,231,24,10.0,DST,90,3.0,0,321,0,1
+5,2012,7,Ben Tate,0,0,Ravens,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,10,0,47,0,Ravens,0,0,0,Texans,239,43,2.0,DST,181,2.0,0,420,0,1
+6,2012,13,Ben Tate,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,18,1,Titans,0,0,0,Texans,207,24,1.0,DST,124,0.0,0,331,0,0
+7,2012,14,Ben Tate,0,0,Patriots,0,0,0,0,0,0,4.0,RB,0,0,-1,1,0,8,0,46,1,Patriots,0,0,1,Texans,223,14,14.0,DST,100,2.0,0,323,1,0
+8,2012,15,Ben Tate,0,0,Colts,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,13,0,Colts,0,0,0,Texans,239,29,3.0,DST,178,3.0,0,417,0,1
+9,2012,17,Ben Tate,0,0,Colts,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,7,1,Colts,0,0,2,Texans,250,16,18.0,DST,102,4.0,0,352,1,0

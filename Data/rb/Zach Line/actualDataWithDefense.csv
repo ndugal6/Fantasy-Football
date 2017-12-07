@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,4,Zach Line,0,0,Giants,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,6,0,Giants,0,0,0,Min,262,24,1.0,DST,104,0.0,0,366,0,1
+1,2016,7,Zach Line,0,0,Eagles,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,2,1,Eagles,0,3,1,Min,189,10,27.0,DST,93,6.0,0,282,1,0
+2,2016,10,Zach Line,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,5,1,Redskins,0,0,1,Min,284,20,9.0,DST,47,3.0,0,331,0,0
+3,2016,12,Zach Line,0,0,Lions,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,2,1,Lions,0,0,1,Min,224,13,9.0,DST,82,0.0,0,306,0,0
+4,2015,2,Zach Line,0,0,Lions,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,1,1,1,0,Lions,0,1,0,Min,151,26,4.0,DST,199,1.0,0,350,0,1
+5,2015,3,Zach Line,0,0,Chargers,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,1,1,1,0,Chargers,0,0,1,Min,121,31,2.0,DST,163,0.0,0,284,0,1
+6,2015,6,Zach Line,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,0,0,0,0,Chiefs,0,0,2,Min,237,16,10.0,DST,84,2.0,0,321,0,1
+7,2015,7,Zach Line,0,0,Lions,0,0,0,0,0,0,4.0,RB,0,0,49,1,0,2,0,2,1,Lions,0,1,0,Min,285,28,8.0,DST,140,4.0,1,425,0,0
+8,2015,11,Zach Line,0,0,Packers,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,0,0,0,0,Packers,0,1,0,Min,248,13,15.0,DST,94,6.0,0,342,0,1
+9,2015,12,Zach Line,0,0,Falcons,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,1,Falcons,0,0,1,Min,174,20,6.0,DST,191,0.0,0,365,0,0
+10,2015,14,Zach Line,0,0,Cardinals,0,0,0,0,0,0,2.0,RB,0,0,24,1,0,0,0,0,1,Cardinals,0,3,0,Min,317,20,13.0,DST,72,3.0,0,389,0,0
+11,2015,15,Zach Line,0,0,Bears,0,0,0,0,0,0,6.0,RB,0,1,4,1,0,1,0,3,0,Bears,0,0,0,Min,221,38,1.0,DST,129,1.0,0,350,0,1
+12,2015,16,Zach Line,0,0,Giants,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,3,0,Giants,0,0,0,Min,150,49,3.0,DST,218,3.0,0,368,0,1
+13,2013,1,Zach Line,0,0,Lions,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,1,Lions,0,1,3,Min,225,24,12.0,DST,105,3.0,0,330,0,0

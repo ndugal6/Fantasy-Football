@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Ryan Tannehill,0,0,Browns,0,38,24,1,1,272,14.0,QB,0,0,0,0,0,5,0,3,1,Browns,0,0,1,Dolphins,255,23,7.0,DST,20,4.0,0,275,0,0
+1,2013,2,Ryan Tannehill,0,1,Colts,0,34,23,0,1,319,17.0,QB,0,0,0,0,0,4,0,1,1,Colts,0,1,0,Dolphins,297,24,8.0,DST,101,5.0,0,398,0,0
+2,2013,3,Ryan Tannehill,0,1,Falcons,0,35,24,1,2,236,18.0,QB,0,0,0,0,0,2,0,7,0,Falcons,0,1,1,Dolphins,195,27,10.0,DST,90,5.0,0,285,0,1
+3,2013,4,Ryan Tannehill,0,1,Saints,0,35,22,3,1,249,12.0,QB,0,0,0,0,0,4,0,48,1,Saints,0,1,3,Dolphins,216,17,16.0,DST,115,4.0,0,331,0,0
+4,2013,5,Ryan Tannehill,0,0,Ravens,0,40,21,0,1,307,18.0,QB,0,0,0,0,0,2,0,6,0,Ravens,0,0,0,Dolphins,272,23,7.0,DST,22,6.0,0,294,0,1
+5,2013,7,Ryan Tannehill,0,1,Bills,0,37,19,2,3,194,20.0,QB,0,0,0,0,0,3,0,5,0,Bills,0,1,2,Dolphins,173,21,15.0,DST,120,2.0,0,293,1,1
+6,2013,8,Ryan Tannehill,0,1,Patriots,0,42,22,2,2,192,15.0,QB,0,0,0,0,0,1,0,12,1,Patriots,1,1,2,Dolphins,145,17,18.0,DST,156,6.0,0,301,0,0
+7,2013,9,Ryan Tannehill,0,0,Bengals,0,28,20,0,0,208,14.0,QB,0,0,0,0,0,1,1,1,0,Bengals,0,1,0,Dolphins,188,22,6.0,DST,157,3.0,0,345,0,1
+8,2013,10,Ryan Tannehill,0,0,Buccaneers,0,42,27,1,2,229,19.0,QB,0,0,0,0,0,1,0,2,1,Buccaneers,0,0,1,Dolphins,211,19,10.0,DST,2,2.0,1,213,0,0
+9,2013,11,Ryan Tannehill,0,0,Chargers,0,35,22,1,1,268,16.0,QB,0,0,0,0,0,4,0,21,0,Chargers,0,0,1,Dolphins,239,20,10.0,DST,104,4.0,0,343,0,1
+10,2013,12,Ryan Tannehill,0,0,Panthers,0,42,28,1,1,310,19.0,QB,0,0,0,0,0,4,0,36,0,Panthers,0,0,1,Dolphins,280,16,9.0,DST,52,3.0,0,332,0,1
+11,2013,13,Ryan Tannehill,0,0,Jets,0,43,28,1,2,331,25.0,QB,0,0,0,0,0,3,0,22,1,Jets,0,0,1,Dolphins,328,23,4.0,DST,125,1.0,0,453,0,0
+12,2013,14,Ryan Tannehill,0,0,Steelers,0,33,20,1,3,200,29.0,QB,0,0,0,0,0,3,0,56,1,Steelers,0,0,1,Dolphins,186,34,10.0,DST,181,2.0,0,367,1,0
+13,2013,15,Ryan Tannehill,0,0,Patriots,0,37,25,0,3,312,30.0,QB,0,0,0,0,0,1,0,-1,0,Patriots,0,1,0,Dolphins,289,24,7.0,DST,89,4.0,0,378,0,1
+14,2013,16,Ryan Tannehill,0,0,Bills,0,27,10,0,0,82,3.0,QB,0,0,0,0,0,0,0,0,1,Bills,0,0,2,Dolphins,89,0,21.0,DST,14,7.0,0,103,0,0
+15,2013,17,Ryan Tannehill,0,0,Jets,0,40,20,3,1,204,9.0,QB,0,0,0,0,0,2,0,19,0,Jets,0,0,3,Dolphins,204,7,13.0,DST,92,0.0,0,296,0,1

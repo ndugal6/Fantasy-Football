@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,7,Jon Kitna,0,1,Giants,1,33,16,0,2,187,20.0,QB,0,0,0,0,0,0,0,0,0,Giants,0,2,0,Cowboys,213,35,7.0,DST,41,3.0,0,254,0,1
+1,2010,8,Jon Kitna,0,0,Jaguars,0,49,34,4,1,379,14.0,QB,0,0,0,0,0,5,0,12,0,Jaguars,0,0,4,Cowboys,365,17,14.0,DST,50,2.0,0,415,0,1
+2,2010,9,Jon Kitna,0,0,Packers,0,30,19,2,1,183,9.0,QB,0,0,0,0,0,0,0,0,1,Packers,0,2,2,Cowboys,166,7,31.0,DST,39,4.0,0,205,2,0
+3,2010,10,Jon Kitna,0,0,Giants,0,22,13,1,3,327,29.0,QB,0,0,0,0,0,5,0,2,1,Giants,1,0,1,Cowboys,327,33,4.0,DST,100,0.0,0,427,0,0
+4,2010,11,Jon Kitna,0,0,Lions,0,24,18,0,3,147,33.0,QB,0,0,0,0,0,4,1,40,0,Lions,0,1,0,Cowboys,131,35,6.0,DST,134,2.0,1,265,0,1
+5,2010,12,Jon Kitna,0,0,Saints,0,42,30,1,0,313,12.0,QB,0,0,0,0,0,5,0,20,0,Saints,0,2,1,Cowboys,313,27,8.0,DST,144,1.0,0,457,0,1
+6,2010,13,Jon Kitna,0,0,Colts,1,26,18,0,1,167,16.0,QB,0,0,0,0,0,4,0,28,1,Colts,1,0,0,Cowboys,151,38,10.0,DST,217,2.0,0,368,1,0
+7,2010,14,Jon Kitna,0,0,Eagles,0,35,24,2,2,242,19.0,QB,0,0,0,0,0,3,0,27,0,Eagles,0,0,2,Cowboys,239,27,6.0,DST,110,1.0,0,349,0,1
+8,2010,15,Jon Kitna,0,0,Redskins,0,37,25,0,2,305,25.0,QB,0,0,0,0,0,4,0,11,0,Redskins,0,0,0,Cowboys,300,33,2.0,DST,134,2.0,0,434,0,1
+9,2010,16,Jon Kitna,0,0,Cardinals,0,20,12,2,1,115,6.0,QB,0,0,0,0,0,1,0,7,1,Cardinals,0,1,2,Cowboys,199,26,24.0,DST,183,5.0,0,382,2,0

@@ -1,0 +1,24 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Austin Seferian-Jenkins,0,0,Panthers,0,0,0,0,0,0,2.0,TE,0,0,26,1,0,0,0,0,0,Panthers,0,1,2,Buccaneers,162,14,13.0,DST,102,3.0,0,264,0,1
+1,2014,4,Austin Seferian-Jenkins,0,0,Steelers,0,0,0,0,0,0,4.0,TE,0,0,44,3,0,0,0,0,1,Steelers,0,0,1,Buccaneers,287,27,4.0,DST,63,1.0,0,350,0,0
+2,2014,5,Austin Seferian-Jenkins,0,0,Saints,0,0,0,0,0,0,1.0,TE,0,0,11,1,0,0,0,0,1,Saints,0,0,1,Buccaneers,248,31,5.0,DST,66,1.0,1,314,0,0
+3,2014,6,Austin Seferian-Jenkins,0,0,Ravens,0,0,0,0,0,0,5.0,TE,0,0,58,4,0,0,0,0,0,Ravens,0,0,1,Buccaneers,277,17,11.0,DST,87,5.0,0,364,0,1
+4,2014,9,Austin Seferian-Jenkins,0,0,Browns,0,0,0,0,0,0,0.0,TE,0,0,3,1,0,0,0,0,1,Browns,1,0,2,Buccaneers,252,17,12.0,DST,113,2.0,0,365,0,0
+5,2014,10,Austin Seferian-Jenkins,0,0,Falcons,0,0,0,0,0,0,9.0,TE,0,1,30,5,0,0,0,0,0,Falcons,0,1,2,Buccaneers,281,17,14.0,DST,92,4.0,0,373,0,1
+6,2014,11,Austin Seferian-Jenkins,0,0,Redskins,0,0,0,0,0,0,0.0,TE,0,0,7,1,0,0,0,0,1,Redskins,0,1,0,Buccaneers,281,27,5.0,DST,48,2.0,0,329,0,0
+7,2014,12,Austin Seferian-Jenkins,0,0,Bears,0,0,0,0,0,0,1.0,TE,0,0,16,2,0,0,0,0,1,Bears,0,2,2,Buccaneers,301,13,20.0,DST,66,5.0,0,367,0,0
+8,2015,1,Austin Seferian-Jenkins,0,0,Titans,0,0,0,0,0,0,23.0,TE,0,2,110,5,0,0,0,0,0,Titans,0,0,2,Buccaneers,181,14,18.0,DST,92,4.0,0,273,1,1
+9,2015,2,Austin Seferian-Jenkins,0,0,Saints,0,0,0,0,0,0,2.0,TE,0,0,29,2,0,0,0,0,1,Saints,0,2,0,Buccaneers,194,26,8.0,DST,139,3.0,0,333,0,0
+10,2015,13,Austin Seferian-Jenkins,0,0,Falcons,0,0,0,0,0,0,3.0,TE,0,0,31,3,0,0,0,0,0,Falcons,0,1,1,Buccaneers,222,23,6.0,DST,166,1.0,0,388,0,1
+11,2015,14,Austin Seferian-Jenkins,0,0,Saints,0,0,0,0,0,0,3.0,TE,0,0,31,3,0,0,0,0,0,Saints,0,0,0,Buccaneers,176,17,5.0,DST,115,1.0,0,291,0,1
+12,2015,15,Austin Seferian-Jenkins,0,0,Rams,0,0,0,0,0,0,8.0,TE,0,1,29,3,0,0,0,0,1,Rams,0,1,1,Buccaneers,363,23,5.0,DST,146,0.0,0,509,0,0
+13,2015,16,Austin Seferian-Jenkins,0,0,Bears,0,0,0,0,0,0,12.0,TE,0,1,60,2,0,0,0,0,0,Bears,0,2,1,Buccaneers,285,21,8.0,DST,104,1.0,0,389,0,1
+14,2015,17,Austin Seferian-Jenkins,0,0,Panthers,0,0,0,0,0,0,4.0,TE,0,0,48,3,0,0,0,0,1,Panthers,0,1,2,Buccaneers,309,10,15.0,DST,77,2.0,0,386,0,0
+15,2016,1,Austin Seferian-Jenkins,0,0,Falcons,0,0,0,0,0,0,9.0,TE,0,1,30,1,0,0,0,0,1,Falcons,0,0,1,Buccaneers,281,31,2.0,DST,90,0.0,0,371,0,0
+16,2016,2,Austin Seferian-Jenkins,0,0,Cardinals,0,0,0,0,0,0,1.0,TE,0,0,14,2,0,0,0,0,1,Cardinals,0,1,4,Buccaneers,221,7,26.0,DST,85,3.0,0,306,1,0
+17,2016,5,Austin Seferian-Jenkins,0,0,Steelers,0,0,0,0,0,0,1.0,TE,0,0,17,2,0,0,0,0,1,Steelers,0,0,0,Jets,244,13,10.0,DST,72,3.0,0,316,0,0
+18,2016,12,Austin Seferian-Jenkins,0,0,Patriots,0,0,0,0,0,0,0.0,TE,0,0,9,1,0,0,0,0,0,Patriots,1,2,0,Jets,269,17,11.0,DST,64,1.0,0,333,0,1
+19,2016,13,Austin Seferian-Jenkins,0,0,Colts,0,0,0,0,0,0,2.0,TE,0,0,29,2,0,0,0,0,0,Colts,0,0,3,Jets,214,10,14.0,DST,36,1.0,0,250,0,1
+20,2016,14,Austin Seferian-Jenkins,0,0,49ers,0,0,0,0,0,0,3.0,TE,0,0,35,3,0,0,0,0,1,49ers,0,0,1,Jets,216,23,9.0,DST,188,6.0,0,404,0,0
+21,2016,15,Austin Seferian-Jenkins,0,0,Dolphins,0,0,0,0,0,0,0.0,TE,0,0,3,1,0,0,0,0,0,Dolphins,1,1,3,Jets,244,13,26.0,DST,116,3.0,0,360,1,1
+22,2016,16,Austin Seferian-Jenkins,0,0,Patriots,0,0,0,0,0,0,1.0,TE,0,0,17,1,0,0,0,0,1,Patriots,0,1,3,Jets,128,3,20.0,DST,111,2.0,0,239,0,0

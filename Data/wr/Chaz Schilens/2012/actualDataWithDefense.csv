@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Chaz Schilens,0,0,Bills,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,0,Bills,0,0,1,Jets,266,48,2.0,DST,118,0.0,0,384,0,1
+1,2012,3,Chaz Schilens,0,0,Dolphins,0,0,0,0,0,0,1.0,WR,0,0,16,2,0,0,0,0,1,Dolphins,0,0,2,Jets,295,23,7.0,DST,93,2.0,0,388,0,0
+2,2012,4,Chaz Schilens,0,0,49ers,0,0,0,0,0,0,4.0,WR,0,0,45,3,0,0,0,0,0,49ers,1,3,1,Jets,100,0,29.0,DST,45,3.0,0,145,1,1
+3,2012,5,Chaz Schilens,0,0,Texans,0,0,0,0,0,0,2.0,WR,0,0,29,4,0,0,0,0,0,Texans,0,0,2,Jets,217,17,11.0,DST,69,3.0,0,286,0,1
+4,2012,6,Chaz Schilens,0,0,Colts,0,0,0,0,0,0,2.0,WR,0,0,23,2,0,0,0,0,0,Colts,0,0,0,Jets,99,35,1.0,DST,252,1.0,0,351,0,1
+5,2012,8,Chaz Schilens,0,0,Dolphins,0,0,0,0,0,0,8.0,WR,0,1,29,4,0,0,0,0,0,Dolphins,2,1,1,Jets,258,9,25.0,DST,105,4.0,0,363,1,1
+6,2012,11,Chaz Schilens,0,0,Rams,0,0,0,0,0,0,10.0,WR,0,1,48,4,0,0,0,0,1,Rams,1,0,0,Jets,165,27,6.0,DST,124,3.0,0,289,0,0
+7,2012,12,Chaz Schilens,0,1,Patriots,0,0,0,0,0,0,1.0,WR,0,0,28,2,0,0,0,0,0,Patriots,0,4,1,Jets,286,19,28.0,DST,119,2.0,0,405,2,1
+8,2012,13,Chaz Schilens,0,0,Cardinals,0,0,0,0,0,0,0.0,WR,0,0,5,2,0,0,0,0,0,Cardinals,0,1,3,Jets,112,7,18.0,DST,177,3.0,0,289,0,1
+9,2012,14,Chaz Schilens,0,0,Jaguars,0,0,0,0,0,0,2.0,WR,0,0,27,2,0,0,0,0,1,Jaguars,0,2,0,Jets,104,17,9.0,DST,166,1.0,0,270,0,0
+10,2012,16,Chaz Schilens,0,0,Chargers,0,0,0,0,0,0,3.0,WR,0,0,31,2,0,0,0,0,0,Chargers,0,1,1,Jets,156,17,25.0,DST,69,11.0,0,225,1,1

@@ -1,0 +1,7 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Bobby Rainey,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,4,1,0,3,0,10,0,Titans,0,0,2,Buccaneers,181,14,18.0,DST,92,4.0,0,273,1,1
+1,2015,2,Bobby Rainey,0,0,Saints,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,1,Saints,0,2,0,Buccaneers,194,26,8.0,DST,139,3.0,0,333,0,0
+2,2015,7,Bobby Rainey,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,4,1,0,0,0,0,1,Redskins,0,1,0,Buccaneers,289,30,3.0,DST,190,1.0,0,479,0,0
+3,2015,9,Bobby Rainey,0,0,Giants,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,3,0,Giants,0,3,0,Buccaneers,247,18,16.0,DST,136,0.0,0,383,1,1
+4,2015,11,Bobby Rainey,0,0,Eagles,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,5,1,Eagles,0,1,0,Buccaneers,238,45,3.0,DST,283,1.0,0,521,0,0
+5,2015,17,Bobby Rainey,0,1,Panthers,0,0,0,0,0,0,-1.0,RB,0,0,0,0,0,0,0,0,1,Panthers,0,1,2,Buccaneers,309,10,15.0,DST,77,2.0,0,386,0,0

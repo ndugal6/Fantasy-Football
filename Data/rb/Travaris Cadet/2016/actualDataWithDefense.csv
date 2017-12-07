@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Travaris Cadet,0,0,Raiders,0,0,0,0,0,0,7.0,RB,0,1,14,3,0,1,0,1,0,Raiders,0,1,0,Saints,419,34,3.0,DST,88,1.0,0,507,0,1
+1,2016,2,Travaris Cadet,0,0,Giants,0,0,0,0,0,0,1.0,RB,0,0,17,2,0,0,0,0,1,Giants,1,0,0,Saints,247,13,17.0,DST,41,2.0,0,288,1,0
+2,2016,3,Travaris Cadet,0,0,Falcons,0,0,0,0,0,0,3.0,RB,0,0,32,6,0,0,0,0,0,Falcons,0,1,1,Saints,359,32,12.0,DST,115,2.0,0,474,1,1
+3,2016,6,Travaris Cadet,0,0,Panthers,0,0,0,0,0,0,2.0,RB,0,0,27,4,0,1,0,3,0,Panthers,0,0,1,Saints,460,41,3.0,DST,63,1.0,0,523,0,1
+4,2016,7,Travaris Cadet,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,7,2,0,0,0,0,1,Chiefs,0,1,1,Saints,359,21,12.0,DST,104,1.0,0,463,1,0
+5,2016,8,Travaris Cadet,0,0,Seahawks,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,0,0,0,0,Seahawks,0,1,0,Saints,252,25,11.0,DST,123,2.0,0,375,1,1
+6,2016,9,Travaris Cadet,0,0,49ers,0,0,0,0,0,0,0.0,RB,0,0,4,1,0,0,0,0,1,49ers,0,0,0,Saints,323,41,1.0,DST,248,1.0,0,571,0,0
+7,2016,10,Travaris Cadet,0,0,Broncos,0,0,0,0,0,0,2.0,RB,0,0,26,2,0,0,0,0,0,Broncos,1,2,2,Saints,293,23,14.0,DST,80,1.0,0,373,0,1
+8,2016,13,Travaris Cadet,0,0,Lions,0,0,0,0,0,0,5.0,RB,0,0,53,5,0,0,0,0,0,Lions,0,0,3,Saints,319,13,14.0,DST,50,1.0,0,369,0,1
+9,2016,14,Travaris Cadet,0,0,Buccaneers,0,0,0,0,0,0,3.0,RB,0,0,30,4,0,1,0,-1,1,Buccaneers,0,0,3,Saints,248,11,14.0,DST,46,1.0,0,294,0,0
+10,2016,15,Travaris Cadet,0,0,Cardinals,0,0,0,0,0,0,10.0,RB,0,1,30,5,0,1,0,16,1,Cardinals,0,1,0,Saints,358,48,11.0,DST,130,3.0,0,488,1,0
+11,2016,16,Travaris Cadet,0,0,Buccaneers,0,0,0,0,0,0,7.0,RB,0,1,16,2,0,0,0,0,0,Buccaneers,0,0,0,Saints,294,31,2.0,DST,123,2.0,0,417,0,1
+12,2016,17,Travaris Cadet,0,0,Falcons,0,0,0,0,0,0,7.0,RB,0,1,18,3,0,0,0,0,1,Falcons,0,0,1,Saints,341,32,4.0,DST,132,2.0,0,473,0,0

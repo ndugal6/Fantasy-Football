@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Josh McCown,0,0,Panthers,0,35,22,2,2,183,17.0,QB,0,0,0,0,0,3,0,27,0,Panthers,0,1,2,Buccaneers,162,14,13.0,DST,102,3.0,0,264,0,1
+1,2014,2,Josh McCown,0,0,Rams,0,21,16,1,0,179,17.0,QB,0,0,0,0,0,2,2,6,0,Rams,2,0,1,Buccaneers,175,17,11.0,DST,157,1.0,0,332,0,1
+2,2014,3,Josh McCown,0,0,Falcons,0,12,5,1,0,58,0.0,QB,0,0,0,0,0,0,0,0,1,Falcons,0,4,1,Buccaneers,153,14,29.0,DST,64,3.0,0,217,2,0
+3,2014,10,Josh McCown,0,0,Falcons,0,43,27,2,2,301,23.0,QB,0,0,0,0,0,5,0,39,0,Falcons,0,1,2,Buccaneers,281,17,14.0,DST,92,4.0,0,373,0,1
+4,2014,11,Josh McCown,0,0,Redskins,0,23,15,0,2,288,23.0,QB,0,0,0,0,0,3,0,8,1,Redskins,0,1,0,Buccaneers,281,27,5.0,DST,48,2.0,0,329,0,0
+5,2014,12,Josh McCown,0,1,Bears,0,48,25,2,1,341,15.0,QB,0,0,0,0,0,3,0,12,1,Bears,0,2,2,Buccaneers,301,13,20.0,DST,66,5.0,0,367,0,0
+6,2014,13,Josh McCown,0,0,Bengals,0,29,15,1,0,190,5.0,QB,0,0,0,0,0,1,0,0,0,Bengals,0,0,1,Buccaneers,188,13,10.0,DST,75,1.0,0,263,0,1
+7,2014,14,Josh McCown,0,1,Lions,0,39,20,2,2,250,17.0,QB,0,0,0,0,0,4,0,8,1,Lions,0,1,2,Buccaneers,207,17,16.0,DST,26,6.0,0,233,0,0
+8,2014,15,Josh McCown,0,2,Panthers,0,28,13,1,1,154,16.0,QB,0,0,0,0,0,2,1,21,1,Panthers,0,2,1,Buccaneers,136,17,13.0,DST,151,3.0,0,287,0,0
+9,2014,16,Josh McCown,0,0,Packers,0,26,12,1,0,147,3.0,QB,0,0,0,0,0,0,0,0,0,Packers,0,0,1,Buccaneers,93,3,19.0,DST,16,7.0,0,109,0,1
+10,2014,17,Josh McCown,0,0,Saints,0,23,14,1,1,115,8.0,QB,0,0,0,0,0,2,0,6,0,Saints,0,0,1,Buccaneers,97,20,11.0,DST,183,3.0,1,280,0,1

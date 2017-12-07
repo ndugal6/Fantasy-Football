@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,James Casey,0,0,Dolphins,0,0,0,0,0,0,1.0,TE,0,0,17,1,0,0,0,0,0,Dolphins,0,0,0,Texans,254,30,8.0,DST,83,2.0,0,337,1,1
+1,2012,2,James Casey,0,0,Jaguars,0,0,0,0,0,0,1.0,TE,0,0,18,3,0,0,0,0,1,Jaguars,0,0,0,Texans,195,27,1.0,DST,216,0.0,0,411,0,0
+2,2012,3,James Casey,0,0,Broncos,0,0,0,0,0,0,1.0,TE,0,0,11,3,0,0,0,0,1,Broncos,0,1,1,Texans,284,31,7.0,DST,152,1.0,1,436,0,0
+3,2012,4,James Casey,0,0,Titans,0,0,0,0,0,0,9.0,TE,0,1,36,5,0,0,0,0,0,Titans,0,0,0,Texans,202,38,0.0,DST,95,0.0,0,297,0,1
+4,2012,5,James Casey,0,0,Jets,0,0,0,0,0,0,5.0,TE,0,0,53,4,0,0,0,0,1,Jets,0,0,1,Texans,209,23,9.0,DST,169,0.0,0,378,1,0
+5,2012,6,James Casey,0,0,Packers,0,0,0,0,0,0,2.0,TE,0,0,27,2,0,0,0,0,0,Packers,0,0,3,Texans,231,24,10.0,DST,90,3.0,0,321,0,1
+6,2012,7,James Casey,0,0,Ravens,0,0,0,0,0,0,0.0,TE,0,0,0,0,0,1,0,6,0,Ravens,0,0,0,Texans,239,43,2.0,DST,181,2.0,0,420,0,1
+7,2012,9,James Casey,0,0,Bills,0,0,0,0,0,0,4.0,TE,0,0,49,3,0,0,0,0,0,Bills,1,0,0,Texans,256,21,5.0,DST,118,2.0,0,374,0,1
+8,2012,11,James Casey,0,0,Jaguars,0,0,0,0,0,0,8.0,TE,0,1,20,3,0,0,0,0,0,Jaguars,0,1,2,Texans,504,43,8.0,DST,149,2.0,0,653,0,1
+9,2012,12,James Casey,0,0,Lions,0,0,0,0,0,0,3.0,TE,0,0,38,4,0,0,0,0,1,Lions,0,0,1,Texans,296,34,4.0,DST,205,2.0,0,501,0,0
+10,2012,13,James Casey,0,0,Titans,0,0,0,0,0,0,6.0,TE,0,1,5,1,0,0,0,0,1,Titans,0,0,0,Texans,207,24,1.0,DST,124,0.0,0,331,0,0
+11,2012,14,James Casey,0,0,Patriots,0,0,0,0,0,0,3.0,TE,0,0,30,1,0,0,0,0,1,Patriots,0,0,1,Texans,223,14,14.0,DST,100,2.0,0,323,1,0
+12,2012,15,James Casey,0,0,Colts,0,0,0,0,0,0,0.0,TE,0,0,9,1,0,0,0,0,0,Colts,0,0,0,Texans,239,29,3.0,DST,178,3.0,0,417,0,1
+13,2012,17,James Casey,0,0,Colts,0,0,0,0,0,0,1.0,TE,0,0,11,2,0,0,0,0,1,Colts,0,0,2,Texans,250,16,18.0,DST,102,4.0,0,352,1,0

@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Eli Manning,0,0,Cowboys,0,36,20,0,0,189,7.0,QB,0,0,0,0,0,1,0,8,1,Cowboys,0,0,0,Giants,186,26,2.0,DST,99,1.0,0,285,0,0
+1,2015,2,Eli Manning,0,1,Falcons,0,40,27,0,2,292,24.0,QB,0,0,0,0,0,2,0,23,0,Falcons,0,1,0,Giants,291,20,8.0,DST,97,2.0,0,388,0,1
+2,2015,3,Eli Manning,0,0,Redskins,0,32,23,0,2,279,23.0,QB,0,0,0,0,0,0,0,0,0,Redskins,0,0,0,Giants,279,32,6.0,DST,84,0.0,0,363,1,1
+3,2015,4,Eli Manning,0,0,Bills,0,35,20,1,3,212,24.0,QB,0,0,0,0,0,3,0,-2,1,Bills,0,0,1,Giants,211,24,4.0,DST,92,1.0,0,303,0,0
+4,2015,5,Eli Manning,0,0,49ers,0,54,41,1,3,441,34.0,QB,0,0,0,0,0,1,0,11,0,49ers,0,0,1,Giants,441,30,2.0,DST,84,0.0,0,525,0,1
+5,2015,6,Eli Manning,0,0,Eagles,0,38,24,2,1,189,10.0,QB,0,0,0,0,0,1,0,12,1,Eagles,0,1,2,Giants,166,7,22.0,DST,81,3.0,0,247,1,0
+6,2015,7,Eli Manning,0,0,Cowboys,0,24,13,0,0,170,6.0,QB,0,0,0,0,0,4,0,-4,0,Cowboys,0,0,0,Giants,157,27,3.0,DST,132,2.0,0,289,0,1
+7,2015,8,Eli Manning,0,0,Saints,0,41,30,0,6,350,50.0,QB,0,0,0,0,0,0,0,0,1,Saints,0,1,0,Giants,329,49,5.0,DST,87,3.0,0,416,0,0
+8,2015,9,Eli Manning,0,0,Buccaneers,0,40,26,2,2,213,16.0,QB,0,0,0,0,0,1,0,-1,1,Buccaneers,0,0,2,Giants,213,32,4.0,DST,114,0.0,0,327,0,0
+9,2015,10,Eli Manning,0,1,Patriots,0,44,24,0,2,361,26.0,QB,0,0,0,0,0,1,0,10,0,Patriots,0,1,0,Giants,342,26,6.0,DST,80,3.0,0,422,0,1
+10,2015,12,Eli Manning,0,0,Redskins,0,51,26,3,2,321,18.0,QB,0,0,0,0,0,0,0,0,1,Redskins,0,0,3,Giants,299,14,13.0,DST,33,3.0,0,332,0,0
+11,2015,13,Eli Manning,0,0,Jets,0,34,18,1,1,297,15.0,QB,0,0,0,0,0,1,0,2,0,Jets,0,0,1,Giants,281,20,9.0,DST,74,3.0,0,355,0,1
+12,2015,14,Eli Manning,0,1,Dolphins,0,31,27,0,4,337,36.0,QB,0,0,0,0,0,3,0,-2,1,Dolphins,0,1,0,Giants,337,31,2.0,DST,92,0.0,0,429,0,0
+13,2015,15,Eli Manning,0,0,Panthers,0,46,29,1,4,245,31.0,QB,0,0,0,0,0,1,0,4,0,Panthers,0,1,1,Giants,245,35,4.0,DST,161,0.0,0,406,0,1
+14,2015,17,Eli Manning,0,1,Eagles,0,43,24,0,2,302,23.0,QB,0,0,0,0,0,0,0,0,0,Eagles,0,1,0,Giants,294,30,10.0,DST,208,2.0,0,502,1,1

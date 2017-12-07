@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Terrance Williams,0,0,Giants,0,0,0,0,0,0,3.0,WR,0,0,32,2,0,0,0,0,0,Giants,0,0,1,Cowboys,244,36,4.0,DST,87,2.0,0,331,0,1
+1,2013,2,Terrance Williams,0,0,Chiefs,0,0,0,0,0,0,2.0,WR,0,0,28,3,0,1,0,-3,1,Chiefs,0,2,0,Cowboys,281,16,11.0,DST,37,3.0,0,318,0,0
+2,2013,4,Terrance Williams,0,1,Chargers,0,0,0,0,0,0,6.0,WR,0,0,71,7,0,0,0,0,1,Chargers,0,1,0,Cowboys,227,21,6.0,DST,92,3.0,0,319,0,0
+3,2013,5,Terrance Williams,0,0,Broncos,0,0,0,0,0,0,23.0,WR,1,1,151,4,0,1,0,2,0,Broncos,0,1,1,Cowboys,470,48,8.0,DST,52,4.0,0,522,0,1
+4,2013,6,Terrance Williams,0,0,Redskins,0,0,0,0,0,0,8.0,WR,0,1,27,2,0,0,0,0,0,Redskins,0,0,1,Cowboys,165,31,3.0,DST,48,1.0,0,213,0,1
+5,2013,7,Terrance Williams,0,0,Eagles,0,0,0,0,0,0,13.0,WR,0,1,71,6,0,0,0,0,1,Eagles,0,0,2,Cowboys,294,17,10.0,DST,74,2.0,0,368,0,0
+6,2013,8,Terrance Williams,0,0,Lions,0,0,0,0,0,0,12.0,WR,0,1,64,2,0,1,0,5,1,Lions,0,0,0,Cowboys,206,30,0.0,DST,62,0.0,0,268,0,0
+7,2013,10,Terrance Williams,0,0,Saints,0,0,0,0,0,0,8.0,WR,0,1,21,1,0,0,0,0,1,Saints,0,0,0,Cowboys,104,17,7.0,DST,89,3.0,0,193,0,0
+8,2013,12,Terrance Williams,0,0,Giants,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,1,Giants,0,0,1,Cowboys,204,24,7.0,DST,107,4.0,0,311,0,0
+9,2013,13,Terrance Williams,0,1,Raiders,0,0,0,0,0,0,1.0,WR,0,0,23,3,0,0,0,0,0,Raiders,0,1,0,Cowboys,208,31,10.0,DST,144,2.0,0,352,1,1
+10,2013,14,Terrance Williams,0,0,Bears,0,0,0,0,0,0,3.0,WR,0,0,36,2,0,0,0,0,1,Bears,0,0,0,Cowboys,130,28,2.0,DST,198,2.0,0,328,0,0
+11,2013,15,Terrance Williams,0,0,Packers,0,0,0,0,0,0,4.0,WR,0,0,46,4,0,0,0,0,0,Packers,0,0,2,Cowboys,332,36,7.0,DST,134,3.0,0,466,0,1
+12,2013,16,Terrance Williams,0,0,Redskins,0,0,0,0,0,0,8.0,WR,0,0,84,4,0,0,0,0,1,Redskins,0,1,1,Cowboys,214,24,7.0,DST,95,2.0,0,309,0,0
+13,2013,17,Terrance Williams,0,0,Eagles,0,0,0,0,0,0,3.0,WR,0,0,39,1,0,0,0,0,0,Eagles,0,1,2,Cowboys,358,22,7.0,DST,56,0.0,0,414,0,1

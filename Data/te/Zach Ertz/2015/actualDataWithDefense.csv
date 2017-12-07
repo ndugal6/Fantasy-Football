@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Zach Ertz,0,0,Falcons,0,0,0,0,0,0,4.0,TE,0,0,46,3,0,0,0,0,1,Falcons,0,0,2,Eagles,336,24,5.0,DST,63,0.0,0,399,0,0
+1,2015,2,Zach Ertz,0,0,Cowboys,0,0,0,0,0,0,1.0,TE,0,0,17,3,0,0,0,0,0,Cowboys,1,1,2,Eagles,219,10,22.0,DST,7,1.0,0,226,1,1
+2,2015,3,Zach Ertz,0,0,Jets,0,0,0,0,0,0,3.0,TE,0,0,30,2,0,0,0,0,1,Jets,0,1,0,Eagles,108,24,4.0,DST,123,1.0,0,231,0,0
+3,2015,4,Zach Ertz,0,0,Redskins,0,0,0,0,0,0,1.0,TE,0,0,11,2,0,0,0,0,1,Redskins,0,2,0,Eagles,233,20,13.0,DST,87,5.0,0,320,0,0
+4,2015,5,Zach Ertz,0,0,Saints,0,0,0,0,0,0,6.0,TE,0,0,60,5,0,0,0,0,0,Saints,0,0,2,Eagles,333,39,4.0,DST,186,0.0,0,519,0,1
+5,2015,6,Zach Ertz,0,0,Giants,0,0,0,0,0,0,4.0,TE,0,0,43,4,0,0,0,0,0,Giants,0,1,3,Eagles,270,27,10.0,DST,158,1.0,0,428,0,1
+6,2015,7,Zach Ertz,0,0,Panthers,0,0,0,0,0,0,6.0,TE,0,0,63,5,0,0,0,0,1,Panthers,0,0,1,Eagles,172,16,11.0,DST,177,5.0,0,349,0,0
+7,2015,9,Zach Ertz,0,0,Cowboys,0,0,0,0,0,0,4.0,TE,0,0,44,5,0,0,0,0,1,Cowboys,0,0,0,Eagles,287,33,1.0,DST,172,1.0,0,459,0,0
+8,2015,10,Zach Ertz,0,0,Dolphins,0,0,0,0,0,0,6.0,TE,0,0,68,7,0,0,0,0,0,Dolphins,1,0,1,Eagles,353,19,12.0,DST,83,4.0,0,436,0,1
+9,2015,11,Zach Ertz,0,0,Buccaneers,0,0,0,0,0,0,1.0,TE,0,0,12,2,0,0,0,0,0,Buccaneers,0,1,3,Eagles,247,17,21.0,DST,136,3.0,0,383,1,1
+10,2015,13,Zach Ertz,0,0,Patriots,0,0,0,0,0,0,6.0,TE,0,1,9,2,0,0,0,0,1,Patriots,0,1,0,Eagles,120,35,3.0,DST,128,1.0,0,248,0,0
+11,2015,14,Zach Ertz,0,0,Bills,0,0,0,0,0,0,9.0,TE,0,0,98,5,0,0,0,0,0,Bills,0,0,1,Eagles,232,23,4.0,DST,116,1.0,0,348,0,1
+12,2015,15,Zach Ertz,0,0,Cardinals,0,0,0,0,0,0,13.0,TE,0,1,78,8,0,0,0,0,0,Cardinals,0,2,2,Eagles,350,17,20.0,DST,74,2.0,0,424,1,1
+13,2015,16,Zach Ertz,0,1,Redskins,0,0,0,0,0,0,11.0,TE,0,0,122,13,0,0,0,0,0,Redskins,0,2,0,Eagles,353,24,16.0,DST,45,5.0,0,398,1,1
+14,2015,17,Zach Ertz,0,0,Giants,0,0,0,0,0,0,15.0,TE,0,0,152,9,0,0,0,0,1,Giants,0,1,1,Eagles,315,35,5.0,DST,120,1.0,0,435,0,0

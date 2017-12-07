@@ -1,0 +1,13 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,2,Nick Foles,0,0,Chargers,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,0,0,0,0,Chargers,0,0,0,Eagles,411,30,2.0,DST,100,2.0,0,511,0,1
+1,2013,4,Nick Foles,0,0,Broncos,0,4,3,0,1,49,7.0,QB,0,0,0,0,0,0,0,0,1,Broncos,1,0,0,Eagles,284,20,21.0,DST,166,3.0,0,450,2,0
+2,2013,5,Nick Foles,0,0,Giants,0,25,16,0,2,197,19.0,QB,0,0,0,0,0,3,0,1,1,Giants,0,0,0,Eagles,299,36,1.0,DST,140,1.0,0,439,0,0
+3,2013,6,Nick Foles,0,0,Buccaneers,0,31,22,0,3,296,35.0,QB,0,0,0,0,0,3,1,2,1,Buccaneers,0,1,0,Eagles,287,31,3.0,DST,138,1.0,0,425,0,0
+4,2013,7,Nick Foles,0,0,Cowboys,0,29,11,0,0,80,5.0,QB,0,0,0,0,0,3,0,25,0,Cowboys,0,0,3,Eagles,194,3,19.0,DST,84,3.0,0,278,0,1
+5,2013,9,Nick Foles,0,0,Raiders,0,28,22,0,7,406,59.0,QB,0,0,0,0,0,4,0,10,1,Raiders,0,0,0,Eagles,418,49,1.0,DST,124,1.0,0,542,0,0
+6,2013,10,Nick Foles,0,1,Packers,0,18,12,0,3,228,29.0,QB,0,0,0,0,0,8,0,38,1,Packers,0,1,0,Eagles,211,27,6.0,DST,204,3.0,0,415,0,0
+7,2013,11,Nick Foles,0,0,Redskins,0,26,17,0,0,298,21.0,QB,0,0,0,0,0,9,1,47,0,Redskins,0,0,0,Eagles,276,24,4.0,DST,126,3.0,0,402,0,1
+8,2013,13,Nick Foles,0,0,Cardinals,0,34,21,0,3,237,29.0,QB,0,0,0,0,0,9,0,22,0,Cardinals,0,0,0,Eagles,202,24,6.0,DST,105,5.0,0,307,0,1
+9,2013,14,Nick Foles,0,0,Lions,1,22,11,1,1,179,21.0,QB,0,0,0,0,0,6,1,23,0,Lions,0,0,1,Eagles,179,34,14.0,DST,299,0.0,0,478,2,1
+10,2013,16,Nick Foles,0,0,Bears,0,25,21,0,2,230,22.0,QB,0,0,0,0,0,2,0,17,0,Bears,0,1,0,Eagles,225,54,4.0,DST,289,2.0,0,514,0,1
+11,2013,17,Nick Foles,0,1,Cowboys,0,26,17,0,2,263,21.0,QB,0,0,0,0,0,5,0,-5,1,Cowboys,0,1,0,Eagles,229,24,8.0,DST,137,5.0,0,366,0,0

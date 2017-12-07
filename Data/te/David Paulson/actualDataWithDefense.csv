@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,5,David Paulson,0,0,Eagles,0,0,0,0,0,0,0.0,TE,0,0,8,1,0,0,0,0,0,Eagles,0,0,0,Steelers,220,16,4.0,DST,123,0.0,0,343,0,1
+1,2012,6,David Paulson,0,0,Titans,0,0,0,0,0,0,0.0,TE,0,0,8,1,0,0,0,0,1,Titans,1,0,1,Steelers,356,23,6.0,DST,56,1.0,0,412,0,0
+2,2012,7,David Paulson,0,0,Bengals,0,0,0,0,0,0,0.0,TE,0,0,7,1,0,0,0,0,1,Bengals,0,1,1,Steelers,264,24,8.0,DST,167,3.0,0,431,0,0
+3,2012,9,David Paulson,0,0,Giants,0,0,0,0,0,0,0.0,TE,0,0,7,1,0,0,0,0,1,Giants,0,1,1,Steelers,191,24,15.0,DST,158,4.0,0,349,1,0
+4,2012,10,David Paulson,0,0,Chiefs,0,0,0,0,0,0,1.0,TE,0,0,15,2,0,0,0,0,0,Chiefs,0,1,0,Steelers,154,16,7.0,DST,95,1.0,0,249,0,1
+5,2012,11,David Paulson,0,0,Ravens,0,0,0,0,0,0,0.0,TE,0,0,6,1,0,0,0,0,0,Ravens,0,2,1,Steelers,175,10,22.0,DST,134,3.0,0,309,1,1
+6,2013,2,David Paulson,0,1,Bengals,0,0,0,0,0,0,3.0,TE,0,0,49,3,0,0,0,0,1,Bengals,0,1,1,Steelers,234,10,13.0,DST,44,2.0,0,278,0,0
+7,2013,3,David Paulson,0,0,Bears,0,0,0,0,0,0,0.0,TE,0,0,6,1,0,0,0,0,0,Bears,0,3,2,Steelers,379,23,26.0,DST,80,3.0,0,459,2,1
+8,2013,7,David Paulson,0,0,Ravens,0,0,0,0,0,0,1.0,TE,0,0,17,1,0,0,0,0,0,Ravens,0,1,0,Steelers,145,19,9.0,DST,141,3.0,0,286,0,1
+9,2013,16,David Paulson,0,0,Packers,0,0,0,0,0,0,3.0,TE,0,0,30,1,0,0,0,0,1,Packers,0,1,1,Steelers,192,38,5.0,DST,151,1.0,0,343,0,0

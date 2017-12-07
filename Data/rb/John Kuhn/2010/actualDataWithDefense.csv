@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,John Kuhn,0,0,Eagles,0,0,0,0,0,0,7.0,RB,0,0,0,0,0,2,1,15,1,Eagles,0,0,2,Packers,167,27,8.0,DST,132,3.0,0,299,0,0
+1,2010,2,John Kuhn,0,0,Bills,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,9,0,36,0,Bills,0,0,0,Packers,255,34,0.0,DST,91,0.0,0,346,0,1
+2,2010,3,John Kuhn,0,0,Bears,0,0,0,0,0,0,5.0,RB,0,0,20,2,0,6,0,31,1,Bears,1,1,1,Packers,316,17,16.0,DST,63,0.0,0,379,1,0
+3,2010,4,John Kuhn,0,0,Lions,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,9,0,39,0,Lions,0,2,2,Packers,169,28,10.0,DST,92,2.0,0,261,0,1
+4,2010,5,John Kuhn,0,0,Redskins,0,0,0,0,0,0,1.0,RB,0,0,5,2,0,3,0,12,1,Redskins,0,1,1,Packers,270,13,15.0,DST,157,4.0,0,427,0,0
+5,2010,6,John Kuhn,0,0,Dolphins,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,5,0,9,0,Dolphins,0,0,1,Packers,283,20,11.0,DST,76,5.0,0,359,0,1
+6,2010,8,John Kuhn,0,0,Jets,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,8,0,21,1,Jets,0,0,0,Packers,156,9,9.0,DST,81,2.0,0,237,0,0
+7,2010,9,John Kuhn,0,0,Cowboys,0,0,0,0,0,0,6.0,RB,0,0,12,2,0,13,0,50,0,Cowboys,1,0,0,Packers,277,45,3.0,DST,138,1.0,0,415,0,1
+8,2010,12,John Kuhn,0,0,Falcons,0,0,0,0,0,0,0.0,RB,0,0,9,1,0,0,0,0,1,Falcons,0,1,0,Packers,341,17,7.0,DST,77,1.0,0,418,0,0
+9,2010,13,John Kuhn,0,0,49ers,0,0,0,0,0,0,7.0,RB,0,0,4,1,0,6,1,13,0,49ers,0,0,0,Packers,274,34,4.0,DST,136,4.0,0,410,0,1
+10,2010,14,John Kuhn,0,0,Lions,0,0,0,0,0,0,0.0,RB,0,0,6,1,0,0,0,0,1,Lions,0,1,2,Packers,192,3,20.0,DST,66,4.0,0,258,0,0
+11,2010,15,John Kuhn,0,0,Patriots,0,0,0,0,0,0,10.0,RB,0,1,27,3,0,6,0,21,1,Patriots,0,1,1,Packers,226,27,16.0,DST,143,5.0,0,369,1,0
+12,2010,16,John Kuhn,0,0,Giants,0,0,0,0,0,0,20.0,RB,0,1,7,2,0,6,2,22,0,Giants,0,1,0,Packers,396,45,4.0,DST,119,2.0,0,515,0,1
+13,2010,17,John Kuhn,0,0,Bears,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,4,0,0,0,Bears,0,1,1,Packers,224,10,13.0,DST,60,2.0,0,284,0,1

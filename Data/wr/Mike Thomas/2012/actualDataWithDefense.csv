@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,2,Mike Thomas,0,0,Texans,0,0,0,0,0,0,1.0,WR,0,0,12,1,0,0,0,0,0,Texans,0,1,0,Jaguars,52,7,12.0,DST,65,3.0,0,117,0,1
+1,2012,3,Mike Thomas,0,0,Colts,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,1,Colts,0,0,0,Jaguars,148,22,2.0,DST,185,1.0,0,333,0,0
+2,2012,4,Mike Thomas,0,0,Bengals,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,0,Bengals,0,1,1,Jaguars,143,10,17.0,DST,69,6.0,0,212,0,1
+3,2012,5,Mike Thomas,0,0,Bears,0,0,0,0,0,0,1.0,WR,0,0,15,4,0,0,0,0,0,Bears,0,1,2,Jaguars,129,3,31.0,DST,60,3.0,0,189,2,1
+4,2012,7,Mike Thomas,0,0,Raiders,0,0,0,0,0,0,1.0,WR,0,0,17,2,0,0,0,0,1,Raiders,0,1,0,Jaguars,155,23,6.0,DST,54,3.0,0,209,0,0
+5,2012,8,Mike Thomas,0,0,Packers,0,0,0,0,0,0,1.0,WR,0,0,19,4,0,0,0,0,1,Packers,1,1,0,Jaguars,279,15,16.0,DST,62,2.0,0,341,1,0
+6,2012,11,Mike Thomas,0,0,Packers,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,6,0,Packers,0,2,2,Lions,252,20,23.0,DST,110,5.0,0,362,1,1
+7,2012,12,Mike Thomas,0,0,Texans,0,0,0,0,0,0,8.0,WR,0,1,17,2,0,1,0,14,0,Texans,0,1,0,Lions,419,31,5.0,DST,106,3.0,0,525,0,1
+8,2012,13,Mike Thomas,0,0,Colts,0,0,0,0,0,0,0.0,WR,0,0,-1,1,0,0,0,0,0,Colts,0,0,1,Lions,313,33,2.0,DST,138,0.0,0,451,0,1
+9,2012,14,Mike Thomas,0,0,Packers,0,0,0,0,0,0,2.0,WR,0,0,0,0,0,2,0,25,1,Packers,0,1,1,Lions,251,20,15.0,DST,135,1.0,0,386,1,0
+10,2012,15,Mike Thomas,0,0,Cardinals,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,5,1,Cardinals,0,1,3,Lions,228,10,29.0,DST,84,2.0,0,312,2,0
+11,2012,16,Mike Thomas,0,0,Falcons,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,1,0,8,0,Falcons,0,2,1,Lions,443,18,10.0,DST,79,0.0,0,522,0,1
+12,2012,17,Mike Thomas,0,0,Bears,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,0,Bears,0,3,1,Lions,255,24,10.0,DST,72,1.0,0,327,0,1

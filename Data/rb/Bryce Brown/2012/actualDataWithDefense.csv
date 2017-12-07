@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Bryce Brown,0,0,Browns,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,3,1,Browns,0,1,4,Eagles,306,17,22.0,DST,150,2.0,0,456,1,0
+1,2012,2,Bryce Brown,0,0,Ravens,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,7,0,Ravens,0,2,2,Eagles,357,24,11.0,DST,129,2.0,0,486,0,1
+2,2012,3,Bryce Brown,0,0,Cardinals,0,0,0,0,0,0,2.0,RB,0,0,8,1,0,4,0,28,1,Cardinals,0,3,0,Eagles,194,6,27.0,DST,113,5.0,0,307,1,0
+3,2012,4,Bryce Brown,0,0,Giants,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,4,0,5,0,Giants,0,0,0,Eagles,231,19,6.0,DST,191,2.0,0,422,0,1
+4,2012,5,Bryce Brown,0,0,Steelers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,4,1,Steelers,0,2,0,Eagles,168,14,11.0,DST,78,3.0,0,246,0,0
+5,2012,6,Bryce Brown,0,0,Lions,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,5,0,4,0,Lions,0,1,2,Eagles,286,23,10.0,DST,71,3.0,0,357,0,1
+6,2012,8,Bryce Brown,0,0,Falcons,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,5,0,Falcons,0,0,0,Eagles,178,17,7.0,DST,92,3.0,0,270,0,1
+7,2012,9,Bryce Brown,0,0,Saints,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,4,0,49,1,Saints,0,1,1,Eagles,226,13,24.0,DST,221,7.0,0,447,1,0
+8,2012,10,Bryce Brown,0,0,Cowboys,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,1,0,Cowboys,0,1,1,Eagles,278,23,25.0,DST,91,2.0,0,369,3,1
+9,2012,11,Bryce Brown,0,0,Redskins,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,5,0,35,1,Redskins,0,1,2,Eagles,177,6,20.0,DST,80,4.0,0,257,0,0
+10,2012,12,Bryce Brown,0,2,Panthers,0,0,0,0,0,0,28.0,RB,0,0,11,4,0,19,2,178,0,Panthers,0,3,0,Eagles,107,22,8.0,DST,204,1.0,0,311,0,1
+11,2012,13,Bryce Brown,0,1,Cowboys,0,0,0,0,0,0,28.0,RB,0,0,14,4,0,24,2,169,1,Cowboys,0,1,0,Eagles,240,33,9.0,DST,183,1.0,0,423,1,0
+12,2012,14,Bryce Brown,0,0,Buccaneers,0,0,0,0,0,0,0.0,RB,0,0,6,2,0,12,0,6,1,Buccaneers,0,1,0,Eagles,338,23,9.0,DST,29,6.0,0,367,0,0
+13,2012,15,Bryce Brown,0,0,Bengals,0,0,0,0,0,0,4.0,RB,0,0,11,1,0,16,0,34,0,Bengals,1,4,1,Eagles,177,13,26.0,DST,42,1.0,0,219,1,1
+14,2012,16,Bryce Brown,0,0,Redskins,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,4,0,18,0,Redskins,0,1,1,Eagles,321,20,13.0,DST,90,5.0,0,411,0,1
+15,2012,17,Bryce Brown,0,0,Giants,0,0,0,0,0,0,1.0,RB,0,0,6,1,0,8,0,18,1,Giants,0,0,1,Eagles,207,7,10.0,DST,110,1.0,0,317,0,0

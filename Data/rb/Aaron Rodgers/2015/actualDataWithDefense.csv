@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Aaron Rodgers,0,0,Bears,0,23,18,0,3,189,28.0,QB,0,0,0,0,0,8,0,35,1,Bears,0,0,0,Packers,189,31,0.0,DST,133,0.0,0,322,0,0
+1,2015,2,Aaron Rodgers,0,0,Seahawks,1,33,25,0,2,249,25.0,QB,0,0,0,0,0,6,0,23,0,Seahawks,0,1,0,Packers,234,27,5.0,DST,127,2.0,0,361,0,1
+2,2015,3,Aaron Rodgers,0,0,Chiefs,0,35,24,0,5,333,44.0,QB,0,0,0,0,0,2,0,16,0,Chiefs,0,0,0,Packers,325,38,1.0,DST,123,1.0,0,448,0,1
+3,2015,4,Aaron Rodgers,0,0,49ers,0,32,22,0,1,224,17.0,QB,0,0,0,0,0,3,0,33,1,49ers,0,0,0,Packers,200,17,7.0,DST,162,3.0,0,362,0,0
+4,2015,5,Aaron Rodgers,0,1,Rams,0,30,19,2,2,241,19.0,QB,0,0,0,0,0,8,0,39,0,Rams,0,1,2,Packers,236,24,9.0,DST,86,2.0,0,322,0,1
+5,2015,6,Aaron Rodgers,0,0,Chargers,0,29,16,0,2,255,23.0,QB,0,0,0,0,0,2,0,14,0,Chargers,0,0,0,Packers,237,27,4.0,DST,133,3.0,0,370,0,1
+6,2015,8,Aaron Rodgers,0,0,Broncos,0,22,14,0,0,77,6.0,QB,0,0,0,0,0,2,0,31,1,Broncos,0,0,0,Packers,50,10,12.0,DST,90,3.0,1,140,0,0
+7,2015,9,Aaron Rodgers,0,0,Panthers,1,48,25,1,4,369,40.0,QB,0,0,0,0,0,4,0,22,1,Panthers,0,1,1,Packers,331,29,9.0,DST,71,5.0,0,402,0,0
+8,2015,10,Aaron Rodgers,0,0,Lions,0,61,35,0,2,333,25.0,QB,0,0,0,0,0,2,0,8,0,Lions,0,0,0,Packers,325,16,7.0,DST,47,3.0,0,372,0,1
+9,2015,12,Aaron Rodgers,0,0,Bears,0,43,22,1,1,202,15.0,QB,0,0,0,0,0,4,0,33,0,Bears,0,1,1,Packers,188,13,13.0,DST,177,2.0,0,365,0,1
+10,2015,13,Aaron Rodgers,0,0,Lions,0,36,24,1,2,273,28.0,QB,0,0,0,0,0,4,1,27,1,Lions,0,0,1,Packers,246,27,6.0,DST,67,3.0,0,313,0,0
+11,2015,14,Aaron Rodgers,0,0,Cowboys,0,35,22,0,2,218,22.0,QB,0,0,0,0,0,3,0,27,0,Cowboys,0,0,0,Packers,205,28,2.0,DST,230,2.0,0,435,0,1
+12,2015,15,Aaron Rodgers,0,0,Raiders,0,39,22,1,1,204,12.0,QB,0,0,0,0,0,1,0,-1,1,Raiders,1,1,1,Packers,190,30,8.0,DST,103,2.0,0,293,0,0
+13,2015,16,Aaron Rodgers,0,2,Cardinals,1,28,15,1,1,151,11.0,QB,0,0,0,0,0,3,0,19,1,Cardinals,0,3,1,Packers,77,8,36.0,DST,101,9.0,0,178,2,0

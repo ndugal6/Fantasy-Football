@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Kenneth Farrow,0,0,Jaguars,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,4,0,13,0,Jaguars,0,1,0,Chargers,207,38,5.0,DST,150,3.0,0,357,0,1
+1,2016,6,Kenneth Farrow,0,0,Broncos,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,5,0,Broncos,0,2,0,Chargers,166,21,7.0,DST,99,2.0,0,265,0,1
+2,2016,7,Kenneth Farrow,0,0,Falcons,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,2,0,13,1,Falcons,0,1,1,Chargers,348,33,14.0,DST,78,4.0,0,426,1,0
+3,2016,8,Kenneth Farrow,0,0,Broncos,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,3,0,12,1,Broncos,1,0,3,Chargers,246,19,22.0,DST,123,4.0,0,369,1,0
+4,2016,9,Kenneth Farrow,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,4,1,0,4,0,15,0,Titans,0,0,0,Chargers,268,43,1.0,DST,208,1.0,0,476,0,1
+5,2016,12,Kenneth Farrow,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,-3,1,Texans,0,0,1,Chargers,235,21,4.0,DST,67,1.0,0,302,0,0
+6,2016,13,Kenneth Farrow,0,0,Buccaneers,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,4,0,15,0,Buccaneers,0,0,2,Chargers,211,21,13.0,DST,119,2.0,0,330,1,1
+7,2016,14,Kenneth Farrow,0,0,Panthers,0,0,0,0,0,0,7.0,RB,0,0,23,6,0,16,0,55,1,Panthers,0,2,3,Chargers,220,16,21.0,DST,58,5.0,1,278,0,0
+8,2016,15,Kenneth Farrow,0,1,Raiders,0,0,0,0,0,0,3.0,RB,0,0,14,2,0,15,0,39,0,Raiders,1,1,1,Chargers,190,16,13.0,DST,73,3.0,0,263,0,1
+9,2016,16,Kenneth Farrow,0,0,Browns,0,0,0,0,0,0,4.0,RB,0,0,29,4,0,9,0,28,1,Browns,1,0,1,Chargers,322,17,8.0,DST,34,0.0,0,356,0,0

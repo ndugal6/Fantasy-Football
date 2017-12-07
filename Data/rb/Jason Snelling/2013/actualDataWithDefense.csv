@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Jason Snelling,0,0,Saints,0,0,0,0,0,0,1.0,RB,0,0,17,2,0,0,0,0,1,Saints,0,1,1,Falcons,279,17,11.0,DST,88,3.0,0,367,0,0
+1,2013,2,Jason Snelling,0,0,Rams,0,0,0,0,0,0,11.0,RB,0,0,41,4,0,2,1,19,0,Rams,0,0,0,Falcons,357,31,2.0,DST,36,2.0,0,393,0,1
+2,2013,3,Jason Snelling,0,0,Dolphins,0,0,0,0,0,0,16.0,RB,0,1,58,4,0,11,0,53,1,Dolphins,0,1,1,Falcons,231,23,5.0,DST,146,0.0,0,377,0,0
+3,2013,4,Jason Snelling,0,0,Patriots,0,0,0,0,0,0,2.0,RB,0,0,8,1,0,8,0,26,0,Patriots,0,0,1,Falcons,399,23,5.0,DST,58,2.0,0,457,0,1
+4,2013,5,Jason Snelling,0,0,Jets,0,0,0,0,0,0,8.0,RB,0,1,10,5,0,7,0,13,0,Jets,0,1,0,Falcons,299,28,4.0,DST,64,2.0,0,363,0,1
+5,2013,7,Jason Snelling,0,0,Buccaneers,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,7,0,14,0,Buccaneers,0,1,0,Falcons,273,31,2.0,DST,18,0.0,0,291,0,1
+6,2013,10,Jason Snelling,0,0,Seahawks,0,0,0,0,0,0,2.0,RB,0,0,25,3,0,1,0,7,0,Seahawks,0,1,0,Falcons,162,10,11.0,DST,64,2.0,0,226,0,1
+7,2013,12,Jason Snelling,0,0,Saints,0,0,0,0,0,0,1.0,RB,0,0,19,2,0,0,0,0,0,Saints,0,1,0,Falcons,264,13,14.0,DST,91,5.0,0,355,0,1
+8,2013,13,Jason Snelling,0,0,Bills,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,0,0,0,1,Bills,0,1,0,Falcons,272,34,8.0,DST,151,6.0,0,423,0,0
+9,2013,14,Jason Snelling,0,0,Packers,0,0,0,0,0,0,0.0,RB,0,0,2,1,0,1,0,-2,1,Packers,0,1,1,Falcons,202,21,6.0,DST,83,1.0,0,285,0,0
+10,2013,15,Jason Snelling,0,0,Redskins,0,0,0,0,0,0,0.0,RB,0,0,3,1,0,1,0,0,0,Redskins,0,1,1,Falcons,189,27,8.0,DST,54,3.0,0,243,0,1
+11,2013,16,Jason Snelling,0,0,49ers,0,0,0,0,0,0,1.0,RB,0,0,15,3,0,1,0,-2,1,49ers,0,0,2,Falcons,341,24,12.0,DST,61,1.0,0,402,1,0
+12,2013,17,Jason Snelling,0,0,Panthers,0,0,0,0,0,0,10.0,RB,0,1,15,2,0,5,0,36,0,Panthers,0,0,1,Falcons,231,20,21.0,DST,76,9.0,0,307,1,1

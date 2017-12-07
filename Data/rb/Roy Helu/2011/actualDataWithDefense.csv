@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,1,Roy Helu,0,0,Giants,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,2,0,Giants,0,1,0,Redskins,258,28,6.0,DST,74,4.0,0,332,0,1
+1,2011,2,Roy Helu,0,0,Cardinals,0,0,0,0,0,0,10.0,RB,0,0,38,3,0,10,0,74,0,Cardinals,1,0,2,Redskins,283,22,8.0,DST,172,1.0,0,455,0,1
+2,2011,3,Roy Helu,0,0,Cowboys,0,0,0,0,0,0,2.0,RB,0,0,17,2,0,5,0,15,1,Cowboys,1,1,1,Redskins,233,16,13.0,DST,65,3.0,0,298,0,0
+3,2011,4,Roy Helu,0,0,Rams,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,8,0,35,1,Rams,0,0,2,Redskins,143,17,8.0,DST,196,0.0,0,339,0,0
+4,2011,6,Roy Helu,0,0,Eagles,0,0,0,0,0,0,1.0,RB,0,0,11,2,0,2,0,6,0,Eagles,0,0,4,Redskins,245,13,17.0,DST,42,2.0,0,287,0,1
+5,2011,7,Roy Helu,0,0,Panthers,0,0,0,0,0,0,0.0,RB,0,0,6,2,0,1,0,-1,1,Panthers,0,2,1,Redskins,261,20,13.0,DST,92,3.0,0,353,0,0
+6,2011,8,Roy Helu,0,0,Bills,0,0,0,0,0,0,2.0,RB,0,0,20,3,0,0,0,0,1,Bills,1,0,2,Redskins,152,0,26.0,DST,26,10.0,0,178,0,0
+7,2011,9,Roy Helu,0,1,49ers,0,0,0,0,0,0,13.0,RB,0,0,105,14,0,10,0,41,0,49ers,0,2,1,Redskins,251,11,15.0,DST,52,2.0,0,303,0,1
+8,2011,10,Roy Helu,0,0,Dolphins,0,0,0,0,0,0,5.0,RB,0,0,13,3,0,6,0,41,1,Dolphins,0,0,2,Redskins,185,9,14.0,DST,61,3.0,0,246,0,0
+9,2011,11,Roy Helu,0,0,Cowboys,0,0,0,0,0,0,3.0,RB,0,0,3,2,0,8,0,35,0,Cowboys,0,1,1,Redskins,279,24,8.0,DST,60,3.0,0,339,0,1
+10,2011,12,Roy Helu,0,0,Seahawks,0,0,0,0,0,0,21.0,RB,0,0,54,7,0,23,1,108,1,Seahawks,2,0,2,Redskins,306,23,10.0,DST,110,1.0,0,416,0,0
+11,2011,13,Roy Helu,0,1,Jets,0,0,0,0,0,0,19.0,RB,0,0,42,4,0,23,1,100,0,Jets,0,2,1,Redskins,204,19,12.0,DST,100,2.0,0,304,0,1
+12,2011,14,Roy Helu,0,0,Patriots,0,0,0,0,0,0,12.0,RB,0,0,6,2,0,27,0,126,0,Patriots,0,1,1,Redskins,293,27,13.0,DST,170,2.0,0,463,1,1
+13,2011,15,Roy Helu,0,0,Giants,0,0,0,0,0,0,6.0,RB,0,0,16,3,0,23,0,53,1,Giants,0,0,2,Redskins,177,23,6.0,DST,123,1.0,0,300,0,0
+14,2011,17,Roy Helu,0,0,Eagles,0,0,0,0,0,0,10.0,RB,0,1,48,2,0,4,0,5,1,Eagles,1,0,1,Redskins,247,10,12.0,DST,130,1.0,0,377,0,0

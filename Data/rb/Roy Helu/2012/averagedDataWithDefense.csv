@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012.0,1,Roy Helu,0.0,0.0,Saints,0.0,0.0,0.0,0.0,0.0,0.0,2.0,RB,0.0,0.0,25.0,3.0,0.0,2.0,0.0,2.0,1.0,Saints,1.0,0.0,0.0,Redskins,306.0,40.0,10.0,DST,153.0,2.0,0.0,459.0,1.0,0.0
+1,2012.0,2,Roy Helu,0.0,0.0,Rams,0.0,0.0,0.0,0.0,0.0,0.0,2.0,RB,0.0,0.0,25.0,3.0,0.0,2.0,0.0,2.0,1.0,Rams,0.0,0.0,3.0,Redskins,346.0,27.0,14.0,DST,83.0,1.0,0.0,429.0,1.0,1.0
+2,2012.0,3,Roy Helu,0.0,0.0,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,1.0,RB,0.0,0.0,12.5,2.0,0.0,1.0,0.0,1.0,1.0,Bengals,0.0,0.5,0.0,Redskins,308.5,35.5,7.0,DST,126.0,2.5,0.0,434.5,0.5,0.5

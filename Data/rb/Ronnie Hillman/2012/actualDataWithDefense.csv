@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,3,Ronnie Hillman,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,1,1,0,2,0,7,0,Texans,0,1,0,Broncos,316,25,6.0,DST,59,3.0,0,375,0,1
+1,2012,4,Ronnie Hillman,0,0,Raiders,0,0,0,0,0,0,6.0,RB,0,0,32,2,0,10,0,31,0,Raiders,0,1,0,Broncos,338,37,2.0,DST,165,0.0,0,503,0,1
+2,2012,5,Ronnie Hillman,0,0,Patriots,0,0,0,0,0,0,0.0,RB,0,0,4,1,0,3,0,9,1,Patriots,0,3,0,Broncos,324,21,9.0,DST,70,2.0,0,394,0,0
+3,2012,6,Ronnie Hillman,0,0,Chargers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,3,1,Chargers,0,2,1,Broncos,309,35,12.0,DST,56,0.0,0,365,1,0
+4,2012,8,Ronnie Hillman,0,0,Saints,0,0,0,0,0,0,8.0,RB,0,0,-4,1,0,14,0,86,0,Saints,0,1,0,Broncos,305,34,2.0,DST,225,0.0,0,530,0,1
+5,2012,9,Ronnie Hillman,0,0,Bengals,0,0,0,0,0,0,0.0,RB,0,0,5,1,0,1,0,4,1,Bengals,0,0,2,Broncos,291,31,4.0,DST,68,0.0,0,359,0,0
+6,2012,10,Ronnie Hillman,0,0,Panthers,0,0,0,0,0,0,6.0,RB,0,0,8,2,0,5,1,5,1,Panthers,0,2,0,Broncos,295,36,5.0,DST,65,1.0,0,360,0,0
+7,2012,11,Ronnie Hillman,0,0,Chargers,0,0,0,0,0,0,5.0,RB,0,0,16,2,0,12,0,43,0,Chargers,0,1,1,Broncos,253,30,15.0,DST,133,3.0,1,386,1,1
+8,2012,12,Ronnie Hillman,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,9,1,Chiefs,0,0,1,Broncos,273,17,8.0,DST,95,2.0,0,368,0,0
+9,2012,13,Ronnie Hillman,0,0,Buccaneers,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,5,0,29,0,Buccaneers,0,0,1,Broncos,242,31,2.0,DST,91,0.0,0,333,0,1
+10,2012,14,Ronnie Hillman,0,0,Raiders,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,4,0,24,1,Raiders,0,0,1,Broncos,288,26,6.0,DST,140,3.0,0,428,0,0
+11,2012,15,Ronnie Hillman,0,0,Ravens,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,15,0,32,1,Ravens,0,0,0,Broncos,187,34,2.0,DST,163,2.0,0,350,0,0
+12,2012,16,Ronnie Hillman,0,0,Browns,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,6,0,35,0,Browns,0,0,1,Broncos,339,34,2.0,DST,118,0.0,0,457,0,1
+13,2012,17,Ronnie Hillman,0,1,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,13,0,Chiefs,0,1,0,Broncos,316,38,2.0,DST,172,0.0,0,488,0,1

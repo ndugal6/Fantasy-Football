@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Matthew Stafford,0,1,Bears,0,15,11,0,0,83,2.0,QB,0,0,0,0,0,0,0,0,1,Bears,0,2,1,Lions,148,14,12.0,DST,20,2.0,0,168,0,0
+1,2010,8,Matthew Stafford,0,0,Redskins,1,45,26,1,4,212,32.0,QB,0,0,0,0,0,0,0,0,0,Redskins,0,1,1,Lions,202,37,11.0,DST,102,1.0,0,304,1,1
+2,2010,9,Matthew Stafford,0,0,Jets,0,36,20,0,2,240,28.0,QB,0,0,0,0,0,4,1,11,0,Jets,0,0,0,Lions,228,20,6.0,DST,78,2.0,0,306,0,1

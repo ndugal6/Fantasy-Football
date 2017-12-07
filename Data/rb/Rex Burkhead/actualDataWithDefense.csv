@@ -1,0 +1,24 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,6,Rex Burkhead,0,0,Patriots,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,2,0,16,1,Patriots,0,0,0,Bengals,237,17,8.0,DST,120,2.0,1,357,0,0
+1,2016,7,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,3.0,RB,0,0,10,1,0,4,0,23,0,Browns,0,1,0,Bengals,288,31,5.0,DST,271,3.0,0,559,0,1
+2,2016,11,Rex Burkhead,0,0,Bills,0,0,0,0,0,0,1.0,RB,0,0,14,1,0,0,0,0,0,Bills,0,0,2,Bengals,207,12,12.0,DST,93,1.0,0,300,0,1
+3,2016,12,Rex Burkhead,0,0,Ravens,0,0,0,0,0,0,3.0,RB,0,0,19,2,0,5,0,29,1,Ravens,0,2,0,Bengals,261,14,11.0,DST,64,3.0,0,325,0,0
+4,2016,13,Rex Burkhead,0,1,Eagles,0,0,0,0,0,0,4.0,RB,0,0,28,4,0,8,0,38,0,Eagles,0,2,0,Bengals,332,32,4.0,DST,80,0.0,0,412,0,1
+5,2016,14,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,4.0,RB,0,0,6,1,0,9,0,45,1,Browns,0,0,0,Bengals,147,23,5.0,DST,213,4.0,0,360,0,0
+6,2016,15,Rex Burkhead,0,0,Steelers,0,0,0,0,0,0,4.0,RB,0,0,18,2,0,7,0,32,0,Steelers,0,0,1,Bengals,146,20,7.0,DST,76,1.0,0,222,0,1
+7,2016,16,Rex Burkhead,0,0,Texans,0,0,0,0,0,0,6.0,RB,0,0,25,4,0,12,0,42,1,Texans,0,0,1,Bengals,244,10,12.0,DST,50,3.0,0,294,0,0
+8,2016,17,Rex Burkhead,0,0,Ravens,0,0,0,0,0,0,25.0,RB,0,0,25,2,0,27,2,119,0,Ravens,0,0,0,Bengals,218,27,2.0,DST,153,1.0,0,371,0,1
+9,2015,1,Rex Burkhead,0,0,Raiders,0,0,0,0,0,0,2.0,RB,0,0,24,1,0,0,0,0,1,Raiders,1,0,0,Bengals,269,33,2.0,DST,127,0.0,0,396,0,0
+10,2015,2,Rex Burkhead,0,0,Chargers,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,0,Chargers,0,2,0,Bengals,214,24,5.0,DST,175,0.0,0,389,0,1
+11,2015,4,Rex Burkhead,0,0,Chiefs,0,0,0,0,0,0,2.0,RB,0,0,27,1,0,0,0,0,0,Chiefs,0,0,0,Bengals,321,36,0.0,DST,124,0.0,0,445,0,1
+12,2015,5,Rex Burkhead,0,1,Seahawks,0,0,0,0,0,0,-1.0,RB,0,0,0,0,0,1,0,-2,0,Seahawks,0,1,1,Bengals,310,27,15.0,DST,109,4.0,0,419,1,1
+13,2015,9,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,0,0,0,0,Browns,1,0,0,Bengals,219,31,4.0,DST,152,2.0,0,371,0,1
+14,2015,11,Rex Burkhead,0,0,Cardinals,0,0,0,0,0,0,0.0,RB,0,0,7,1,0,0,0,0,1,Cardinals,0,1,0,Bengals,278,31,6.0,DST,99,4.0,0,377,0,0
+15,2015,12,Rex Burkhead,0,0,Rams,0,0,0,0,0,0,0.0,RB,0,0,4,2,0,2,0,4,0,Rams,0,0,1,Bengals,236,31,2.0,DST,140,0.0,0,376,0,1
+16,2015,13,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,0.0,RB,0,0,4,1,0,1,0,2,1,Browns,0,0,0,Bengals,233,37,1.0,DST,144,1.0,0,377,0,0
+17,2015,14,Rex Burkhead,0,0,Steelers,0,0,0,0,0,0,6.0,RB,0,1,5,1,0,0,0,0,0,Steelers,0,0,3,Bengals,321,20,19.0,DST,64,3.0,0,385,1,1
+18,2015,16,Rex Burkhead,0,0,Broncos,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,0,0,0,1,Broncos,0,1,0,Bengals,186,17,8.0,DST,108,2.0,0,294,0,0
+19,2014,9,Rex Burkhead,0,0,Jaguars,0,0,0,0,0,0,1.0,RB,0,0,10,2,0,0,0,0,0,Jaguars,0,0,2,Bengals,232,33,6.0,DST,191,2.0,0,423,0,1
+20,2014,10,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,1.0,RB,0,0,3,2,0,4,0,12,0,Browns,0,1,3,Bengals,79,3,20.0,DST,86,2.0,0,165,0,1
+21,2014,11,Rex Burkhead,0,0,Saints,0,0,0,0,0,0,3.0,RB,0,0,36,3,0,2,0,1,1,Saints,0,0,0,Bengals,219,27,2.0,DST,186,1.0,0,405,0,0
+22,2014,15,Rex Burkhead,0,0,Browns,0,0,0,0,0,0,7.0,RB,0,0,0,0,0,3,1,14,1,Browns,0,0,1,Bengals,103,30,4.0,DST,244,2.0,0,347,0,0

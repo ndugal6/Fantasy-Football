@@ -1,0 +1,25 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Nelson Agholor,0,0,Browns,0,0,0,0,0,0,11.0,WR,0,1,57,4,0,0,0,0,0,Browns,0,0,0,Eagles,270,29,2.0,DST,133,2.0,0,403,0,1
+1,2016,2,Nelson Agholor,0,0,Bears,0,0,0,0,0,0,4.0,WR,0,0,42,4,0,0,0,0,1,Bears,0,0,0,Eagles,180,29,8.0,DST,100,2.0,0,280,1,0
+2,2016,3,Nelson Agholor,0,0,Steelers,0,0,0,0,0,0,2.0,WR,0,0,21,3,0,0,0,0,0,Steelers,0,0,0,Eagles,301,34,0.0,DST,125,0.0,0,426,0,1
+3,2016,5,Nelson Agholor,0,0,Lions,0,0,0,0,0,0,2.0,WR,0,0,27,2,0,1,0,5,1,Lions,0,1,1,Eagles,230,23,8.0,DST,116,3.0,0,346,0,0
+4,2016,6,Nelson Agholor,0,0,Redskins,0,0,0,0,0,0,3.0,WR,0,0,34,3,0,0,0,0,1,Redskins,0,0,0,Eagles,145,20,9.0,DST,94,5.0,0,239,0,0
+5,2016,8,Nelson Agholor,0,0,Cowboys,0,0,0,0,0,0,2.0,WR,0,0,25,3,0,0,0,0,1,Cowboys,0,1,0,Eagles,194,23,6.0,DST,97,3.0,0,291,0,0
+6,2016,9,Nelson Agholor,0,0,Giants,0,0,0,0,0,0,4.0,WR,0,0,41,4,0,0,0,0,1,Giants,1,0,2,Eagles,347,23,9.0,DST,96,2.0,0,443,0,0
+7,2016,10,Nelson Agholor,0,0,Falcons,0,0,0,0,0,0,0.0,WR,0,0,7,2,0,0,0,0,0,Falcons,0,1,0,Eagles,221,24,5.0,DST,208,2.0,0,429,0,1
+8,2016,11,Nelson Agholor,0,0,Seahawks,0,0,0,0,0,0,2.0,WR,1,0,0,0,0,0,0,0,1,Seahawks,0,0,2,Eagles,195,15,10.0,DST,113,2.0,0,308,0,0
+9,2016,13,Nelson Agholor,0,0,Bengals,0,0,0,0,0,0,2.0,WR,0,0,23,4,0,1,0,4,1,Bengals,0,0,3,Eagles,306,14,11.0,DST,53,1.0,0,359,0,0
+10,2016,14,Nelson Agholor,0,0,Redskins,0,0,0,0,0,0,2.0,WR,0,0,22,2,0,0,0,0,0,Redskins,0,1,1,Eagles,288,22,9.0,DST,95,4.0,0,383,0,1
+11,2016,15,Nelson Agholor,0,0,Ravens,0,0,0,0,0,0,0.0,WR,0,0,9,1,0,1,0,1,1,Ravens,0,0,1,Eagles,159,26,4.0,DST,169,1.0,0,328,0,0
+12,2016,16,Nelson Agholor,0,0,Giants,0,0,0,0,0,0,10.0,WR,0,1,47,2,0,1,0,5,0,Giants,0,0,1,Eagles,168,24,3.0,DST,118,0.0,0,286,0,1
+13,2016,17,Nelson Agholor,0,0,Cowboys,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,-1,0,Cowboys,0,0,0,Eagles,232,27,3.0,DST,114,2.0,0,346,0,1
+14,2015,1,Nelson Agholor,0,0,Falcons,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,1,Falcons,0,0,2,Eagles,336,24,5.0,DST,63,0.0,0,399,0,0
+15,2015,2,Nelson Agholor,0,0,Cowboys,0,0,0,0,0,0,3.0,WR,0,0,31,3,0,0,0,0,0,Cowboys,1,1,2,Eagles,219,10,22.0,DST,7,1.0,0,226,1,1
+16,2015,4,Nelson Agholor,0,1,Redskins,0,0,0,0,0,0,5.0,WR,0,0,64,3,0,0,0,0,1,Redskins,0,2,0,Eagles,233,20,13.0,DST,87,5.0,0,320,0,0
+17,2015,5,Nelson Agholor,0,0,Saints,0,0,0,0,0,0,0.0,WR,0,0,5,1,0,0,0,0,0,Saints,0,0,2,Eagles,333,39,4.0,DST,186,0.0,0,519,0,1
+18,2015,10,Nelson Agholor,0,0,Dolphins,0,0,0,0,0,0,3.0,WR,0,0,32,3,0,0,0,0,0,Dolphins,1,0,1,Eagles,353,19,12.0,DST,83,4.0,0,436,0,1
+19,2015,11,Nelson Agholor,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,11,3,0,0,0,0,0,Buccaneers,0,1,3,Eagles,247,17,21.0,DST,136,3.0,0,383,1,1
+20,2015,12,Nelson Agholor,0,0,Lions,0,0,0,0,0,0,1.0,WR,0,0,15,2,0,0,0,0,1,Lions,0,1,0,Eagles,159,14,12.0,DST,68,6.0,0,227,0,0
+21,2015,14,Nelson Agholor,0,0,Bills,0,0,0,0,0,0,12.0,WR,0,1,62,3,0,0,0,0,0,Bills,0,0,1,Eagles,232,23,4.0,DST,116,1.0,0,348,0,1
+22,2015,16,Nelson Agholor,0,0,Redskins,0,0,0,0,0,0,3.0,WR,0,0,35,2,0,0,0,0,0,Redskins,0,2,0,Eagles,353,24,16.0,DST,45,5.0,0,398,1,1
+23,2015,17,Nelson Agholor,0,0,Giants,0,0,0,0,0,0,2.0,WR,0,0,23,2,0,0,0,0,1,Giants,0,1,1,Eagles,315,35,5.0,DST,120,1.0,0,435,0,0

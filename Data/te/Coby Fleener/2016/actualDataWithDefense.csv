@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,1,Coby Fleener,0,0,Raiders,0,0,0,0,0,0,0.0,TE,0,0,6,1,0,0,0,0,0,Raiders,0,1,0,Saints,419,34,3.0,DST,88,1.0,0,507,0,1
+1,2016,2,Coby Fleener,0,0,Giants,0,0,0,0,0,0,2.0,TE,0,0,29,2,0,0,0,0,1,Giants,1,0,0,Saints,247,13,17.0,DST,41,2.0,0,288,1,0
+2,2016,3,Coby Fleener,0,0,Falcons,0,0,0,0,0,0,16.0,TE,0,1,109,7,0,0,0,0,0,Falcons,0,1,1,Saints,359,32,12.0,DST,115,2.0,0,474,1,1
+3,2016,4,Coby Fleener,0,0,Chargers,0,0,0,0,0,0,1.0,TE,0,0,19,3,0,0,0,0,1,Chargers,0,0,2,Saints,192,35,6.0,DST,83,2.0,0,275,0,0
+4,2016,6,Coby Fleener,0,0,Panthers,0,0,0,0,0,0,19.0,TE,0,1,74,6,0,1,1,2,0,Panthers,0,0,1,Saints,460,41,3.0,DST,63,1.0,0,523,0,1
+5,2016,7,Coby Fleener,0,0,Chiefs,0,0,0,0,0,0,4.0,TE,0,0,44,2,0,0,0,0,1,Chiefs,0,1,1,Saints,359,21,12.0,DST,104,1.0,0,463,1,0
+6,2016,8,Coby Fleener,0,0,Seahawks,0,0,0,0,0,0,3.0,TE,0,0,36,4,0,0,0,0,0,Seahawks,0,1,0,Saints,252,25,11.0,DST,123,2.0,0,375,1,1
+7,2016,9,Coby Fleener,0,0,49ers,0,0,0,0,0,0,4.0,TE,0,0,42,3,0,0,0,0,1,49ers,0,0,0,Saints,323,41,1.0,DST,248,1.0,0,571,0,0
+8,2016,10,Coby Fleener,0,0,Broncos,0,0,0,0,0,0,2.0,TE,0,0,26,2,0,0,0,0,0,Broncos,1,2,2,Saints,293,23,14.0,DST,80,1.0,0,373,0,1
+9,2016,11,Coby Fleener,0,0,Panthers,0,0,0,0,0,0,7.0,TE,0,1,17,3,0,0,0,0,1,Panthers,1,1,1,Saints,264,20,13.0,DST,107,3.0,0,371,0,0
+10,2016,13,Coby Fleener,0,0,Lions,0,0,0,0,0,0,8.0,TE,0,0,86,5,0,0,0,0,0,Lions,0,0,3,Saints,319,13,14.0,DST,50,1.0,0,369,0,1
+11,2016,14,Coby Fleener,0,0,Buccaneers,0,0,0,0,0,0,0.0,TE,0,0,6,1,0,0,0,0,1,Buccaneers,0,0,3,Saints,248,11,14.0,DST,46,1.0,0,294,0,0
+12,2016,15,Coby Fleener,0,0,Cardinals,0,0,0,0,0,0,1.0,TE,0,0,10,2,0,0,0,0,1,Cardinals,0,1,0,Saints,358,48,11.0,DST,130,3.0,0,488,1,0
+13,2016,16,Coby Fleener,0,0,Buccaneers,0,0,0,0,0,0,3.0,TE,0,0,30,2,0,0,0,0,0,Buccaneers,0,0,0,Saints,294,31,2.0,DST,123,2.0,0,417,0,1
+14,2016,17,Coby Fleener,0,0,Falcons,0,0,0,0,0,0,3.0,TE,0,0,38,3,0,0,0,0,1,Falcons,0,0,1,Saints,341,32,4.0,DST,132,2.0,0,473,0,0

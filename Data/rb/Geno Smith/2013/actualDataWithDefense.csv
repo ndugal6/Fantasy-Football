@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Geno Smith,0,1,Buccaneers,0,38,24,1,1,256,17.0,QB,0,0,0,0,0,6,0,47,0,Buccaneers,0,1,1,Jets,214,18,13.0,DST,90,5.0,0,304,0,1
+1,2013,2,Geno Smith,0,0,Patriots,0,35,15,3,0,214,3.0,QB,0,0,0,0,0,3,0,17,1,Patriots,0,1,3,Jets,189,10,19.0,DST,129,4.0,0,318,0,0
+2,2013,3,Geno Smith,0,0,Bills,0,29,16,2,2,331,28.0,QB,0,0,0,0,0,4,1,14,0,Bills,0,0,2,Jets,331,27,5.0,DST,182,0.0,0,513,0,1
+3,2013,4,Geno Smith,0,2,Titans,0,34,23,2,1,289,11.0,QB,0,0,0,0,0,3,0,7,1,Titans,0,2,2,Jets,239,13,26.0,DST,91,5.0,0,330,1,0
+4,2013,5,Geno Smith,0,0,Falcons,0,20,16,0,3,199,27.0,QB,0,0,0,0,0,3,0,21,1,Falcons,0,0,0,Jets,170,30,4.0,DST,118,4.0,0,288,0,0
+5,2013,6,Geno Smith,0,0,Steelers,0,34,19,2,0,201,4.0,QB,0,0,0,0,0,3,0,8,0,Steelers,0,0,2,Jets,184,6,17.0,DST,83,3.0,0,267,0,1
+6,2013,7,Geno Smith,0,0,Patriots,0,33,17,1,1,233,22.0,QB,0,0,0,0,0,6,1,32,0,Patriots,0,0,1,Jets,206,30,12.0,DST,177,4.0,0,383,1,1
+7,2013,8,Geno Smith,0,0,Bengals,0,30,20,2,0,159,2.0,QB,0,0,0,0,0,2,0,8,1,Bengals,0,0,2,Jets,147,9,27.0,DST,93,4.0,0,240,2,0
+8,2013,9,Geno Smith,0,0,Saints,0,19,8,0,0,115,11.0,QB,0,0,0,0,0,6,1,18,0,Saints,0,0,0,Jets,140,26,3.0,DST,198,2.0,0,338,0,1
+9,2013,11,Geno Smith,0,1,Bills,0,23,8,3,0,103,-3.0,QB,0,0,0,0,0,1,0,0,1,Bills,0,1,3,Jets,133,14,22.0,DST,134,4.0,0,267,1,0
+10,2013,12,Geno Smith,0,0,Ravens,0,22,9,2,0,127,2.0,QB,0,0,13,1,0,3,0,6,1,Ravens,0,1,2,Jets,118,3,19.0,DST,102,3.0,0,220,0,0
+11,2013,13,Geno Smith,0,0,Dolphins,0,10,4,1,0,29,-1.0,QB,0,0,0,0,0,1,0,2,0,Dolphins,0,1,2,Jets,78,3,20.0,DST,99,4.0,0,177,0,1
+12,2013,14,Geno Smith,0,0,Raiders,0,25,16,1,1,219,23.0,QB,0,0,0,0,0,5,1,50,0,Raiders,0,0,1,Jets,209,37,3.0,DST,143,1.0,0,352,0,1
+13,2013,15,Geno Smith,0,0,Panthers,0,28,15,1,1,167,14.0,QB,0,0,0,0,0,6,0,44,1,Panthers,1,0,1,Jets,140,20,18.0,DST,157,4.0,0,297,1,0
+14,2013,16,Geno Smith,0,0,Browns,0,36,20,0,2,214,30.0,QB,0,0,0,0,0,10,1,48,0,Browns,0,0,0,Jets,214,24,1.0,DST,208,0.0,0,422,0,1
+15,2013,17,Geno Smith,0,0,Dolphins,0,27,17,0,0,190,17.0,QB,0,0,0,0,0,10,1,44,1,Dolphins,0,0,0,Jets,220,20,4.0,DST,154,0.0,0,374,0,0

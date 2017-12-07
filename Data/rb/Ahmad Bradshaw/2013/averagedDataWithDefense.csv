@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013.0,1,Ahmad Bradshaw,0.0,0.0,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,2.0,RB,0.0,0.0,7.0,1.0,0.0,7.0,0.0,26.0,0.0,Raiders,0.0,0.0,0.0,Colts,147.0,21.0,5.0,DST,127.0,4.0,0.0,274.0,0.0,1.0
+1,2013.0,2,Ahmad Bradshaw,0.0,0.0,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,2.0,RB,0.0,0.0,7.0,1.0,0.0,7.0,0.0,26.0,0.0,Dolphins,0.0,0.0,3.0,Colts,244.0,10.0,19.0,DST,47.0,6.0,0.0,291.0,0.0,1.0
+2,2013.0,3,Ahmad Bradshaw,0.0,0.0,49ers,0.0,0.0,0.0,0.0,0.0,0.0,7.5,RB,0.0,0.0,13.0,2.0,0.0,11.0,0.5,45.5,0.0,49ers,0.5,0.5,1.0,Colts,220.0,28.5,7.0,DST,117.5,3.0,0.0,337.5,0.0,0.5

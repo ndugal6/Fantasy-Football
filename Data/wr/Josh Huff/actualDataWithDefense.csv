@@ -1,0 +1,26 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Josh Huff,0,0,Bears,0,0,0,0,0,0,0.0,WR,0,0,-1,1,0,1,0,0,1,Bears,0,0,0,Eagles,180,29,8.0,DST,100,2.0,0,280,1,0
+1,2016,3,Josh Huff,0,0,Steelers,0,0,0,0,0,0,2.0,WR,0,0,20,4,0,0,0,0,0,Steelers,0,0,0,Eagles,301,34,0.0,DST,125,0.0,0,426,0,1
+2,2016,5,Josh Huff,0,0,Lions,0,0,0,0,0,0,7.0,WR,0,1,5,3,0,2,0,10,1,Lions,0,1,1,Eagles,230,23,8.0,DST,116,3.0,0,346,0,0
+3,2016,8,Josh Huff,0,0,Cowboys,0,1,0,0,0,0,0.0,WR,0,0,9,1,0,0,0,0,1,Cowboys,0,1,0,Eagles,194,23,6.0,DST,97,3.0,0,291,0,0
+4,2016,14,Josh Huff,0,0,Saints,0,0,0,0,0,0,1.0,WR,0,0,17,1,0,1,0,5,0,Saints,0,0,0,Buccaneers,166,16,8.0,DST,104,2.0,1,270,0,1
+5,2016,16,Josh Huff,0,0,Saints,0,0,0,0,0,0,2.0,WR,0,0,24,2,0,0,0,0,1,Saints,0,0,2,Buccaneers,260,24,7.0,DST,89,2.0,0,349,0,0
+6,2015,1,Josh Huff,0,0,Falcons,0,0,0,0,0,0,1.0,WR,0,0,19,2,0,0,0,0,1,Falcons,0,0,2,Eagles,336,24,5.0,DST,63,0.0,0,399,0,0
+7,2015,2,Josh Huff,0,0,Cowboys,0,0,0,0,0,0,2.0,WR,0,0,20,2,0,0,0,0,0,Cowboys,1,1,2,Eagles,219,10,22.0,DST,7,1.0,0,226,1,1
+8,2015,5,Josh Huff,0,0,Saints,0,0,0,0,0,0,13.0,WR,0,1,78,4,0,0,0,0,0,Saints,0,0,2,Eagles,333,39,4.0,DST,186,0.0,0,519,0,1
+9,2015,6,Josh Huff,0,0,Giants,0,0,0,0,0,0,1.0,WR,0,0,19,3,0,0,0,0,0,Giants,0,1,3,Eagles,270,27,10.0,DST,158,1.0,0,428,0,1
+10,2015,7,Josh Huff,0,0,Panthers,0,0,0,0,0,0,0.0,WR,0,0,5,2,0,0,0,0,1,Panthers,0,0,1,Eagles,172,16,11.0,DST,177,5.0,0,349,0,0
+11,2015,9,Josh Huff,0,0,Cowboys,0,0,0,0,0,0,1.0,WR,0,0,10,2,0,0,0,0,1,Cowboys,0,0,0,Eagles,287,33,1.0,DST,172,1.0,0,459,0,0
+12,2015,10,Josh Huff,0,0,Dolphins,0,0,0,0,0,0,8.0,WR,0,1,23,3,0,0,0,0,0,Dolphins,1,0,1,Eagles,353,19,12.0,DST,83,4.0,0,436,0,1
+13,2015,11,Josh Huff,0,0,Buccaneers,0,0,0,0,0,0,9.0,WR,0,1,39,1,0,0,0,0,0,Buccaneers,0,1,3,Eagles,247,17,21.0,DST,136,3.0,0,383,1,1
+14,2015,12,Josh Huff,0,0,Lions,0,0,0,0,0,0,1.0,WR,0,0,11,1,0,0,0,0,1,Lions,0,1,0,Eagles,159,14,12.0,DST,68,6.0,0,227,0,0
+15,2015,14,Josh Huff,0,0,Bills,0,0,0,0,0,0,2.0,WR,0,0,28,2,0,0,0,0,0,Bills,0,0,1,Eagles,232,23,4.0,DST,116,1.0,0,348,0,1
+16,2015,15,Josh Huff,0,0,Cardinals,0,0,0,0,0,0,5.0,WR,0,0,52,4,0,0,0,0,0,Cardinals,0,2,2,Eagles,350,17,20.0,DST,74,2.0,0,424,1,1
+17,2015,16,Josh Huff,0,0,Redskins,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,0,Redskins,0,2,0,Eagles,353,24,16.0,DST,45,5.0,0,398,1,1
+18,2014,5,Josh Huff,0,0,Rams,0,0,0,0,0,0,0.0,WR,0,0,4,1,0,0,0,0,0,Rams,0,2,1,Eagles,207,34,6.0,DST,145,0.0,0,352,0,1
+19,2014,8,Josh Huff,0,1,Cardinals,0,0,0,0,0,0,0.0,WR,0,0,12,1,0,0,0,0,1,Cardinals,0,1,2,Eagles,411,20,10.0,DST,110,0.0,0,521,0,0
+20,2014,9,Josh Huff,0,0,Texans,0,0,0,0,0,0,2.0,WR,0,0,26,3,0,0,0,0,1,Texans,0,1,3,Eagles,293,31,18.0,DST,190,4.0,0,483,1,0
+21,2014,10,Josh Huff,0,0,Panthers,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,0,Panthers,0,0,0,Eagles,328,45,1.0,DST,37,1.0,0,365,0,1
+22,2014,13,Josh Huff,0,0,Cowboys,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,7,1,Cowboys,0,1,0,Eagles,208,33,3.0,DST,256,1.0,0,464,0,0
+23,2014,15,Josh Huff,0,0,Cowboys,0,0,0,0,0,0,4.0,WR,0,0,44,1,0,0,0,0,0,Cowboys,0,1,2,Eagles,219,27,11.0,DST,75,4.0,0,294,0,1
+24,2014,17,Josh Huff,0,0,Giants,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,1,Giants,0,0,1,Eagles,262,34,6.0,DST,164,4.0,0,426,0,0

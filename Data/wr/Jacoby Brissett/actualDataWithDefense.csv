@@ -1,0 +1,4 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2016,2,Jacoby Brissett,0,0,Dolphins,0,9,6,0,0,92,4.0,QB,0,0,0,0,0,4,0,12,0,Dolphins,0,1,0,Patriots,302,31,4.0,DST,161,2.0,0,463,0,1
+1,2016,3,Jacoby Brissett,0,0,Texans,0,19,11,0,0,103,14.0,QB,0,0,0,0,0,8,1,48,0,Texans,0,0,0,Patriots,97,27,2.0,DST,185,1.0,0,282,0,1
+2,2016,4,Jacoby Brissett,0,1,Bills,0,27,17,0,0,205,9.0,QB,0,0,0,0,0,4,0,23,0,Bills,0,1,0,Patriots,187,0,15.0,DST,90,3.0,0,277,0,1

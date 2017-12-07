@@ -1,0 +1,10 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,9,Jay Ajayi,0,0,Bills,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,5,0,41,1,Bills,0,1,0,Dolphins,289,17,10.0,DST,108,2.0,1,397,0,0
+1,2015,10,Jay Ajayi,0,0,Eagles,0,0,0,0,0,0,4.0,RB,0,0,0,0,0,6,0,48,1,Eagles,0,0,0,Dolphins,190,20,10.0,DST,99,4.0,1,289,0,0
+2,2015,11,Jay Ajayi,0,0,Cowboys,0,0,0,0,0,0,3.0,RB,0,0,23,2,0,4,0,13,0,Cowboys,0,0,1,Dolphins,140,14,15.0,DST,70,3.0,0,210,1,1
+3,2015,12,Jay Ajayi,0,0,Jets,0,0,0,0,0,0,5.0,RB,0,0,52,4,0,3,0,6,1,Jets,0,1,1,Dolphins,321,20,11.0,DST,12,3.0,0,333,0,0
+4,2015,13,Jay Ajayi,0,0,Ravens,0,0,0,0,0,0,3.0,RB,0,0,0,0,1,4,0,12,0,Ravens,0,1,0,Dolphins,82,15,7.0,DST,137,1.0,0,219,0,1
+5,2015,14,Jay Ajayi,0,0,Giants,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,15,0,Giants,0,1,0,Dolphins,235,24,4.0,DST,128,1.0,0,363,0,1
+6,2015,15,Jay Ajayi,0,0,Chargers,0,0,0,0,0,0,9.0,RB,0,0,15,1,0,6,1,27,1,Chargers,0,1,0,Dolphins,187,14,9.0,DST,44,3.0,0,231,0,0
+7,2015,16,Jay Ajayi,0,0,Colts,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,9,0,23,0,Colts,0,0,1,Dolphins,279,12,17.0,DST,82,6.0,1,361,0,1
+8,2015,17,Jay Ajayi,0,0,Patriots,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,7,0,2,0,Patriots,0,0,0,Dolphins,342,20,5.0,DST,96,1.0,0,438,0,1

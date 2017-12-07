@@ -1,0 +1,12 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,10,Luke McCown,0,0,Cowboys,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-2,0,Cowboys,0,1,0,Saints,383,49,3.0,DST,242,1.0,0,625,0,1
+1,2013,16,Luke McCown,0,0,Panthers,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,0,0,0,1,Panthers,0,0,2,Saints,239,13,17.0,DST,126,6.0,0,365,0,0
+2,2013,17,Luke McCown,0,0,Buccaneers,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,1,0,-2,0,Buccaneers,0,0,0,Saints,370,42,1.0,DST,98,1.0,0,468,0,1
+3,2015,3,Luke McCown,0,0,Panthers,0,38,31,1,0,310,10.0,QB,0,0,0,0,0,0,0,0,1,Panthers,0,1,1,Saints,310,22,6.0,DST,70,1.0,0,380,0,0
+4,2015,7,Luke McCown,0,0,Colts,0,1,1,0,0,25,1.0,QB,0,0,0,0,0,0,0,0,1,Colts,0,0,1,Saints,266,27,5.0,DST,183,2.0,0,449,0,0
+5,2012,15,Luke McCown,0,0,Giants,0,0,0,0,0,0,0.0,QB,0,0,0,0,0,2,0,-3,0,Giants,0,0,0,Falcons,265,34,1.0,DST,129,1.0,0,394,0,1
+6,2011,1,Luke McCown,0,1,Titans,0,24,17,0,0,175,7.0,QB,0,0,0,0,0,5,0,10,0,Titans,0,1,0,Jaguars,160,16,8.0,DST,163,2.0,0,323,0,1
+7,2011,2,Luke McCown,0,0,Jets,0,19,6,4,0,59,-6.0,QB,0,0,0,0,0,1,0,4,1,Jets,0,0,4,Jaguars,91,3,22.0,DST,112,2.0,1,203,0,0
+8,2011,8,Luke McCown,0,0,Texans,0,2,0,0,0,0,0.0,QB,0,0,0,0,0,0,0,0,1,Texans,0,0,2,Jaguars,90,14,9.0,DST,84,1.0,0,174,0,0
+9,2011,12,Luke McCown,0,0,Texans,0,11,7,0,0,62,2.0,QB,0,0,0,0,0,1,0,9,0,Texans,0,0,1,Jaguars,150,13,16.0,DST,105,7.0,0,255,0,1
+10,2010,2,Luke McCown,0,0,Chargers,0,19,11,0,0,120,4.0,QB,0,0,0,0,0,1,0,4,1,Chargers,0,2,4,Jaguars,279,13,21.0,DST,71,2.0,0,350,0,0

@@ -1,0 +1,6 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Percy Harvin,0,0,Colts,0,0,0,0,0,0,13.0,WR,0,1,79,5,0,1,0,9,0,Colts,0,0,0,Bills,195,27,1.0,DST,147,0.0,0,342,0,1
+1,2015,2,Percy Harvin,0,0,Patriots,0,0,0,0,0,0,4.0,WR,0,0,47,4,0,1,0,7,0,Patriots,0,0,3,Bills,189,32,14.0,DST,160,8.0,0,349,0,1
+2,2015,3,Percy Harvin,0,0,Dolphins,0,0,0,0,0,0,7.0,WR,0,0,66,7,0,2,0,16,1,Dolphins,0,0,0,Bills,277,41,0.0,DST,151,0.0,0,428,0,0
+3,2015,4,Percy Harvin,0,0,Giants,0,0,0,0,0,0,2.0,WR,0,0,26,3,0,0,0,0,0,Giants,0,1,1,Bills,258,10,13.0,DST,55,2.0,0,313,0,1
+4,2015,5,Percy Harvin,0,0,Titans,0,0,0,0,0,0,0.0,WR,0,0,0,0,0,1,0,-1,1,Titans,0,1,0,Bills,82,14,10.0,DST,127,4.0,0,209,0,0

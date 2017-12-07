@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2011,2,Bryant Johnson,0,0,Dolphins,0,0,0,0,0,0,1.0,WR,0,0,16,1,0,0,0,0,1,Dolphins,0,0,0,Texans,207,23,4.0,DST,138,3.0,0,345,0,0
+1,2011,7,Bryant Johnson,0,0,Titans,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,1,Titans,0,0,0,Texans,296,41,0.0,DST,222,0.0,0,518,0,0
+2,2011,15,Bryant Johnson,0,0,Panthers,0,0,0,0,0,0,2.0,WR,0,0,23,2,0,0,0,0,0,Panthers,0,1,2,Texans,208,13,15.0,DST,150,2.0,0,358,0,1
+3,2011,17,Bryant Johnson,0,0,Titans,0,0,0,0,0,0,10.0,WR,0,1,45,2,0,1,0,1,0,Titans,0,1,0,Texans,235,22,6.0,DST,152,3.0,0,387,0,1
+4,2010,1,Bryant Johnson,0,0,Bears,0,0,0,0,0,0,2.0,WR,0,0,24,1,0,0,0,0,1,Bears,0,2,1,Lions,148,14,12.0,DST,20,2.0,0,168,0,0
+5,2010,2,Bryant Johnson,0,0,Eagles,0,0,0,0,0,0,0.0,WR,0,0,4,1,0,0,0,0,0,Eagles,0,0,2,Lions,329,32,6.0,DST,115,2.0,0,444,0,1
+6,2010,4,Bryant Johnson,0,0,Packers,0,0,0,0,0,0,2.0,WR,0,0,23,3,0,0,0,0,1,Packers,0,1,2,Lions,308,26,16.0,DST,123,3.0,0,431,1,0
+7,2010,6,Bryant Johnson,0,0,Giants,0,0,0,0,0,0,2.0,WR,0,0,20,2,0,0,0,0,1,Giants,0,2,1,Lions,302,20,12.0,DST,64,2.0,0,366,0,0
+8,2010,8,Bryant Johnson,0,0,Redskins,0,0,0,0,0,0,2.0,WR,1,0,9,1,0,0,0,0,0,Redskins,0,1,1,Lions,202,37,11.0,DST,102,1.0,0,304,1,1
+9,2010,9,Bryant Johnson,0,0,Jets,0,0,0,0,0,0,0.0,WR,0,0,7,1,0,0,0,0,0,Jets,0,0,0,Lions,228,20,6.0,DST,78,2.0,0,306,0,1
+10,2010,12,Bryant Johnson,0,0,Patriots,0,0,0,0,0,0,2.0,WR,0,0,26,2,0,0,0,0,0,Patriots,0,0,2,Lions,277,24,7.0,DST,129,2.0,0,406,0,1
+11,2010,14,Bryant Johnson,0,0,Packers,0,0,0,0,0,0,2.0,WR,0,0,21,2,0,0,0,0,0,Packers,0,0,2,Lions,96,7,13.0,DST,190,2.0,0,286,0,1
+12,2010,15,Bryant Johnson,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,19,1,0,0,0,0,1,Buccaneers,0,0,0,Lions,252,23,1.0,DST,181,0.0,0,433,0,0
+13,2010,16,Bryant Johnson,0,0,Dolphins,0,0,0,0,0,0,0.0,WR,0,0,8,1,0,0,0,0,1,Dolphins,0,0,0,Lions,208,34,2.0,DST,67,2.0,0,275,0,0

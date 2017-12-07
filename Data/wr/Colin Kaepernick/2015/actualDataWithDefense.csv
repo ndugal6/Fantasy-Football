@@ -1,0 +1,9 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,2,Colin Kaepernick,0,1,Steelers,1,46,33,0,2,335,31.0,QB,0,0,0,0,0,9,0,51,1,Steelers,0,1,0,49ers,298,18,11.0,DST,111,5.0,0,409,0,0
+1,2015,3,Colin Kaepernick,0,0,Cardinals,0,19,9,4,0,67,4.0,QB,0,0,0,0,0,7,1,46,1,Cardinals,0,0,4,49ers,53,7,31.0,DST,103,2.0,1,156,2,0
+2,2015,4,Colin Kaepernick,0,0,Packers,0,25,13,1,0,160,9.0,QB,0,0,0,0,0,10,0,57,0,Packers,0,0,1,49ers,119,3,18.0,DST,77,6.0,0,196,0,1
+3,2015,5,Colin Kaepernick,0,0,Giants,0,35,23,0,2,262,24.0,QB,0,0,0,0,0,3,0,23,1,Giants,0,0,0,49ers,256,27,3.0,DST,124,2.0,0,380,0,0
+4,2015,6,Colin Kaepernick,0,0,Ravens,0,27,16,0,2,340,26.0,QB,0,0,0,0,0,3,0,10,0,Ravens,0,0,0,49ers,326,25,4.0,DST,65,3.0,0,391,0,1
+5,2015,7,Colin Kaepernick,0,0,Seahawks,0,24,13,0,0,124,4.0,QB,0,0,0,0,0,0,0,0,0,Seahawks,0,0,0,49ers,81,3,16.0,DST,61,6.0,0,142,0,1
+6,2015,8,Colin Kaepernick,0,0,Rams,0,41,20,0,0,162,8.0,QB,0,0,0,0,0,6,0,28,1,Rams,0,0,0,49ers,151,6,15.0,DST,38,3.0,1,189,0,0
+7,2015,9,Colin Kaepernick,0,0,Falcons,0,1,0,0,0,0,0.0,QB,0,0,0,0,0,0,0,0,0,Falcons,0,0,2,49ers,185,17,8.0,DST,133,0.0,0,318,0,1

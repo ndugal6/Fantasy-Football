@@ -1,0 +1,20 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,10,Jake Ballard,0,0,Texans,0,0,0,0,0,0,1.0,TE,0,0,15,1,0,0,0,0,0,Texans,0,2,1,Cardinals,235,27,8.0,DST,97,1.0,0,332,0,1
+1,2013,11,Jake Ballard,0,0,Jaguars,0,0,0,0,0,0,2.0,TE,0,0,29,1,0,0,0,0,1,Jaguars,0,0,0,Cardinals,402,27,4.0,DST,14,3.0,0,416,0,0
+2,2013,15,Jake Ballard,0,0,Titans,0,0,0,0,0,0,7.0,TE,0,1,13,3,0,0,0,0,1,Titans,0,0,0,Cardinals,215,37,2.0,DST,145,2.0,0,360,0,0
+3,2013,16,Jake Ballard,0,0,Seahawks,0,0,0,0,0,0,1.0,TE,0,0,17,1,0,0,0,0,1,Seahawks,0,0,4,Cardinals,168,17,14.0,DST,139,2.0,0,307,0,0
+4,2013,17,Jake Ballard,0,0,49ers,0,0,0,0,0,0,6.0,TE,0,1,1,1,0,0,0,0,0,49ers,0,1,1,Cardinals,399,20,9.0,DST,83,1.0,0,482,0,1
+5,2011,1,Jake Ballard,0,0,Redskins,0,0,0,0,0,0,5.0,TE,0,0,59,2,0,0,0,0,1,Redskins,1,0,1,Giants,240,14,18.0,DST,75,4.0,0,315,1,0
+6,2011,2,Jake Ballard,0,0,Rams,0,0,0,0,0,0,1.0,TE,0,0,13,1,0,0,0,0,0,Rams,0,0,1,Giants,204,28,5.0,DST,119,3.0,0,323,0,1
+7,2011,3,Jake Ballard,0,0,Eagles,0,0,0,0,0,0,1.0,TE,0,0,15,1,0,0,0,0,1,Eagles,0,0,0,Giants,232,29,3.0,DST,102,3.0,0,334,0,0
+8,2011,4,Jake Ballard,0,0,Cardinals,0,0,0,0,0,0,9.0,TE,0,1,33,3,0,0,0,0,1,Cardinals,0,2,0,Giants,306,31,5.0,DST,54,1.0,0,360,0,0
+9,2011,5,Jake Ballard,0,0,Seahawks,0,0,0,0,0,0,13.0,TE,0,1,72,3,0,0,0,0,0,Seahawks,0,2,3,Giants,395,25,22.0,DST,69,3.0,1,464,1,1
+10,2011,6,Jake Ballard,0,0,Bills,0,0,0,0,0,0,8.0,TE,0,0,81,5,0,0,0,0,0,Bills,1,0,0,Giants,292,27,3.0,DST,122,0.0,0,414,0,1
+11,2011,8,Jake Ballard,0,0,Dolphins,0,0,0,0,0,0,5.0,TE,0,0,55,4,0,0,0,0,0,Dolphins,0,0,0,Giants,344,20,5.0,DST,58,1.0,0,402,0,1
+12,2011,9,Jake Ballard,0,0,Patriots,0,0,0,0,0,0,12.0,TE,0,1,67,4,0,0,0,0,1,Patriots,0,1,1,Giants,250,24,5.0,DST,111,0.0,0,361,0,0
+13,2011,10,Jake Ballard,0,0,49ers,0,0,0,0,0,0,3.0,TE,0,0,35,3,0,0,0,0,1,49ers,0,0,2,Giants,302,20,9.0,DST,93,1.0,0,395,0,0
+14,2011,11,Jake Ballard,0,0,Eagles,0,0,0,0,0,0,1.0,TE,0,0,13,1,0,0,0,0,0,Eagles,0,1,1,Giants,249,10,14.0,DST,29,3.0,0,278,0,1
+15,2011,12,Jake Ballard,0,0,Saints,0,0,0,0,0,0,4.0,TE,0,0,47,3,0,0,0,0,1,Saints,0,1,1,Giants,392,24,6.0,DST,73,1.0,0,465,0,0
+16,2011,13,Jake Ballard,0,0,Packers,0,0,0,0,0,0,4.0,TE,0,0,47,3,0,0,0,0,0,Packers,0,1,1,Giants,347,35,11.0,DST,100,1.0,0,447,1,1
+17,2011,14,Jake Ballard,0,0,Cowboys,0,0,0,0,0,0,11.0,TE,0,1,52,4,0,0,0,0,1,Cowboys,0,0,1,Giants,400,37,2.0,DST,110,0.0,0,510,0,0
+18,2011,15,Jake Ballard,0,0,Redskins,0,0,0,0,0,0,1.0,TE,0,0,15,1,0,0,0,0,0,Redskins,0,0,3,Giants,233,10,16.0,DST,91,3.0,0,324,0,1

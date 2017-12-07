@@ -1,0 +1,15 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Matthew Stafford,0,0,Chargers,0,30,19,2,2,246,17.0,QB,0,0,0,0,0,1,0,-1,1,Chargers,0,0,2,Lions,233,28,5.0,DST,69,1.0,0,302,0,0
+1,2015,3,Matthew Stafford,0,1,Broncos,0,45,31,2,1,282,12.0,QB,0,0,-6,1,0,1,0,-1,0,Broncos,1,1,2,Lions,262,12,19.0,DST,28,4.0,0,290,0,1
+2,2015,4,Matthew Stafford,0,0,Seahawks,0,35,24,0,0,203,8.0,QB,0,0,0,0,0,0,0,0,1,Seahawks,0,0,0,Lions,203,10,7.0,DST,53,0.0,0,256,0,0
+3,2015,5,Matthew Stafford,0,0,Cardinals,0,32,20,3,1,188,7.0,QB,0,0,0,0,0,1,0,2,0,Cardinals,0,2,4,Lions,379,17,17.0,DST,56,1.0,0,435,0,1
+4,2015,6,Matthew Stafford,0,0,Bears,0,42,27,1,4,405,41.0,QB,0,0,0,0,0,6,0,37,0,Bears,0,2,1,Lions,391,37,8.0,DST,155,2.0,0,546,0,1
+5,2015,8,Matthew Stafford,0,0,Chiefs,0,36,22,2,1,217,10.0,QB,0,0,0,0,0,1,0,5,1,Chiefs,0,0,2,Lions,195,10,17.0,DST,81,6.0,0,276,0,0
+6,2015,10,Matthew Stafford,0,0,Packers,0,38,24,1,2,242,19.0,QB,0,0,0,0,0,2,0,1,1,Packers,0,0,1,Lions,242,18,6.0,DST,45,0.0,0,287,0,0
+7,2015,11,Matthew Stafford,0,0,Raiders,0,35,22,0,0,282,20.0,QB,0,0,0,0,0,6,1,31,0,Raiders,0,0,0,Lions,266,18,8.0,DST,109,4.0,0,375,0,1
+8,2015,12,Matthew Stafford,0,0,Eagles,0,38,27,0,5,337,44.0,QB,0,0,0,0,0,2,0,13,0,Eagles,0,0,0,Lions,322,45,2.0,DST,108,2.0,0,430,0,1
+9,2015,13,Matthew Stafford,0,1,Packers,0,35,23,0,2,220,21.0,QB,0,0,0,0,0,2,0,22,0,Packers,0,1,0,Lions,205,23,12.0,DST,101,3.0,0,306,1,1
+10,2015,14,Matthew Stafford,0,0,Rams,0,46,30,1,2,245,19.0,QB,0,0,0,0,0,2,0,5,1,Rams,0,0,1,Lions,220,14,16.0,DST,111,4.0,0,331,1,0
+11,2015,15,Matthew Stafford,0,0,Saints,0,25,22,0,3,254,28.0,QB,0,0,0,0,0,4,0,-1,1,Saints,0,1,0,Lions,246,35,5.0,DST,150,3.0,0,396,0,0
+12,2015,16,Matthew Stafford,0,0,49ers,0,37,29,0,2,301,25.0,QB,0,0,0,0,0,5,0,11,0,49ers,0,0,0,Lions,284,32,2.0,DST,87,2.0,0,371,0,1
+13,2015,17,Matthew Stafford,0,0,Bears,0,39,28,0,3,298,30.0,QB,0,0,0,0,0,6,0,10,1,Bears,0,0,0,Lions,282,24,5.0,DST,67,4.0,0,349,0,0

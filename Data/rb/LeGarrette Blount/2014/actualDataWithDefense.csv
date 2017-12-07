@@ -1,0 +1,16 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,LeGarrette Blount,0,0,Browns,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,4,1,6,0,Browns,0,0,1,Steelers,376,30,5.0,DST,127,3.0,0,503,0,1
+1,2014,2,LeGarrette Blount,0,0,Ravens,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,8,1,Ravens,0,2,1,Steelers,202,6,18.0,DST,99,2.0,0,301,0,0
+2,2014,3,LeGarrette Blount,0,0,Panthers,0,0,0,0,0,0,17.0,RB,0,0,0,0,0,10,1,118,1,Panthers,0,0,0,Steelers,190,37,1.0,DST,264,1.0,0,454,0,0
+3,2014,4,LeGarrette Blount,0,0,Buccaneers,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,4,0,25,0,Buccaneers,0,1,0,Steelers,305,24,8.0,DST,85,5.0,0,390,0,1
+4,2014,5,LeGarrette Blount,0,0,Jaguars,0,0,0,0,0,0,3.0,RB,0,0,17,3,0,8,0,29,1,Jaguars,0,1,0,Steelers,261,17,10.0,DST,111,4.0,0,372,0,0
+5,2014,6,LeGarrette Blount,0,0,Browns,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,8,0,27,1,Browns,0,0,1,Steelers,221,10,11.0,DST,138,2.0,0,359,0,0
+6,2014,7,LeGarrette Blount,0,0,Texans,0,0,0,0,0,0,0.0,RB,0,0,8,1,0,7,0,9,0,Texans,0,1,0,Steelers,252,30,5.0,DST,76,3.0,0,328,0,1
+7,2014,8,LeGarrette Blount,0,1,Colts,0,0,0,0,0,0,2.0,RB,0,0,11,2,0,6,0,21,0,Colts,1,2,0,Steelers,522,51,6.0,DST,117,0.0,0,639,0,1
+8,2014,9,LeGarrette Blount,0,0,Ravens,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,10,0,23,0,Ravens,0,1,0,Steelers,321,43,11.0,DST,55,3.0,0,376,1,1
+9,2014,10,LeGarrette Blount,0,0,Jets,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,5,0,0,1,Jets,0,2,2,Steelers,326,13,17.0,DST,36,2.0,0,362,0,0
+10,2014,12,LeGarrette Blount,0,0,Lions,0,0,0,0,0,0,19.0,RB,0,0,0,0,0,12,2,78,0,Lions,0,0,1,Patriots,349,34,2.0,DST,90,0.0,0,439,0,1
+11,2014,13,LeGarrette Blount,0,0,Packers,0,0,0,0,0,0,5.0,RB,0,0,0,0,0,10,0,58,1,Packers,0,0,0,Patriots,236,21,2.0,DST,84,1.0,0,320,0,0
+12,2014,14,LeGarrette Blount,0,0,Chargers,0,0,0,0,0,0,7.0,RB,0,0,11,2,0,20,0,66,1,Chargers,0,1,1,Patriots,310,23,12.0,DST,87,1.0,0,397,1,0
+13,2014,15,LeGarrette Blount,0,0,Dolphins,0,0,0,0,0,0,7.0,RB,0,0,7,2,0,8,1,17,0,Dolphins,0,0,1,Patriots,287,41,2.0,DST,108,0.0,0,395,0,1
+14,2014,17,LeGarrette Blount,0,0,Bills,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,10,0,62,0,Bills,0,0,0,Patriots,144,9,11.0,DST,116,4.0,0,260,0,1

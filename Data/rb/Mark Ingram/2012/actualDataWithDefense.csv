@@ -1,0 +1,17 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2012,1,Mark Ingram,0,0,Redskins,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,6,0,15,0,Redskins,0,0,2,Saints,326,32,6.0,DST,32,2.0,0,358,0,1
+1,2012,2,Mark Ingram,0,0,Panthers,0,0,0,0,0,0,11.0,RB,0,0,0,0,0,16,1,53,1,Panthers,0,0,2,Saints,323,27,12.0,DST,163,1.0,0,486,1,0
+2,2012,3,Mark Ingram,0,0,Chiefs,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,11,0,Chiefs,0,0,1,Saints,205,24,9.0,DST,83,4.0,1,288,0,1
+3,2012,4,Mark Ingram,0,0,Packers,0,0,0,0,0,0,1.0,RB,0,0,-1,1,0,5,0,11,1,Packers,0,0,0,Saints,429,27,3.0,DST,45,2.0,0,474,0,0
+4,2012,5,Mark Ingram,0,0,Chargers,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,16,0,Chargers,0,0,1,Saints,351,31,5.0,DST,53,3.0,0,404,0,1
+5,2012,7,Mark Ingram,0,0,Buccaneers,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,7,0,21,1,Buccaneers,0,0,1,Saints,377,35,2.0,DST,81,0.0,0,458,0,0
+6,2012,8,Mark Ingram,0,0,Broncos,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,3,0,7,1,Broncos,0,0,1,Saints,201,14,7.0,DST,51,1.0,0,252,0,0
+7,2012,9,Mark Ingram,0,0,Eagles,0,0,0,0,0,0,6.0,RB,0,0,23,2,0,7,0,44,0,Eagles,0,2,0,Saints,231,28,6.0,DST,140,2.0,0,371,0,1
+8,2012,10,Mark Ingram,0,0,Falcons,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,16,0,67,0,Falcons,0,0,1,Saints,292,31,3.0,DST,148,1.0,0,440,0,1
+9,2012,11,Mark Ingram,0,0,Raiders,0,0,0,0,0,0,12.0,RB,0,0,1,1,0,12,1,67,1,Raiders,0,0,0,Saints,229,38,0.0,DST,151,0.0,0,380,0,0
+10,2012,12,Mark Ingram,0,0,49ers,0,0,0,0,0,0,2.0,RB,0,0,0,0,0,10,0,27,0,49ers,0,0,2,Saints,231,21,22.0,DST,59,5.0,0,290,2,1
+11,2012,13,Mark Ingram,0,0,Falcons,0,0,0,0,0,0,7.0,RB,0,0,-1,1,0,6,1,13,1,Falcons,0,0,5,Saints,335,13,18.0,DST,101,1.0,0,436,0,0
+12,2012,14,Mark Ingram,0,0,Giants,0,0,0,0,0,0,6.0,RB,0,0,0,0,0,13,0,68,1,Giants,0,2,2,Saints,345,27,16.0,DST,142,1.0,0,487,1,0
+13,2012,15,Mark Ingram,0,0,Buccaneers,0,0,0,0,0,0,15.0,RB,0,0,0,0,0,14,1,90,0,Buccaneers,0,0,0,Saints,298,41,1.0,DST,149,1.0,0,447,0,1
+14,2012,16,Mark Ingram,0,0,Cowboys,0,0,0,0,0,0,11.0,RB,0,0,7,1,0,21,1,53,1,Cowboys,0,0,0,Saints,446,34,0.0,DST,116,0.0,0,562,0,0
+15,2012,17,Mark Ingram,0,0,Panthers,0,0,0,0,0,0,3.0,RB,0,0,0,0,0,10,0,39,0,Panthers,0,0,1,Saints,378,38,4.0,DST,63,2.0,0,441,0,1

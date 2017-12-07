@@ -1,0 +1,13 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2015,1,Seth Roberts,0,0,Bengals,0,0,0,0,0,0,1.0,WR,0,0,12,3,0,0,0,0,0,Bengals,0,1,1,Raiders,183,13,13.0,DST,63,2.0,0,246,0,1
+1,2015,2,Seth Roberts,0,0,Ravens,0,0,0,0,0,0,7.0,WR,0,1,12,1,0,0,0,0,0,Ravens,0,0,1,Raiders,351,37,3.0,DST,97,1.0,0,448,0,1
+2,2015,3,Seth Roberts,0,0,Browns,0,0,0,0,0,0,11.0,WR,0,1,56,3,0,0,0,0,1,Browns,0,1,0,Raiders,314,27,3.0,DST,155,0.0,0,469,0,0
+3,2015,7,Seth Roberts,0,0,Chargers,0,0,0,0,0,0,0.0,WR,0,0,6,1,0,0,0,0,1,Chargers,0,0,0,Raiders,282,37,1.0,DST,130,1.0,0,412,0,0
+4,2015,8,Seth Roberts,0,0,Jets,0,0,0,0,0,0,2.0,WR,0,0,21,1,0,0,0,0,0,Jets,0,0,0,Raiders,333,34,0.0,DST,118,0.0,0,451,0,1
+5,2015,9,Seth Roberts,0,0,Steelers,0,0,0,0,0,0,7.0,WR,0,0,73,3,0,0,0,0,1,Steelers,0,3,1,Raiders,301,35,8.0,DST,139,0.0,0,440,0,0
+6,2015,11,Seth Roberts,0,0,Lions,0,0,0,0,0,0,5.0,WR,0,0,54,2,0,0,0,0,1,Lions,0,0,0,Raiders,164,13,10.0,DST,52,1.0,1,216,0,0
+7,2015,12,Seth Roberts,0,0,Titans,0,0,0,0,0,0,23.0,WR,0,2,113,6,0,0,0,0,1,Titans,0,2,0,Raiders,323,24,6.0,DST,84,1.0,0,407,0,0
+8,2015,13,Seth Roberts,0,0,Chiefs,0,0,0,0,0,0,5.0,WR,0,0,51,4,0,0,0,0,0,Chiefs,0,0,3,Raiders,262,20,20.0,DST,99,4.0,0,361,1,1
+9,2015,14,Seth Roberts,0,0,Broncos,0,0,0,0,0,0,8.0,WR,0,1,20,2,0,0,0,0,1,Broncos,0,0,0,Raiders,99,15,7.0,DST,27,3.0,0,126,0,0
+10,2015,16,Seth Roberts,0,0,Chargers,0,0,0,0,0,0,5.0,WR,1,0,37,2,0,0,0,0,0,Chargers,0,0,1,Raiders,175,23,6.0,DST,106,3.0,0,281,0,1
+11,2015,17,Seth Roberts,0,0,Chiefs,0,0,0,0,0,0,2.0,WR,0,0,20,3,0,0,0,0,1,Chiefs,1,0,1,Raiders,157,17,16.0,DST,48,6.0,1,205,0,0

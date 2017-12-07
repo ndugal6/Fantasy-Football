@@ -1,0 +1,13 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,1,Ryan Fitzpatrick,0,0,Redskins,0,22,14,0,1,206,15.0,QB,0,0,0,0,0,5,0,10,0,Redskins,0,1,0,Texans,206,17,6.0,DST,115,0.0,0,321,0,1
+1,2014,2,Ryan Fitzpatrick,0,0,Raiders,0,19,14,0,2,139,17.0,QB,0,0,0,0,0,0,0,0,1,Raiders,1,0,0,Texans,139,30,2.0,DST,188,0.0,0,327,0,0
+2,2014,3,Ryan Fitzpatrick,0,0,Giants,0,34,20,3,1,289,20.0,QB,0,0,0,0,0,7,1,34,1,Giants,1,0,3,Texans,292,17,14.0,DST,119,2.0,0,411,0,0
+3,2014,4,Ryan Fitzpatrick,0,0,Bills,0,37,25,2,1,268,13.0,QB,0,0,0,0,0,5,0,14,0,Bills,0,1,2,Texans,264,23,10.0,DST,37,3.0,0,301,0,1
+4,2014,5,Ryan Fitzpatrick,0,0,Cowboys,0,25,16,1,0,154,4.0,QB,0,0,0,0,0,3,0,3,1,Cowboys,0,0,1,Texans,154,17,6.0,DST,176,0.0,0,330,0,0
+5,2014,6,Ryan Fitzpatrick,0,1,Colts,0,23,15,0,1,212,13.0,QB,0,0,0,0,0,1,0,5,0,Colts,0,2,0,Texans,196,28,9.0,DST,136,5.0,0,332,0,1
+6,2014,7,Ryan Fitzpatrick,0,0,Steelers,0,32,21,1,2,262,21.0,QB,0,0,0,0,0,5,0,16,1,Steelers,0,2,1,Texans,261,23,8.0,DST,132,1.0,0,393,0,0
+7,2014,8,Ryan Fitzpatrick,0,0,Titans,0,35,19,0,1,227,16.0,QB,0,0,0,0,0,4,0,12,1,Titans,0,0,0,Texans,193,30,5.0,DST,212,5.0,0,405,0,0
+8,2014,9,Ryan Fitzpatrick,0,0,Eagles,0,27,13,1,2,203,22.0,QB,0,0,0,0,0,6,0,49,0,Eagles,0,0,1,Texans,182,21,7.0,DST,118,4.0,0,300,0,1
+9,2014,13,Ryan Fitzpatrick,0,0,Titans,0,33,24,0,6,358,51.0,QB,0,0,0,0,0,2,0,10,0,Titans,1,1,0,Texans,358,45,10.0,DST,99,0.0,0,457,1,1
+10,2014,14,Ryan Fitzpatrick,0,0,Jaguars,0,19,13,0,0,135,12.0,QB,0,0,0,0,0,9,1,15,1,Jaguars,0,0,0,Texans,135,27,2.0,DST,169,1.0,0,304,0,0
+11,2014,15,Ryan Fitzpatrick,0,0,Colts,0,6,3,0,0,30,2.0,QB,0,0,0,0,0,3,0,16,1,Colts,0,1,1,Texans,152,10,12.0,DST,137,1.0,0,289,0,0

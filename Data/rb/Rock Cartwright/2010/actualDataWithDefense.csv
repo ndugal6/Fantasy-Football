@@ -1,0 +1,6 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2010,1,Rock Cartwright,0,0,Titans,0,0,0,0,0,0,1.0,RB,0,0,10,1,0,0,0,0,1,Titans,0,1,1,Raiders,150,13,15.0,DST,136,4.0,0,286,0,0
+1,2010,6,Rock Cartwright,0,0,49ers,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,-3,1,49ers,0,0,2,Raiders,69,9,13.0,DST,110,2.0,0,179,0,0
+2,2010,7,Rock Cartwright,0,0,Broncos,0,0,0,0,0,0,1.0,RB,0,0,0,0,0,5,0,17,1,Broncos,0,0,0,Raiders,180,59,2.0,DST,328,2.0,0,508,0,0
+3,2010,9,Rock Cartwright,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,1,0,2,0,Chiefs,0,2,1,Raiders,209,23,11.0,DST,112,4.0,0,321,0,1
+4,2010,17,Rock Cartwright,0,0,Chiefs,0,0,0,0,0,0,0.0,RB,0,0,0,0,0,2,0,6,1,Chiefs,0,1,0,Raiders,135,31,6.0,DST,209,4.0,0,344,0,0

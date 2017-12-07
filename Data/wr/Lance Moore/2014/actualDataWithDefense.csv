@@ -1,0 +1,11 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2014,4,Lance Moore,0,0,Buccaneers,0,0,0,0,0,0,1.0,WR,0,0,12,1,0,0,0,0,0,Buccaneers,0,1,0,Steelers,305,24,8.0,DST,85,5.0,0,390,0,1
+1,2014,5,Lance Moore,0,0,Jaguars,0,0,0,0,0,0,2.0,WR,0,0,26,1,0,0,0,0,1,Jaguars,0,1,0,Steelers,261,17,10.0,DST,111,4.0,0,372,0,0
+2,2014,6,Lance Moore,0,0,Browns,0,0,0,0,0,0,8.0,WR,0,1,26,1,0,0,0,0,1,Browns,0,0,1,Steelers,221,10,11.0,DST,138,2.0,0,359,0,0
+3,2014,7,Lance Moore,0,0,Texans,0,0,0,0,0,0,7.0,WR,0,1,12,2,0,0,0,0,0,Texans,0,1,0,Steelers,252,30,5.0,DST,76,3.0,0,328,0,1
+4,2014,8,Lance Moore,0,0,Colts,0,0,0,0,0,0,3.0,WR,0,0,33,2,0,0,0,0,0,Colts,1,2,0,Steelers,522,51,6.0,DST,117,0.0,0,639,0,1
+5,2014,9,Lance Moore,0,0,Ravens,0,0,0,0,0,0,0.0,WR,0,0,4,1,0,0,0,0,0,Ravens,0,1,0,Steelers,321,43,11.0,DST,55,3.0,0,376,1,1
+6,2014,10,Lance Moore,0,0,Jets,0,0,0,0,0,0,2.0,WR,0,0,28,2,0,0,0,0,1,Jets,0,2,2,Steelers,326,13,17.0,DST,36,2.0,0,362,0,0
+7,2014,11,Lance Moore,0,0,Titans,0,0,0,0,0,0,1.0,WR,0,0,15,1,0,0,0,0,1,Titans,0,0,1,Steelers,180,27,8.0,DST,206,5.0,0,386,0,0
+8,2014,13,Lance Moore,0,0,Saints,0,0,0,0,0,0,3.0,WR,1,0,13,2,0,0,0,0,0,Saints,0,0,2,Steelers,435,32,5.0,DST,103,1.0,0,538,0,1
+9,2014,14,Lance Moore,0,0,Bengals,0,0,0,0,0,0,2.0,WR,0,0,29,1,0,0,0,0,1,Bengals,0,0,0,Steelers,350,42,0.0,DST,193,0.0,0,543,0,0

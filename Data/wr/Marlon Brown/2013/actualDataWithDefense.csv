@@ -1,0 +1,14 @@
+,Year,Week,Name,Fumble TD,Fumbles Lost,Opponent_x,Pass 2PT,Pass Attempts,Pass Completions,Pass Interceptions,Pass TD,Pass Yards,Points_x,Position_x,Receiving 2PT,Receiving TD,Receiving Yards,Receptions,Rush 2PT,Rush Attempts,Rush TD,Rush Yards,Away Games_x,Team,Blocks,Fumble Returns,Interception,Opponent_y,Pass Yards Allowed,Point After,Points_y,Position_y,Rush Yards Allowed,Sack,Safety,Total Yards,Touchdowns,Away Games_y
+0,2013,1,Marlon Brown,0,0,Broncos,0,0,0,0,0,0,12.0,WR,0,1,65,4,0,0,0,0,1,Broncos,1,0,2,Ravens,335,27,11.0,DST,58,4.0,0,393,0,0
+1,2013,2,Marlon Brown,0,0,Browns,0,0,0,0,0,0,10.0,WR,0,1,45,4,0,0,0,0,0,Browns,0,1,0,Ravens,197,14,8.0,DST,99,2.0,0,296,0,1
+2,2013,3,Marlon Brown,0,0,Texans,0,0,0,0,0,0,0.0,WR,0,0,6,2,0,0,0,0,0,Texans,0,0,0,Ravens,161,30,2.0,DST,75,2.0,0,236,0,1
+3,2013,4,Marlon Brown,0,0,Bills,0,0,0,0,0,0,9.0,WR,0,1,34,4,0,0,0,0,1,Bills,0,0,5,Ravens,321,20,18.0,DST,24,4.0,0,345,0,0
+4,2013,6,Marlon Brown,0,0,Packers,0,0,0,0,0,0,7.0,WR,0,0,71,3,0,1,0,-2,0,Packers,0,1,0,Ravens,313,17,11.0,DST,47,5.0,0,360,0,1
+5,2013,7,Marlon Brown,0,0,Steelers,0,0,0,0,0,0,2.0,WR,0,0,22,4,0,0,0,0,1,Steelers,0,0,0,Ravens,205,16,5.0,DST,82,1.0,0,287,0,0
+6,2013,9,Marlon Brown,0,0,Browns,0,0,0,0,0,0,19.0,WR,1,2,54,5,0,0,0,0,1,Browns,0,1,1,Ravens,223,18,13.0,DST,55,5.0,0,278,0,0
+7,2013,10,Marlon Brown,0,0,Bengals,0,0,0,0,0,0,1.0,WR,0,0,10,1,0,0,0,0,0,Bengals,0,1,2,Ravens,104,20,15.0,DST,85,5.0,0,189,0,1
+8,2013,12,Marlon Brown,0,0,Jets,0,0,0,0,0,0,0.0,WR,0,0,1,1,0,0,0,0,0,Jets,0,0,1,Ravens,245,19,10.0,DST,67,4.0,0,312,0,1
+9,2013,13,Marlon Brown,0,0,Steelers,0,0,0,0,0,0,1.0,WR,0,0,12,1,0,0,0,0,0,Steelers,0,0,0,Ravens,237,22,3.0,DST,74,2.0,0,311,0,1
+10,2013,15,Marlon Brown,0,0,Lions,0,0,0,0,0,0,3.0,WR,0,0,31,4,0,0,0,0,1,Lions,0,0,0,Ravens,215,18,5.0,DST,90,1.0,0,305,0,0
+11,2013,16,Marlon Brown,0,0,Patriots,0,0,0,0,0,0,5.0,WR,0,0,51,4,0,0,0,0,0,Patriots,0,1,3,Ravens,237,7,31.0,DST,121,4.0,0,358,2,1
+12,2013,17,Marlon Brown,0,0,Bengals,0,0,0,0,0,0,9.0,WR,0,1,30,5,0,0,0,0,1,Bengals,0,0,3,Ravens,175,17,18.0,DST,47,2.0,0,222,1,0
