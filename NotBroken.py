@@ -17,32 +17,9 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
-    # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
-    # numeric = removeAlphaData(actualOld)
-    # print(numeric.describe())
-    # numeric2 = numeric.astype(dtype='float32',copy=True,errors='ignore')
-    # print(numeric2.head());exit(0)
-    # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
-    pathToQBS = '~/documents/fantasy-football/2017data/qb'
-    qbs=[]
-    path = '2017Data/' + 'qb'
-    files = os.listdir(path)
-    for file in files:
-        if os.path.isdir(path + '/' + file):
-            qbs.append(file)
-    qbPreditionList = []
-    qbsFailed = []
-    for qb in qbs:
-        try:
-            qbPreditionList.append(predict(qb))
-        except:
-            qbsFailed.append(qb)
-    print(qbsFailed)
-    preditoinDF = pd.concat(qbPreditionList)
-    preditoinDF.to_csv('PredictionsForQBS.csv')
 
-
-
+    print(player_pointsOnly(name='Drew Brees',position='qb'));exit(0)
+    
 
 def predict(name,position='qb'):
     actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
@@ -59,6 +36,9 @@ def predict(name,position='qb'):
         prediction = linearRegression(position=position,player=name,feature=feature,Future=True)
         predictionDF[feature] = prediction
     return predictionDF.copy(deep=True)
+
+def player_pointsOnly(name='drew brees',position='qb'):
+    return linearRegression(position=position,player=name,feature = 'Points_x',Future=True)
 
 
 
