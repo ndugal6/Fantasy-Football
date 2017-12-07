@@ -1,0 +1,787 @@
+,0
+0,"        Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Matt Ryan  16.917195            0.694441         21.802744  1.363389   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.237798      0.674386              0.0         0.0  2.428564     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.242488           0.0    6.078309    0.124679      33.542018   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   333.384615       2.311828 -0.007059          234.230769  245.463443  
+
+[1 rows x 21 columns]"
+1,"        Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Tom Brady  23.910742            0.445906         23.949333  2.170394   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  6.396402      0.525137    -4.579218e-14  1.963253e-16  2.160069   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...            0.2334           0.0    2.514323    0.058162   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      38.329953   407.916667       1.742428  0.005357               281.0   
+
+   Pass Yards  
+0  303.283119  
+
+[1 rows x 21 columns]"
+2,"           Name  Points_x  Pass Interceptions  Pass Completions       Pass TD  \
+0  Cody Kessler  0.666667            0.333333          3.666667  1.193490e-15   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  11.333333      0.333333              0.0         0.0  3.333333     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0  1.609823e-14           0.0   -0.333333    0.333333       7.666667   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   362.333333       0.333333      0.0          212.333333        42.0  
+
+[1 rows x 21 columns]"
+3,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Tom Savage  10.333333                 1.0         19.833333  0.833333   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  10.833333      1.166667              0.0         0.0  2.333333     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      1.166667           0.0    0.333333    0.166667      35.166667   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   318.833333       0.666667      0.0               235.0  224.833333  
+
+[1 rows x 21 columns]"
+4,"          Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Brian Hoyer  7.819029            0.574346         14.499254  0.438594   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  6.799578      0.530764              0.0         0.0  1.691301     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.126791           0.0    0.684594     0.00065      25.451382   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   340.333333       1.055167  0.090934          226.111111   153.41915  
+
+[1 rows x 21 columns]"
+5,"            Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Carson Palmer  16.669743            1.129415          23.10587  1.271314   
+
+    Points_y  Interception  Receiving Yards  Receptions     Sack     ...      \
+0  10.564312      1.009591              0.0         0.0  2.51345     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.117737           0.0    1.280855    0.204949      39.281499   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   313.142857       1.330889  0.000931          249.142857  273.890767  
+
+[1 rows x 21 columns]"
+6,"            Name  Points_x  Pass Interceptions  Pass Completions  \
+0  Scott Tolzien       1.0                 2.0               9.0   
+
+        Pass TD  Points_y  Interception  Receiving Yards  Receptions  Sack  \
+0 -1.554312e-15      31.0           2.0              0.0         0.0   4.0   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...               0.0           0.0         2.0         2.0   
+
+   Pass Attempts  Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  \
+0           18.0        225.0            2.0      0.0               150.0   
+
+   Pass Yards  
+0       128.0  
+
+[1 rows x 21 columns]"
+7,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Jared Goff  19.842167            0.508352          20.31561  1.665485   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.321951      0.753129              0.0         0.0  2.095974     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.086044           0.0    4.545327    0.169192      32.624815   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   315.416667       1.925185  0.08152          204.083333   265.01131  
+
+[1 rows x 21 columns]"
+8,"             Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Trevor Siemian  14.257266             1.46649         19.696554  1.216315   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  15.958013      1.485711              0.0         0.0  3.122021     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0       0.27216           0.0   12.222026    0.399267      34.804243   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   278.222222       3.244288  0.102406          190.222222  223.244457  
+
+[1 rows x 21 columns]"
+9,"           Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Landry Jones  0.059605            0.021211           0.01179 -0.009232   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  11.362072      1.927899              0.0         0.0  2.877489     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.018044           0.0   -2.840286         0.0      -0.041318   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        297.5       3.132874      0.0               227.0   -1.564507  
+
+[1 rows x 21 columns]"
+10,"           Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Carson Wentz  24.755586            0.580114         21.196454  2.316111   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  9.203505      0.876759    -2.740717e-15  1.411756e-17  2.519223   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.253305           0.0   24.491693    0.169097   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      33.780354   335.153846       4.850335  0.013352          241.846154   
+
+   Pass Yards  
+0  259.031655  
+
+[1 rows x 21 columns]"
+11,"            Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Blake Bortles  15.328463            0.672837         17.811939  1.089302   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0   8.49171      0.880403     2.232414e-16  1.849675e-16  2.497312   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...           0.23956  1.689958e-16   22.615439    0.141912   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      32.055933   298.846154       3.767764  0.160454          161.076923   
+
+   Pass Yards  
+0  201.842181  
+
+[1 rows x 21 columns]"
+12,"                 Name  Points_x  Pass Interceptions  Pass Completions  \
+0  Ben Roethlisberger  20.64948            1.184944         24.272259   
+
+    Pass TD  Points_y  Interception  Receiving Yards  Receptions      Sack  \
+0  2.005409  8.457122      0.941377         0.046926         0.0  2.581126   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...            0.1023           0.0    4.381175    0.082047   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      37.350755        305.0       1.741136  0.011733          203.235294   
+
+   Pass Yards  
+0  266.947663  
+
+[1 rows x 21 columns]"
+13,"           Name      Points_x  Pass Interceptions  Pass Completions  \
+0  Austin Davis  2.842171e-14        1.998401e-15      1.065814e-14   
+
+        Pass TD  Points_y  Interception  Receiving Yards  Receptions  Sack  \
+0  5.842549e-15       4.0  6.883383e-15              0.0         0.0   1.0   
+
+       ...       Fumbles Lost  Receiving TD  Rush Yards    Touchdowns  \
+0      ...      -2.664535e-15           0.0        -1.0 -5.329071e-15   
+
+   Pass Attempts  Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  \
+0   8.526513e-14        425.0            1.0      0.0               321.0   
+
+     Pass Yards  
+0  1.392664e-12  
+
+[1 rows x 21 columns]"
+14,"          Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Josh McCown  19.822175             0.72922         20.705686  1.487651   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.428502      0.748767              0.0         0.0  2.800418     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.345352           0.0    9.591085    0.024443      32.677154   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0       301.75       2.714981  0.402843          207.666667  238.223177  
+
+[1 rows x 21 columns]"
+15,"             Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Marcus Mariota  15.959736            1.355733         18.913106  0.910859   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  9.442483      1.104491     4.866550e-15  1.612962e-17  1.788266   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...         -0.012134 -1.124504e-16   18.000139    0.098663   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      30.160552   320.583333       3.829725  0.489824          235.583333   
+
+   Pass Yards  
+0  226.924309  
+
+[1 rows x 21 columns]"
+16,"          Name  Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  David Fales       0.0                 0.0               0.0      0.0   
+
+   Points_y  Interception  Receiving Yards  Receptions  Sack     ...      \
+0      28.0           3.0              0.0         0.0   3.0     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0         0.0         1.0            1.0   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        270.0            0.0      0.0               167.0         0.0  
+
+[1 rows x 21 columns]"
+17,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Derek Carr  17.468155            0.641265         22.111794  1.550003   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.110885      0.781009              0.0         0.0  1.921508     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.191633           0.0    2.122468    0.086371      35.504729   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   311.636364       1.548227      0.0          237.727273  244.989698  
+
+[1 rows x 21 columns]"
+18,"            Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Philip Rivers  19.764492            0.641816         23.433109  1.743915   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  8.882131      0.811626        -0.051014         0.0  2.665798     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.132646           0.0     0.92563    0.355408      34.993572   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   349.666667       0.984464 -0.001557          229.833333  264.573875  
+
+[1 rows x 21 columns]"
+19,"          Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Andy Dalton  16.808491            0.785617         18.652299  1.671246   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  9.341752      0.557701    -2.475157e-14  1.782679e-19  2.552556   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...           0.32116 -3.608048e-17    6.969228    0.134067   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0       30.75862   270.615385       3.001532 -0.014744          176.230769   
+
+   Pass Yards  
+0  206.618572  
+
+[1 rows x 21 columns]"
+20,"              Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Jimmy Garoppolo  7.499838             0.49974         13.999609  0.500006   
+
+   Points_y  Interception  Receiving Yards    Receptions     Sack     ...      \
+0  8.503218      1.001543    -3.185494e-15 -9.606031e-17  0.97502     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0  1.591880e-15           0.0    5.999363    0.502622      19.499926   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        353.0       2.500697      0.0               253.0  155.503426  
+
+[1 rows x 21 columns]"
+21,"             Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Brock Osweiler  9.470296             1.02802         16.420304  0.736239   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  6.135951      0.736955         0.046233    0.014183  2.243687     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.018124           0.0    3.914292    0.060999      28.719855   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        269.5       2.002366 -0.00745              186.75  171.401958  
+
+[1 rows x 21 columns]"
+22,"         Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Nick Foles  -0.65197           -0.063642          0.190609  0.054365   
+
+    Points_y  Interception  Receiving Yards  Receptions     Sack     ...      \
+0  16.103668      1.425846              0.0         0.0  2.92164     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.460202           0.0     1.04738    0.360521       5.105787   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   201.333333       2.449566  0.044709          156.333333    23.55511  
+
+[1 rows x 21 columns]"
+23,"          Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Eli Manning  15.036161            0.662452         21.089317  1.267522   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  7.428736        0.6578              0.0         0.0  1.433018     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.351561           0.0    1.839336   -0.002789      36.615156   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   339.727273       1.276948  0.07992          232.181818  220.408885  
+
+[1 rows x 21 columns]"
+24,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Cam Newton  20.676933            0.798918         18.597677  1.359824   
+
+   Points_y  Interception  Receiving Yards  Receptions     Sack     ...      \
+0   7.86032      0.813056         0.110284   -0.003291  2.35414     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.046112           0.0   43.567651    0.088868      32.706173   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   311.166667       7.966362  0.443903          209.416667  218.895123  
+
+[1 rows x 21 columns]"
+25,"           Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Kirk Cousins  21.595006            0.697135         23.023003  1.747636   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  10.152828      0.747965              0.0         0.0  2.395361     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0       0.37113           0.0    11.56104    0.212932      33.917755   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   311.833333       2.868583  0.251875          211.166667  272.508788  
+
+[1 rows x 21 columns]"
+26,"           Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Chase Daniel  0.018274            0.016963          0.152103 -0.003124   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  1.815655     -0.003543              0.0         0.0 -0.001611     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0   -1.778646         0.0      -0.111167   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        482.0       2.263747      0.0               184.0     -1.1655  
+
+[1 rows x 21 columns]"
+27,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Drew Brees  19.208968             0.46274         24.565195  1.399706   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  8.623208      0.475612         0.001035    0.004528  2.000686     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.084703           0.0    0.808153    0.262661      34.904689   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   375.833333       1.948339  0.144706          244.666667  269.916756  
+
+[1 rows x 21 columns]"
+28,"             Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Blaine Gabbert  18.630642            1.515566         21.467367  2.060777   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  8.539176      1.107216              0.0         0.0  1.186442     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0     -0.009858           0.0   16.554818   -0.079876       34.79269   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   271.333333       4.344137  0.058646               195.0  242.928893  
+
+[1 rows x 21 columns]"
+29,"               Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Ryan Fitzpatrick  13.87988            0.412704         16.135292  1.185529   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  11.893126      0.994955              0.0    0.021403  2.258924     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.010586           0.0   13.579481    0.329646      26.436448   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        315.5       2.923417  0.01431          252.166667   189.72216  
+
+[1 rows x 21 columns]"
+30,"             Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Russell Wilson  27.843538            0.689953         23.319162  2.257361   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  10.253691      0.762441        -0.060423    0.024281  3.147749     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.190994      0.005574   39.528954    0.218666      35.576062   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   326.294118       6.083768  0.313302          234.941176   276.08502  
+
+[1 rows x 21 columns]"
+31,"         Name  Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Geno Smith  6.410426             -0.0192          10.00821  0.51816   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0   5.78017      0.035924     1.478787e-14 -5.336951e-16  1.501781   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.696598           0.0    6.684528   -0.003627   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      17.384461        369.0       2.795354  0.014094               255.5   
+
+   Pass Yards  
+0  109.586123  
+
+[1 rows x 21 columns]"
+32,"          Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Case Keenum  17.344103            0.393495         21.157994  1.343927   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.542615      0.729276              0.0         0.0  2.447472     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0     -0.016901           0.0     9.13351    0.058119      33.683231   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   297.333333        2.53373  0.09522               202.0  240.886047  
+
+[1 rows x 21 columns]"
+33,"            Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Aaron Rodgers  22.082476            0.818872         20.575131  2.098668   
+
+    Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  10.706451      0.548113    -8.664237e-15 -3.054701e-15  3.726661   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...           0.30327           0.0   10.968635    0.220245   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0       33.14724        295.0       2.938263 -0.051409               196.0   
+
+   Pass Yards  
+0  213.580929  
+
+[1 rows x 21 columns]"
+34,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Joe Flacco  10.764742            0.936261         19.522611  0.929946   
+
+    Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  13.399269      1.352414     1.945923e-14 -2.041485e-16  2.259052   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.016126           0.0    5.135343    0.421147   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      33.157294       297.25       1.555012  0.017452          187.666667   
+
+   Pass Yards  
+0  182.553093  
+
+[1 rows x 21 columns]"
+35,"              Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Jacoby Brissett  14.230769            0.615385         17.923077  0.846154   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  12.538462      1.153846              0.0         0.0  2.461538     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.307692           0.0   18.384615    0.461538      29.846154   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   329.692308       3.846154  0.230769          228.461538  207.615385  
+
+[1 rows x 21 columns]"
+36,"           Name   Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Sam Bradford  15.958957            -0.13231         14.645095  1.50212   
+
+   Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  5.494825      0.184605    -1.327063e-15 -2.288615e-16  2.625366   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.099777           0.0   -0.458694     0.20428   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      26.313441        322.0       1.043805  0.004098               212.5   
+
+   Pass Yards  
+0  199.529065  
+
+[1 rows x 21 columns]"
+37,"           Name      Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Sean Mannion -8.881784e-16                 0.0          0.333333      0.0   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0      16.0      1.333333              0.0         0.0  2.333333     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0        -3.0    0.666667       0.333333   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        298.0       1.666667      0.0          210.666667         4.0  
+
+[1 rows x 21 columns]"
+38,"           Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Dak Prescott  19.295179            0.762359         19.553477  1.492004   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0   7.44555      0.570431              0.0         0.0  2.324449     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.288068           0.0   22.363267     0.15326      30.157855   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   339.166667       3.449096  0.40795              217.25  200.972676  
+
+[1 rows x 21 columns]"
+39,"             Name  Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Kellen Clemens  1.178812            0.119271          5.283037 -0.03055   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  26.751531        4.5863              0.0         0.0  0.814658     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.064015           0.0   -4.472558    1.843564       4.132427   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0        393.0       2.544463 -0.020376               220.0   29.439318  
+
+[1 rows x 21 columns]"
+40,"          Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  E.J. Manuel  8.075274            0.494033         13.675908  0.418656   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  7.092354      0.632304              0.0         0.0  1.363247     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0     -0.138539           0.0    2.386042    0.003429      20.001444   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0        309.5       2.301877 -0.103804               226.0  121.513912  
+
+[1 rows x 21 columns]"
+41,"       Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Joe Webb  1.999533           -0.002997         -0.000789  0.000086   
+
+   Points_y  Interception  Receiving Yards  Receptions     Sack     ...      \
+0  5.998249       0.99912         0.000257    0.000294  3.00056     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.000122           0.0   27.004802    0.000442       1.001582   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0        435.0       2.999527  0.000065               244.0    0.010377  
+
+[1 rows x 21 columns]"
+42,"           Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Ryan Mallett  6.552055            0.030204          4.283692  0.987034   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  25.067503      1.988592              0.0         0.0  2.484721     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0   -1.502888    1.458627       7.559482   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0        191.0       2.190853 -0.002402               101.5   29.089249  
+
+[1 rows x 21 columns]"
+43,"          Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Matt Cassel  2.688155            1.127116         11.093256  0.468386   
+
+    Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  23.023904      1.683445    -1.489350e-14  1.013599e-15  3.028049   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.863551           0.0    -0.45611    0.782156   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0      22.533803        191.5       0.293359 -0.032237               114.0   
+
+   Pass Yards  
+0   77.107951  
+
+[1 rows x 21 columns]"
+44,"             Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Jameis Winston  16.26325            0.744482         19.312909  1.308508   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  12.195791      1.034488              0.0         0.0  2.067019     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.332942           0.0    7.449688    0.257813      33.146976   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   349.222222        2.27747 -0.020771          266.888889  240.047382  
+
+[1 rows x 21 columns]"
+45,"          Name  Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Kevin Hogan       9.5                1.25              11.5      1.0   
+
+   Points_y  Interception  Receiving Yards  Receptions  Sack     ...      \
+0      14.0           2.0              0.0         0.0  3.25     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0       17.75        0.25          18.75   
+
+   Total Yards  Rush Attempts       Rush TD  Pass Yards Allowed  Pass Yards  
+0       298.75            2.5 -8.326673e-17               212.0      129.25  
+
+[1 rows x 21 columns]"
+46,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Matt Moore  11.718878            1.272089         19.797415  1.005862   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  16.910892      1.034398              0.0         0.0  2.467307     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.055389           0.0    0.694177    0.553001      31.246493   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        252.5       1.437916  0.01001              188.25  215.995289  
+
+[1 rows x 21 columns]"
+47,"         Name   Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Jay Cutler  13.806485            1.076153         18.648596  1.47609   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  9.125926       1.02465              0.0         0.0  2.477019     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.216842           0.0    3.461715    0.320681      30.495172   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0        294.0       1.323223 -0.002772               207.4   185.70994  
+
+[1 rows x 21 columns]"
+48,"         Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Chad Henne -0.120206            0.057786          1.101513  0.016242   
+
+    Points_y  Interception  Receiving Yards    Receptions      Sack  \
+0  13.341071      1.570144    -1.844857e-14  1.870249e-17  3.397349   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.121596           0.0    0.876619    0.271405   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0       1.356844        186.0       2.137726 -0.004034                52.0   
+
+   Pass Yards  
+0     0.23721  
+
+[1 rows x 21 columns]"
+49,"               Name   Points_x  Pass Interceptions  Pass Completions  \
+0  Matthew Stafford  20.193466            0.719136         23.059352   
+
+    Pass TD   Points_y  Interception  Receiving Yards  Receptions      Sack  \
+0  1.859965  12.464921      0.698395         0.002133    0.013487  2.218218   
+
+      ...      Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  \
+0     ...          0.364992           0.0    8.554137    0.434894   
+
+   Pass Attempts  Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  \
+0       36.69775   358.916667       2.229612  0.034249          263.583333   
+
+   Pass Yards  
+0  272.584013  
+
+[1 rows x 21 columns]"
+50,"            Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Brett Hundley  12.555556            0.888889         15.888889  0.888889   
+
+   Points_y  Interception  Receiving Yards  Receptions  Sack     ...      \
+0  9.555556           1.0              0.0         0.0   3.0     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.111111           0.0   20.222222    0.111111      25.777778   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   331.111111       2.444444  0.222222          225.888889  168.222222  
+
+[1 rows x 21 columns]"
+51,"           Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Tyrod Taylor  15.521159            0.362227         17.107271  0.991576   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  11.174275      0.988736          0.02289     -0.0029  2.474657     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.143702           0.0   27.980429    0.250474      26.172139   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0       329.75       5.172347  0.251536          215.666667  177.003225  
+
+[1 rows x 21 columns]"
+52,"         Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Alex Smith  23.747004            0.523791         21.836509  1.883896   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  7.462674      0.427538        -0.054966   -0.001509  2.691483     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.191637           0.0   23.209166    0.191722      34.312814   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0   390.916667       4.170638  0.06375          257.416667  267.507467  
+
+[1 rows x 21 columns]"
+53,"           Name   Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Mike Glennon  11.015765            1.228924         22.739574  0.964136   
+
+    Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  13.260628      1.112901              0.0         0.0  1.633808     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.822857           0.0   -0.173455    0.162528      35.925127   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        318.0       0.804785      0.0              253.75  202.804954  
+
+[1 rows x 21 columns]"
+54,"           Name      Points_x  Pass Interceptions  Pass Completions  Pass TD  \
+0  Paxton Lynch  1.065814e-14                 1.0               9.0      0.0   
+
+   Points_y  Interception  Receiving Yards  Receptions  Sack     ...      \
+0      11.0           1.0              0.0         0.0   5.0     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0           0.0           0.0        17.0         0.0           14.0   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        216.0            2.0      0.0               160.0        41.0  
+
+[1 rows x 21 columns]"
+55,"             Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Derek Anderson  0.073496            0.031312          1.500337 -0.005073   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  5.659982      0.391866              0.0         0.0  0.878839     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.073878           0.0   -1.766167   -0.216587       2.481575   
+
+   Total Yards  Rush Attempts  Rush TD  Pass Yards Allowed  Pass Yards  
+0        337.5        1.11603      0.0               213.0    6.014079  
+
+[1 rows x 21 columns]"
+56,"           Name  Points_x  Pass Interceptions  Pass Completions   Pass TD  \
+0  Drew Stanton    11.466            0.730871         14.836654  0.970425   
+
+   Points_y  Interception  Receiving Yards  Receptions      Sack     ...      \
+0  8.795739      0.997262              0.0         0.0  2.484945     ...       
+
+   Fumbles Lost  Receiving TD  Rush Yards  Touchdowns  Pass Attempts  \
+0      0.062041           0.0    1.879239         0.0      30.015537   
+
+   Total Yards  Rush Attempts   Rush TD  Pass Yards Allowed  Pass Yards  
+0   283.666667       2.241106 -0.016732          194.666667  178.163641  
+
+[1 rows x 21 columns]"

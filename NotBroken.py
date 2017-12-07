@@ -24,35 +24,42 @@ def main():
     # print(numeric2.head());exit(0)
     # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
     pathToQBS = '~/documents/fantasy-football/2017data/qb'
-    maybeQBs = os.listdir(pathToQBS)
-    defQBS = []
-    for maybe in maybeQBs:
-        if os.path.isdir(pathToQBS + '/' + maybe):
-            defQBS.append(maybe)
+    qbs=[]
+    path = '2017Data/' + 'qb'
+    files = os.listdir(path)
+    for file in files:
+        if os.path.isdir(path + '/' + file):
+            qbs.append(file)
     qbPreditionList = []
-    
+    qbsFailed = []
+    for qb in qbs:
+        try:
+            qbPreditionList.append(predict(qb))
+        except:
+            qbsFailed.append(qb)
+    print(qbsFailed)
+    preditoinDF = pd.concat(qbPreditionList)
+    preditoinDF.to_csv('PredictionsForQBS.csv')
 
 
 
-def predict(name):
+
+def predict(name,position='qb'):
     actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
     actualNew = pd.read_csv('2017Data/' + 'qb' + '/' + '/actualDataWithDefense.csv')
     actual = pd.concat([actualOld, actualNew])
     toDrop = ['Point After', 'Fumble Returns', 'Fumble TD', 'Week', 'Away Games_x', 'Rush 2PT', 'Away Games_y',
               'Safety', 'Receiving 2PT', 'Blocks', 'Pass 2PT', 'Year']
     cols = list(purgeAlphas(actual.columns))
-    print(cols)
     features = list(set(cols).difference(toDrop))
     predictionDF = pd.DataFrame(columns=((features.append("Name"))))
-    predictionDF['Name'] = ['Drew Brees']
+    predictionDF['Name'] = [name]
     features.remove('Name')
-    print(features)
     for feature in features:
-        prediction = linearRegression(position='qb',player='Drew Brees',feature=feature,Future=True)
-        print(prediction)
-        predictionDF[feature] = prediction.tolist()
-    return predictionDF
-    print(predictionDF.head())
+        prediction = linearRegression(position=position,player=name,feature=feature,Future=True)
+        predictionDF[feature] = prediction
+    return predictionDF.copy(deep=True)
+
 
 
 #Delete. For reference. Get Qbs for certain year
@@ -131,9 +138,6 @@ def train_test_divider(dirtyData, feature='Pass Yards',year=2016,week=8,Future=F
 #           position: string - options 'QB','RB','TE','WR','K'
 #Output: feature prediction | mean squared error | explained variance
 def linearRegression(position='qb',player='Drew Brees', feature='Pass Yards',Future=False):
-    print('Position:\t'+position)
-    print('Player:\t'+player)
-    print('Feature:\t'+feature)
     # Get actual stats and average stats for input
     actualOld = pd.read_csv('Data/'+position+'/'+player+'/actualDataWithDefense.csv')
     actualNew = pd.read_csv('2017Data/' + 'qb' + '/' +player+ '/actualDataWithDefense.csv')
