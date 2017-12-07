@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import make_pipeline
 from sklearn.naive_bayes import GaussianNB
 from sklearn.decomposition import PCA
-import matplotlib.pyplot as plt
 from sklearn import metrics
 
 
@@ -17,7 +16,7 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
-    player_pointsOnly('Leonard Fournette', position='rb');exit(0)
+    # player_pointsOnly('Leonard Fournette', position='rb');exit(0)
     # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
     # numeric = removeAlphaData(actualOld)
     # print(numeric.describe())
@@ -26,24 +25,28 @@ def main():
     # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
     # print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
     pathToQBS = '~/documents/fantasy-football/2017data/rb'
-    qbs=[]
+    people=[]
+    predictions, mean2er, variance,actual = linearRegression(feature='Pass Yards')
+    df = pd.DataFrame({'APreditions':predictions,'Actual':actual,'Mean Squared Error':mean2er,'Explained Variances':variance})
+    # df = df.apply()
+    print(df.head());exit(0)
     for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'DST']:
         path = '2017Data/' + pos
         files = os.listdir(path)
         for file in files:
             if os.path.isdir(path + '/' + file):
-                qbs.append(file)
-        qbPreditionList = []
-        qbsFailed = []
-        for qb in qbs:
+                people.append(file)
+        posPreditionList = []
+        peopleFailed = []
+        for person in people:
             try:
-                qbPreditionList.append(predict(qb,position=pos))
+                posPreditionList.append(predict(person,position=pos))
             except:
-                qbsFailed.append(qb)
+                peopleFailed.append(person)
 
-        print(qbsFailed)
-        preditoinDF = pd.concat(qbPreditionList)
-        preditoinDF.to_csv('PredictionsForRBS.csv')
+        print(peopleFailed)
+        preditoinDF = pd.concat(posPreditionList)
+        preditoinDF.to_csv('PredictionsFor'+pos+'.csv')
 
 
 
@@ -102,6 +105,7 @@ def train_test_divider(dirtyData, feature='Pass Yards',year=2016,week=8,Future=F
     toDrop = ['Point After', 'Fumble Returns', 'Fumble TD','Week','Away Games_x', 'Rush 2PT','Away Games_y',
               'Safety','Receiving 2PT','Blocks','Pass 2PT','Year']
 
+
     x_features = list(set(x_features).difference(toDrop))
     data = dirtyData.copy(deep=True)
     #x_data
@@ -145,7 +149,7 @@ def train_test_divider(dirtyData, feature='Pass Yards',year=2016,week=8,Future=F
 #           feature: the feature to predict as a string - Default 'Pass Yards'
 #           position: string - options 'QB','RB','TE','WR','K'
 #Output: feature prediction | mean squared error | explained variance
-def linearRegression(position,player='Drew Brees', feature='Pass Yards',Future=False):
+def linearRegression(position='qb',player='Drew Brees', feature='Pass Yards',Future=False):
     # Get actual stats and average stats for input
     rookie = False
     try:
@@ -171,11 +175,11 @@ def linearRegression(position,player='Drew Brees', feature='Pass Yards',Future=F
     reg = linear_model.LinearRegression()
     #create training and tesitng data
     if Future:
-        x_train, y_train, x_test = train_test_divider(dirtyData=data, feature=feature, year=2017, week=10,Future=True)
+        x_train, y_train, x_test = train_test_divider(dirtyData=data, feature=feature, year=2017, week=8,Future=True)
         model = reg.fit(x_train, y_train)
         prediction = model.predict(x_test.values.reshape(1, -1))
         return prediction
-    x_train,x_test,y_train,y_test = train_test_divider(dirtyData=data,feature=feature,year=2017,week=10)
+    x_train,x_test,y_train,y_test = train_test_divider(dirtyData=data,feature=feature,year=2017,week=8)
 
     # X_train = preprocessing.scale(training_data[list(xFeatures)].values.reshape(-1, len(xFeatures)))
 
@@ -200,7 +204,7 @@ def linearRegression(position,player='Drew Brees', feature='Pass Yards',Future=F
     predDict = {'Predicted':prediction.tolist(),'Real':y_test.tolist()}
     pred = pd.DataFrame(predDict)
 
-    return prediction, mean2Err, varianceScore
+    return prediction, mean2Err, varianceScore,y_test
 
 
 
