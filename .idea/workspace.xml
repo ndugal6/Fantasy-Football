@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="" />
+    <list default="true" id="6e9b1a72-7adb-4dd6-babb-696ff1655ab7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="Data Experimenting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/More Random/Data Experimenting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="76" column="24" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="76" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="393" column="13" lean-forward="false" selection-start-line="393" selection-start-column="12" selection-end-line="393" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#7503#9113#0" expanded="false" />
@@ -40,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotBroken.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NotBroken.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NotBroken.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="278">
+              <caret line="411" column="41" lean-forward="false" selection-start-line="411" selection-start-column="40" selection-end-line="411" selection-end-column="41" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -52,13 +54,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DataScrapeAndSave.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="195">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#2288#7452#0" expanded="false" />
+                <element signature="e#93#105#0" expanded="false" />
+                <element signature="e#240#828#0" expanded="false" />
+                <element signature="e#1344#7452#0" expanded="false" />
+                <element signature="e#7477#8425#0" expanded="false" />
+                <element signature="e#8447#9063#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -112,6 +118,7 @@
       <find>scale</find>
       <find>model</find>
       <find>isdi</find>
+      <find>ass</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,12 +141,12 @@
         <option value="$USER_HOME$/Downloads/Fantasy-Football/Data Experimenting.py" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/Practice.py" />
         <option value="$USER_HOME$/PycharmProjects/Practicewith2.7/PandasWIth2.py" />
-        <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/More Random/Data Experimenting.py" />
         <option value="$PROJECT_DIR$/real.py" />
         <option value="$PROJECT_DIR$/realBroken.py" />
         <option value="$PROJECT_DIR$/NotBroken.py" />
+        <option value="$PROJECT_DIR$/DataScrapeAndSave.py" />
       </list>
     </option>
   </component>
@@ -394,7 +401,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23411764" sideWeight="0.47013888" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.43055555" order="10" side_tool="true" content_ui="tabs" x="188" y="189" width="1065" height="583" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24588235" sideWeight="0.5298611" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13882352" sideWeight="0.5298611" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -452,7 +459,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -465,7 +476,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -478,7 +493,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -490,7 +509,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -502,7 +525,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -631,10 +658,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NotBroken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="411" column="41" lean-forward="false" selection-start-line="411" selection-start-column="40" selection-end-line="411" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/More Random/Data Experimenting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="76" column="24" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="76" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="393" column="13" lean-forward="false" selection-start-line="393" selection-start-column="12" selection-end-line="393" selection-end-column="13" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#7503#9113#0" expanded="false" />
@@ -648,20 +685,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScrapeAndSave.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="195">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#2288#7452#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NotBroken.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#93#105#0" expanded="false" />
+            <element signature="e#240#828#0" expanded="false" />
+            <element signature="e#1344#7452#0" expanded="false" />
+            <element signature="e#7477#8425#0" expanded="false" />
+            <element signature="e#8447#9063#0" expanded="false" />
           </folding>
         </state>
       </provider>
