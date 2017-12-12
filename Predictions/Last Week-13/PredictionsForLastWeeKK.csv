@@ -1,0 +1,133 @@
+,Rush Yards Allowed,FGA,XPA,Touchdowns,50+,Interception,Pass Yards Allowed,Points_y,Total Yards,XPM,FGM,Sack,Points_x,Name
+0,[ 80.2],[ 1.5],[ 2.6],[ 0.1],[ 0.3],[ 0.7],[ 230.5],[ 8.7],[ 310.7],[ 2.5],[ 1.2],[ 2.1],[ 6.7],Giorgio Tavecchio
+1,231.04,0.25,0.16,0.01,0.09,0.49,930.25,5.29,2088.49,0.25,0.04,0.81,0.49,Giorgio Tavecchio
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Giorgio Tavecchio
+3,"10    65.0
+Name: Rush Yards Allowed, dtype: float64","10    1.0
+Name: FGA, dtype: float64","10    3.0
+Name: XPA, dtype: float64","10    0.0
+Name: Touchdowns, dtype: float64","10    0.0
+Name: 50+, dtype: float64","10    0.0
+Name: Interception, dtype: float64","10    200.0
+Name: Pass Yards Allowed, dtype: float64","10    11.0
+Name: Points_y, dtype: float64","10    265.0
+Name: Total Yards, dtype: float64","10    3.0
+Name: XPM, dtype: float64","10    1.0
+Name: FGM, dtype: float64","10    3.0
+Name: Sack, dtype: float64","10    6.0
+Name: Points_x, dtype: float64",Giorgio Tavecchio
+0,[ 106.16666667],[ 1.83333333],[ 2.66666667],[ 0.],[ 0.16666667],[ 0.66666667],[ 215.],[ 7.33333333],[ 321.16666667],[ 2.5],[ 1.66666667],[ 3.],[ 7.83333333],Nick Rose
+1,2516.69444444,3.36111111111,0.444444444444,1.0,0.0277777777778,1.77777777778,81.0,215.111111111,1694.69444444,0.25,2.77777777778,1.0,34.0277777778,Nick Rose
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nick Rose
+3,"6    56.0
+Name: Rush Yards Allowed, dtype: float64","6    0.0
+Name: FGA, dtype: float64","6    2.0
+Name: XPA, dtype: float64","6    1.0
+Name: Touchdowns, dtype: float64","6    0.0
+Name: 50+, dtype: float64","6    2.0
+Name: Interception, dtype: float64","6    224.0
+Name: Pass Yards Allowed, dtype: float64","6    22.0
+Name: Points_y, dtype: float64","6    280.0
+Name: Total Yards, dtype: float64","6    2.0
+Name: XPM, dtype: float64","6    0.0
+Name: FGM, dtype: float64","6    4.0
+Name: Sack, dtype: float64","6    2.0
+Name: Points_x, dtype: float64",Nick Rose
+0,[ 126.125],[ 3.],[ 1.75],[ 0.25],[ 0.25],[ 1.],[ 244.25],[ 9.],[ 370.375],[ 1.75],[ 2.875],[ 1.375],[ 10.875],Harrison Butker
+1,199.515625,1.0,5.0625,0.0625,0.0625,1.0,13865.0625,49.0,10738.140625,5.0625,3.515625,0.390625,15.015625,Harrison Butker
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Harrison Butker
+3,"8    112.0
+Name: Rush Yards Allowed, dtype: float64","8    2.0
+Name: FGA, dtype: float64","8    4.0
+Name: XPA, dtype: float64","8    0.0
+Name: Touchdowns, dtype: float64","8    0.0
+Name: 50+, dtype: float64","8    0.0
+Name: Interception, dtype: float64","8    362.0
+Name: Pass Yards Allowed, dtype: float64","8    2.0
+Name: Points_y, dtype: float64","8    474.0
+Name: Total Yards, dtype: float64","8    4.0
+Name: XPM, dtype: float64","8    1.0
+Name: FGM, dtype: float64","8    2.0
+Name: Sack, dtype: float64","8    7.0
+Name: Points_x, dtype: float64",Harrison Butker
+0,[ 106.36363636],[ 1.45454545],[ 1.63636364],[ 0.18181818],[ 0.09090909],[ 1.27272727],[ 218.81818182],[ 10.36363636],[ 325.18181818],[ 1.54545455],[ 1.],[ 2.54545455],[ 4.72727273],Zane Gonzalez
+1,301.495867769,0.206611570248,0.404958677686,0.0330578512397,0.00826446280992,0.0743801652893,282.851239669,13.2231404959,1168.39669421,0.297520661157,0.0,0.206611570248,0.528925619835,Zane Gonzalez
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Zane Gonzalez
+3,"11    89.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: FGA, dtype: float64","11    1.0
+Name: XPA, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: 50+, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    202.0
+Name: Pass Yards Allowed, dtype: float64","11    14.0
+Name: Points_y, dtype: float64","11    291.0
+Name: Total Yards, dtype: float64","11    1.0
+Name: XPM, dtype: float64","11    1.0
+Name: FGM, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    4.0
+Name: Points_x, dtype: float64",Zane Gonzalez
+0,[  51.01540349  134.38459651],[ 3.24067272  1.15932728],[ 3.36087527  3.03912473],[ 0.32797152 -0.12797152],[-0.06393316  1.06393316],[-0.92953619  2.92953619],[ 382.12128959   77.07871041],[ 10.09942076   8.50057924],[ 310.71609874  333.88390126],[ 2.49573098  3.30426902],[ 1.87382633  1.72617367],[ 9.55739782 -4.55739782],[ 8.83217765  9.76782235],Jake Elliott
+1,1113.38849781,2.52299971528,4.8658808526,0.0619710151192,0.568020606507,6.15264611939,12165.6896604,10.7337074894,6713.11765895,3.77343343973,0.645450327635,42.9994661847,28.3088577495,Jake Elliott
+2,-3.34917381958,0.0,0.0,0.0,0.0,-23.6105844775,-3.49914558447,0.329143281912,-4.17987473685,0.0,0.0,-170.997864739,0.0,Jake Elliott
+3,"10     98.0
+11    130.0
+Name: Rush Yards Allowed, dtype: float64","10    1.0
+11    1.0
+Name: FGA, dtype: float64","10    1.0
+11    1.0
+Name: XPA, dtype: float64","10    0.0
+11    0.0
+Name: Touchdowns, dtype: float64","10    0.0
+11    0.0
+Name: 50+, dtype: float64","10    1.0
+11    0.0
+Name: Interception, dtype: float64","10    327.0
+11    223.0
+Name: Pass Yards Allowed, dtype: float64","10    14.0
+11     6.0
+Name: Points_y, dtype: float64","10    425.0
+11    353.0
+Name: Total Yards, dtype: float64","10    1.0
+11    1.0
+Name: XPM, dtype: float64","10    1.0
+11    1.0
+Name: FGM, dtype: float64","10    3.0
+11    2.0
+Name: Sack, dtype: float64","10    4.0
+11    4.0
+Name: Points_x, dtype: float64",Jake Elliott
+0,[ 107.54545455],[ 1.63636364],[ 1.45454545],[ 0.],[ 0.18181818],[ 0.72727273],[ 232.18181818],[ 6.81818182],[ 339.72727273],[ 1.36363636],[ 1.18181818],[ 1.63636364],[ 5.27272727],Aldrick Rosas
+1,1810.11570248,0.404958677686,0.297520661157,0.0,0.669421487603,0.528925619835,1035.66942149,17.4876033058,5584.16528926,0.404958677686,0.0330578512397,1.85950413223,2.98347107438,Aldrick Rosas
+2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aldrick Rosas
+3,"11    65.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: FGA, dtype: float64","11    2.0
+Name: XPA, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    1.0
+Name: 50+, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    200.0
+Name: Pass Yards Allowed, dtype: float64","11    11.0
+Name: Points_y, dtype: float64","11    265.0
+Name: Total Yards, dtype: float64","11    2.0
+Name: XPM, dtype: float64","11    1.0
+Name: FGM, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    7.0
+Name: Points_x, dtype: float64",Aldrick Rosas
+0,[ 108.58333333],[ 1.5],[ 2.91666667],[ 0.33333333],[ 0.08333333],[ 1.5],[ 232.66666667],[ 11.5],[ 341.25],[ 2.75],[ 1.33333333],[ 2.41666667],[ 6.91666667],Ka'imi Fairbairn
+1,3089.50694444,6.25,3.67361111111,0.111111111111,0.00694444444444,0.25,9669.44444444,2.25,1827.5625,3.0625,0.444444444444,2.50694444444,0.00694444444444,Ka'imi Fairbairn
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ka'imi Fairbairn
+3,"12    53.0
+Name: Rush Yards Allowed, dtype: float64","12    4.0
+Name: FGA, dtype: float64","12    1.0
+Name: XPA, dtype: float64","12    0.0
+Name: Touchdowns, dtype: float64","12    0.0
+Name: 50+, dtype: float64","12    1.0
+Name: Interception, dtype: float64","12    331.0
+Name: Pass Yards Allowed, dtype: float64","12    13.0
+Name: Points_y, dtype: float64","12    384.0
+Name: Total Yards, dtype: float64","12    1.0
+Name: XPM, dtype: float64","12    2.0
+Name: FGM, dtype: float64","12    4.0
+Name: Sack, dtype: float64","12    7.0
+Name: Points_x, dtype: float64",Ka'imi Fairbairn

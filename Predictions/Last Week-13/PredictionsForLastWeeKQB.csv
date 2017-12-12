@@ -1,0 +1,881 @@
+,Rush Yards Allowed,Touchdowns,Receiving Yards,Interception,Fumbles Lost,Pass Yards Allowed,Pass Interceptions,Points_y,Rush Yards,Rush Attempts,Points_x,Total Yards,Pass Completions,Receiving TD,Pass Attempts,Receptions,Pass TD,Rush TD,Sack,Pass Yards,Name
+0,[ 102.41860465],[ 0.1627907],[ 0.],[ 0.86046512],[ 0.22093023],[ 268.43023256],[ 0.8255814],[ 8.15116279],[ 7.30232558],[ 2.15116279],[ 19.96511628],[ 370.84883721],[ 24.55813953],[ 0.],[ 37.10465116],[ 0.],[ 1.72093023],[ 0.03488372],[ 2.06976744],[ 282.20930233],Matt Ryan
+1,6.663601947,0.0265008112493,0.0,0.740400216333,0.0488101676582,3773.67347215,0.681584640346,4.62750135208,39.7193077339,1.32517577069,195.024472688,3463.18564089,73.2417522985,0.0,65.6853704705,0.0,2.96160086533,0.00121687398594,0.00486749594375,11926.6717144,Matt Ryan
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Matt Ryan
+3,"12    105.0
+Name: Rush Yards Allowed, dtype: float64","12    0.0
+Name: Touchdowns, dtype: float64","12    0.0
+Name: Receiving Yards, dtype: float64","12    0.0
+Name: Interception, dtype: float64","12    0.0
+Name: Fumbles Lost, dtype: float64","12    207.0
+Name: Pass Yards Allowed, dtype: float64","12    0.0
+Name: Pass Interceptions, dtype: float64","12    6.0
+Name: Points_y, dtype: float64","12    1.0
+Name: Rush Yards, dtype: float64","12    1.0
+Name: Rush Attempts, dtype: float64","12    6.0
+Name: Points_x, dtype: float64","12    312.0
+Name: Total Yards, dtype: float64","12    16.0
+Name: Pass Completions, dtype: float64","12    0.0
+Name: Receiving TD, dtype: float64","12    29.0
+Name: Pass Attempts, dtype: float64","12    0.0
+Name: Receptions, dtype: float64","12    0.0
+Name: Pass TD, dtype: float64","12    0.0
+Name: Rush TD, dtype: float64","12    2.0
+Name: Sack, dtype: float64","12    173.0
+Name: Pass Yards, dtype: float64",Matt Ryan
+0,[ 114.81707317],[ 0.08536585],[ 0.],[ 0.53658537],[ 0.15853659],[ 284.91463415],[ 0.46341463],[ 5.80487805],[ 3.08536585],[ 2.04878049],[ 24.64654923],[ 399.73170732],[ 24.79268293],[ 0.],[ 37.93902439],[ 0.],[ 2.29268293],[ 0.07317073],[ 1.90243902],[ 296.45121951],Tom Brady
+1,5803.83834027,0.00728732897085,0.0,0.214753123141,0.0251338488995,1674.00728733,0.287923854848,0.0380725758477,9.51948245092,4.19750148721,277.107601177,1243.85246877,14.3844437835,0.0,63.0281082689,0.0,5.25639500297,0.00535395597858,1.20464009518,1478.49628198,Tom Brady
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Tom Brady
+3,"11    191.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    244.0
+Name: Pass Yards Allowed, dtype: float64","11    1.0
+Name: Pass Interceptions, dtype: float64","11    6.0
+Name: Points_y, dtype: float64","11    0.0
+Name: Rush Yards, dtype: float64","11    0.0
+Name: Rush Attempts, dtype: float64","11    8.0
+Name: Points_x, dtype: float64","11    435.0
+Name: Total Yards, dtype: float64","11    21.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    30.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    0.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    258.0
+Name: Pass Yards, dtype: float64",Tom Brady
+0,[ 90.],[ 0.2],[ 0.],[ 1.2],[ 1.4],[ 215.8],[ 1.],[ 10.4],[ 0.6],[ 0.6],[ 8.8],[ 305.8],[ 17.6],[ 0.],[ 32.4],[ 0.],[ 0.8],[ 0.],[ 2.],[ 196.8],Tom Savage
+1,1369.0,0.04,0.0,0.04,1.96,13271.04,0.0,6.76,2.56,0.16,84.64,6115.24,179.56,0.0,275.56,0.0,0.04,0.0,4.0,28291.24,Tom Savage
+2,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Tom Savage
+3,"5    53.0
+Name: Rush Yards Allowed, dtype: float64","5    0.0
+Name: Touchdowns, dtype: float64","5    0.0
+Name: Receiving Yards, dtype: float64","5    1.0
+Name: Interception, dtype: float64","5    0.0
+Name: Fumbles Lost, dtype: float64","5    331.0
+Name: Pass Yards Allowed, dtype: float64","5    1.0
+Name: Pass Interceptions, dtype: float64","5    13.0
+Name: Points_y, dtype: float64","5   -1.0
+Name: Rush Yards, dtype: float64","5    1.0
+Name: Rush Attempts, dtype: float64","5    18.0
+Name: Points_x, dtype: float64","5    384.0
+Name: Total Yards, dtype: float64","5    31.0
+Name: Pass Completions, dtype: float64","5    0.0
+Name: Receiving TD, dtype: float64","5    49.0
+Name: Pass Attempts, dtype: float64","5    0.0
+Name: Receptions, dtype: float64","5    1.0
+Name: Pass TD, dtype: float64","5    0.0
+Name: Rush TD, dtype: float64","5    4.0
+Name: Sack, dtype: float64","5    365.0
+Name: Pass Yards, dtype: float64",Tom Savage
+0,[ 101.26315789],[ 0.10526316],[ 0.],[ 0.60526316],[ 0.10526316],[ 249.71052632],[ 0.5],[ 7.47368421],[ 1.73684211],[ 1.34210526],[ 13.],[ 350.97368421],[ 17.47368421],[ 0.],[ 29.15789474],[ 0.],[ 1.],[ 0.02631579],[ 1.86842105],[ 207.71052632],Brian Hoyer
+1,8052.70083102,0.01108033241,0.0,0.155817174515,0.01108033241,32.6101108033,0.25,2.17174515235,13.9639889197,0.432825484765,169.0,7060.42174515,305.329639889,0.0,850.182825485,0.0,1.0,0.000692520775623,1.28047091413,43143.6627424,Brian Hoyer
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Brian Hoyer
+3,"8    191.0
+Name: Rush Yards Allowed, dtype: float64","8    0.0
+Name: Touchdowns, dtype: float64","8    0.0
+Name: Receiving Yards, dtype: float64","8    1.0
+Name: Interception, dtype: float64","8    0.0
+Name: Fumbles Lost, dtype: float64","8    244.0
+Name: Pass Yards Allowed, dtype: float64","8    0.0
+Name: Pass Interceptions, dtype: float64","8    6.0
+Name: Points_y, dtype: float64","8   -2.0
+Name: Rush Yards, dtype: float64","8    2.0
+Name: Rush Attempts, dtype: float64","8    0.0
+Name: Points_x, dtype: float64","8    435.0
+Name: Total Yards, dtype: float64","8    0.0
+Name: Pass Completions, dtype: float64","8    0.0
+Name: Receiving TD, dtype: float64","8    0.0
+Name: Pass Attempts, dtype: float64","8    0.0
+Name: Receptions, dtype: float64","8    0.0
+Name: Pass TD, dtype: float64","8    0.0
+Name: Rush TD, dtype: float64","8    3.0
+Name: Sack, dtype: float64","8    0.0
+Name: Pass Yards, dtype: float64",Brian Hoyer
+0,[ 109.],[ 0.15384615],[ 0.],[ 0.69230769],[ 0.15384615],[ 195.30769231],[ 0.46153846],[ 9.76923077],[ 4.92307692],[ 2.],[ 19.15384615],[ 304.30769231],[ 20.],[ 0.],[ 32.61538462],[ 0.],[ 1.61538462],[ 0.07692308],[ 2.15384615],[ 254.76923077],Jared Goff
+1,361.0,0.0236686390533,0.0,0.094674556213,0.0236686390533,313.017751479,0.289940828402,45.8224852071,8.54437869822,1.0,1.33136094675,1.7100591716,1.0,0.0,2.60946745562,0.0,0.147928994083,0.00591715976331,1.33136094675,1208.89940828,Jared Goff
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Jared Goff
+3,"11    90.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    213.0
+Name: Pass Yards Allowed, dtype: float64","11    1.0
+Name: Pass Interceptions, dtype: float64","11    3.0
+Name: Points_y, dtype: float64","11    2.0
+Name: Rush Yards, dtype: float64","11    1.0
+Name: Rush Attempts, dtype: float64","11    18.0
+Name: Points_x, dtype: float64","11    303.0
+Name: Total Yards, dtype: float64","11    21.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    31.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    1.0
+Name: Sack, dtype: float64","11    220.0
+Name: Pass Yards, dtype: float64",Jared Goff
+0,[ 94.61111111],[ 0.27777778],[ 0.],[ 1.],[ 0.22222222],[ 220.83333333],[ 0.94444444],[ 11.22222222],[ 8.66666667],[ 2.77777778],[ 16.5],[ 315.44444444],[ 19.88888889],[ 0.],[ 32.94444444],[ 0.],[ 1.44444444],[ 0.05555556],[ 2.77777778],[ 234.11111111],Trevor Siemian
+1,70.3734567901,0.521604938272,0.0,4.0,0.0493827160494,2898.02777778,4.22530864198,281.49382716,53.7777777778,0.0493827160494,182.25,2065.19753086,0.79012345679,0.0,64.8919753086,0.0,2.08641975309,0.00308641975309,0.0493827160494,1163.56790123,Trevor Siemian
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Trevor Siemian
+3,"8    103.0
+Name: Rush Yards Allowed, dtype: float64","8    1.0
+Name: Touchdowns, dtype: float64","8    0.0
+Name: Receiving Yards, dtype: float64","8    3.0
+Name: Interception, dtype: float64","8    0.0
+Name: Fumbles Lost, dtype: float64","8    167.0
+Name: Pass Yards Allowed, dtype: float64","8    3.0
+Name: Pass Interceptions, dtype: float64","8    28.0
+Name: Points_y, dtype: float64","8    16.0
+Name: Rush Yards, dtype: float64","8    3.0
+Name: Rush Attempts, dtype: float64","8    3.0
+Name: Points_x, dtype: float64","8    270.0
+Name: Total Yards, dtype: float64","8    19.0
+Name: Pass Completions, dtype: float64","8    0.0
+Name: Receiving TD, dtype: float64","8    41.0
+Name: Pass Attempts, dtype: float64","8    0.0
+Name: Receptions, dtype: float64","8    0.0
+Name: Pass TD, dtype: float64","8    0.0
+Name: Rush TD, dtype: float64","8    3.0
+Name: Sack, dtype: float64","8    200.0
+Name: Pass Yards, dtype: float64",Trevor Siemian
+0,[ 119.44411306   85.12731551],[ 0.44177853 -0.15606425],[ 0.  0.],[ 1.15927943  0.45976819],[ 0.07457309  0.2111412 ],[ 369.12004598   96.40376354],[ 0.87679185  0.1708272 ],[ 10.82510684   5.84155983],[ 27.24780957   3.99028567],[ 2.26805757  5.54146624],[ 20.10022809  21.99501001],[ 344.4993508   325.59588729],[ 19.80971062  22.66647986],[ 0.  0.],[ 35.15547333  33.22547905],[ 0.  0.],[ 1.92702654  1.69202108],[ 0.07771618  0.01752192],[ 2.38893466  2.56344629],[ 280.67167679  206.18546607],Carson Wentz
+1,1236.70389901,0.109762161542,0.0,0.118378362316,0.739356589346,8900.3526792,0.351353890743,5.052524943,342.039895787,7.06882374346,5.09029339484,3615.66995721,62.2874481602,0.0,117.777024469,0.0,0.669135690626,0.0031734108683,0.345436283438,12322.2325704,Carson Wentz
+2,-3.83087460549,0.0,1.0,0.526486550736,0.0,-2.29155054704,0.0,0.684217191062,0.0,0.0,0.0,-1.78986879414,0.0,1.0,0.0,1.0,0.0,0.0,-0.381745133753,0.0,Carson Wentz
+3,"11     98.0
+12    130.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+12    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+12    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+12    0.0
+Name: Interception, dtype: float64","11    1.0
+12    1.0
+Name: Fumbles Lost, dtype: float64","11    327.0
+12    223.0
+Name: Pass Yards Allowed, dtype: float64","11    1.0
+12    1.0
+Name: Pass Interceptions, dtype: float64","11    14.0
+12     6.0
+Name: Points_y, dtype: float64","11    30.0
+12    30.0
+Name: Rush Yards, dtype: float64","11    6.0
+12    6.0
+Name: Rush Attempts, dtype: float64","11    19.0
+12    19.0
+Name: Points_x, dtype: float64","11    425.0
+12    353.0
+Name: Total Yards, dtype: float64","11    29.0
+12    29.0
+Name: Pass Completions, dtype: float64","11    0.0
+12    0.0
+Name: Receiving TD, dtype: float64","11    45.0
+12    45.0
+Name: Pass Attempts, dtype: float64","11    0.0
+12    0.0
+Name: Receptions, dtype: float64","11    1.0
+12    1.0
+Name: Pass TD, dtype: float64","11    0.0
+12    0.0
+Name: Rush TD, dtype: float64","11    3.0
+12    2.0
+Name: Sack, dtype: float64","11    348.0
+12    348.0
+Name: Pass Yards, dtype: float64",Carson Wentz
+0,[ 110.1627907],[ 0.27906977],[ 0.],[ 1.1627907],[ 0.20930233],[ 215.02325581],[ 1.1627907],[ 11.39534884],[ 24.02325581],[ 3.79069767],[ 17.58139535],[ 325.18604651],[ 21.23255814],[ 0.],[ 35.88372093],[ 0.],[ 1.44186047],[ 0.06976744],[ 2.46511628],[ 235.04651163],Blake Bortles
+1,950.933477555,0.0778799351001,0.0,0.7009194159,0.0438074634938,4359.07030827,1.3520822066,12.9935100054,8.86100594916,0.625202812331,108.547322877,1238.05786912,22.7285018929,0.0,0.780962682531,0.0,0.3115197404,0.00486749594375,2.35586803678,5469.1184424,Blake Bortles
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Blake Bortles
+3,"12    141.0
+Name: Rush Yards Allowed, dtype: float64","12    0.0
+Name: Touchdowns, dtype: float64","12    0.0
+Name: Receiving Yards, dtype: float64","12    2.0
+Name: Interception, dtype: float64","12    0.0
+Name: Fumbles Lost, dtype: float64","12    149.0
+Name: Pass Yards Allowed, dtype: float64","12    0.0
+Name: Pass Interceptions, dtype: float64","12    15.0
+Name: Points_y, dtype: float64","12    27.0
+Name: Rush Yards, dtype: float64","12    3.0
+Name: Rush Attempts, dtype: float64","12    28.0
+Name: Points_x, dtype: float64","12    290.0
+Name: Total Yards, dtype: float64","12    26.0
+Name: Pass Completions, dtype: float64","12    0.0
+Name: Receiving TD, dtype: float64","12    35.0
+Name: Pass Attempts, dtype: float64","12    0.0
+Name: Receptions, dtype: float64","12    2.0
+Name: Pass TD, dtype: float64","12    0.0
+Name: Rush TD, dtype: float64","12    4.0
+Name: Sack, dtype: float64","12    309.0
+Name: Pass Yards, dtype: float64",Blake Bortles
+0,[ 104.22222222],[ 0.09876543],[-0.07407407],[ 0.82716049],[ 0.22222222],[ 256.92592593],[ 0.83950617],[ 8.77777778],[ 5.04938272],[ 1.86419753],[ 21.01234568],[ 361.14814815],[ 23.55555556],[ 0.],[ 36.28395062],[ 0.],[ 1.90123457],[ 0.02469136],[ 2.39506173],[ 279.65432099],Ben Roethlisberger
+1,149.382716049,0.00975461057766,0.00548696844993,0.0298734948941,0.0493827160494,628.709190672,0.0257582685566,22.8271604938,1.10120408474,0.746837372352,0.000152415790276,165.170096022,0.197530864198,0.0,13.8090230148,0.0,0.00975461057766,0.000609663161103,1.94619722603,107.033074226,Ben Roethlisberger
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Ben Roethlisberger
+3,"16    92.0
+Name: Rush Yards Allowed, dtype: float64","16    0.0
+Name: Touchdowns, dtype: float64","16    0.0
+Name: Receiving Yards, dtype: float64","16    1.0
+Name: Interception, dtype: float64","16    0.0
+Name: Fumbles Lost, dtype: float64","16    282.0
+Name: Pass Yards Allowed, dtype: float64","16    1.0
+Name: Pass Interceptions, dtype: float64","16    4.0
+Name: Points_y, dtype: float64","16    4.0
+Name: Rush Yards, dtype: float64","16    1.0
+Name: Rush Attempts, dtype: float64","16    21.0
+Name: Points_x, dtype: float64","16    374.0
+Name: Total Yards, dtype: float64","16    24.0
+Name: Pass Completions, dtype: float64","16    0.0
+Name: Receiving TD, dtype: float64","16    40.0
+Name: Pass Attempts, dtype: float64","16    0.0
+Name: Receptions, dtype: float64","16    2.0
+Name: Pass TD, dtype: float64","16    0.0
+Name: Rush TD, dtype: float64","16    1.0
+Name: Sack, dtype: float64","16    290.0
+Name: Pass Yards, dtype: float64",Ben Roethlisberger
+0,[ 86.71428571],[ 0.28571429],[ 0.],[ 0.91428571],[ 0.42857143],[ 235.22857143],[ 0.77142857],[ 12.65714286],[ 10.42857143],[ 2.28571429],[ 17.34285714],[ 321.94285714],[ 20.51428571],[ 0.],[ 32.45714286],[ 0.],[ 1.4],[ 0.17142857],[ 3.08571429],[ 234.68571429],Josh McCown
+1,639.367346939,0.0816326530612,0.0,0.835918367347,0.183673469388,16070.995102,0.595102040816,113.574693878,73.4693877551,22.2244897959,214.831836735,23121.3746939,30.0930612245,0.0,12.5518367347,0.0,0.16,3.34367346939,1.1787755102,9276.44163265,Josh McCown
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Josh McCown
+3,"11    112.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    362.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    2.0
+Name: Points_y, dtype: float64","11    19.0
+Name: Rush Yards, dtype: float64","11    7.0
+Name: Rush Attempts, dtype: float64","11    32.0
+Name: Points_x, dtype: float64","11    474.0
+Name: Total Yards, dtype: float64","11    26.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    36.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    1.0
+Name: Pass TD, dtype: float64","11    2.0
+Name: Rush TD, dtype: float64","11    2.0
+Name: Sack, dtype: float64","11    331.0
+Name: Pass Yards, dtype: float64",Josh McCown
+0,[ 111.70967742],[ 0.29032258],[ 0.],[ 0.90322581],[ 0.22580645],[ 234.29032258],[ 1.],[ 9.64516129],[ 20.09677419],[ 3.61290323],[ 19.80645161],[ 346.],[ 19.96774194],[ 0.],[ 31.35483871],[ 0.],[ 1.58064516],[ 0.25806452],[ 1.96774194],[ 243.5483871],Marcus Mariota
+1,3446.82622268,0.0842872008325,0.0,0.00936524453694,0.05098855359,9352.76170656,1.0,11.254942768,8.42872008325,0.375650364204,0.0374609781478,1444.0,24.6784599376,0.0,69.8033298647,0.0,0.33714880333,0.550468262227,4.13007284079,8751.30072841,Marcus Mariota
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Marcus Mariota
+3,"11    53.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    331.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    13.0
+Name: Points_y, dtype: float64","11    23.0
+Name: Rush Yards, dtype: float64","11    3.0
+Name: Rush Attempts, dtype: float64","11    20.0
+Name: Points_x, dtype: float64","11    384.0
+Name: Total Yards, dtype: float64","11    15.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    23.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    1.0
+Name: Pass TD, dtype: float64","11    1.0
+Name: Rush TD, dtype: float64","11    4.0
+Name: Sack, dtype: float64","11    150.0
+Name: Pass Yards, dtype: float64",Marcus Mariota
+0,[ 89.66666667],[ 0.0952381],[ 0.],[ 0.69047619],[ 0.21428571],[ 248.4047619],[ 0.61904762],[ 7.73809524],[ 4.64285714],[ 1.83333333],[ 19.],[ 338.07142857],[ 22.71428571],[ 0.],[ 35.88095238],[ 0.],[ 1.76190476],[ 0.],[ 1.4047619],[ 247.64285714],Derek Carr
+1,608.444444444,0.00907029478458,0.0,0.476757369615,0.0459183673469,2343.02097506,0.383219954649,10.6400226757,31.8418367347,0.694444444444,4.0,5339.43367347,0.510204081633,0.0,0.0141723356009,0.0,0.580498866213,0.0,2.5447845805,1548.98469388,Derek Carr
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Derek Carr
+3,"10    65.0
+Name: Rush Yards Allowed, dtype: float64","10    0.0
+Name: Touchdowns, dtype: float64","10    0.0
+Name: Receiving Yards, dtype: float64","10    0.0
+Name: Interception, dtype: float64","10    0.0
+Name: Fumbles Lost, dtype: float64","10    200.0
+Name: Pass Yards Allowed, dtype: float64","10    0.0
+Name: Pass Interceptions, dtype: float64","10    11.0
+Name: Points_y, dtype: float64","10   -1.0
+Name: Rush Yards, dtype: float64","10    1.0
+Name: Rush Attempts, dtype: float64","10    17.0
+Name: Points_x, dtype: float64","10    265.0
+Name: Total Yards, dtype: float64","10    22.0
+Name: Pass Completions, dtype: float64","10    0.0
+Name: Receiving TD, dtype: float64","10    36.0
+Name: Pass Attempts, dtype: float64","10    0.0
+Name: Receptions, dtype: float64","10    1.0
+Name: Pass TD, dtype: float64","10    0.0
+Name: Rush TD, dtype: float64","10    3.0
+Name: Sack, dtype: float64","10    287.0
+Name: Pass Yards, dtype: float64",Derek Carr
+0,[ 103.8372093],[ 0.30232558],[-0.10465116],[ 0.97674419],[ 0.19767442],[ 268.29069767],[ 0.94186047],[ 10.05813953],[ 2.94186047],[ 1.59302326],[ 20.61627907],[ 372.12790698],[ 23.72093023],[ 0.],[ 36.03488372],[ 0.],[ 1.90697674],[ 0.01162791],[ 2.20930233],[ 284.69767442],Philip Rivers
+1,220.142779881,0.091400757166,0.0109518658734,0.000540832882639,0.0390751757707,4394.45659816,0.887101135749,15.5382639264,24.4219848567,0.165630070308,2.61235803137,6581.73729043,52.9848566793,0.0,48.512844781,0.0,0.822606814494,0.00013520822066,0.625202812331,3516.76581936,Philip Rivers
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Philip Rivers
+3,"11    89.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    202.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    14.0
+Name: Points_y, dtype: float64","11   -2.0
+Name: Rush Yards, dtype: float64","11    2.0
+Name: Rush Attempts, dtype: float64","11    19.0
+Name: Points_x, dtype: float64","11    291.0
+Name: Total Yards, dtype: float64","11    31.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    43.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    1.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    344.0
+Name: Pass Yards, dtype: float64",Philip Rivers
+0,[ 110.55128205],[ 0.17943041],[ 0.23076923],[ 0.83333333],[ 0.20512821],[ 233.07692308],[ 0.8974359],[ 8.61538462],[ 9.78205128],[ 3.37179487],[ 18.67948718],[ 343.62820513],[ 20.93589744],[ 0.01282051],[ 33.44871795],[ 0.01282051],[ 1.62820513],[ 0.12820513],[ 2.14102564],[ 245.78205128],Andy Dalton
+1,344.150065746,0.0321952716726,0.0532544378698,0.0277777777778,0.0420775805391,2393.46745562,0.805391190007,21.3017751479,84.9705785667,1.88182117028,11.0258053912,922.445923734,0.00410913872452,0.000164365548981,6.50904010519,0.000164365548981,0.138231426693,0.0164365548981,1.30193951348,138.816732413,Andy Dalton
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Andy Dalton
+3,"12    92.0
+Name: Rush Yards Allowed, dtype: float64","12    0.0
+Name: Touchdowns, dtype: float64","12    0.0
+Name: Receiving Yards, dtype: float64","12    1.0
+Name: Interception, dtype: float64","12    0.0
+Name: Fumbles Lost, dtype: float64","12    282.0
+Name: Pass Yards Allowed, dtype: float64","12    0.0
+Name: Pass Interceptions, dtype: float64","12    4.0
+Name: Points_y, dtype: float64","12    19.0
+Name: Rush Yards, dtype: float64","12    2.0
+Name: Rush Attempts, dtype: float64","12    22.0
+Name: Points_x, dtype: float64","12    374.0
+Name: Total Yards, dtype: float64","12    21.0
+Name: Pass Completions, dtype: float64","12    0.0
+Name: Receiving TD, dtype: float64","12    36.0
+Name: Pass Attempts, dtype: float64","12    0.0
+Name: Receptions, dtype: float64","12    2.0
+Name: Pass TD, dtype: float64","12    0.0
+Name: Rush TD, dtype: float64","12    1.0
+Name: Sack, dtype: float64","12    234.0
+Name: Pass Yards, dtype: float64",Andy Dalton
+0,[ 132.08333333],[ 0.08333333],[ 0.25],[ 0.5],[ 0.08333333],[ 290.75],[ 0.],[ 4.75],[  3.94982061e-16],[ 1.58333333],[ 4.75],[ 422.83333333],[ 4.41666667],[ 0.],[ 6.],[ 0.08333333],[ 0.5],[ 0.],[ 1.83333333],[ 50.5],Jimmy Garoppolo
+1,487.673611111,0.840277777778,0.0625,0.25,0.00694444444444,162.5625,1.0,85.5625,64.0,5.84027777778,18.0625,1213.36111111,465.840277778,0.0,961.0,0.00694444444444,0.25,0.0,0.0277777777778,58806.25,Jimmy Garoppolo
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Jimmy Garoppolo
+3,"1    110.0
+Name: Rush Yards Allowed, dtype: float64","1    1.0
+Name: Touchdowns, dtype: float64","1    0.0
+Name: Receiving Yards, dtype: float64","1    1.0
+Name: Interception, dtype: float64","1    0.0
+Name: Fumbles Lost, dtype: float64","1    278.0
+Name: Pass Yards Allowed, dtype: float64","1    1.0
+Name: Pass Interceptions, dtype: float64","1    14.0
+Name: Points_y, dtype: float64","1    8.0
+Name: Rush Yards, dtype: float64","1    4.0
+Name: Rush Attempts, dtype: float64","1    9.0
+Name: Points_x, dtype: float64","1    388.0
+Name: Total Yards, dtype: float64","1    26.0
+Name: Pass Completions, dtype: float64","1    0.0
+Name: Receiving TD, dtype: float64","1    37.0
+Name: Pass Attempts, dtype: float64","1    0.0
+Name: Receptions, dtype: float64","1    0.0
+Name: Pass TD, dtype: float64","1    0.0
+Name: Rush TD, dtype: float64","1    2.0
+Name: Sack, dtype: float64","1    293.0
+Name: Pass Yards, dtype: float64",Jimmy Garoppolo
+0,[ 116.66197183],[ 0.23943662],[ 0.08450704],[ 0.92957746],[ 0.1971831],[ 226.05633803],[ 0.95774648],[ 9.57746479],[ 36.92957746],[ 7.49295775],[ 21.26760563],[ 342.71830986],[ 18.84507042],[ 0.],[ 32.15492958],[ 0.],[ 1.29577465],[ 0.53521127],[ 2.3943662],[ 236.87323944],Cam Newton
+1,21.7339813529,0.0573298948621,0.00714144019044,0.864114263043,0.0388811743702,3487.6510613,0.917278317794,20.9531838921,197.976790319,2.22892283277,7.46597897243,4060.02301131,3.40428486411,0.0,26.5732989486,0.0,0.495933346558,0.286451100972,0.155524697481,2902.3259274,Cam Newton
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Cam Newton
+3,"11    112.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    167.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    5.0
+Name: Points_y, dtype: float64","11    51.0
+Name: Rush Yards, dtype: float64","11    6.0
+Name: Rush Attempts, dtype: float64","11    24.0
+Name: Points_x, dtype: float64","11    279.0
+Name: Total Yards, dtype: float64","11    17.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    27.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    2.0
+Name: Sack, dtype: float64","11    183.0
+Name: Pass Yards, dtype: float64",Cam Newton
+0,[ 102.875],[ 0.275],[ 0.],[ 1.],[ 0.25],[ 258.],[ 0.9],[ 9.225],[ 5.95],[ 1.925],[ 19.525],[ 360.875],[ 23.25],[ 0.],[ 34.85],[ 0.],[ 1.6],[ 0.175],[ 1.9],[ 274.3],Kirk Cousins
+1,2197.265625,0.525625,0.0,1.0,0.5625,1156.0,1.21,163.200625,0.0025,1.155625,6.375625,6540.765625,7.5625,0.0,4.6225,0.0,0.16,0.030625,4.41,542.89,Kirk Cousins
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Kirk Cousins
+3,"11    56.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    2.0
+Name: Interception, dtype: float64","11    1.0
+Name: Fumbles Lost, dtype: float64","11    224.0
+Name: Pass Yards Allowed, dtype: float64","11    2.0
+Name: Pass Interceptions, dtype: float64","11    22.0
+Name: Points_y, dtype: float64","11    6.0
+Name: Rush Yards, dtype: float64","11    3.0
+Name: Rush Attempts, dtype: float64","11    17.0
+Name: Points_x, dtype: float64","11    280.0
+Name: Total Yards, dtype: float64","11    26.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    37.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    4.0
+Name: Sack, dtype: float64","11    251.0
+Name: Pass Yards, dtype: float64",Kirk Cousins
+0,[ 109.4047619],[ 0.27380952],[ 0.08333333],[ 0.95238095],[ 0.0952381],[ 301.29761905],[ 0.94047619],[ 8.23809524],[ 2.02380952],[ 1.54761905],[ 24.46428571],[ 410.70238095],[ 27.72619048],[ 0.],[ 40.41666667],[ 0.01190476],[ 2.26190476],[ 0.0952381],[ 1.88095238],[ 314.96428571],Drew Brees
+1,6.73526077097,0.0749716553288,0.00694444444444,0.907029478458,0.00907029478458,18035.8504819,0.884495464853,10.485260771,25.2386621315,6.0141723356,71.6441326531,17345.5171485,7.43211451247,0.0,41.1736111111,0.000141723356009,1.59240362812,0.00907029478458,0.0141723356009,2112.71556122,Drew Brees
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Drew Brees
+3,"11    112.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    167.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    5.0
+Name: Points_y, dtype: float64","11   -3.0
+Name: Rush Yards, dtype: float64","11    4.0
+Name: Rush Attempts, dtype: float64","11    16.0
+Name: Points_x, dtype: float64","11    279.0
+Name: Total Yards, dtype: float64","11    25.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    34.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    1.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    2.0
+Name: Sack, dtype: float64","11    269.0
+Name: Pass Yards, dtype: float64",Drew Brees
+0,[ 92.15625],[ 0.28125],[ 0.],[ 1.15625],[ 0.15625],[ 176.53125],[ 0.96875],[ 13.21875],[ 12.09375],[ 3.375],[ 10.65625],[ 268.6875],[ 15.09375],[ 0.],[ 27.4375],[ 0.],[ 0.875],[ 0.0625],[ 2.875],[ 164.90625],Blaine Gabbert
+1,4.6494140625,0.0791015625,0.0,0.0244140625,0.0244140625,1329.96972656,1.0634765625,104.422851562,0.0087890625,0.390625,0.1181640625,1177.34765625,8.4462890625,0.0,20.81640625,0.0,0.015625,0.00390625,3.515625,3146.50878906,Blaine Gabbert
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Blaine Gabbert
+3,"2    90.0
+Name: Rush Yards Allowed, dtype: float64","2    0.0
+Name: Touchdowns, dtype: float64","2    0.0
+Name: Receiving Yards, dtype: float64","2    1.0
+Name: Interception, dtype: float64","2    0.0
+Name: Fumbles Lost, dtype: float64","2    213.0
+Name: Pass Yards Allowed, dtype: float64","2    2.0
+Name: Pass Interceptions, dtype: float64","2    3.0
+Name: Points_y, dtype: float64","2    12.0
+Name: Rush Yards, dtype: float64","2    4.0
+Name: Rush Attempts, dtype: float64","2    11.0
+Name: Points_x, dtype: float64","2    303.0
+Name: Total Yards, dtype: float64","2    18.0
+Name: Pass Completions, dtype: float64","2    0.0
+Name: Receiving TD, dtype: float64","2    32.0
+Name: Pass Attempts, dtype: float64","2    0.0
+Name: Receptions, dtype: float64","2    1.0
+Name: Pass TD, dtype: float64","2    0.0
+Name: Rush TD, dtype: float64","2    1.0
+Name: Sack, dtype: float64","2    221.0
+Name: Pass Yards, dtype: float64",Blaine Gabbert
+0,[ 138.14614841  116.98817994],[ 0.31256607  0.01579214],[ 0.9096537   0.01571943],[ 1.82096771 -0.47768413],[ 0.79727452 -0.37936407],[ 353.31730188   78.35433991],[ 0.75278205  0.50094929],[ 10.70626886   7.92059681],[ 35.22975616  35.57621399],[ 4.36760063  7.96075758],[ 21.51682415  21.19959376],[ 357.62035778  329.18561237],[ 20.53715534  18.62702376],[-0.00233343  0.03218417],[ 28.62789055  32.35718408],[ 0.04990454  0.0396477 ],[ 1.54969972  1.61447939],[ 0.10580181  0.2225564 ],[ 2.8785228   2.46476078],[ 252.24014512  219.5807504 ],Russell Wilson
+1,890.51034685,0.0489734691811,0.41385847904,0.451085050977,0.389781878803,10807.4836798,0.408815505376,7.26867844782,19.4162858258,3.25464897974,74.7057112414,2553.57062193,1.08679981031,0.000520632953257,3.73442593078,0.00203120152794,2.01151913942,0.0303626873835,0.115379648355,346.055095063,Russell Wilson
+2,-2.47855604238,0.0,0.0,-0.804340203906,0.0,-2.9968504733,0.0,0.545707597011,0.0,0.0,0.0,-0.970347702107,0.0,0.0,0.0,0.0,0.0,0.0,0.538481406582,0.0,Russell Wilson
+3,"15     98.0
+16    130.0
+Name: Rush Yards Allowed, dtype: float64","15    0.0
+16    0.0
+Name: Touchdowns, dtype: float64","15    0.0
+16    0.0
+Name: Receiving Yards, dtype: float64","15    1.0
+16    0.0
+Name: Interception, dtype: float64","15    0.0
+16    0.0
+Name: Fumbles Lost, dtype: float64","15    327.0
+16    223.0
+Name: Pass Yards Allowed, dtype: float64","15    0.0
+16    0.0
+Name: Pass Interceptions, dtype: float64","15    14.0
+16     6.0
+Name: Points_y, dtype: float64","15    31.0
+16    31.0
+Name: Rush Yards, dtype: float64","15    6.0
+16    6.0
+Name: Rush Attempts, dtype: float64","15    30.0
+16    30.0
+Name: Points_x, dtype: float64","15    425.0
+16    353.0
+Name: Total Yards, dtype: float64","15    20.0
+16    20.0
+Name: Pass Completions, dtype: float64","15    0.0
+16    0.0
+Name: Receiving TD, dtype: float64","15    31.0
+16    31.0
+Name: Pass Attempts, dtype: float64","15    0.0
+16    0.0
+Name: Receptions, dtype: float64","15    3.0
+16    3.0
+Name: Pass TD, dtype: float64","15    0.0
+16    0.0
+Name: Rush TD, dtype: float64","15    3.0
+16    2.0
+Name: Sack, dtype: float64","15    227.0
+16    227.0
+Name: Pass Yards, dtype: float64",Russell Wilson
+0,[ 126.375],[ 0.375],[ 0.54166667],[ 1.375],[ 0.25],[ 192.54166667],[ 1.25],[ 14.04166667],[ 15.125],[ 3.41666667],[ 10.29166667],[ 318.91666667],[ 14.625],[ 0.],[ 25.83333333],[ 0.04166667],[ 0.75],[ 0.16666667],[ 3.16666667],[ 169.875],Geno Smith
+1,3766.890625,0.140625,0.293402777778,1.890625,3.0625,55.6267361111,1.5625,9.25173611111,4.515625,0.173611111111,7.33506944444,2907.00694444,40.640625,0.0,66.6944444444,0.00173611111111,0.0625,0.0277777777778,0.0277777777778,1774.515625,Geno Smith
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Geno Smith
+3,"1    65.0
+Name: Rush Yards Allowed, dtype: float64","1    0.0
+Name: Touchdowns, dtype: float64","1    0.0
+Name: Receiving Yards, dtype: float64","1    0.0
+Name: Interception, dtype: float64","1    2.0
+Name: Fumbles Lost, dtype: float64","1    200.0
+Name: Pass Yards Allowed, dtype: float64","1    0.0
+Name: Pass Interceptions, dtype: float64","1    11.0
+Name: Points_y, dtype: float64","1    13.0
+Name: Rush Yards, dtype: float64","1    3.0
+Name: Rush Attempts, dtype: float64","1    13.0
+Name: Points_x, dtype: float64","1    265.0
+Name: Total Yards, dtype: float64","1    21.0
+Name: Pass Completions, dtype: float64","1    0.0
+Name: Receiving TD, dtype: float64","1    34.0
+Name: Pass Attempts, dtype: float64","1    0.0
+Name: Receptions, dtype: float64","1    1.0
+Name: Pass TD, dtype: float64","1    0.0
+Name: Rush TD, dtype: float64","1    3.0
+Name: Sack, dtype: float64","1    212.0
+Name: Pass Yards, dtype: float64",Geno Smith
+0,[ 89.34615385],[ 0.15384615],[ 0.],[ 0.88461538],[ 0.19230769],[ 213.15384615],[ 0.69230769],[ 11.03846154],[ 7.88461538],[ 2.07692308],[ 15.69230769],[ 302.5],[ 20.34615385],[ 0.],[ 33.30769231],[ 0.],[ 1.23076923],[ 0.07692308],[ 2.57692308],[ 234.96153846],Case Keenum
+1,245.042899408,0.0236686390533,0.0,0.782544378698,0.0369822485207,37.8698224852,0.479289940828,25.3860946746,78.9363905325,3.69822485207,28.1715976331,90.25,21.6582840237,0.0,10.9408284024,0.0,0.591715976331,0.00591715976331,0.332840236686,63.3860946746,Case Keenum
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Case Keenum
+3,"11    105.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    207.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    6.0
+Name: Points_y, dtype: float64","11   -1.0
+Name: Rush Yards, dtype: float64","11    4.0
+Name: Rush Attempts, dtype: float64","11    21.0
+Name: Points_x, dtype: float64","11    312.0
+Name: Total Yards, dtype: float64","11    25.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    30.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    2.0
+Name: Sack, dtype: float64","11    227.0
+Name: Pass Yards, dtype: float64",Case Keenum
+0,[ 103.45977011],[ 0.16091954],[-0.09195402],[ 0.94252874],[ 0.17241379],[ 234.02298851],[ 0.89655172],[ 8.83908046],[ 4.3908046],[ 1.95402299],[ 16.03448276],[ 337.48275862],[ 22.43678161],[ 0.],[ 36.31034483],[ 0.01149425],[ 1.27586207],[ 0.10344828],[ 2.14942529],[ 245.49425287],Joe Flacco
+1,648.199894306,0.704056017968,0.00845554234377,1.11824547496,0.0297265160523,3597.24190778,0.803804994055,103.244285903,29.0607742106,0.910159862597,35.5873959572,1191.43995244,0.317214955741,0.0,0.0963139120095,0.000132117849121,0.524375743163,0.0107015457788,0.723477341789,552.520147972,Joe Flacco
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Joe Flacco
+3,"11    78.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    2.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    294.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    19.0
+Name: Points_y, dtype: float64","11   -1.0
+Name: Rush Yards, dtype: float64","11    1.0
+Name: Rush Attempts, dtype: float64","11    22.0
+Name: Points_x, dtype: float64","11    372.0
+Name: Total Yards, dtype: float64","11    23.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    36.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    269.0
+Name: Pass Yards, dtype: float64",Joe Flacco
+0,[ 107.4],[ 0.4],[ 0.],[ 0.86666667],[ 0.33333333],[ 227.13333333],[ 0.4],[ 11.26666667],[ 19.06666667],[ 4.],[ 13.4],[ 334.53333333],[ 16.4],[ 0.],[ 27.13333333],[ 0.],[ 0.66666667],[ 0.26666667],[ 2.26666667],[ 195.],Jacoby Brissett
+1,1128.96,0.16,0.0,1.28444444444,0.111111111111,6104.81777778,2.56,13.9377777778,286.737777778,4.0,5.76,1983.21777778,21.16,0.0,78.6177777778,0.0,0.111111111111,0.0711111111111,3.00444444444,441.0,Jacoby Brissett
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Jacoby Brissett
+3,"12    141.0
+Name: Rush Yards Allowed, dtype: float64","12    0.0
+Name: Touchdowns, dtype: float64","12    0.0
+Name: Receiving Yards, dtype: float64","12    2.0
+Name: Interception, dtype: float64","12    0.0
+Name: Fumbles Lost, dtype: float64","12    149.0
+Name: Pass Yards Allowed, dtype: float64","12    2.0
+Name: Pass Interceptions, dtype: float64","12    15.0
+Name: Points_y, dtype: float64","12    36.0
+Name: Rush Yards, dtype: float64","12    6.0
+Name: Rush Attempts, dtype: float64","12    11.0
+Name: Points_x, dtype: float64","12    290.0
+Name: Total Yards, dtype: float64","12    21.0
+Name: Pass Completions, dtype: float64","12    0.0
+Name: Receiving TD, dtype: float64","12    36.0
+Name: Pass Attempts, dtype: float64","12    0.0
+Name: Receptions, dtype: float64","12    1.0
+Name: Pass TD, dtype: float64","12    0.0
+Name: Rush TD, dtype: float64","12    4.0
+Name: Sack, dtype: float64","12    174.0
+Name: Pass Yards, dtype: float64",Jacoby Brissett
+0,[ 142.59090909],[ 0.04545455],[ 0.],[ 0.27272727],[ 0.27272727],[ 233.5],[ 0.5],[ 4.81818182],[ 19.40909091],[ 3.40909091],[ 21.09090909],[ 376.09090909],[ 20.54545455],[ 0.],[ 31.22727273],[ 0.],[ 1.54545455],[ 0.45454545],[ 1.72727273],[ 234.22727273],Dak Prescott
+1,7497.98553719,0.911157024793,0.0,2.98347107438,0.0743801652893,90.25,0.25,295.214876033,73.8037190083,2.53099173554,9.55371900826,9233.46280992,91.1157024793,0.0,85.1425619835,0.0,0.206611570248,0.206611570248,5.1652892562,17484.0516529,Dak Prescott
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Dak Prescott
+3,"11    56.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    2.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    224.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    22.0
+Name: Points_y, dtype: float64","11    28.0
+Name: Rush Yards, dtype: float64","11    5.0
+Name: Rush Attempts, dtype: float64","11    18.0
+Name: Points_x, dtype: float64","11    280.0
+Name: Total Yards, dtype: float64","11    11.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    22.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    2.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    4.0
+Name: Sack, dtype: float64","11    102.0
+Name: Pass Yards, dtype: float64",Dak Prescott
+0,[ 126.57142857],[ 0.57142857],[ 0.],[ 0.71428571],[ 0.42857143],[ 170.],[ 0.57142857],[ 14.42857143],[ 25.],[ 3.57142857],[ 10.42857143],[ 296.57142857],[ 13.42857143],[ 0.],[ 25.42857143],[ 0.],[ 0.57142857],[ 0.],[ 3.28571429],[ 162.14285714],Mitchell Trubisky
+1,274.612244898,0.183673469388,0.0,0.0816326530612,0.183673469388,11664.0,0.326530612245,0.183673469388,36.0,0.183673469388,0.326530612245,8359.18367347,2.04081632653,0.0,108.755102041,0.0,0.183673469388,0.0,1.65306122449,3617.16326531,Mitchell Trubisky
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Mitchell Trubisky
+3,"7    110.0
+Name: Rush Yards Allowed, dtype: float64","7    1.0
+Name: Touchdowns, dtype: float64","7    0.0
+Name: Receiving Yards, dtype: float64","7    1.0
+Name: Interception, dtype: float64","7    0.0
+Name: Fumbles Lost, dtype: float64","7    278.0
+Name: Pass Yards Allowed, dtype: float64","7    0.0
+Name: Pass Interceptions, dtype: float64","7    14.0
+Name: Points_y, dtype: float64","7    19.0
+Name: Rush Yards, dtype: float64","7    4.0
+Name: Rush Attempts, dtype: float64","7    11.0
+Name: Points_x, dtype: float64","7    388.0
+Name: Total Yards, dtype: float64","7    12.0
+Name: Pass Completions, dtype: float64","7    0.0
+Name: Receiving TD, dtype: float64","7    15.0
+Name: Pass Attempts, dtype: float64","7    0.0
+Name: Receptions, dtype: float64","7    1.0
+Name: Pass TD, dtype: float64","7    0.0
+Name: Rush TD, dtype: float64","7    2.0
+Name: Sack, dtype: float64","7    102.0
+Name: Pass Yards, dtype: float64",Mitchell Trubisky
+0,[ 103.6],[ 0.1],[ 0.],[ 1.1],[ 0.4],[ 229.4],[ 1.4],[ 9.2],[ 26.2],[ 5.4],[ 11.7],[ 333.],[ 16.6],[ 0.],[ 31.3],[ 0.],[ 0.5],[ 0.5],[ 2.4],[ 182.3],DeShone Kizer
+1,213.16,0.01,0.0,0.01,0.36,750.76,0.16,23.04,392.04,0.16,10.89,1764.0,2.56,0.0,0.49,0.0,0.25,0.25,0.36,1069.29,DeShone Kizer
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,DeShone Kizer
+3,"10    89.0
+Name: Rush Yards Allowed, dtype: float64","10    0.0
+Name: Touchdowns, dtype: float64","10    0.0
+Name: Receiving Yards, dtype: float64","10    1.0
+Name: Interception, dtype: float64","10    1.0
+Name: Fumbles Lost, dtype: float64","10    202.0
+Name: Pass Yards Allowed, dtype: float64","10    1.0
+Name: Pass Interceptions, dtype: float64","10    14.0
+Name: Points_y, dtype: float64","10    46.0
+Name: Rush Yards, dtype: float64","10    5.0
+Name: Rush Attempts, dtype: float64","10    15.0
+Name: Points_x, dtype: float64","10    291.0
+Name: Total Yards, dtype: float64","10    15.0
+Name: Pass Completions, dtype: float64","10    0.0
+Name: Receiving TD, dtype: float64","10    32.0
+Name: Pass Attempts, dtype: float64","10    0.0
+Name: Receptions, dtype: float64","10    1.0
+Name: Pass TD, dtype: float64","10    0.0
+Name: Rush TD, dtype: float64","10    3.0
+Name: Sack, dtype: float64","10    215.0
+Name: Pass Yards, dtype: float64",DeShone Kizer
+0,[ 108.77777778],[ 0.66666667],[ 6.77777778],[ 1.66666667],[ 0.],[ 215.66666667],[ 0.],[ 14.44444444],[ 0.33333333],[ 0.55555556],[ 0.33333333],[ 324.44444444],[ 0.],[ 0.],[ 0.11111111],[ 0.88888889],[ 0.],[ 0.],[ 2.88888889],[ 0.],Joe Webb
+1,6760.49382716,0.444444444444,45.9382716049,0.444444444444,0.0,802.777777778,0.0,71.3086419753,711.111111111,5.97530864198,2.77777777778,12222.5308642,0.0,0.0,0.79012345679,0.79012345679,0.0,0.0,0.0123456790123,0.0,Joe Webb
+2,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Joe Webb
+3,"0    191.0
+Name: Rush Yards Allowed, dtype: float64","0    0.0
+Name: Touchdowns, dtype: float64","0    0.0
+Name: Receiving Yards, dtype: float64","0    1.0
+Name: Interception, dtype: float64","0    0.0
+Name: Fumbles Lost, dtype: float64","0    244.0
+Name: Pass Yards Allowed, dtype: float64","0    0.0
+Name: Pass Interceptions, dtype: float64","0    6.0
+Name: Points_y, dtype: float64","0    27.0
+Name: Rush Yards, dtype: float64","0    3.0
+Name: Rush Attempts, dtype: float64","0    2.0
+Name: Points_x, dtype: float64","0    435.0
+Name: Total Yards, dtype: float64","0    0.0
+Name: Pass Completions, dtype: float64","0    0.0
+Name: Receiving TD, dtype: float64","0    1.0
+Name: Pass Attempts, dtype: float64","0    0.0
+Name: Receptions, dtype: float64","0    0.0
+Name: Pass TD, dtype: float64","0    0.0
+Name: Rush TD, dtype: float64","0    3.0
+Name: Sack, dtype: float64","0    0.0
+Name: Pass Yards, dtype: float64",Joe Webb
+0,[ 111.20689655],[ 0.24137931],[ 0.],[ 1.03448276],[ 0.20689655],[ 244.82758621],[ 0.89655172],[ 9.96551724],[ 10.10344828],[ 2.93103448],[ 18.48275862],[ 356.03448276],[ 19.82758621],[ 0.],[ 33.],[ 0.],[ 1.55172414],[ 0.17241379],[ 1.93103448],[ 243.62068966],Jameis Winston
+1,2893.6979786,0.575505350773,0.0,1.07015457788,0.629013079667,219.857312723,0.803804994055,81.6218787158,62.355529132,4.28061831153,12.3709869203,1518.31153389,1.37455410226,0.0,1.0,0.0,0.200951248514,0.0297265160523,25.694411415,695.868014269,Jameis Winston
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Jameis Winston
+3,"8    165.0
+Name: Rush Yards Allowed, dtype: float64","8    1.0
+Name: Touchdowns, dtype: float64","8    0.0
+Name: Receiving Yards, dtype: float64","8    0.0
+Name: Interception, dtype: float64","8    1.0
+Name: Fumbles Lost, dtype: float64","8    230.0
+Name: Pass Yards Allowed, dtype: float64","8    0.0
+Name: Pass Interceptions, dtype: float64","8    19.0
+Name: Points_y, dtype: float64","8    18.0
+Name: Rush Yards, dtype: float64","8    5.0
+Name: Rush Attempts, dtype: float64","8    22.0
+Name: Points_x, dtype: float64","8    395.0
+Name: Total Yards, dtype: float64","8    21.0
+Name: Pass Completions, dtype: float64","8    0.0
+Name: Receiving TD, dtype: float64","8    32.0
+Name: Pass Attempts, dtype: float64","8    0.0
+Name: Receptions, dtype: float64","8    2.0
+Name: Pass TD, dtype: float64","8    0.0
+Name: Rush TD, dtype: float64","8    7.0
+Name: Sack, dtype: float64","8    270.0
+Name: Pass Yards, dtype: float64",Jameis Winston
+0,[ 102.59090909],[ 0.25757576],[ 0.],[ 0.90909091],[ 0.34848485],[ 223.21212121],[ 0.92424242],[ 10.21212121],[ 10.98484848],[ 2.34848485],[ 16.07575758],[ 325.8030303],[ 19.25757576],[ 0.],[ 31.16666667],[ 0.],[ 1.42424242],[ 0.03030303],[ 2.63636364],[ 223.62121212],Jay Cutler
+1,0.167355371901,0.551193755739,0.0,4.37190082645,0.121441689624,3159.80257117,1.1572543618,316.408631772,99.6971992654,1.81841138659,0.85422405877,3113.978191,1.58149678604,0.0,0.0277777777778,0.0,0.331496786042,0.000918273645546,0.132231404959,129.47681359,Jay Cutler
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Jay Cutler
+3,"9    103.0
+Name: Rush Yards Allowed, dtype: float64","9    1.0
+Name: Touchdowns, dtype: float64","9    0.0
+Name: Receiving Yards, dtype: float64","9    3.0
+Name: Interception, dtype: float64","9    0.0
+Name: Fumbles Lost, dtype: float64","9    167.0
+Name: Pass Yards Allowed, dtype: float64","9    2.0
+Name: Pass Interceptions, dtype: float64","9    28.0
+Name: Points_y, dtype: float64","9    1.0
+Name: Rush Yards, dtype: float64","9    1.0
+Name: Rush Attempts, dtype: float64","9    17.0
+Name: Points_x, dtype: float64","9    270.0
+Name: Total Yards, dtype: float64","9    18.0
+Name: Pass Completions, dtype: float64","9    0.0
+Name: Receiving TD, dtype: float64","9    31.0
+Name: Pass Attempts, dtype: float64","9    0.0
+Name: Receptions, dtype: float64","9    2.0
+Name: Pass TD, dtype: float64","9    0.0
+Name: Rush TD, dtype: float64","9    3.0
+Name: Sack, dtype: float64","9    235.0
+Name: Pass Yards, dtype: float64",Jay Cutler
+0,[ 93.14285714],[ 0.27142857],[-0.04285714],[ 1.02857143],[ 0.18571429],[ 273.34285714],[ 0.92857143],[ 9.7],[ 8.],[ 2.15714286],[ 20.65714286],[ 366.48571429],[ 23.78571429],[ 0.],[ 38.6],[ 0.02857143],[ 1.77142857],[ 0.11428571],[ 2.18571429],[ 278.95714286],Matthew Stafford
+1,229.306122449,0.530816326531,0.00183673469388,0.943673469388,0.66306122449,426.71755102,0.00510204081633,86.49,36.0,0.710408163265,44.3175510204,30.4073469388,0.0459183673469,0.0,92.16,0.000816326530612,0.595102040816,0.0130612244898,0.66306122449,170.116122449,Matthew Stafford
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matthew Stafford
+3,"11    78.0
+Name: Rush Yards Allowed, dtype: float64","11    1.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    2.0
+Name: Interception, dtype: float64","11    1.0
+Name: Fumbles Lost, dtype: float64","11    294.0
+Name: Pass Yards Allowed, dtype: float64","11    1.0
+Name: Pass Interceptions, dtype: float64","11    19.0
+Name: Points_y, dtype: float64","11    2.0
+Name: Rush Yards, dtype: float64","11    3.0
+Name: Rush Attempts, dtype: float64","11    14.0
+Name: Points_x, dtype: float64","11    372.0
+Name: Total Yards, dtype: float64","11    24.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    29.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    1.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    292.0
+Name: Pass Yards, dtype: float64",Matthew Stafford
+0,[ 93.5],[ 0.],[ 0.],[ 1.2],[ 0.1],[ 247.6],[ 0.8],[ 8.6],[ 11.6],[ 1.6],[ 10.4],[ 341.1],[ 13.2],[ 0.],[ 21.7],[ 0.],[ 0.8],[ 0.2],[ 2.7],[ 144.7],Brett Hundley
+1,5112.25,1.0,0.0,1.44,0.01,309.76,0.04,108.16,2959.36,29.16,11.56,2905.21,0.04,0.0,0.09,0.0,0.64,0.04,18.49,3684.49,Brett Hundley
+2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Brett Hundley
+3,"8    165.0
+Name: Rush Yards Allowed, dtype: float64","8    1.0
+Name: Touchdowns, dtype: float64","8    0.0
+Name: Receiving Yards, dtype: float64","8    0.0
+Name: Interception, dtype: float64","8    0.0
+Name: Fumbles Lost, dtype: float64","8    230.0
+Name: Pass Yards Allowed, dtype: float64","8    1.0
+Name: Pass Interceptions, dtype: float64","8    19.0
+Name: Points_y, dtype: float64","8    66.0
+Name: Rush Yards, dtype: float64","8    7.0
+Name: Rush Attempts, dtype: float64","8    7.0
+Name: Points_x, dtype: float64","8    395.0
+Name: Total Yards, dtype: float64","8    13.0
+Name: Pass Completions, dtype: float64","8    0.0
+Name: Receiving TD, dtype: float64","8    22.0
+Name: Pass Attempts, dtype: float64","8    0.0
+Name: Receptions, dtype: float64","8    0.0
+Name: Pass TD, dtype: float64","8    0.0
+Name: Rush TD, dtype: float64","8    7.0
+Name: Sack, dtype: float64","8    84.0
+Name: Pass Yards, dtype: float64",Brett Hundley
+0,[ 129.19444444],[ 0.08333333],[ 0.27777778],[ 0.69444444],[ 0.11111111],[ 207.97222222],[ 0.30555556],[ 7.94444444],[ 28.77777778],[ 5.5],[ 15.52777778],[ 337.16666667],[ 15.13888889],[ 0.],[ 23.69444444],[ 0.05555556],[ 0.97222222],[ 0.27777778],[ 2.58333333],[ 166.44444444],Tyrod Taylor
+1,3819.92669753,0.00694444444444,0.0771604938272,0.0933641975309,0.0123456790123,1298.0007716,0.48225308642,3.78086419753,10.3827160494,6.25,156.945216049,9571.36111111,37.6859567901,0.0,32.4266975309,0.00308641975309,0.945216049383,0.0771604938272,0.173611111111,10290.9753086,Tyrod Taylor
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Tyrod Taylor
+3,"11    191.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    1.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    244.0
+Name: Pass Yards Allowed, dtype: float64","11    1.0
+Name: Pass Interceptions, dtype: float64","11    6.0
+Name: Points_y, dtype: float64","11    32.0
+Name: Rush Yards, dtype: float64","11    3.0
+Name: Rush Attempts, dtype: float64","11    3.0
+Name: Points_x, dtype: float64","11    435.0
+Name: Total Yards, dtype: float64","11    9.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    18.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    0.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    3.0
+Name: Sack, dtype: float64","11    65.0
+Name: Pass Yards, dtype: float64",Tyrod Taylor
+0,[ 128.37974684],[ 0.07594937],[-0.05063291],[ 0.55696203],[ 0.08860759],[ 212.34177215],[ 0.48101266],[ 7.88607595],[ 17.39240506],[ 3.73417722],[ 16.98734177],[ 340.72151899],[ 20.15189873],[ 0.],[ 31.37974684],[ 0.01265823],[ 1.27848101],[ 0.08860759],[ 2.69620253],[ 220.50632911],Alex Smith
+1,268.296106393,0.00576830636116,0.00256369171607,0.310206697645,0.00785130588047,22397.5851626,0.231373177375,34.6458900817,2767.55904502,7.47572504406,784.70902099,17763.153501,1.3268706938,0.0,2.62522031726,0.000160230732254,7.40666559846,0.00785130588047,0.48469796507,21168.4082679,Alex Smith
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Alex Smith
+3,"11    112.0
+Name: Rush Yards Allowed, dtype: float64","11    0.0
+Name: Touchdowns, dtype: float64","11    0.0
+Name: Receiving Yards, dtype: float64","11    0.0
+Name: Interception, dtype: float64","11    0.0
+Name: Fumbles Lost, dtype: float64","11    362.0
+Name: Pass Yards Allowed, dtype: float64","11    0.0
+Name: Pass Interceptions, dtype: float64","11    2.0
+Name: Points_y, dtype: float64","11    70.0
+Name: Rush Yards, dtype: float64","11    1.0
+Name: Rush Attempts, dtype: float64","11    45.0
+Name: Points_x, dtype: float64","11    474.0
+Name: Total Yards, dtype: float64","11    19.0
+Name: Pass Completions, dtype: float64","11    0.0
+Name: Receiving TD, dtype: float64","11    33.0
+Name: Pass Attempts, dtype: float64","11    0.0
+Name: Receptions, dtype: float64","11    4.0
+Name: Pass TD, dtype: float64","11    0.0
+Name: Rush TD, dtype: float64","11    2.0
+Name: Sack, dtype: float64","11    366.0
+Name: Pass Yards, dtype: float64",Alex Smith
+0,[ 235.5],[ 1.],[ 0.],[ 2.5],[ 0.],[ 202.],[ 2.5],[ 14.],[ 2.],[ 1.],[ 0.5],[ 437.5],[ 6.5],[ 0.],[ 12.],[ 0.],[ 0.5],[ 0.],[ 0.5],[ 72.5],Nathan Peterman
+1,1980.25,1.0,0.0,2.25,0.0,1764.0,6.25,64.0,49.0,0.0,2.25,6.25,0.25,0.0,9.0,0.0,0.25,0.0,6.25,506.25,Nathan Peterman
+2,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Nathan Peterman
+3,"2    191.0
+Name: Rush Yards Allowed, dtype: float64","2    0.0
+Name: Touchdowns, dtype: float64","2    0.0
+Name: Receiving Yards, dtype: float64","2    1.0
+Name: Interception, dtype: float64","2    0.0
+Name: Fumbles Lost, dtype: float64","2    244.0
+Name: Pass Yards Allowed, dtype: float64","2    0.0
+Name: Pass Interceptions, dtype: float64","2    6.0
+Name: Points_y, dtype: float64","2    9.0
+Name: Rush Yards, dtype: float64","2    1.0
+Name: Rush Attempts, dtype: float64","2    2.0
+Name: Points_x, dtype: float64","2    435.0
+Name: Total Yards, dtype: float64","2    6.0
+Name: Pass Completions, dtype: float64","2    0.0
+Name: Receiving TD, dtype: float64","2    15.0
+Name: Pass Attempts, dtype: float64","2    0.0
+Name: Receptions, dtype: float64","2    0.0
+Name: Pass TD, dtype: float64","2    0.0
+Name: Rush TD, dtype: float64","2    3.0
+Name: Sack, dtype: float64","2    50.0
+Name: Pass Yards, dtype: float64",Nathan Peterman
