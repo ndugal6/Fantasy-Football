@@ -8,6 +8,16 @@ from sklearn.pipeline import make_pipeline
 from sklearn.naive_bayes import GaussianNB
 from sklearn.decomposition import PCA
 from sklearn import metrics
+from sklearn import preprocessing
+import matplotlib.pyplot as plt
+
+## instance a python db connection object- same form as psycopg2/python-mysql drivers also
+conn = pymssql.connect(server="172.0.0.1", user="howens",password="some_fake_password", port=63642)  # You can lookup the port number inside SQL server.
+
+## Hey Look, college data
+stmt = "SELECT * FROM AlumniMirror..someTable"
+# Excute Query here
+df = pd.read_sql(stmt,conn)
 
 """"
 FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS DUGAL.
@@ -17,22 +27,45 @@ FINAL VERSION OF AI PROJECT FOR SUBMISSION. REALER THAN REAL MY DUDES. NICHOLAS 
 # 2017 data is in 2017data dir
 ##Linear regression csv path calls may break when connectioning to database
 def main():
-    # player_pointsOnly('Leonard Fournette', position='rb');exit(0)
-    # actualOld = pd.read_csv('Data/' + 'qb' + '/' + '/averagedDataWithDefense.csv',index_col=None)
-    # numeric = removeAlphaData(actualOld)
-    # print(numeric.describe())
-    # numeric2 = numeric.astype(dtype='float32',copy=True,errors='ignore')
-    # print(numeric2.head());exit(0)
-    # prediction = linearRegression(position='qb', player='Drew Brees', feature='Pass Yards',Future=True)
-    # print(player_pointsOnly(name='Latavius Murray',position='rb'));exit(0)
-    pathToQBS = '~/documents/fantasy-football/2017data/rb'
+    # actualNew = pd.read_csv('2017Data/' + 'qb' + '/Drew Brees' + '/actualDataWithDefense.csv')
+    #
+    # toDrop = ['Point After', 'Fumble Returns', 'Fumble TD', 'Week', 'Away Games_x', 'Rush 2PT', 'Away Games_y',
+    #           'Safety', 'Receiving 2PT', 'Blocks', 'Pass 2PT', 'Year']
+    # cols = list(purgeAlphas(actualNew.columns))
+    # # features = list(set(cols).difference(toDrop))
+    # features = cols
+    # predictionDF = pd.DataFrame(columns=['Featue','MeanSquared','Explained Variance'])
+    # mean2er = []
+    # variance = []
+    # for feature in features:
+    #     prediction,m,v,_ = linearRegression(position='qb', player='Drew Brees', feature=feature, Future=False)
+    #     mean2er.append(m)
+    #     variance.append(v)
+    #
+    # predictionDF['Feature'] = features
+    # predictionDF['MeanSquared'] = mean2er
+    # predictionDF['Explained Variance'] = variance
+    # predictionDF.to_csv('Predition Statics.csv');
+    # exit(0)
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+
+    # pathToQBS = '~/documents/fantasy-football/2017data/rb'
     people = []
-    predictions, mean2er, variance, actual = linearRegression(feature='Pass Yards')
-    df = pd.DataFrame(
-        {'APreditions': predictions, 'Actual': actual, 'Mean Squared Error': mean2er, 'Explained Variances': variance})
-    # df = df.apply()
-    print(df.head());
-    exit(0)
+    # predictions, mean2er, variance, actual = linearRegression(feature='Pass Yards',Future=False)
+    # df = pd.DataFrame(
+    #     {'APreditions': predictions, 'Actual': actual, 'Mean Squared Error': mean2er, 'Explained Variances': variance})
+    # # df = df.apply()
+    # print(df.head());
+    # exit(0)
     for pos in ['QB', 'RB', 'WR', 'TE', 'K', 'DST']:
         path = '2017Data/' + pos
         files = os.listdir(path)
@@ -42,6 +75,7 @@ def main():
         posPreditionList = []
         peopleFailed = []
         for person in people:
+
             try:
                 posPreditionList.append(predict(person, position=pos))
             except:
@@ -49,7 +83,7 @@ def main():
 
         print(peopleFailed)
         preditoinDF = pd.concat(posPreditionList)
-        preditoinDF.to_csv('PredictionsFor' + pos + '.csv')
+        preditoinDF.to_csv('PredictionsForLastWeeK' + pos + '.csv')
 
 
 def predict(name, position='qb'):
@@ -60,11 +94,12 @@ def predict(name, position='qb'):
     cols = list(purgeAlphas(actualNew.columns))
     features = list(set(cols).difference(toDrop))
     predictionDF = pd.DataFrame(columns=((features.append("Name"))))
-    predictionDF['Name'] = [name]
+
     features.remove('Name')
     for feature in features:
-        prediction = linearRegression(position=position, player=name, feature=feature, Future=True)
+        prediction = linearRegression(position=position, player=name, feature=feature, Future=False)
         predictionDF[feature] = prediction
+    predictionDF['Name'] = [name]*len(predictionDF.index)
     return predictionDF.copy(deep=True)
 
 
@@ -101,7 +136,7 @@ def makePredictionDF():
 # Defaults:     none | 'Pass Yards' | 2016 | 8
 # cleans non-numeric data columns, and splits on boundaries
 # returns train_X,train_Y,test_X,test_Y DataFrame/Series/DataFrame/Series for input into linear Regression model
-def train_test_divider(dirtyData, feature='Pass Yards', year=2016, week=8, Future=False):
+def train_test_divider(dirtyData, feature='Pass Yards', year=2017, week=12, Future=False):
     data = removeAlphaData(dirtyData)
     x_features = list(set(list(data.columns)).difference([feature]))
     toDrop = ['Point After', 'Fumble Returns', 'Fumble TD', 'Week', 'Away Games_x', 'Rush 2PT', 'Away Games_y',
@@ -112,6 +147,8 @@ def train_test_divider(dirtyData, feature='Pass Yards', year=2016, week=8, Futur
     # x_data
     train_data = data[(data.Year <= year) & (data.Week <= week)].copy(deep=True)
     test_data = data[(data.Year >= year) & (data.Week > week)].copy(deep=True)
+    scaler = StandardScaler()
+    # train_data = train_data.as_matrix()
     # For Future Predictions we do the following
     if Future:
         test_data = data[(data.Year == 2017)][x_features].copy(deep=True)
@@ -120,12 +157,8 @@ def train_test_divider(dirtyData, feature='Pass Yards', year=2016, week=8, Futur
         y_train = data[feature].copy(deep=True)
         return x_train, y_train, x_test
 
-    # test_data = scaler.fit(train_data)
-    #
-
     scaler = StandardScaler()
-    # x_data= x_data[:, np.newaxis]
-    # x_data = x_data.apply(scaler.fit,axis=1)
+
 
     x_train = train_data[x_features]
     x_test = test_data[x_features]
@@ -133,16 +166,7 @@ def train_test_divider(dirtyData, feature='Pass Yards', year=2016, week=8, Futur
     y_train = train_data[feature]
 
     return x_train, x_test, y_train, y_test
-    # train_data = train_data.as_matrix().astype(np.float)
-    # test_data = test_data.as_matrix().astype(np.float)
-    x_train = train_data[x_features].as_matrix().astype(np.float)
-    # x_train= x_train[:, np.newaxis]
-    x_test = test_data[x_features].as_matrix().astype(np.float)
-    # x_test = x_test[:, np.newaxis]
-    y_train = train_data[feature].as_matrix().astype(np.float)
-    # y_train = y_train[:, np.newaxis]
-    y_test = test_data[feature].as_matrix().astype(np.float)
-    return x_train, x_test, y_train, y_test
+
 
 
 # Predicts the stat for a player
@@ -180,12 +204,15 @@ def linearRegression(position='qb', player='Drew Brees', feature='Pass Yards', F
         model = reg.fit(x_train, y_train)
         prediction = model.predict(x_test.values.reshape(1, -1))
         return prediction
-    x_train, x_test, y_train, y_test = train_test_divider(dirtyData=data, feature=feature, year=2017, week=8)
+    x_train, x_test, y_train, y_test = train_test_divider(dirtyData=data, feature=feature, year=2017, week=12,Future=False)
 
     # X_train = preprocessing.scale(training_data[list(xFeatures)].values.reshape(-1, len(xFeatures)))
 
 
-
+    # x_train = x_train[:, np.newaxis]
+    x_train = preprocessing.scale(x_train)
+    # x_test = x_test[:,np.newaxis]
+    x_test = preprocessing.scale(x_test)
 
     # Fit our line with the data.. Magic happens
 
@@ -194,6 +221,9 @@ def linearRegression(position='qb', player='Drew Brees', feature='Pass Yards', F
     # Predict the value of your dreams
     if (len(x_test) == 0):
         return 0, 0, 0
+
+
+
     prediction = model.predict(x_test)
     if Future:
         return prediction
@@ -202,8 +232,7 @@ def linearRegression(position='qb', player='Drew Brees', feature='Pass Yards', F
 
     # explained variance, different than typical variance. Google it if not understood
     varianceScore = r2_score(y_test, prediction)
-    predDict = {'Predicted': prediction.tolist(), 'Real': y_test.tolist()}
-    pred = pd.DataFrame(predDict)
+
 
     return prediction, mean2Err, varianceScore, y_test
 
@@ -399,9 +428,9 @@ def makeAverage(year, yearData):
 
     for alpha in alphaColumns:  # So we run the same as above, except don't do math, just copy data over
         newDF[alpha] = yearData[alpha]
-    newDF['Week'] = yearData['Week']
+    newDF['Week'] = yearData['Week'].copy()
     firstWeek = (newDF['Week'].tolist())[0]
-    newDF[newDF.Week == firstWeek] = yearData[yearData.Week == firstWeek]
+    newDF[newDF.Week == firstWeek] = yearData[yearData.Week == firstWeek].copy()
 
     return newDF
 
